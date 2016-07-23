@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - attila nemes</title>
+ <link>http://mutgamb.org/taxonomy/term/455/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mappeia-me</title>
+ <link>http://mutgamb.org/blog/Mappeia-me</link>
+ <description>&lt;p&gt;Attila Nemes criou o &lt;a href=&quot;http://mappa.fictionlab.hu/&quot; rel=&quot;nofollow&quot;&gt;Mappa&lt;/a&gt;, um sistema de cartografia de labs pelo mundo. A inten&amp;ccedil;&amp;atilde;o &amp;eacute; &amp;quot;compartilhar conhecimento, auxiliar colabora&amp;ccedil;&amp;otilde;es e apoiar uma rede de alcance mundial&amp;quot;.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://mutgamb.org/sites/mutgamb.org/files/mappa.png&quot; style=&quot;height: 383px; width: 600px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Felipe Fonseca compartilhou o projeto via RedeLabs. O post original pode ser&lt;a href=&quot;http://http://blog.redelabs.org/blog/mappa-laboratorios-do-mundo-todo&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; visto aqui&lt;/a&gt;.&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Mappeia-me#comments</comments>
+ <category domain="http://mutgamb.org/tag/attila-nemes">attila nemes</category>
+ <category domain="http://mutgamb.org/assunto/Tags/felipe-fonseca">felipe fonseca</category>
+ <category domain="http://mutgamb.org/tag/mappa">mappa</category>
+ <category domain="http://mutgamb.org/tag/rede-labs">rede labs</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/553</wfw:commentRss>
+ <pubDate>Thu, 09 Feb 2012 09:34:44 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">553 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

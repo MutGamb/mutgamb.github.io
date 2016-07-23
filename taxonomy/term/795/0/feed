@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - raspberry pi</title>
+ <link>http://mutgamb.org/taxonomy/term/795/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Plaquinhas...</title>
+ <link>http://mutgamb.org/blog/Plaquinhas</link>
+ <description>&lt;p&gt;Fabs trouxe &amp;agrave; lista um link do &lt;a href=&quot;http://pt.wikipedia.org/wiki/Raspberry_Pi&quot; rel=&quot;nofollow&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Raspberry_Pi_Photo.jpg/800px-Raspberry_Pi_Photo.jpg&quot; style=&quot;width: 420px; height: 310px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.farnellnewark.com.br/placaparaprogramacaoraspberrypiraspbrrypcba,product,83T1943,0.aspx&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mais infos sobre ele aqui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E &lt;a href=&quot;http://mutgamb.org/blog/Arduinos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;continuando a thread sobre arduino&lt;/a&gt;, surgiram as intera&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(...) um esquema para fazer o arduino mais simples poss&amp;iacute;vel, &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;numa protoboard&lt;/a&gt;. Nesse projeto eu &lt;a href=&quot;http://artesanato.devolts.org/?page_id=303&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;tamb&amp;eacute;m mostro como fazer a conex&amp;atilde;o serial&lt;/a&gt;, igualzinho o &amp;quot;Severino&amp;quot;. Lembre-se que se voc&amp;ecirc; comprar o Atmega virgem tera que carregar o bootloader (firmware b&amp;aacute;sico do arduino que interpreta o set de fun&amp;ccedil;&amp;otilde;es do projeto) &lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;na primeira vez e para isso fazer um cabo de porta paralela&lt;/a&gt; para gravar na protoboard. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tentei montar o &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC18F2550_Pinguino&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pinguino&lt;/a&gt; ontem mas a documenta&amp;ccedil;&amp;atilde;o t&amp;aacute; meio confusa, e s&amp;oacute; na pr&amp;aacute;tica que, entendi que antes de usar voc&amp;ecirc; tem que gravar o bootloader dele, similar ao que acontece com Arduino, e pra isso vai ter que construir ou comprar um gravador de &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC_programmer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;PIC tamb&amp;eacute;m&lt;/a&gt;, mas n&amp;atilde;o achei nada t&amp;atilde;o simples como o gravador de porta paralela que&lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; costum&amp;aacute;vamos usar com Arduino&lt;/a&gt;. Se algu&amp;eacute;m que mexe com PIC quer dar uma sugest&amp;atilde;o, digal&amp;aacute;. Pra quem ja mexe com Arduino daria pra fazer o gravador de PIC usando o Arduino mesmo &lt;a href=&quot;https://sites.google.com/site/thehighspark/arduino-pic18f&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com esse m&amp;eacute;todo&lt;/a&gt;,&lt;br /&gt;
+	A conclus&amp;atilde;o que eu chego depois de anos usando o Arduino e vendo varios tipos de oficina acontecer, &amp;eacute; que o barato as vezes pode sair caro, e no caso do Arduino o melhor mesmo pros iniciantes &amp;eacute; comprar uma placa usb ja montada, pra primeiro sacar o ambiente todo e depois pensar no que pra que de tudo isso. Uma op&amp;ccedil;&amp;atilde;o que promete desenrolar em algo interessante agora &amp;eacute; essa nova vers&amp;atilde;o do Arduino &lt;a href=&quot;http://txapuzas.blogspot.com.br/2009/12/paperduino-leonardo-clon-de-arduino.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;chamada Leonardo&lt;/a&gt;, que ja vem tb com USB embutida no chip, porem n&amp;atilde;o &amp;eacute; um chip de facil montagem na protoboard, falta ainda esse ultimo passo e a coisa vai explodir de vez. Enquanto isso vai chegando tambem algo similar em 32 bits, da&amp;iacute; vai dar pra ter sistema operacional nessas placas e a coisa muda de figura... &lt;a href=&quot;http://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Plaquinhas#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/raspberry-pi">raspberry pi</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/855</wfw:commentRss>
+ <pubDate>Sat, 25 Aug 2012 09:55:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">855 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

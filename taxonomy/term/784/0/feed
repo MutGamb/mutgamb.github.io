@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - arduino</title>
+ <link>http://mutgamb.org/taxonomy/term/784/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Arduino Due</title>
+ <link>http://mutgamb.org/blog/Arduino-Due</link>
+ <description>&lt;p&gt;Glerm trouxe para a lista #metarec o link sobre o&lt;a href=&quot;http://arduino.cc/en/Main/ArduinoBoardDue&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Arduino Due&lt;/a&gt; (Arduino com processador ARM de 32 bits):&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Come&amp;ccedil;ou oficialmente &lt;a href=&quot;http://Esse eh mais facil bricolar!   http://arduino.cc/blog/2012/10/22/arduino-1-5-support-for-the-due-and-other-processors-easier-library-installation-simplified-board-menu-etc/?utm_source=twitterfeed&amp;amp;utm_medium=twitter&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;a corrida do hardware&lt;/a&gt; livre pelo mundo da computa&amp;ccedil;&amp;atilde;o m&amp;oacute;vel.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://arduino.cc/en/uploads/Main/ArduinoDue_Front_450px.jpg&quot; style=&quot;width: 420px; height: 241px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bruno Vianna:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O Arduino sobe pra 32 bits e baixa pra 3.3v, enquanto o rasp-pi disponibiliza pinos de 5v i/o acess&amp;iacute;veis por software. Eles v&amp;atilde;o se encontrar na metade do caminho.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sim, parece que o &lt;a href=&quot;http://arduino.cc/blog/2012/10/22/arduino-1-5-support-for-the-due-and-other-processors-easier-library-installation-simplified-board-menu-etc&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Arduino vai apostar no caminho de ser uma plataforma&lt;/a&gt; mais &lt;em&gt;from scratch&lt;/em&gt; e modular. Ao mesmo tempo vai tentar contaminar a base de outros projetos como rasp-pi e similares. Tem um caminho que vai por aqui &amp;oacute;: &lt;a href=&quot;http://www.adafruit.com/blog/2012/03/13/32-bit-meet-dip-arm-cortex-m0-in-dip-packages/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Linux e Arduino na protoboard&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Arduino-Due#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/hardware-livre">hardware livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/907</wfw:commentRss>
+ <pubDate>Tue, 23 Oct 2012 08:34:28 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">907 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Artesanato de Volts para iniciantes em Curitiba</title>
+ <link>http://mutgamb.org/blog/Artesanato-de-Volts-para-iniciantes-em-Curitiba</link>
+ <description>&lt;p&gt;A Orquestra Organismo&lt;a href=&quot;http://orquestra.devolts.org/orientapoeticas/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; inicia mais uma sequ&amp;ecirc;ncia de oficinas gratu&amp;iacute;tas&lt;/a&gt;, nos s&amp;aacute;bados 22 e 29 de setembro, das 15hs &amp;agrave;s 17hs, na Bicicletaria Cultural, em Curitiba. A proposta trar&amp;aacute; pr&amp;aacute;ticas em Puredata, Arduino e Python, para cria&amp;ccedil;&amp;atilde;o de softwares e hardwares customizados, artesanatos de c&amp;oacute;digo aberto:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;IMPORTANTE: N&amp;atilde;o precisa ter experi&amp;ecirc;ncia em programa&amp;ccedil;&amp;atilde;o, esta oficina vai ser preparada especialmente para iniciantes desmistificarem a ideia de que programar &amp;eacute; s&amp;oacute; para especialistas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://orquestra.devolts.org/orientapoeticas/index_arquivos/a.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Glerm tamb&amp;eacute;m compartilhou, na lista metarec, publica&amp;ccedil;&amp;otilde;es sobre experimenta&amp;ccedil;&amp;otilde;es e artes interativas: &lt;a href=&quot;http://www.scielo.br/scielo.php?pid=S1678-53202003000200002&amp;amp;script=sci_arttext&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;um paper&lt;/a&gt;, um &lt;a href=&quot;http://dada.compart-bremen.de/public/docUploads/Reichardt_1968_CS_catalogue.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;cat&amp;aacute;logo hist&amp;oacute;rico&lt;/a&gt; e uma p&amp;aacute;gina de&lt;a href=&quot;http://en.wikipedia.org/wiki/Cybernetic_Serendipity&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Artesanato-de-Volts-para-iniciantes-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/curitiba">curitiba</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/orquestra-organismo">orquestra organismo</category>
+ <category domain="http://mutgamb.org/tag/simone">simone</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/866</wfw:commentRss>
+ <pubDate>Tue, 11 Sep 2012 09:38:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">866 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Plaquinhas...</title>
+ <link>http://mutgamb.org/blog/Plaquinhas</link>
+ <description>&lt;p&gt;Fabs trouxe &amp;agrave; lista um link do &lt;a href=&quot;http://pt.wikipedia.org/wiki/Raspberry_Pi&quot; rel=&quot;nofollow&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Raspberry_Pi_Photo.jpg/800px-Raspberry_Pi_Photo.jpg&quot; style=&quot;width: 420px; height: 310px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.farnellnewark.com.br/placaparaprogramacaoraspberrypiraspbrrypcba,product,83T1943,0.aspx&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mais infos sobre ele aqui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E &lt;a href=&quot;http://mutgamb.org/blog/Arduinos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;continuando a thread sobre arduino&lt;/a&gt;, surgiram as intera&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(...) um esquema para fazer o arduino mais simples poss&amp;iacute;vel, &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;numa protoboard&lt;/a&gt;. Nesse projeto eu &lt;a href=&quot;http://artesanato.devolts.org/?page_id=303&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;tamb&amp;eacute;m mostro como fazer a conex&amp;atilde;o serial&lt;/a&gt;, igualzinho o &amp;quot;Severino&amp;quot;. Lembre-se que se voc&amp;ecirc; comprar o Atmega virgem tera que carregar o bootloader (firmware b&amp;aacute;sico do arduino que interpreta o set de fun&amp;ccedil;&amp;otilde;es do projeto) &lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;na primeira vez e para isso fazer um cabo de porta paralela&lt;/a&gt; para gravar na protoboard. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tentei montar o &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC18F2550_Pinguino&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pinguino&lt;/a&gt; ontem mas a documenta&amp;ccedil;&amp;atilde;o t&amp;aacute; meio confusa, e s&amp;oacute; na pr&amp;aacute;tica que, entendi que antes de usar voc&amp;ecirc; tem que gravar o bootloader dele, similar ao que acontece com Arduino, e pra isso vai ter que construir ou comprar um gravador de &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC_programmer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;PIC tamb&amp;eacute;m&lt;/a&gt;, mas n&amp;atilde;o achei nada t&amp;atilde;o simples como o gravador de porta paralela que&lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; costum&amp;aacute;vamos usar com Arduino&lt;/a&gt;. Se algu&amp;eacute;m que mexe com PIC quer dar uma sugest&amp;atilde;o, digal&amp;aacute;. Pra quem ja mexe com Arduino daria pra fazer o gravador de PIC usando o Arduino mesmo &lt;a href=&quot;https://sites.google.com/site/thehighspark/arduino-pic18f&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com esse m&amp;eacute;todo&lt;/a&gt;,&lt;br /&gt;
+	A conclus&amp;atilde;o que eu chego depois de anos usando o Arduino e vendo varios tipos de oficina acontecer, &amp;eacute; que o barato as vezes pode sair caro, e no caso do Arduino o melhor mesmo pros iniciantes &amp;eacute; comprar uma placa usb ja montada, pra primeiro sacar o ambiente todo e depois pensar no que pra que de tudo isso. Uma op&amp;ccedil;&amp;atilde;o que promete desenrolar em algo interessante agora &amp;eacute; essa nova vers&amp;atilde;o do Arduino &lt;a href=&quot;http://txapuzas.blogspot.com.br/2009/12/paperduino-leonardo-clon-de-arduino.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;chamada Leonardo&lt;/a&gt;, que ja vem tb com USB embutida no chip, porem n&amp;atilde;o &amp;eacute; um chip de facil montagem na protoboard, falta ainda esse ultimo passo e a coisa vai explodir de vez. Enquanto isso vai chegando tambem algo similar em 32 bits, da&amp;iacute; vai dar pra ter sistema operacional nessas placas e a coisa muda de figura... &lt;a href=&quot;http://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Plaquinhas#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/raspberry-pi">raspberry pi</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/855</wfw:commentRss>
+ <pubDate>Sat, 25 Aug 2012 09:55:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">855 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Arduinos</title>
+ <link>http://mutgamb.org/blog/Arduinos</link>
+ <description>&lt;p&gt;Marcos Egito come&amp;ccedil;ou a trabalhar com Arduino, no CRC de Recife, pesquisou alguns tutoriais encontrou possibilidades (Serverino, Freeduino, e Xduino), e pediu dicas na lista #metarec:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Gostaria de saber um tutorial legal passo a passo que eu possa segui e fazer um Ardu&amp;iacute;no e depois possa us&amp;aacute;-lo sem traumas, uma coisa que depois eu possa replicar com xs meninxs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Para outrxs que tiverem interesse, vale conferir a documenta&amp;ccedil;&amp;atilde;o do Guima e da Laure, &lt;a href=&quot;http://http://gypsyware.org/category/arduino/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;no DIYPsyware&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://gypsyware.files.wordpress.com/2012/04/severino2.jpg&quot; style=&quot;width: 420px; height: 314px;&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Arduinos#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/assunto/Tags/guima">guima</category>
+ <category domain="http://mutgamb.org/tag/laure">laure</category>
+ <category domain="http://mutgamb.org/tag/marcos-egito">marcos egito</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/847</wfw:commentRss>
+ <pubDate>Tue, 21 Aug 2012 09:45:16 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">847 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

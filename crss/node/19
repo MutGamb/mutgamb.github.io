@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Derivas...&quot;</title>
+ <link>http://mutgamb.org/Derivas</link>
+ <description>Comments for &quot;Derivas...&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>book</title>
+ <link>http://mutgamb.org/Derivas#comment-38</link>
+ <description>a onda de criar um node relacionado já é possível com o collaborative book: criar um node &quot;filho&quot; da página atual, e a história de outline. o diferente aqui é que a hierarquia é outra: não um node abaixo, mas no mesmo patamar. também diferente é permitir que um mesmo node seja &#039;outlined&#039; em diversas coleções, e não só em um book. ou seja, a mesma idéia de outline, só que &#039;democratizada&#039;: todxs podem pôr um mesmo pedaço de informação em diferentes &#039;outlines&#039;.&lt;br /&gt;&lt;br /&gt;da dica do markun, fui dar uma olhada no &lt;a href=&quot;http://drupal.org/project/nodequeue&quot; rel=&quot;nofollow&quot;&gt;node queue&lt;/a&gt;. ainda não testei, mas a idéia parece interessante. também tenho a impressão de ter testado ao longo dos anos um módulo que permitia a usuárixs manter listas de nodes favoritos, como bookmarks. não lembro o nome.&lt;br /&gt;&lt;br /&gt;e o &lt;a href=&quot;http://organismo.art.br/blog&quot; rel=&quot;nofollow&quot;&gt;glerm&lt;/a&gt; deu a dica do &lt;a href=&quot;http://drupal.org/project/mibbit_irc&quot; rel=&quot;nofollow&quot;&gt;mibbit&lt;/a&gt;, que resolve melhor que o atual pjirc o acesso a irc em redes que o bloqueiam (como a que eu tenho aqui em casa). devo testar ele um dia desses...&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Fri, 07 Mar 2008 21:32:39 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 38 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Spiropédia</title>
+ <link>http://mutgamb.org/Derivas#comment-35</link>
+ <description>Outra influência clara na idéia de deriva foram as conversas que tive nos últimos tempos com o Çtalker sobre a &lt;a href=&quot;http://wiki.bricolabs.net/index.php/SpiropediaBras&quot; rel=&quot;nofollow&quot;&gt;Spiropedia&lt;/a&gt;, na onda de atomizar pra criar percursos de retro-aprendizado.&lt;BR /&gt;&lt;BR /&gt;---&lt;BR /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;BR /&gt;</description>
+ <pubDate>Fri, 07 Mar 2008 21:17:19 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 35 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>achar não...</title>
+ <link>http://mutgamb.org/Derivas#comment-34</link>
+ <description>achar até é fácil, tenho tudo nos meus DVDs de becape. o complicado é padronizar pra importação...&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Thu, 06 Mar 2008 02:04:25 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 34 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>remix e playlist</title>
+ <link>http://mutgamb.org/Derivas#comment-33</link>
+ <description>ei, Markun&lt;br /&gt;&lt;br /&gt;é, acho que na real ainda tá um pouco confuso. prefiro primeiro concentrar na idéia de deriva pra edição coletiva de textos, e pensar depois em áudio e vídeo... a onda é que de qualquer node com texto pode sair uma deriva, e a genealogia fica registrada. ponto. depois, vem a organização desses posts, colocá-los em alguma ordem definida. usei o termo &#039;playlists&#039;, mas não é o melhor nome, porque carrega muito a sensação de seqüência episódica, de que é só ficar assistindo e o esquema vai andar sozinho. a onda é mais no sentido de qualquer usuário poder dizer: sobre esse assunto, acho relevantes esse, esse e esse outro nodes, exibidos nessa ordem. talvez a idéia de &#039;coleção&#039; ou &#039;caderno&#039; faça mais sentido. o drupal tem livro colaborativo, e o que acho ainda mais interessante que é o outline do livro, mas o livro também é bastante estático, e não é tão fácil de editar.&lt;br /&gt;&lt;br /&gt;pensando já em funcionalidade, lembrei aqui das coleções de vídeos do youtube: eu tô assistindo um vídeo, e posso adicionar a uma das minhas coleções. se além disso tivesse também uma interface pra ordenar mais parecida com as setinhas pra cima e pra baixo do views UI (porque o conceito do &#039;peso&#039; pra um node é interessante, mas muito ruim pra ter uma visão geral), acho que era um começo...&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Thu, 06 Mar 2008 01:35:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 33 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>edição colaborativa de vídeos</title>
+ <link>http://mutgamb.org/Derivas#comment-32</link>
+ <description>o &lt;a href=&quot;www.jornaldedebates.ig.com.br/&quot; rel=&quot;nofollow&quot;&gt;markun&lt;/a&gt; me mandou o link pro &lt;a href=&quot;http://www.echochamberproject.com/collaborativefilmmaking&quot; rel=&quot;nofollow&quot;&gt;echo chamber&lt;/a&gt;, que parece propor edição coletiva de vídeos, com base em possibilidades ainda pouco exploradas do final cut pro XML. markun comentou sobre o cinelerra, que também salva em xml. ainda vou ler em detalhe...&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Thu, 06 Mar 2008 01:16:20 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 32 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>contexto</title>
+ <link>http://mutgamb.org/Derivas#comment-31</link>
+ <description>ff,&lt;br /&gt;&lt;br /&gt;bacana a idéia de derivas! complicado é trabalhar em um remix que seja mais que soma das partes (aka playlist). Ideal era ter mesmo um mixer que permitisse somar diversos nodes (e nodetypes) em um outro node-remix sem perder com isso a idéia de fragmentos mínimos.&lt;br /&gt;&lt;br /&gt;Talvez além da dita playlist possa existir um mixer mesmo? Que consiga somar e exibir o conteúdo bruto das derivas dos nodes? Fulano soma node a, com deriva-node c, com node d e isso é publicado como remix a que exibe as informações initerruptamente só com uma referencia para que aquele fragmento possa ser utilizado em outros remixes?&lt;br /&gt;&lt;br /&gt;Pode ser usado um node queue para isso, não?&lt;br /&gt;&lt;br /&gt;Fora isso, a importação desse material de diversas fontes vai acabar gerando redundancias - que não são necessariamente ruins - mas acho que usar um vocabulario padrão para estabelecer contextos: &#039;youtube&#039;, &#039;thunderbird-ff&#039;, &#039;flickr&#039; pode ajudar, não?&lt;br /&gt;</description>
+ <pubDate>Wed, 05 Mar 2008 02:07:39 +0000</pubDate>
+ <dc:creator>markun</dc:creator>
+ <guid isPermaLink="false">comment 31 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>não exatamente...</title>
+ <link>http://mutgamb.org/Derivas#comment-30</link>
+ <description>o trackback é eu avisar um post que estou comentando sobre ele... tô falando aqui sim de centralizar, com uma intenção: um corte editorial. não quero tirar nada de lugar nenhum, tu vai continuar podendo pesquisar pela rede e achar toda a informação. mas também, tudo que tá aí disperso tem o potencial de criar sentido, de ser combinado segundo diferentes critérios pra tentar chegar possíveis argumentações mais complexas e aprofundadas. isso é uma das missões do mutirão. sem tirar da rede, sempre adicionando.&lt;br /&gt;&lt;br /&gt;como faz pra começar? não sei ainda. tens alguma sugestão?&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Tue, 04 Mar 2008 02:33:04 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 30 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>essa parada</title>
+ <link>http://mutgamb.org/Derivas#comment-29</link>
+ <description>me lembra trackback.&lt;br /&gt;eu particularmente me perco nos milhares de user que tenho em vários espaços, e as vezes acho até chato ter que ficar criando toda hora um user só pra ter um pequena participação, a idéia do mutirão é centralizar o que está centralizado, existe milhares de coisas que consigo achaar apenas buscando a tag &quot;metareciclahem&quot;, seja no youtube, no wordpress ou no google, há um saldo coerente nos resultados das pesquisas, e pensando bem, prefiro um catado de textos do que uma matéria centralizada, pois sigo na linha das várias opiniões, diferentes contextos, culturas e lugares.&lt;br /&gt;&lt;br /&gt;mas, quase me esqueço de perguntar:&lt;br /&gt;&lt;br /&gt;- como faço pra começar (eu tenho uma coleção de links aqui, que guardei da época que tava pesquisando sobre met@rec)?&lt;br /&gt;</description>
+ <pubDate>Tue, 04 Mar 2008 01:35:21 +0000</pubDate>
+ <dc:creator>rafael.etc</dc:creator>
+ <guid isPermaLink="false">comment 29 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>o drupal aguenta, 10k é</title>
+ <link>http://mutgamb.org/Derivas#comment-27</link>
+ <description>o drupal aguenta, 10k é nada ;)&lt;br /&gt;&lt;br /&gt;tem site rodando drupal com 2M nodes.... o problema é achar esses dados e tal...&lt;br /&gt;&lt;br /&gt;-fabiano&lt;br /&gt;</description>
+ <pubDate>Mon, 03 Mar 2008 19:26:18 +0000</pubDate>
+ <dc:creator>wundo@drupal.org</dc:creator>
+ <guid isPermaLink="false">comment 27 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>meu.tafora ;)</title>
+ <link>http://mutgamb.org/Derivas#comment-26</link>
+ <description>por aí, essa compilação de playlists pode virar várias versões e visões diferentes pro mesmo material.&lt;br /&gt;</description>
+ <pubDate>Mon, 03 Mar 2008 19:22:59 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 26 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Preparando a feijuca&quot;</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca</link>
+ <description>Comments for &quot;Preparando a feijuca&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>data e data</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-77</link>
+ <description>hm, não sei. pra tudo que vem de fora, prefiro o datestamp original. o momento de publicação aqui no mutirão não me parece tão importante assim. mas acho que rola implementar, de qualquer forma, se conseguir resolver o bug da date_api.&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Sat, 12 Apr 2008 14:49:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 77 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>tempo é tempo é tempo</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-69</link>
+ <description>em príncipio acho que não tem tanta relevância. mas nas leituras e nos remixes todo bit de informação adicional pode gerar um spin of interessante, não?&lt;br /&gt;</description>
+ <pubDate>Sat, 12 Apr 2008 00:11:44 +0000</pubDate>
+ <dc:creator>markun</dc:creator>
+ <guid isPermaLink="false">comment 69 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>é?</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-63</link>
+ <description>é até fácil, mas me pergunto se tem relevância a data de re-publicação. acho que o único motivo seria pra quem acompanhar por rss. porque na real depois da coleta é que vem a parte mais interessante, de relacionar e comentar os posts, e pra isso sim acho que interessa a data de postagem no mutirão.&lt;br /&gt;&lt;br /&gt;ou não?&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Mon, 07 Apr 2008 08:02:49 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 63 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>tempo</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-62</link>
+ <description>não seria interessante criar um campo específico para a &#039;data original&#039;? isso obriga/induz a pessoa que esta coletando a buscar a referencia cronológica e permite também acompanhar o tempo de criação/garimpo do próprio mutirão.&lt;br /&gt;</description>
+ <pubDate>Mon, 07 Apr 2008 05:28:07 +0000</pubDate>
+ <dc:creator>markun</dc:creator>
+ <guid isPermaLink="false">comment 62 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>linha do tempo</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-51</link>
+ <description>sim, a base pra uma linha do tempo já existe. dá pra ter uma idéia de como pode funcionar com o archive:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://mutirao.metareciclagem.org/archive&quot; title=&quot;http://mutirao.metareciclagem.org/archive&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/archive&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;o que pega é a gente prestar atenção na data, na hora de postar.&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Thu, 27 Mar 2008 19:28:45 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 51 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>uma linha do tempo colaborativa...</title>
+ <link>http://mutgamb.org/forum/Preparando-feijuca#comment-48</link>
+ <description>na real, acho que seria muito útil construirmos uma linha do tempo, onde a gente poderia alocar ações de metareciclagem que foram desenvolvidas... a partir dessas alocações de ações, a gente podia ir preenchendo com os descritivos, vídeos, fotos dos processos....&lt;br /&gt;</description>
+ <pubDate>Thu, 27 Mar 2008 17:42:56 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">comment 48 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - waag-sarai</title>
+ <link>http://mutgamb.org/taxonomy/term/55/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>news from sampa city</title>
+ <link>http://mutgamb.org/fonte/news-sampa-city</link>
+ <description>(e-mail enviado pra lista da waag-sarai platform)&lt;br /&gt;&lt;br /&gt;Hey all&lt;br /&gt;&lt;br /&gt;Another lonely e-mail to this mailing list.&lt;br /&gt;&lt;br /&gt;Here in SP we have been busy with LaMiMe, the temporary MetaReciclagem media lab established in Sesc Av. Paulista since january, that will be done by next week (just in time
+for Carnaval). We have had some interesting discussions and presentations, and a lot of workshop concerning low tech, arduinos, puredata, immersive environments, and similar subjects. We have set up a small local library with references, some books (and that Cybermohalla box):&lt;br /&gt;&lt;a href=&quot;http://flickr.com/photos/felipefonseca/373989056/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://flickr.com/photos&lt;wbr&gt;/felipefonseca/373989056/&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Aoife has taken some good pictures of LaMiMe as well:
+&lt;br /&gt;&lt;a href=&quot;http://www.flickr.com/photos/aoifejohanna/sets/72157594492892515/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.flickr.com/photos&lt;wbr&gt;/aoifejohanna/sets/721575944928&lt;wbr&gt;92515/&lt;/wbr&gt;&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;As a result of that mobilization, the interest in setting up a lab here has grown. In parallel, the place that used to be little more than an office for the digital culture project here in São Paulo, casinha, in Vila Madalena, is more and more turning into a space both self-organized and open to other groups. I went to a planning meeting there, yesterday. Every thursday, there will be an open workshop on free culture, multimedia free software and the like. We&#039;ll probably host the last day of barcamp_sp there.
+&lt;br /&gt;&lt;br /&gt;Pictures of Casinha:&lt;br /&gt;&lt;a href=&quot;http://flickr.com/photos/felipefonseca/tags/sampalab/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://flickr.com/photos&lt;wbr&gt;/felipefonseca/tags/sampalab/
+&lt;/wbr&gt;&lt;/a&gt;&lt;br clear=&quot;all&quot; /&gt;&lt;br /&gt;Other plans are to do a MetaReciclagem meeting in Porto Alegre, during Fisli:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://fisl.softwarelivre.org/8.0/www/?q=en&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://fisl.softwarelivre.org&lt;wbr&gt;/8.0/www/?q=en&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+And one week earlier or later, do the São Paulo edition of &lt;a href=&quot;http://cibersal%c3%a3o.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Cibersalão.br&lt;/a&gt;, focussed on &quot;appropriated technology&quot;. It might be part of Ciclo Gambiarra, a series of seminars and panels.&lt;br /&gt;</description>
+ <comments>http://mutgamb.org/fonte/news-sampa-city#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/lamime">lamime</category>
+ <category domain="http://mutgamb.org/assunto/Tags/sampa">sampa</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/72</wfw:commentRss>
+ <pubDate>Tue, 13 Feb 2007 21:43:52 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">72 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Another status update on MetaReciclagem</title>
+ <link>http://mutgamb.org/fonte/Another-status-update-MetaReciclagem</link>
+ <description>&lt;i&gt;(e-mail enviado para a lista da waag-sarai platform)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;After some time trying to rescue the lab in Olido gallery, we gave up.
+After all, as I said before, it&#039;s major elections year, and the city
+telecenters coordinator didn&#039;t want to understand that we work with the
+federal government, but are in no way affiliated with PT or any other
+party. For them, it&#039;s easier to think in terms of &quot;who&#039;s with them is
+not with us&quot;.&lt;br /&gt;
+&lt;br /&gt;
+Then came A Teia, the megalomaniac meeting of the cultural hotspots,
+solidary economy and related subjects. You won&#039;t understand the size of
+it with the pictures. It was big. Too big, some say. Comments are that
+BRL 8,5 million (~ USD 4 million) from fiscal incentives were spent in
+the event. It happened in Bienal, the huge building designed by Oscar
+Niemeyer in the middle of Ibirapuera Park. Over 500 projects from all
+around the country were able to exhibit their products. &lt;br /&gt;
+&lt;br /&gt;
+Products? Yeah. Ideas such as solidary economy and grassroots
+entrepreneurship dominated the event, and are becoming more and more
+present in the Cultural Hotspots. More important than cultural
+production itself. But that may be subject for another e-mail. One of
+the best results of A Teia has been that 25 cultural hotspots finally
+got their &quot;multimedia kits&quot;, composed of one server, one multimedia
+workstation, one thin client, video camera, printers, audio equipment
+and more, and brought the kits back home, with a customized multimedia
+GNU/Linux distribution configured.&lt;br /&gt;
+&lt;br /&gt;
+Last year, we were promised BRL 50k for a MetaReciclagem meeting during
+Teia. Then it became to BRL 16k. Then less money and more
+responsibilities. We gave up on the national meeting, and Dalton
+decided to create an exhibition on things that he and Glauco have been
+doing. Nevertheless, we scheduled a MetaReciclagem meeting, with people
+from São Paulo and all the metarecyclers who were in the city for Teia.
+Around twenty people attended. It has been our first meeting since
+august, and a very important one. For the first time, Dalton was not
+the center of the meeting. If we are to succeed in adopting a
+de-centralized methodology, we can not depend in one person or group of
+people to lead everything (even though we acknowledge the importance of
+leaders, even in self-organized structures). Some people got to know
+each other that day. By the end of the meeting, we decided to re-design
+our online infrastructure and to write down some important concepts
+that are needed to define whether or not a specific action can be
+labeled MetaReciclagem. Some new ideas appeared, such as a periodic
+two-page PDF publication to be printed and distributed in the Spores;
+comix-style educational material related to MetaReciclagem; and a
+weekly podcast. Let&#039;s see if any of that comes true. I&#039;m very
+optimistic with it.&lt;br /&gt;
+&lt;br /&gt;
+In talking with people involved with MetaReciclagem in São Paulo, one
+decision has been made: some of us will try to create a space in São
+Paulo that does not depend on the municipality or any federal resource.
+We&#039;ll still need to get paid, but the idea is to set up a space that is
+somehow self-sustained. We&#039;re having conversations on whatg is the best
+form for that to happen, and are planning to have concrete plans in the
+next months. Now, I realize that that is what Waag/Sarai platform
+requested us two years ago, but perhaps we were not ready yet. And,
+anyway, I am really excited with the way things are developing with
+des][centro. This space, of course, will be part of des][centro.&lt;br /&gt;
+&lt;br /&gt;
+Then again, some of us are still involved with the federal government.
+We have been called to create&amp;nbsp; content for online courses on
+MetaReciclagem for the Casas Brasil project, that is developing 90
+&quot;expanded&quot; telecenters, with library, multimedia studio, auditorium
+and... MetaReciclagem labs. It&#039;s been great in the sense that we were
+able to focus on questions such as _what is MetaReciclagem_, and how do
+you make people understand that. There are two courses, being released
+with open licenses in the next weeks: one on MetaReciclagem concepts,
+and the other on the praxis of MetaReciclagem. We&#039;ll publish them in
+our own e-learning environment as well.&lt;br /&gt;
+&lt;br /&gt;
+And some breaking news: this is not to be publicized yet, but
+MetaReciclagem got honorary mention in digital communities category for
+Prix Ars Electronica 2006. I don&#039;t know exactly what to expect from
+that...</description>
+ <comments>http://mutgamb.org/fonte/Another-status-update-MetaReciclagem#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/71</wfw:commentRss>
+ <pubDate>Mon, 08 May 2006 20:34:49 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">71 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Status report - 3 - MetaReciclagem</title>
+ <link>http://mutgamb.org/fonte/Status-report-3-MetaReciclagem</link>
+ <description>&lt;i&gt;(e-mail enviado para a lista da waag-sarai platform)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Third verse. Does anyone remember MetaReciclagem?&lt;br /&gt;&lt;br /&gt;3) MetaReciclagem&lt;br /&gt;&lt;br /&gt;&quot;MetaReciclagem can not die because MetaReciclagem is not alive&quot;&lt;br /&gt;Magnus Erund, 1797&lt;br /&gt;&lt;br /&gt;MetaReciclagem in Sacadura Cabral must have disappeared. The last thing we&#039;ve heard about them was that they have really been hired to work for car industry. There&#039;s nothing we can do about it. It happens all the time, happened in the autolabs project too. The economic pressure is high, the&amp;nbsp;
+family asking youngsters &quot;ok, you&#039;re doing these funny things, but when are you going to start bringing money home?&quot;. Until we are able to really foster economic cycles for alternate media, metareciclagem and all those projects, they will leave us at some point. &lt;br /&gt;&lt;br /&gt;It just happened at Olido. Joe, Julio and Feju, the three guys who worked there, were facing a lot of problems since the workers party lost the city administration. They were asked for reports, planning, controlling people access to the space, and all kinds of bureaucracy. In january, the pressure arised and they decided to leave the place. We sent an e-mail to the telecentros project administration saying we were leaving. Then comes this reply from the coordinator of the telecentros project saying &quot;wait a minute, let&#039;s talk, it&#039;s not that way, we want to work closer with you&quot;. But the stress were already created. Two of them left the project, saying thet were tired&amp;nbsp;
+of earning R$ 400 to work with those assholes. There&#039;s not much we can do about it.&lt;br /&gt;&lt;br /&gt;Despite all that, in a rather autonomous way, all those people who have left us still see themselves as &quot;metarecyclers&quot;. They do not depend on anyone to have this feeling of belonging to a collective effort. &lt;br /&gt;&lt;br /&gt;And the network is growing. More than 150 people subscribe to the mailing list. There are people developing MetaReciclagem in at least fifteen different cities all around Brasil. We still have the space downtown São Paulo, and some of those people who started MetaReciclagem three years ago are still part of it, but the important thing is that there are new leaderships rising, people appropriating our discourse and methodology, and re-creating it.&lt;br /&gt;&lt;br /&gt;The GESAC program implementation team absorbed MetaReciclagem as a methodology and are helping to develop spores all around&amp;nbsp;
+the country. The Casas Brasil project (mentioned in my last e-mail) asked me and Dalton to develop an online course on MetaReciclagem to be applied to all the 90 Casas Brasil. There are independent conecTAZes and spores popping every week in different places.
+&lt;br /&gt;&lt;br /&gt;I&#039;m thinking seriously about writing on MetaReciclagem.&lt;br /&gt;&lt;br /&gt;Plenty of information missing on this message. I&#039;m tired, but if I postpone it to tomorrow, I&#039;ll never send it.&lt;br /&gt;&lt;br /&gt;Best wishes&lt;br /&gt;&lt;br /&gt;Miss you all</description>
+ <comments>http://mutgamb.org/fonte/Status-report-3-MetaReciclagem#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/70</wfw:commentRss>
+ <pubDate>Thu, 23 Mar 2006 21:30:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">70 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>another one</title>
+ <link>http://mutgamb.org/fonte/another-one</link>
+ <description>&lt;i&gt;(e-mail enviado pra lista da waag-sarai platform)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;sorry about the verborragia, but remember I once told you we had contact with a lot of different spaces and the number would increase with the cultural spots project?&lt;br /&gt;
+&lt;br /&gt;
+well, we are currently mapping the spots to choose which ones would be the 100 first contempled with a multimedia lab paid by the government, and in which we will run media production workshops and connect through P2P networks, one tech support website (1) and a conversation environment.&lt;br /&gt;
+&lt;br /&gt;
+the pictures of some of the spots are here:&lt;br /&gt;
+&lt;a href=&quot;http://xemele.cultura.gov.br/gallery/albums.php?set_albumListPage=8&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://xemele.cultura.gov.br&lt;wbr&gt;/gallery/albums.php?set&lt;wbr&gt;_albumListPage=8&lt;/wbr&gt;&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+(1) &lt;a href=&quot;http://estudiolivre.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://estudiolivre.org&lt;/a&gt; (&quot;freestudio&quot;)&lt;br /&gt;
+(2) &lt;a href=&quot;http://converse.utopia.com.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://converse.utopia.com.br&lt;/a&gt; (&quot;conversate&quot;)&lt;br /&gt;</description>
+ <comments>http://mutgamb.org/fonte/another-one#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/69</wfw:commentRss>
+ <pubDate>Sun, 03 Jul 2005 20:19:51 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">69 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>back to what matters</title>
+ <link>http://mutgamb.org/fonte/back-what-matters</link>
+ <description>&lt;i&gt;(mensagem enviada pra lista waag-sarai)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Happened again. As I was flying back to São Paulo, and having read a few things about all the political riot that is happening in Brasil right now, I realized once again that if we are willing to develop real alternatives, we can&#039;t depend on governamental efforts. An autonomous space is needed. I&#039;m still not sure whether developing a new space is better than occupying an existing one.&lt;br /&gt;
+&lt;br /&gt;
+More than once, we have planned labs that never got real. We still have those plans. As I think I said before, creating a project in Brazil counting with financial aid from abroad never looked to us as a viable solution. Not that we have a problem with the idea, it&#039;s just that we never heard about that actually happening. All our projects were about counting on governamental support, or trying to create self-sustainability.&lt;br /&gt;
+&lt;br /&gt;
+I&#039;m starting to think it&#039;s worth trying, perhaps mixing international funds and local sustainability. I would know how to start and put the place up, we have enough people engajed on some project or volunteers to help on that. I would really not know how to begin with the international contacts. If you guys helped us, it would be great.&lt;br /&gt;
+&lt;br /&gt;
+All I&#039;m saying, once again, is that you were probably right, but we have had to take our time to find that out.&lt;br /&gt;
+&lt;br /&gt;
+Moreover, I truly believe midiatatica and metareciclagem could join efforts to such an effort. The skills of the two networks are complementar. If that&#039;s the case, I really think we should call such space on a different name. Perhaps come back with the idea of CafeCoLab, I don&#039;t know.&lt;br /&gt;
+&lt;br /&gt;
+Let&#039;s get working?</description>
+ <comments>http://mutgamb.org/fonte/back-what-matters#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/68</wfw:commentRss>
+ <pubDate>Sun, 03 Jul 2005 20:16:55 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">68 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>more letters from latinamerica</title>
+ <link>http://mutgamb.org/fonte/more-letters-latinamerica</link>
+ <description>&lt;i&gt;(e-mail enviado para lista da waag-sarai platform)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Hi Everyone&lt;br /&gt;
+&lt;br /&gt;
+Late notes about territory.&lt;br /&gt;
+&lt;br /&gt;
+In 2003, while flying back to Brazil after n5m4, I started taking some notes. That has been my first ever trip abroad, and I could at last see things from outside. Furthermore, I&#039;ve seen a lot of things that transformed the way I thought about what I had been doing.&lt;br /&gt;
+&lt;br /&gt;
+Apart from all the socio-cultural, environmental, economic differences and all that feeling of a native-brought-to-europe, it was another thing that kept me daydreaming: de balie. I never thought such a place could exist: a single location that held a cafe, a publishing house, a pub, a restaurant, conference rooms, all with internet access (and wi-fi, by that time a remote dream in Brazil).&lt;br /&gt;
+&lt;br /&gt;
+We had been talking with Claudio Prado since may 2003, about the then called BACs, autonomous cultural bases. But that was a governamental effort, much more a project &quot;for&quot; the population. We missed then, and I believe we still do, a place of our own.&lt;br /&gt;
+&lt;br /&gt;
+I don&#039;t think it&#039;s a coincidence that, despite some brilliant exceptions, most of people involved with what used to be projetometafora, metareciclagem and other network efforts are college dropouts or people that have problems with brazilian formal education. As I said, there are exceptions: Hernani is working towards his master&#039;s, and Dalton earned his last year. But the rest of us have that problems.&lt;br /&gt;
+&lt;br /&gt;
+There&#039;s this old idea of creating &quot;distributed learning&quot; environments, both online and offline. As I got back from Amsterdam, I started talking with some people about the possibility of having a space such as de balie. Rosas joined that conversations. Me and Maratimba started looking for places to create the structure we then called CafeCoLab. We talked with people who had independent spaces, pubs, used book stores, and so on. Our proposal was to turn them (one of them?) into a collaborative environment, mixing music, video, graphic arts, technology and research. But it never worked out. People didn&#039;t quite understand our focus. Renting a space on our own would be too expensive, especially in São Paulo. At the same time, I got involved with the dissolution of projetometafora, and we began losing the interest.&lt;br /&gt;
+&lt;br /&gt;
+Then came Claudio Prado&#039;s second wave. The BAC project had been aborted, and he was looking for new possibilities of &quot;digital culture&quot; (I don&#039;t agree with that term) inside the Ministery of Culture. He wanted to do a seminar + a book, and called me and some other people that were on the discussions of the BAC. Me and Maratimba suggested that Claudio should try to set up an experimental lab where we could test what we have been telling was possible (all that F(L)OSS-media production stuff). The project has not gone further, but Claudio understood the need for a physical space. When he started discussing with the municipal culture administration, the possibility of a base downtown São Paulo appeared. It would be the whole third floor of Olido gallery.&lt;br /&gt;
+&lt;br /&gt;
+Governamental processes are slow, especially in Brazil, so the third floor is still there, vacant. Things changed, metareciclagem was able to create a lab upstairs the telecenter, and now the team that is deploying the cultural spots got a new space to work, the Piolim Space, and some technological &amp;nbsp;structure.&lt;br /&gt;
+&lt;br /&gt;
+It&#039;s not an independent space, ok, but we are not expecting problems with the administration.&lt;br /&gt;
+&lt;br /&gt;
+Pictures of the Piolim space soon.&lt;br /&gt;
+&lt;br /&gt;
+I still miss a space where I can simultaneously learn and teach, where I can play my guitar and crash computers (I&#039;m a champion on that issue).&lt;br /&gt;
+&lt;br /&gt;
+Perhaps Piolim is the answer.&lt;br /&gt;
+&lt;br /&gt;
+Or else, perhaps you are right and we need to create a space from scratch. But I don&#039;t think that is economically viable...&lt;br /&gt;
+&lt;br /&gt;
+I don&#039;t know yet.</description>
+ <comments>http://mutgamb.org/fonte/more-letters-latinamerica#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bac">bac</category>
+ <category domain="http://mutgamb.org/assunto/Tags/cultura-digital">cultura digital</category>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/olido">olido</category>
+ <category domain="http://mutgamb.org/assunto/Tags/piolim">piolim</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/67</wfw:commentRss>
+ <pubDate>Tue, 24 May 2005 19:36:03 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">67 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Another (long) opinion</title>
+ <link>http://mutgamb.org/fonte/Another-long-opinion</link>
+ <description>&lt;p&gt;Hi all&lt;/p&gt;
+&lt;p&gt;It’s been six months since I’ve been to India. Many things have
+changed since then. I’d like to put my perspective on the last few
+months.&lt;/p&gt;
+&lt;p&gt;First of all: you were right about space. In order to create a group
+identity, territory is fundamental. Two examples make me believe this
+is absolutely true.&lt;/p&gt;
+&lt;p&gt;The first example are Tati Wells and Ricardo Ruiz, in Rio. They
+created an open space called IP. I would use other names, but they call
+it a media center. I’ve been there last week, and it’s really great.
+People come over for a workshop and all of a sudden they come back on
+the next day. Things are being created there, people are gathering and
+doing things together.&lt;/p&gt;
+&lt;p&gt;The other example is MetaReciclagem in Santo André. Even though the
+major of Santo André has been re-elected, he changed all his closer
+team. As a consequence, the EPAC project, that hosted MetaReciclagem
+inside Parque Escola, has changed from the education management to the
+public affairs area. Then we have been forgotten. There’s no more room
+for MetaReciclagem on public projects in Santo André. We lost our lab,
+computer donations (okay, we did save some) and access to the
+infrastructure. Because of that, MetaReciclagem actions in Santo André
+disappeared.&lt;/p&gt;
+&lt;p&gt;I mean, right after we were getting through about the end of our
+relationship with Agente Cidadão, we lost the lab in Santo André as
+well. Fortunately, the new city administration in São Paulo still did
+not understand what we are doing down on Olido lab, but we can’t afford
+to do much there, as everyone who used to work on Agente Cidadão and
+Parque Escola had to start improvising to make a living. In a given
+moment, I guess two months ago, Interney, the guy who donated us the
+hosting for MetaReciclagem website and mailing list, had to put his
+server down and we don’t have a stable mailing list since then. I’m
+running the webserver in my home. MetaReciclagem is quiet.&lt;/p&gt;
+&lt;p&gt;So, it’s true. MetaReciclagem, as a group, failed to succeed without
+a space of its own. Everyone is running out of money. The ship is
+broken.&lt;/p&gt;
+&lt;p&gt;But, as I tried to explain, and I’m not quite sure I succeeded, we
+don’t want to be a group. We don’t want to become a NGO. We are talking
+about a methodology. And as such, I really think we were able to do
+some things:&lt;/p&gt;
+&lt;p&gt;1) Two years ago, if one talked about a “digital inclusion” project
+using old computers and FLOSS, no one would buy it. Actually, we did
+talk about it, and the bigshots on the subject didn’t take us
+seriously. Nowadays the biggest state bank in Brasil is actually
+delivering their used computers (maaaaaany computers) to social
+projects. The landless movement got a donation of over 4000 computers.
+I’m not saying that they are doing this because of us, but I can assure
+you that they are paying attention to us, and we were the first ones to
+prove that free software and old computers were a viable solution.&lt;/p&gt;
+&lt;p&gt;2) The cultural spots project from the Ministry of Culture has
+adopted metareciclagem (technology appropriation) as one of its four
+axis, together with estudiolivre (FLOSS for media production),
+radiolivre (free radios) and tactical media. They are extending the
+concept of MetaReciclagem. Me, Dalton, Glauco and Fernando are getting
+hired as consultants for the project (after two years of promises).&lt;/p&gt;
+&lt;p&gt;3) The independent metareciclagem spores are growing. There is one
+on the historical coast of Bahia, that might become a cultural spot.
+There is one in Salvador, in association with Rui Barbosa University.
+IP, the media center created by tati and ruiz in Rio, is a
+metareciclagem spore. There is even one close to Olido, our lab
+downtonw São Paulo. And there are at least 20 soon-to-be cultural spots
+that want to become independent metareciclagem labs.&lt;/p&gt;
+&lt;p&gt;4) We are planning the creation of other metareciclagem labs in the
+same format as that in Santo André. Of course, we have learned that we
+have to treat them as temporary labs. But I don’t see that as a
+problem. &lt;/p&gt;
+&lt;p&gt;I can’t say MetaReciclagem failed. We’ve been through some deep
+transformations, deep enough to get us scared about our personal
+budgets. But MetaReciclagem is independent from us, and is completely
+successful as: a) a methodology, b) a influence nucleus. We still can’t
+think of MetaReciclagem as a group, but I’m sure we are helping a lot
+of people to make better decisions about technology and the use of
+technology.
+&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Another-long-opinion#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/cultura-digital">cultura digital</category>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/pontos-de-cultura">pontos de cultura</category>
+ <category domain="http://mutgamb.org/assunto/Tags/sacadura-cabral">sacadura cabral</category>
+ <category domain="http://mutgamb.org/assunto/Tags/santo-andr%C3%A9">santo andré</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/66</wfw:commentRss>
+ <pubDate>Wed, 04 May 2005 15:28:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">66 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Esquema plataforma</title>
+ <link>http://mutgamb.org/fonte/Esquema-plataforma</link>
+ <description>&lt;p&gt;Rolou que a gente tah bem mais cru do que os caras imaginavam. Rolou que a gente eh bom de vamoquevamo, mas quando chega a hora de nego questionar conceitualmente, ainda falta a gente desenvolver muita coisa. Rolou que a gente tem alguns caminhos iniciados, (replicacao por esporos, ocupacao pirata, conceito / ideia / metodologia de nomenclatura emergente para apropriacao tecnologica para transformacao social), mas nada disso foi aprofundado. Rolou que na onda tecnologica a gente manda bem, mas no que vem antes disso (pra que serve a p0rr4 da tecnologia), faltam leguas pra gente poder conversar frente a frente. Rolou que aquilo que a gente jah conversou, de que metareciclagem eh bom em montar estruturas de conversa, mas ainda eh fraco em producao simbolica (que pode chegar aa transformacao social em outro nivel, alem do papo microcredito e pequenos negocios). Questionando tudo, tudo, tudo.&lt;br /&gt; Acabei de conhecer o cybermohalla, e eh impressionante o que eles fazem. Molecada fica lah por ano e meio, fazendo pouco mais que registrar os arredores e articular muitos papos transversais e diagonais e tal. E a apropriacao de tecnologia eh total.&lt;br /&gt; Conheci semana passada uma galera do mal, os cabecas do &lt;a href=&quot;http://www.sarai.net/&quot; rel=&quot;nofollow&quot;&gt;sarai&lt;/a&gt;. E eles sao bons. Nao mais ou menos como a gente. Sao bons.&lt;br /&gt; Rolou que eles convidaram dois metarecicleiros a passar os meses de julho e agosto aqui em delhi, imersao total. E eu garanto que vai ser bom. Tem que ser gente racuda pra sobreviver em Delhi, que nao tem violencia nem mafia do trafico mas eh f0d4 de tudo. E eu acho que tem que ser um geek e um articulador simbolico. E eu acho que vou fazer uma contra-proposta, de mandar um nosso pra cah e um deles pro Brasil. E sei lah mais o que.&lt;br /&gt; E rolou que ao midiatatica foi oferecido um evento, e antes dele uma publicacao, e sempre nessa onda de articular mais e mais papos conceituais que reflitam o que a gente faz em terra tupiniquim, e nao o que algum gringo andou estudando.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;hr /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div id=&quot;comments&quot;&gt;&lt;h2&gt;Comments&lt;a title=&quot;leave a comment&quot; href=&quot;http://blogs.metareciclagem.org/fff/?p=862#postComment&quot; rel=&quot;nofollow&quot;&gt;&amp;raquo;&lt;/a&gt;&lt;/h2&gt;  	 		&lt;dl&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5368&quot; rel=&quot;nofollow&quot;&gt;1.&lt;/a&gt; &lt;a rel=&quot;external nofollow&quot; href=&quot;http://www.bailux.arraialdajuda.ws/&quot; rel=&quot;nofollow&quot;&gt;regis&lt;/a&gt; - 3/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;emocionante saber destes grupos todos,cara!!!!! a vida &amp;eacute; bela.&lt;br /&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.bailux.arraialdajuda.ws/&quot; rel=&quot;nofollow&quot;&gt;http://www.bailux.arraialdajuda.ws&lt;/a&gt;&lt;/p&gt; 			&lt;/dd&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5369&quot; rel=&quot;nofollow&quot;&gt;2.&lt;/a&gt; &lt;a rel=&quot;external nofollow&quot; href=&quot;http://planeta.terra.com.br/educacao/Gutierrez/&quot; rel=&quot;nofollow&quot;&gt;Su&lt;/a&gt; - 3/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;Que bom que est&amp;aacute; na &amp;aacute;rea, guri! Tu sabes que me interessa a coisa conceitual. Pode me contar in nisso. Mas, justamente para aprofundar, conta tudo isso devagarinho e sempre.&lt;/p&gt; &lt;p&gt;abra&amp;ccedil;o,&lt;/p&gt; &lt;p&gt;Su&lt;br /&gt; btw: minha disserta&amp;ccedil;&amp;atilde;o foi para a biblio digital da Ufrgs - acess&amp;iacute;vel aqui:&lt;br /&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.biblioteca.ufrgs.br/bibliotecadigital/2004-2/tese-edu-0432196.pdf&quot; rel=&quot;nofollow&quot;&gt;http://www.biblioteca.ufrgs.br/bibliotecadigital/2004-2/tese-edu-0432196.pdf&lt;/a&gt;&lt;/p&gt; 			&lt;/dd&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5370&quot; rel=&quot;nofollow&quot;&gt;3.&lt;/a&gt; &lt;a rel=&quot;external nofollow&quot; href=&quot;http://www.marketinghacker.com.br/&quot; rel=&quot;nofollow&quot;&gt;hdhd&lt;/a&gt; - 3/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;&lt;ff&gt;Rolou que a gente tah bem mais cru do que os caras imaginavam. Rolou que a gente eh bom de vamoquevamo, mas quando chega a hora de nego questionar conceitualmente, ainda falta a gente desenvolver muita coisa.&lt;/ff&gt;&lt;/p&gt; &lt;p&gt;Hoje sou eu quem disconcordo. Tem uma certa esquizo nessa an&amp;aacute;lise. Existem v&amp;aacute;rios metas. E n&amp;atilde;o sei qual deles vc apresentou. Os conceitos que desenvolvemos s&amp;atilde;o muito profundose consistentes. E n&amp;atilde;o tem a ver apenas com replica&amp;ccedil;&amp;atilde;o, esporos e ocupa&amp;ccedil;&amp;atilde;o pirata ou mandar bem no tecnol&amp;iacute;gico. Isso &amp;eacute; a superf&amp;iacute;cie. Vc esqueceu como tudo isso vem se montando. Tem mais a ver com conversa&amp;ccedil;&amp;atilde;o, cluetrain, linkania&amp;hellip; Acho uma merda deixar isso se esvair.&lt;/p&gt; 			&lt;/dd&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5372&quot; rel=&quot;nofollow&quot;&gt;4.&lt;/a&gt; fff - 6/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;nada de se esvair. mas fato &amp;eacute; que a gente seguraonda no gog&amp;oacute;, mas quando algu&amp;eacute;m quer se aprofundar, n&amp;atilde;o tem onde encontrar. insisti por alguns meses pro pessoal escrever, pra montar um pedef&amp;atilde;o metarecicleiro. cad&amp;ecirc;? todo mundo fala, mas ningu&amp;eacute;m senta pra explicar. todo mundo faz, mas pouca gente reflete. sei que tu t&amp;aacute; indo atr&amp;aacute;s disso, mas e os outros? tem umas dez pessoas que poderiam ajudar a p&amp;ocirc;r no papel e analisar a correria, mas ningu&amp;eacute;m vai atr&amp;aacute;s.&lt;br /&gt; isso tem um pouco a ver com o nosso modelo de organiza&amp;ccedil;&amp;atilde;o. a gente sempre +e contratado pra fazer. e essa reflex&amp;atilde;o precisa de outro timing. talvez aquela tua correria de pesquisa ajude a resolver. vamo vendo.&lt;/p&gt; 			&lt;/dd&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5373&quot; rel=&quot;nofollow&quot;&gt;5.&lt;/a&gt; &lt;a rel=&quot;external nofollow&quot; href=&quot;http://planeta.terra.com.br/educacao/Gutierrez/&quot; rel=&quot;nofollow&quot;&gt;Su&lt;/a&gt; - 6/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;Eu penso que sei do que ff fala. Foi uma coisa que apontei de uma feita l&amp;aacute; na lista. A quest&amp;atilde;o da teoria. Ao mesmo tempo que se faz, se reflete sobre o que se faz e se teoriza a partir de alguma coisa que se construiu antes, contexto, vis&amp;atilde;o de mundo e, tamb&amp;eacute;m, a partir dateoria que emerge da pr&amp;oacute;pria pr&amp;aacute;tica. As categorias est&amp;atilde;o a&amp;iacute;, na fala de voc&amp;ecirc;s, mas o que sustenta isso? Conversa&amp;ccedil;&amp;atilde;o, cluetrain, linkania.. o qu&amp;ecirc; tem por tr&amp;aacute;s disso, o qu&amp;ecirc; sustenta, o qu&amp;ecirc; tensiona, o qu&amp;ecirc; &amp;eacute; tensionado? N&amp;atilde;o &amp;eacute; facil teorizar.&lt;br /&gt; Agora, nem pensar em teorizar ganhando dinheiro, ganhar dinheiro j&amp;aacute; tem a sua pr&amp;oacute;pria teoria, incomp&amp;aacute;tivel em geral com as outras.&lt;/p&gt; 			&lt;/dd&gt;&lt;dt&gt; 						&lt;a href=&quot;http://blogs.metareciclagem.org/fff/?p=862#5374&quot; rel=&quot;nofollow&quot;&gt;6.&lt;/a&gt; fff - 6/12/2004			&lt;/dt&gt;&lt;dd&gt;  			&lt;p&gt;por a&amp;iacute;, su. esquema teorizar sobre a pr&amp;aacute;tica, coisa que nem os vqv nem os te&amp;oacute;ricos tupiniquins fazem tanto assim (ok, h&amp;aacute; exce&amp;ccedil;&amp;otilde;es). sobre ganhar dinheiro, nem isso. t&amp;ocirc; falando &amp;eacute; de sobreviver mesmo.&lt;/p&gt; 			&lt;/dd&gt;&lt;/dl&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Esquema-plataforma#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/183</wfw:commentRss>
+ <pubDate>Fri, 03 Dec 2004 21:55:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">183 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Papo focado metareciclante</title>
+ <link>http://mutgamb.org/fonte/Papo-focado-metareciclante</link>
+ <description>&lt;p&gt;seguindo no papo saraiento, j&amp;aacute; comentei por aqui sobre as reuni&amp;otilde;es que eu queria marcar em setembro. Pensei no seguinte,&lt;/p&gt; &lt;p&gt;assuntos:&lt;/p&gt; &lt;p&gt;1. Mapeamento da metareciclagem.&lt;br /&gt; N&amp;atilde;o &amp;eacute; mais uma vez fazer update de projetos, isso&lt;br /&gt; eu t&amp;ocirc; tentando fazer por aqui e na categoria metarec&lt;br /&gt; do meu blogue. Aqui &amp;eacute; tentar identificar padr&amp;otilde;es nas&lt;br /&gt; a&amp;ccedil;&amp;otilde;es que a gente j&amp;aacute; fez, pra organizar as coisas daqui&lt;br /&gt; pra frente. Meia hora no come&amp;ccedil;o com oficinas de&lt;br /&gt; caderninhos.&lt;/p&gt; &lt;p&gt;2. O que &amp;eacute; metareciclagem&lt;br /&gt; Punheta&amp;ccedil;&amp;atilde;o conceitual, brigas de ego, etc.&lt;br /&gt; At&amp;eacute; onde vai metareciclagem, apropria&amp;ccedil;&amp;atilde;o de espa&amp;ccedil;os,&lt;br /&gt; planejar ou n&amp;atilde;o planejar. Opera&amp;ccedil;&amp;otilde;es piratas do agad&amp;ecirc;.&lt;/p&gt; &lt;p&gt;3. E depois?&lt;br /&gt; Tentar pensar em pr&amp;oacute;ximos passos. Estrat&amp;eacute;gias. Poss&amp;iacute;veis&lt;br /&gt; colabora&amp;ccedil;&amp;otilde;es. Como deixar foderosos os trampos que a&lt;br /&gt; gente j&amp;aacute; faz. Identificar problemas que j&amp;aacute; rolam, e o que&lt;br /&gt; a gente tem que corrigir. Meio babaca, eu sei, mas tem&lt;br /&gt; umas coisas que d&amp;aacute; pra melhorar. Tipo&amp;hellip; documenta&amp;ccedil;&amp;atilde;o.&lt;br /&gt; Desdobramentos dos projetos. Possibilidades. Alguns&lt;br /&gt; cen&amp;aacute;rios. Tentar equilibrar projetos volunt&amp;aacute;rios, envolvidos&lt;br /&gt; com gobierno e autosustent&amp;aacute;veis.&lt;/p&gt; &lt;p&gt;4. Infra ideal&lt;br /&gt; Fazer um esbo&amp;ccedil;o do que seria uma estrutura ideal, desde&lt;br /&gt; infraf&amp;iacute;sica e l&amp;oacute;gica at&amp;eacute; a&amp;ccedil;&amp;otilde;es, pessoas, etc. Se a gente&lt;br /&gt; vai continuar trampando junto, o que precisamos?&lt;br /&gt; A estrutura t&amp;aacute; pronta ou ainda falta? Pensar al&amp;eacute;m,&lt;br /&gt; tamb&amp;eacute;m. Infral&amp;oacute;gica ideal. Precisamos de qu&amp;ecirc;?&lt;br /&gt; J&amp;aacute; pensando em resolver os problemas do 3.&lt;br /&gt; p. ex, pra mim, um livecd personalizado, com meus dados,&lt;br /&gt; integrado com um ambiente de armazenamento de arquivos&lt;br /&gt; na web, e j&amp;aacute; com todos os meus bookmarks e programinhas&lt;br /&gt; taleb@.&lt;br /&gt; Precisamos de um servidor mais parrudo? Pra qu&amp;ecirc;?&lt;br /&gt; Como d&amp;aacute; pra resolver?&lt;/p&gt; &lt;p&gt;N&amp;atilde;o, eu n&amp;atilde;o t&amp;ocirc; me rendendo ao pensamento de &amp;ldquo;coletivos&amp;rdquo;.&lt;br /&gt; S&amp;oacute; quero exercitar as conversas pessoais. Gostaria que&lt;br /&gt; TODOS os interessados viessem. E trouxessem mais&lt;br /&gt; interessados.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Papo-focado-metareciclante#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/182</wfw:commentRss>
+ <pubDate>Thu, 02 Sep 2004 20:49:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">182 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Conversê metarecicleiro pra parceria</title>
+ <link>http://mutgamb.org/fonte/Convers%C3%AA-metarecicleiro-pra-parceria</link>
+ <description>&lt;p&gt;
+&lt;strong&gt;I&lt;/strong&gt;&lt;br /&gt;
+As I commented in the fellowship proposal, our main defficiency is documentation. I’m focusing the work plan on providing an infrastructure and a methodology in order to enable and improve both technical and conceptual conversations about MetaReciclagem. From that conversations, we believe will emerge our vision and methodology, network architecture and space design, based on things that are already running.&lt;/p&gt;
+&lt;p&gt;We had a general MetaReciclagem meeting two weeks ago, to inform everyone about the status of the projects. That day, we started a conversation about MetaReciclagem methodology, that is currently running on our mailing list. Very interesting points are emerging. I’ll try to keep you aware whenever we get to a consolidated point.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II&lt;/strong&gt;&lt;br /&gt;
+About the current situation of MetaReciclagem:&lt;/p&gt;
+&lt;p&gt;* Currently there are thirteen people directly involved with MetaReciclagem (it means, dedicating some part of their time to the projects and earning at least a minimal financial compensation from that), six of them almost fully dedicated to the project. We’ve got also around another twenty eventual collaborators or volunteers.&lt;/p&gt;
+&lt;p&gt;* We’ve got an experimental lab in Santo André, a city nearby São Paulo. In Santo André, we are working with seven cooperative associations: they attended an educational process and each association got an used computer by the end of it. As cooperative associations in Brazil are not a natural target for business IT industry, they lacked management software adapted to their needs. We are now in the final process of creating a GPL PHP + MySQL system for them. It’s going to be released early august, if everything goes ok. We’re also beginning a casemodding course, an online “radio” streaming, and we’re helping in the experimental technology part of a Public Science Museum / Open School currently being developed, which will hold a computer recycling lab, a multimedia lab using FOSS, and a series of scientific experiments dealing among other things with computers and technology. For the Museum, we have already set up an interactive videowall totally built with old computers, and a thin client network for the library of Parque Escola, where we are researching.&lt;/p&gt;
+&lt;p&gt;Pictures of Santo André:&lt;br /&gt;
+&lt;a href=&quot;http://www.metareciclagem.com.br/imagens/santoandre/&quot; title=&quot;http://www.metareciclagem.com.br/imagens/santoandre/&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.com.br/imagens/santoandre/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* The autolabs /cajus project is done. We learned a lot from it, surprisingly most about dealing with media educators that don’t want to learn to use FOSS &lt;img src=&quot;http://blogs.metareciclagem.org/fff/wp-includes/images/smilies/icon_wink.gif&quot; alt=&quot;;)&quot; class=&quot;wp-smiley&quot; /&gt;  From the 300 youngsters that were at the beginning of the project, around 12 are still with us. We are waiting for a position of the coordinator of the project, about helping the kids creating a self-managed enterprise working with IT and free software.&lt;/p&gt;
+&lt;p&gt;* Me, Dalton and Willians went to Porto Alegre to attend FISLi. We had the chance to explain MetaReciclagem for the coordinator of Telecenters in Porto Alegre, who pointed he wanted to replicate the project there. Instead of selling our experience to them, we decided to invite his tech guys to spend some weeks with us in São Paulo. Don’t know yet if he understood, but we’re waiting. I joined tactical tech (.org) in a “mapping session” for projects using FOSS to help nonprofits in Latin America. Me and Dalton also spoke about nonprofits and free software at DebConf.&lt;/p&gt;
+&lt;p&gt;* There’s a project from the Planning Ministry, to get all used computers from federal government and deliver them to social projects in order to create telecenters. We’ve hear rumors of around 240,000 computers a year. We’ve also heard rumors they would call MetaReciclagem to help defining a methodology for that. Unfortunately, nobody called me or anyone from MetaReciclagem about it. My guess is that it’s pure political vaporware…&lt;/p&gt;
+&lt;p&gt;* We’ve met a guy called Etienne Delacroix. He’s from Belgium, has some sort of involvement with MIT and is responsible for a course called “Taller de Arte y Programacion”, someting like Art and Coding Factory, in an university in Uruguay. Soon, he and Dalton, one of MetaReciclagem tech articulators, were talking about possibilities of deconstructing that thing called “the computer” to construct experimental installations. We did a workshop las week, on FCM (World Cultural Forum), here in São Paulo. Pictures here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.metareciclagem.com.br/imagens/sesc/&quot; title=&quot;http://www.metareciclagem.com.br/imagens/sesc/&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.com.br/imagens/sesc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Etienne gave us a lot of insights about space design, preparing technology for appropriation and treating technology as craftsmanship. He already transformed Dalton’s house in a permanent lab. I’m almost there also.&lt;/p&gt;
+&lt;p&gt;* Radiolivre.org is a “free radio rhyzome”. Some of the guys of Radio *******, one of the most well-succeded free radios in Brazil, got a server inside *****, and set up a streaming server, to replicate the transmissions of some free radios all around Brazil. Even though, some of the radios do have an internet connection, but not a computer to stream the signal. We’re gonna provide those radios recycled computers.&lt;/p&gt;
+&lt;p&gt;* Pontos de Cultura is the new name of the BACs project, from Claudio Prado, the articulator at Ministry of Culture, which I think I have mentioned before. There will be an experimental center downtown São Paulo, in a former movie theater called Olido (pictures here: &lt;a href=&quot;http://articuladores.arca.ime.usp.br/?BecoLindo/Fotos&quot; title=&quot;http://articuladores.arca.ime.usp.br/?BecoLindo/Fotos&quot; rel=&quot;nofollow&quot;&gt;http://articuladores.arca.ime.usp.br/?BecoLindo/Fotos&lt;/a&gt; ) and then 100 PdCs (”Culture Points”) throughout the country. The goal is to provide an emerging technical infrastructure to projects already working with cultural production within a social context. They’ll get a PdC kit (network server, multimedia workstation, mini-DV camera, sound equipment) and if we can convince people at the ministry about it, we’ll provide them a distributed publishing and conversation environment, with integrated IM, chat and P2P networking (BTW, how’s OpusCommons? Do you think it fits?).&lt;/p&gt;
+&lt;p&gt;Yet to write:&lt;br /&gt;
+* Liganois&lt;br /&gt;
+* MetaOng&lt;br /&gt;
+* MetaReciclagem methodology discussion&lt;/p&gt;
+&lt;p&gt;Next week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;gt; What are the preliminary shared values between the members of the group?&lt;/p&gt;&lt;p&gt;
+exactly what we’re trying to identify with the discussions I told you about. Until a given point, it seemed like it was something directly related to things we’ve been doing around São Paulo. In the last few months, however, people from other initiatives are getting more and more interested in replicating metareciclagem. I guess it’s changing, from a group of people doing things, to a methodology of getting old technological assets in order to create what we’ve been calling “social technology” in order to transform communities, based in 4 points:&lt;br /&gt;
+- free software&lt;br /&gt;
+- lowtech&lt;br /&gt;
+- free knowledge&lt;br /&gt;
+- self-replication&lt;/p&gt;
+&lt;p&gt;&amp;gt; What are the points of divergence and differing points of emphasis?&lt;br /&gt;&lt;/p&gt;&lt;p&gt;
+mostly, engagement. some of our collaborators only want to post comments on a mailing list, others want to dedicate their lives full-time to the development of social technology.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Convers%C3%AA-metarecicleiro-pra-parceria#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/88</wfw:commentRss>
+ <pubDate>Tue, 13 Jul 2004 21:56:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">88 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

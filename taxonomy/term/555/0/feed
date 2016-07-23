@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - diy</title>
+ <link>http://mutgamb.org/taxonomy/term/555/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Making brinquedos DIY</title>
+ <link>http://mutgamb.org/blog/Making-brinquedos-DIY</link>
+ <description>&lt;p&gt;Isaac perguntou na lista se algu&amp;eacute;m j&amp;aacute; havia testado ou se conhecia o &lt;a href=&quot;http://www.makeymakey.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;MakeyMakey&lt;/a&gt;, segundo os pr&amp;oacute;prios inventores (&lt;a href=&quot;http://www.kickstarter.com/projects/joylabs/makey-makey-an-invention-kit-for-everyone&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;que pediram $ aqui&lt;/a&gt;), trata-se de&lt;em&gt; &amp;quot;um meio para transformar objetos cotidianos em touchpads e, assim combin&amp;aacute;-los com a internet&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; src=&quot;http://www.youtube.com/embed/rfQqh7iCcOU&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm replicou: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Se eu entendi bem o projeto, acho que da pra algo bem parecido com isso da&amp;iacute; desmontando um joystick desses estilo playstation USB de 15 reais. Da&amp;iacute; usa o objeto [hid] no puredata pra empacotar os dados pra outros protocolos. Fiz algo parecido nas oficinas do Toscolino, na UFRJ, em 2010, a gente desmontava joysticks pra fazer guitarrinhas:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/22881021?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Making-brinquedos-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/tag/makeymakey">makeymakey</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/toscolino">toscolino</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/920</wfw:commentRss>
+ <pubDate>Tue, 06 Nov 2012 09:18:09 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">920 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>A revolução será DIY?</title>
+ <link>http://mutgamb.org/blog/revolucao-sera-DIY</link>
+ <description>&lt;p&gt;Rafael Beznos trouxe links sobre&lt;a href=&quot;http://working.gli.tc/forums/topic/hardware-hacking-and-recycling-strategies/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; estrat&amp;eacute;gias para hacking/reciclagem de hardware&lt;/a&gt; e de &lt;a href=&quot;http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quarta-revolucao-industrial-era-das-maquinas-livres&amp;amp;id=010170120922&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aplica&amp;ccedil;&amp;otilde;es DIY para pesquisas cient&amp;iacute;ficas&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Usando hardware livre economizamos milhares de d&amp;oacute;lares para o nosso grupo de pesquisa, e estamos apenas esquentando os motores. Isso vai mudar a maneira como as coisas s&amp;atilde;o feitas.&lt;a href=&quot;http://www.mse.mtu.edu/faculty/pearce.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Joshua Pearce&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;E, falando nisso, Fabbri compartilhou um v&amp;iacute;deo com Miller Puckette sobre possibilidades de uso para Raspberry-Pi:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/52259196?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/revolucao-sera-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metarecicagem">metarecicagem</category>
+ <category domain="http://mutgamb.org/tag/revolucao">revolução</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/917</wfw:commentRss>
+ <pubDate>Fri, 02 Nov 2012 09:13:11 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">917 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>A cultura artesanal da computação</title>
+ <link>http://mutgamb.org/blog/cultura-artesanal-da-computacao</link>
+ <description>&lt;p&gt;Glerm compartilhou links que mostram a constru&amp;ccedil;&amp;atilde;o de um computador completo, usando chips b&amp;aacute;sicos. Em um dos v&amp;iacute;deos, o fazedor da proposta diz que aprendeu tudo na internet:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/qYvr0b8jqbg&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/pkldak4jWys&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Glerm trouxe, tamb&amp;eacute;m, o link de um framework desenvolvido pela &lt;a href=&quot;http://nanode.eu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nanode &lt;/a&gt;, chamado &lt;a href=&quot;http://sketchgarden.co/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sketch Garden&lt;/a&gt; que sobe sketchs de Arduino por cabo de ethernet, permitindo a cria&amp;ccedil;&amp;atilde;o de redes sociais de trocas de sketchs.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Esse parece ser o verdadeiro caminho de redescoberta did&amp;aacute;tica e pr&amp;aacute;tica do computador artesanal como era conhecido nos anos 80 (...) &amp;eacute; importante pensar a &amp;quot;cultura&amp;quot; de como acessar este conhecimento sem ter que ter forma&amp;ccedil;&amp;atilde;o muito s&amp;oacute;lida de engenharia, de maneira mais curiosa.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/cultura-artesanal-da-computacao#comments</comments>
+ <category domain="http://mutgamb.org/tag/artesanato-de-volts">artesanato de volts</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/901</wfw:commentRss>
+ <pubDate>Wed, 17 Oct 2012 10:32:08 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">901 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Você que fez ou tudo foi feito na China?</title>
+ <link>http://mutgamb.org/blog/Voce-que-fez-ou-tudo-foi-feito-na-China</link>
+ <description>&lt;blockquote&gt;
+	&lt;p&gt;&lt;strong&gt;Do que adianta saber o nome de todos os componentes de uma placa m&amp;atilde;e, almejar o mercado de trabalho e n&amp;atilde;o se apropriar da l&amp;oacute;gica que a tecnologia tem sob nossas rela&amp;ccedil;&amp;otilde;es?&lt;/strong&gt; @ Isaac Filho.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;strong&gt;Podemos conhecer objetos de qualquer tipo somente na medida em que somos capazes de produzi-los&lt;/strong&gt;. @Werner Stark, em The Sociology of Knowledge.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Webert voltou a puxar a conversa do&lt;a href=&quot;http://mutgamb.org/blog/Plaquinhas&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Raspberry Pi&lt;/a&gt;, mostrando &lt;a href=&quot;http://http://globotv.globo.com/globo-news/globo-news-ciencia-e-tecnologia/v/criancas-aprendem-programacao-atraves-de-um-dos-menores-computadores-do-mundo/2179234/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;esse v&amp;iacute;deo&lt;/a&gt;. Enquanto isso, em threads paralelas mas n&amp;atilde;o dissociadas...&lt;/p&gt;
+&lt;p&gt;Mbraz compartilhou &lt;a href=&quot;http://va.mu/YEUR&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;imagens das oficinas&lt;/a&gt; que &lt;a href=&quot;http://mutgamb.org/blog/Oficinas-de-Metareciclagem-em-Osasco&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aconteceram em Osasco&lt;/a&gt;...&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://mutgamb.org/sites/mutgamb.org/files/mbraz.JPG&quot; style=&quot;height: 315px; width: 420px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Marcos Egito as &lt;a href=&quot;http://maregito.wordpress.com/2012/10/08/i-experimentacao-na-de-robotica-livre-na-concha-colaborativa/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;experimenta&amp;ccedil;&amp;otilde;es colaborativas&lt;/a&gt; e &lt;a href=&quot;http://konesans.tk/?p=795&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;as intera&amp;ccedil;&amp;otilde;es do Konesans&lt;/a&gt;...&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://maregito.files.wordpress.com/2012/10/dsc00021.jpg?w=700&amp;amp;h=&quot; style=&quot;height: 315px; width: 420px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Glerm linkou &lt;a href=&quot;http://crystal.xxn.org.uk/wiki/doku.php?id=the_crystal_world:space:postdescription&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;meios DIY do The Crystal World Open Laboratory and Exhibition&lt;/a&gt; para fazer plasma, microondas, precipta&amp;ccedil;&amp;atilde;o e extra&amp;ccedil;&amp;atilde;o mineral, entre outras experi&amp;ecirc;ncias interessantes.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://crystal.xxn.org.uk/wiki/lib/exe/fetch.php?w=968&amp;amp;media=the_crystal_world:space:dsc_0152.jpg&quot; style=&quot;height: 236px; width: 420px;&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Voce-que-fez-ou-tudo-foi-feito-na-China#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/893</wfw:commentRss>
+ <pubDate>Wed, 10 Oct 2012 09:09:52 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">893 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Máquinas: ter ou fazer?</title>
+ <link>http://mutgamb.org/blog/Maquinas-ter-ou-fazer</link>
+ <description>&lt;p&gt;Tati Prado levantou a quest&amp;atilde;o do uso do &lt;a href=&quot;http://www.asus.com/Eee/Eee_Pad/Eee_Pad_Transformer_TF101/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Asus Transformer (com a dock)&lt;/a&gt; na transfer&amp;ecirc;ncia de arquivos pesados via cabo para desktop, e surgiram intera&amp;ccedil;&amp;otilde;es que foram al&amp;eacute;m-resolu&amp;ccedil;&amp;atilde;o do problema...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Orlando:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As coisas s&amp;atilde;o assim porque o fluxo e comodidade dos mercados ainda est&amp;aacute; em sua maioria atrelada &amp;agrave;s estrat&amp;eacute;gias das ind&amp;uacute;strias, que procuram justamente desarticular alternativas, sempre, a todo momento, com a programa&amp;ccedil;&amp;atilde;o da obsolesc&amp;ecirc;ncia percebida e planejada e com a inviabiliza&amp;ccedil;&amp;atilde;o de desenvolvimento para uma s&amp;eacute;rie de coisas que n&amp;atilde;o seja dentro de suas regras. Triste mundo real.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tati Prado:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quanto &amp;agrave; l&amp;oacute;gica dos mercados, &amp;eacute; realmente uma coisa perversa. Outro dia uma amiga ia comprar um netbook simples, pra usar pra texto e email, nada mais, e tava sem grana. Sugeri que escolhesse uma m&amp;aacute;quina que n&amp;atilde;o viesse com windows e ela achou uma que vinha com o mandriva. Deu pau tr&amp;ecirc;s vezes nos primeiros dois meses de uso. Pergunta se algu&amp;eacute;m do suporte conseguia resolver? E aquela epop&amp;eacute;ia pra acionar a garantia e fazer valer a assist&amp;ecirc;ncia t&amp;eacute;cnica? A conclus&amp;atilde;o, pra quem nunca usou Software Livre &amp;eacute; a mais &amp;oacute;bvia: isso a&amp;iacute; nunca mais. Dif&amp;iacute;cil saber que esse &amp;eacute; o modus operandi e ainda se consegue fazer muito pouco contra...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iuri:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eu j&amp;aacute; penso em fazer diferentes protocolos se comunicarem h&amp;aacute; muito tempo, principalmente protocolos de transmiss&amp;atilde;o de dados. Ent&amp;atilde;o o que eu tenho aqui s&amp;atilde;o algumas m&amp;aacute;quinas que servem para armazenar dados, ou servem como &amp;quot;tradutores&amp;quot; para fazer dados trafegarem de diferentes m&amp;aacute;quinas. A ind&amp;uacute;stria chama estes computadores de NAS (network attached storage) e vendem como solu&amp;ccedil;&amp;otilde;es prontas uns aparelhos que se ligam &amp;agrave; rede local e t&amp;ecirc;m barramentos para discos r&amp;iacute;gidos convencionais ou por USB. A ideia &amp;eacute; que qualquer m&amp;aacute;quina, independente de sistema operacional ou protocolo utilizado (contanto que n&amp;atilde;o seja um SPARC ou um comptuador com algum protocolo que nenhum outro computador usa) consegue transmitir informa&amp;ccedil;&amp;otilde;es, inclusive (e o mais interessante) dados de arquivos. Ou seja, a m&amp;aacute;quina serve para qualquer um com Linux, Windows, MacOS, etc. Conseguir usar qualquer protocolo de transfer&amp;ecirc;ncia de arquivos para se comunicarem como se utilizassem um protocolo &amp;uacute;nico. Eu uso estas maquininhas h&amp;aacute; muito tempo, porque j&amp;aacute; tive estes problemas que a Tatiana est&amp;aacute; apresentando aqui h&amp;aacute; anos atr&amp;aacute;s. Principalmente quando o pessoal come&amp;ccedil;ou a usar Ubuntu e tinham dificuldades para configurar o maldito SMB pra acessar redes Windows (parab&amp;eacute;ns ao pessoal que desenvolve o samba, a prop&amp;oacute;sito).&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Maquinas-ter-ou-fazer#comments</comments>
+ <category domain="http://mutgamb.org/tag/autonomias">autonômias</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/879</wfw:commentRss>
+ <pubDate>Wed, 26 Sep 2012 11:05:07 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">879 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Experimentações, Máquinas e Bios DIY&#039;s</title>
+ <link>http://mutgamb.org/blog/Experimentacoes-Maquinas-e-Bios-DIYs</link>
+ <description>&lt;p&gt;Chico Sim&amp;otilde;es compartilhou uma das atividades do &lt;a href=&quot;http://hackleste.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;HackLab Leste&lt;/a&gt;, no SESC Belenzinho, em S&amp;atilde;o Paulo, que acontecer&amp;aacute; entre os dias 11 de setembro a 4 de outubro. Trata-se do &lt;a href=&quot;http://www.sescsp.org.br/sesc/programa_new/mostra_detalhe.cfm?programacao_id=228364&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Air Hack Table&lt;/strong&gt;&lt;/a&gt;, projeto que envolve a constru&amp;ccedil;&amp;atilde;o de um instrumento musical eletr&amp;ocirc;nico controlado por origamis, sob a orienta&amp;ccedil;&amp;atilde;o do coletivo &lt;a href=&quot;http://wiki.nosdigitais.teia.org.br/Lab_Macambira&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Lab Macambira&lt;/a&gt;. As inscri&amp;ccedil;&amp;otilde;es podem ser feitas na unidade do SESC Belenzinho, s&amp;atilde;o 20 vagas, para pessoas acima de 16 anos.&lt;/p&gt;
+&lt;p&gt;Em outro SESC, no Sorocaba, Guima e Pixel est&amp;atilde;o com a proposta das &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Experimenta&amp;ccedil;&amp;otilde;es EletrOrg&amp;acirc;nicas&lt;/a&gt;, no LabLivre, direcionada &amp;agrave; pesquisa e desenvolvimento de sistemas de computa&amp;ccedil;&amp;atilde;o f&amp;iacute;sica que interagem de forma anal&amp;oacute;ga e digital com a flora e a fauna.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://internetlivre.sescsp.org.br/wp-content/uploads/2012/09/eletrorg.jpg&quot; style=&quot;height: 315px; width: 420px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Guima, ainda, linkou &lt;a href=&quot;http://style.greenvana.com/2012/plantas-podem-servir-como-acessorios-para-aparelhos-eletronicos/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;esse post interessante&lt;/a&gt;, com esse videozinho:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/EcRSKEIucjk&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;E, Ivan Henriques que exp&amp;ocirc;s a &lt;a href=&quot;http://ivanhenriques.com/2011/06/02/jurema-action-plant/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Jurema Action Plant&lt;/a&gt;&amp;nbsp; durante a &lt;a href=&quot;http://cigac.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;CIGAC&lt;/a&gt;, compartilhou link do &lt;a href=&quot;http://www.transnatural.nl/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Transnatural Festival&lt;/a&gt;, evento focado em autonomias e propostas experimentais de Biotecnologias DIY.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Experimentacoes-Maquinas-e-Bios-DIYs#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/865</wfw:commentRss>
+ <pubDate>Sun, 09 Sep 2012 10:17:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">865 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Plaquinhas...</title>
+ <link>http://mutgamb.org/blog/Plaquinhas</link>
+ <description>&lt;p&gt;Fabs trouxe &amp;agrave; lista um link do &lt;a href=&quot;http://pt.wikipedia.org/wiki/Raspberry_Pi&quot; rel=&quot;nofollow&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Raspberry_Pi_Photo.jpg/800px-Raspberry_Pi_Photo.jpg&quot; style=&quot;width: 420px; height: 310px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.farnellnewark.com.br/placaparaprogramacaoraspberrypiraspbrrypcba,product,83T1943,0.aspx&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mais infos sobre ele aqui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E &lt;a href=&quot;http://mutgamb.org/blog/Arduinos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;continuando a thread sobre arduino&lt;/a&gt;, surgiram as intera&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(...) um esquema para fazer o arduino mais simples poss&amp;iacute;vel, &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;numa protoboard&lt;/a&gt;. Nesse projeto eu &lt;a href=&quot;http://artesanato.devolts.org/?page_id=303&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;tamb&amp;eacute;m mostro como fazer a conex&amp;atilde;o serial&lt;/a&gt;, igualzinho o &amp;quot;Severino&amp;quot;. Lembre-se que se voc&amp;ecirc; comprar o Atmega virgem tera que carregar o bootloader (firmware b&amp;aacute;sico do arduino que interpreta o set de fun&amp;ccedil;&amp;otilde;es do projeto) &lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;na primeira vez e para isso fazer um cabo de porta paralela&lt;/a&gt; para gravar na protoboard. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tentei montar o &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC18F2550_Pinguino&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pinguino&lt;/a&gt; ontem mas a documenta&amp;ccedil;&amp;atilde;o t&amp;aacute; meio confusa, e s&amp;oacute; na pr&amp;aacute;tica que, entendi que antes de usar voc&amp;ecirc; tem que gravar o bootloader dele, similar ao que acontece com Arduino, e pra isso vai ter que construir ou comprar um gravador de &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC_programmer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;PIC tamb&amp;eacute;m&lt;/a&gt;, mas n&amp;atilde;o achei nada t&amp;atilde;o simples como o gravador de porta paralela que&lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; costum&amp;aacute;vamos usar com Arduino&lt;/a&gt;. Se algu&amp;eacute;m que mexe com PIC quer dar uma sugest&amp;atilde;o, digal&amp;aacute;. Pra quem ja mexe com Arduino daria pra fazer o gravador de PIC usando o Arduino mesmo &lt;a href=&quot;https://sites.google.com/site/thehighspark/arduino-pic18f&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com esse m&amp;eacute;todo&lt;/a&gt;,&lt;br /&gt;
+	A conclus&amp;atilde;o que eu chego depois de anos usando o Arduino e vendo varios tipos de oficina acontecer, &amp;eacute; que o barato as vezes pode sair caro, e no caso do Arduino o melhor mesmo pros iniciantes &amp;eacute; comprar uma placa usb ja montada, pra primeiro sacar o ambiente todo e depois pensar no que pra que de tudo isso. Uma op&amp;ccedil;&amp;atilde;o que promete desenrolar em algo interessante agora &amp;eacute; essa nova vers&amp;atilde;o do Arduino &lt;a href=&quot;http://txapuzas.blogspot.com.br/2009/12/paperduino-leonardo-clon-de-arduino.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;chamada Leonardo&lt;/a&gt;, que ja vem tb com USB embutida no chip, porem n&amp;atilde;o &amp;eacute; um chip de facil montagem na protoboard, falta ainda esse ultimo passo e a coisa vai explodir de vez. Enquanto isso vai chegando tambem algo similar em 32 bits, da&amp;iacute; vai dar pra ter sistema operacional nessas placas e a coisa muda de figura... &lt;a href=&quot;http://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Plaquinhas#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/raspberry-pi">raspberry pi</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/855</wfw:commentRss>
+ <pubDate>Sat, 25 Aug 2012 09:55:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">855 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Reciências</title>
+ <link>http://mutgamb.org/blog/Reciencias</link>
+ <description>&lt;p&gt;Marcelo Braz compartilhou a digitaliza&amp;ccedil;&amp;atilde;o dos &lt;a href=&quot;http://http://www.popsci.com/archives&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;140 de arquivos da revista Popular Science&lt;/a&gt;. Cleber trouxe um artigo sobre &lt;a href=&quot;http://www.theatlantic.com/technology/archive/2012/06/a-perfect-and-beautiful-machine-what-darwins-theory-of-evolution-reveals-about-artificial-intelligence/258829/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;evolucionismo e tecnologias&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E, falando de novos/velhos mundos e novos/velhos futuros, Morgana escreveu um &lt;a href=&quot;http://morganapoiesis.wikispaces.com/de+um+trajeto+po%C3%A9tico+pol%C3%ADtico&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;texto aqui&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;&amp;Eacute; necess&amp;aacute;rio guardar o suficiente de cada organismo para que ele se recomponha a cada aurora; pequenas provis&amp;otilde;es de signific&amp;acirc;ncia e de interpreta&amp;ccedil;&amp;atilde;o, &amp;eacute; tamb&amp;eacute;m necess&amp;aacute;rio conservar, inlcusive para op&amp;ocirc;-las ao seu pr&amp;oacute;prio sistema, quando as circunst&amp;acirc;ncias o exigem, quando as coisas, as pessoas, inclusive as situa&amp;ccedil;&amp;otilde;es nos obrigam; e pequenas ra&amp;ccedil;&amp;otilde;es de subjetividade, &amp;eacute; preciso conservar suficientemente para poder responder &amp;agrave; realidade dominante&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Reciencias#comments</comments>
+ <category domain="http://mutgamb.org/tag/apropriacoes">apropriações</category>
+ <category domain="http://mutgamb.org/tag/ciencias">ciências</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/772</wfw:commentRss>
+ <pubDate>Tue, 26 Jun 2012 10:30:46 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">772 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Tramissores, Rádios e DIY</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY</link>
+ <description>&lt;p&gt;Jos&amp;eacute; Neto compartilhou &lt;a href=&quot;http://mutgamb.org/sites/mutgamb.org/files/trans.pdf&quot; rel=&quot;nofollow&quot;&gt;um esquema de um transmissor de pequena pot&amp;ecirc;ncia&lt;/a&gt;, que ligado a uma antena pode transmitir alcan&amp;ccedil;ar v&amp;aacute;rios quilometros: &amp;quot;as comunica&amp;ccedil;&amp;otilde;es entre a terra e a lua foram efetuadas com menos de um watt. Com uma antena de 15 cm podera chegar a 100 metros&amp;quot;. Jos&amp;eacute; trouxe um relato sobre sua experi&amp;ecirc;ncia com r&amp;aacute;dio transmissores:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O modo de conectar um r&amp;aacute;dio transmissor e um oscilador em alta frequ&amp;ecirc;ncia a uma antena vem desde a &amp;eacute;poca do Marconi, quando com um faiscador de alta frequ&amp;ecirc;ncia conseguiu transmitir uma mensagem atrav&amp;eacute;s de uma dist&amp;acirc;ncia muito grande. Hoje se fizermos algo do tipo iremos ter a Anatel e a Policia Federal em nossa porta, uma vez que gerar interfer&amp;ecirc;ncia nas ondas eletromagn&amp;eacute;ticas &amp;eacute; crime federal. Para fazer isso, hoje, voc&amp;ecirc; tem que ser selado, carinbado e rotulado. Para transmitir a informa&amp;ccedil;&amp;atilde;o, m&amp;uacute;sica, ou voz, as ondas precisam ser moduladas em frequ&amp;ecirc;ncia (FM) ou amplitude (AM). Modular em frequ&amp;ecirc;ncia &amp;eacute; bem mais f&amp;aacute;cil e menos perigoso. Para modularmos em amplitude e termos alcance &amp;eacute; preciso bastante for&amp;ccedil;a, por isso pra se fazer um transmissor em AM prescisa-se utilizar v&amp;aacute;lvulas, que prescisam de alta tens&amp;atilde;o, ou seja &amp;eacute; bastante perigoso para leigos no assunto. Hoje tenho alguns transmissores menores e alguns bem potentes. Quanto ao &lt;em&gt;DIY&lt;/em&gt; podemos existem projetos bem simples que podem ser montados com cuidado e assim poder explorar com seguran&amp;ccedil;a o espectro eletromagn&amp;eacute;tico. Os transmissores &lt;em&gt;DIY&lt;/em&gt; podem gerar radia&amp;ccedil;&amp;atilde;o em frequ&amp;ecirc;ncias m&amp;uacute;ltiplas, inclusive fora da faixa recomendada. No Brasil e no mundo existem canais separados, alguns com uso exclusivo da pol&amp;iacute;cia, bombeiros, navega&amp;ccedil;&amp;atilde;o, por isso &amp;eacute; preciso ter crit&amp;eacute;rios para utilizar algo mais potente que tenha alcance de quil&amp;ocirc;metros, por que interferir nesse espectro &amp;eacute; crime, da processo e na insist&amp;ecirc;ncia at&amp;eacute; cadeia. Mas existem tamb&amp;eacute;m a possibilidade e brechas na lei para equipamentos em baixa pot&amp;ecirc;ncia, redes de r&amp;aacute;dio, em pequenas pot&amp;ecirc;ncias em uma frequ&amp;ecirc;ncia livre e liberada.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Tramissores-Radios-e-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/tag/frequencia">frequência</category>
+ <category domain="http://mutgamb.org/tag/jose-neto">josé neto</category>
+ <category domain="http://mutgamb.org/tag/radio">radio</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/753</wfw:commentRss>
+ <pubDate>Thu, 31 May 2012 09:38:42 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">753 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Céus, Mares e Servidores </title>
+ <link>http://mutgamb.org/blog/Ceus-Mares-e-Servidores</link>
+ <description>&lt;p&gt;Marcelo Braz iniciou a thread sobre servidores distribu&amp;iacute;dos, linkando a alternativa do Pirate Bay que colocou seus servidores nos c&amp;eacute;us, &lt;a href=&quot;http://www.techradar.com/news/internet/pirate-bay-to-take-its-servers-to-the-skies-1072089&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com ve&amp;iacute;culos a&amp;eacute;reos n&amp;atilde;o tripulados&lt;/a&gt; (aka drones). Liquuid comentou&amp;nbsp; Felipe Fonseca que foi pioneiro nessa proposta, e Felipe que esteve na &lt;a href=&quot;http://nuvem.tk&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nuvem&lt;/a&gt; por esses dias, compartihou um &lt;a href=&quot;http://http://www.wired.com/beyond_the_beyond/2012/03/amazed-because-his-group-has-already-built-a-swarm-of-file-sharing-drones/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;outro link&lt;/a&gt; e nos contou:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Rolaram bal&amp;otilde;es e drones na nuvem h&amp;aacute; algumas semanas. Relato assim que der...&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Glerm que j&amp;aacute; tinha colado o&lt;a href=&quot;http://diydrones.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; DIY Drones&lt;/a&gt;, respondeu a minha pergunta sobre algu&amp;eacute;m estar distribuindo servidores nos mares copilando uma thread que nasceu na lista do Est&amp;uacute;dio Livre:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Alternativa mais vi&amp;aacute;vel e barata &amp;eacute; mudar para algum pa&amp;iacute;s sem acordos de propriedade intelectual ou at&amp;eacute; mesmo levar para alto mar, &amp;aacute;gua internacionais onde &amp;eacute; terra de ningu&amp;eacute;m. O problema ainda vai ser a sa&amp;iacute;da (rede), os troncos das redes (backbones) s&amp;atilde;o mantidos principalmente por grandes corpora&amp;ccedil;&amp;otilde;es. At&amp;eacute; as redes de pesquisa, como RNP2 e Internet2 dependem fortemente da infra das Teles.&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Rafael Reinher linkou o&amp;nbsp; &lt;a href=&quot;http://www.seasteading.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Seasteding Institute&lt;/a&gt; e a &lt;a href=&quot;http://www.asap-island.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Asap Island&lt;/a&gt;. Paulo Bicarato contribuiu para discuss&amp;atilde;o linkando um post sobre &lt;a href=&quot;http://alfarrabio.org/index.php?itemid=1626&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sealand&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;No inverno de 1966, uma fam&amp;iacute;lia inglesa, liderada pelo patriarca Roy Bates, apoderou-se de uma base militar no meio do mar com a inten&amp;ccedil;&amp;atilde;o de restaur&amp;aacute;-la e criar ali uma r&amp;aacute;dio pirata. Roy &amp;eacute; um ex-veterano de guerra, que lutou em conflitos no Norte da &amp;Aacute;frica e na It&amp;aacute;lia, e acabou se tornando um pequeno empreendedor, incluindo um neg&amp;oacute;cio de venda de carnes e um barco profissional de pesca. No come&amp;ccedil;o dos anos 60, ele tomou posse de uma base militar chamada Knock John, no T&amp;acirc;misa, e dali transmitia m&amp;uacute;sica pop por uma r&amp;aacute;dio pirata.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Ceus-Mares-e-Servidores#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/msst">msst</category>
+ <category domain="http://mutgamb.org/tag/servidores-livres">servidores livres</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/636</wfw:commentRss>
+ <pubDate>Tue, 27 Mar 2012 11:48:43 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">636 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

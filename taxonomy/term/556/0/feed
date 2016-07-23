@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - sanemaneto básico</title>
+ <link>http://mutgamb.org/taxonomy/term/556/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Chega de Fossa</title>
+ <link>http://mutgamb.org/blog/Chega-de-Fossa</link>
+ <description>&lt;p&gt;Liquuid compartilhou na lista um v&amp;iacute;deo sobre uma solu&amp;ccedil;&amp;atilde;o DIY para saneamento b&amp;aacute;sico:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/HQMgotBb7FQ&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Chega-de-Fossa#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/liquuid">liquuid</category>
+ <category domain="http://mutgamb.org/tag/sanemaneto-basico">sanemaneto básico</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/631</wfw:commentRss>
+ <pubDate>Thu, 22 Mar 2012 12:01:34 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">631 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

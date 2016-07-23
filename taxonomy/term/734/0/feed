@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - cinema</title>
+ <link>http://mutgamb.org/taxonomy/term/734/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Cines livres</title>
+ <link>http://mutgamb.org/blog/Cines-livres</link>
+ <description>&lt;div class=&quot;content&quot;&gt;
+	&lt;p&gt;O CCE_SP sediou dois encontros do &lt;a href=&quot;http://florestavermelha.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Floresta Vermelha&lt;/a&gt; sobre produ&amp;ccedil;&amp;atilde;o de cinema digital usando harware e software abertos. As atividades aconteceram em 28 de junho e 12 de julho, e Miguel documentou imagens&lt;a href=&quot;http://www.flickr.com/photos/ccesaopaulo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; por aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Nas discuss&amp;otilde;es que surgiram na thread de listas crosspostadas (metareciclagem, submidialogia, cultura digital e est&amp;uacute;dio livre)...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Felipe Sanches&lt;/strong&gt; ressaltou:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Projeto bem legal, mas tem uma nuance a&amp;iacute;... Apesar do design de hardware da c&amp;acirc;mera de v&amp;iacute;deo ser aberto e o software que roda no hardware ser livre, a ferramenta necess&amp;aacute;ria para compilar a descri&amp;ccedil;&amp;atilde;o de hardware em um bitstream de configura&amp;ccedil;&amp;atilde;o da FPGA utilizada &amp;eacute; propriet&amp;aacute;rio. &amp;Eacute; in&amp;uacute;til (do ponto de vista de liberdade) ter um c&amp;oacute;digo livre, sem ter uma ferramenta livre de compila&amp;ccedil;&amp;atilde;o. Baixei o c&amp;oacute;digo do projeto e vi que no meio de um dos scripts de compila&amp;ccedil;&amp;atilde;o temos a seguinte mensagem: echo &amp;quot;No Xilinx ISE/Webpack installation found. You need to download and install it from Xilinx web site to use unisims Verilog library&amp;quot;; Xilinx ISE/Webpack &amp;eacute; a tal ferramenta propriet&amp;aacute;ria necess&amp;aacute;ria pra botar pra funcionar esse projeto. N&amp;atilde;o estou fazendo isso pra meter dedo na ferida, n&amp;atilde;o! S&amp;oacute; estou alertando que por mais que a inten&amp;ccedil;&amp;atilde;o seja boa, ainda n&amp;atilde;o &amp;eacute; a solu&amp;ccedil;&amp;atilde;o definitiva, deixa a desejar. Mas &amp;eacute; &amp;oacute;bvio que j&amp;aacute; &amp;eacute; um grande passo na dire&amp;ccedil;&amp;atilde;o certa! O importante &amp;eacute; n&amp;atilde;o se esquecer desses detalhes; n&amp;atilde;o parar no meio do caminho s&amp;oacute; por que a primeira metade foi do caralho. Temos que ir at&amp;eacute; o fim... precisamos de um substituto livre para o Xilinx ISE/Webpack ou algo equivalente.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;e, Miguel replicou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A contradi&amp;ccedil;&amp;atilde;o &amp;eacute; clara mas de fato &amp;eacute; o caminho que se tem que seguir, pois uma pureza livre nesse campo &amp;eacute; bem remota: temos que passar pela lente, pela capa pl&amp;aacute;stica, pelo computador que processar&amp;aacute; as imagens. Tamb&amp;eacute;m n&amp;atilde;o vejo o seu mail como cr&amp;iacute;tica mas sim uma contribui&amp;ccedil;&amp;atilde;o espec&amp;iacute;fica e concreta. Tudo passa um pouco pela propaganda, o SL para se impor passou a anos atr&amp;aacute;s por isso para que deposi viessem pouco a pouco os avan&amp;ccedil;os e o corte do deslumbramento f&amp;aacute;cil!!! bora que a estrada &amp;eacute; bem, bem, bem longa. Inclusive em conversa com outros coletivos existe at&amp;eacute; mesmo a cr&amp;iacute;tica que se pergunta se &amp;eacute; mesmo desej&amp;aacute;vel buscar a super defini&amp;ccedil;&amp;atilde;o no campo do cinema.&lt;/p&gt;&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Cines-livres#comments</comments>
+ <category domain="http://mutgamb.org/tag/cinema">cinema</category>
+ <category domain="http://mutgamb.org/tag/florestaorg">floresta.org</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/806</wfw:commentRss>
+ <pubDate>Wed, 18 Jul 2012 10:50:39 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">806 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

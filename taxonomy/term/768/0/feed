@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - cms</title>
+ <link>http://mutgamb.org/taxonomy/term/768/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Um saitê, pra quê?</title>
+ <link>http://mutgamb.org/blog/Um-saite-pra-que</link>
+ <description>&lt;p&gt;Vitor Sousa pediu indica&amp;ccedil;&amp;otilde;es de ferramentas livres on-line para cria&amp;ccedil;&amp;atilde;o de sites, e Iuri provocou:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O que &amp;eacute; &amp;quot;montar um site e coloc&amp;aacute;-lo no ar&amp;quot;? Precisa saber mais que html pra isso? Precisa saber mais que portugu&amp;ecirc;s pra isso? Precisa &amp;quot;saber&amp;quot;? &amp;Eacute; &amp;uacute;til saber um basic&amp;atilde;o de html pra escrever em hypertexto, mas tem at&amp;eacute; ferramentas que fazem isso, como por exemplo o libreoffice que gera um xml automaticamente a partir de texto puro que a gente digita e de formata&amp;ccedil;&amp;otilde;es que a gente s&amp;oacute; enxerga o resultado final. O que mais precisa pra botar um site no ar? Conhecimento b&amp;aacute;sico de css, talvez? Conhecimento b&amp;aacute;sico sobre hospedagem, servidor web, talvez? Provavelmente a &amp;uacute;ltima pergunta nem se aplica neste caso aqui, pois o postador original j&amp;aacute; deu a entender que vai contratar um servi&amp;ccedil;o de hospedagem com dom&amp;iacute;nio pronto, ent&amp;atilde;o conhecimento sobre registro de dom&amp;iacute;nio ou sobre como funciona um servidor web s&amp;atilde;o irrelevantes. Que mais ferramentas precisamos? PHP? Django? Perl? Haserl? Javascript? JavaWEB (sei l&amp;aacute; o nome certo dessa merda)? Asp? DotNet? Flash? Porque ser&amp;aacute; que precisamos de frameworks, ou outras t&amp;eacute;cnicas para publicarmos informa&amp;ccedil;&amp;atilde;o que fique dispon&amp;iacute;vel para todos? Porque ser&amp;aacute; que precisamos de Wordpress, Joomla, E-Commerce, Drupal, Doku, etc.? Ser&amp;aacute; que isto &amp;eacute; realmente necess&amp;aacute;rio? Qual &amp;eacute; o problema com p&amp;aacute;ginas somente com texto plano? O que &amp;eacute; o importante? A informa&amp;ccedil;&amp;atilde;o? Ou a imagem? At&amp;eacute; que ponto &amp;eacute; interessante &amp;quot;embelezar&amp;quot; o site? At&amp;eacute; que ponto &amp;eacute; interessante criar atrativos pra fazer o visitante voltar ao site? Eu quero que algu&amp;eacute;m volte mais vezes no meu site? Pra que? Por que? Estou vendendo alguma coisa? Estou tentando convencer algu&amp;eacute;m do meu ponto de vista? Pra qu&amp;ecirc;? Por qu&amp;ecirc;?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Glerm sugeriu o &lt;a href=&quot;http://hotglue.me/demo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Hotglue&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O que gosto no hotglue &amp;eacute; que ele devolve um pouco dos labirintos de hypertexto da web dos anos 90. &amp;Eacute; poss&amp;iacute;vel instalar uma vers&amp;atilde;o no seu pr&amp;oacute;prio servidor ou voc&amp;ecirc; pode criar um subdominio ali mesmo... Mas se o neg&amp;oacute;cio &amp;eacute; plain HTML, claro, faz no vim (&lt;a href=&quot;http://1010.co.uk/gneve.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ou quer emacs? quer editar v&amp;iacute;deo em emacs?&lt;/a&gt;) J&amp;aacute; que mencionou wordpress talvez queira fazer um blog? N&amp;atilde;o sei, &lt;a href=&quot;http://www.qualquer.org/tosqueira/manifesto.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;pra isso eu retornaria nas suas perguntas tamb&amp;eacute;m&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Um-saite-pra-que#comments</comments>
+ <category domain="http://mutgamb.org/tag/cms">cms</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <category domain="http://mutgamb.org/tag/sites">sites</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/834</wfw:commentRss>
+ <pubDate>Mon, 06 Aug 2012 10:44:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">834 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

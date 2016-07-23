@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>admin&#039;s blog</title>
+ <link>http://mutgamb.org/blogs/admin</link>
+ <description>O Mutirão da Gambiarra é um coletivo editorial ligado à rede MetaReciclagem.</description>
+ <language>pt-br</language>
+<item>
+ <title>Intermezzo</title>
+ <link>http://mutgamb.org/Blog/Intermezzo</link>
+ <description>&lt;p&gt;J&amp;aacute; fazem quase dois meses que fechei a vers&amp;atilde;o beta da &lt;a href=&quot;http://mutirao.metareciclagem.org/wiki/PrimeiraEdicao&quot; rel=&quot;nofollow&quot;&gt;primeira edi&amp;ccedil;&amp;atilde;o&lt;/a&gt; do Mutir&amp;atilde;o da Gambiarra. No meio-tempo, estive envolvido com outras coisas, mas ainda existem planos por aqui: revisar a primeira edi&amp;ccedil;&amp;atilde;o (contando com ajuda fundamental, e talvez adicionando algum relato do encontr&amp;atilde;o em janeiro) e transform&amp;aacute;-la em publica&amp;ccedil;&amp;atilde;o de verdade, come&amp;ccedil;ar a coletar textos pra segunda (teoria da pr&amp;aacute;tica da teoria, ou algo que o valha) e preparar outra chamada aberta. A terceira (mitoreciclagem, fic&amp;ccedil;&amp;atilde;o tecnom&amp;aacute;gica e a sugest&amp;atilde;o do glerm, po&amp;eacute;ticas p&amp;oacute;s-digitais) fica mais pra frente no ano.&lt;/p&gt;
+&lt;p&gt;Sobre a publica&amp;ccedil;&amp;atilde;o da primeira, j&amp;aacute; tem algumas conversas andando com parceiros em potencial. Eu tamb&amp;eacute;m gosto bastante da id&amp;eacute;ia de impress&amp;atilde;o on-demand como o &lt;a href=&quot;http://www.lulu.com/&quot; rel=&quot;nofollow&quot;&gt;lulu&lt;/a&gt;. Rafael.etc me passou tamb&amp;eacute;m os links do &lt;a href=&quot;http://www.ateliedolivro.com.br/&quot; rel=&quot;nofollow&quot;&gt;Ateli&amp;ecirc; do Livro&lt;/a&gt; e da &lt;a href=&quot;http://deriva.com.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=44&amp;amp;Itemid=53&quot; rel=&quot;nofollow&quot;&gt;Deriva&lt;/a&gt;, que s&amp;atilde;o brasileiros.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/Blog/Intermezzo#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/231">Blog</category>
+ <category domain="http://mutgamb.org/assunto/Tags/status">status</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/307</wfw:commentRss>
+ <pubDate>Fri, 13 Mar 2009 19:01:50 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">307 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>migrando o mutirão</title>
+ <link>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o</link>
+ <description>&lt;p&gt;(atualizando esse post)&lt;/p&gt;&lt;p&gt;acabei de completar a migra&amp;ccedil;&amp;atilde;o do mutir&amp;atilde;o para um vserver novo, que vai custar uns trocados mas deve dar mais disponibilidade do que nossa amiga aletta. aproveitei tamb&amp;eacute;m pra fazer atualiza&amp;ccedil;&amp;otilde;es de seguran&amp;ccedil;a do pr&amp;oacute;prio drupal e de alguns m&amp;oacute;dulos. amanh&amp;atilde; publico aqui um pouco de material novo ou recompilado que andei catando/armando.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/249</wfw:commentRss>
+ <pubDate>Tue, 22 Jul 2008 02:33:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">249 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Status do Mutirão - Junho</title>
+ <link>http://mutgamb.org/meta/Status-do-Mutir%C3%A3o-Junho</link>
+ <description>&lt;p&gt;Este site foi ao ar em fins de janeiro. Desde ent&amp;atilde;o, o que foi realizado nele:&lt;br /&gt;1) customiza&amp;ccedil;&amp;atilde;o geral do sistema&lt;br /&gt;2) customiza&amp;ccedil;&amp;atilde;o de um tema (tempor&amp;aacute;rio e ainda inadequado)&lt;br /&gt;3) elabora&amp;ccedil;&amp;atilde;o de conceitos relevantes &amp;agrave; produ&amp;ccedil;&amp;atilde;o editorial colaborativa, em especial as id&amp;eacute;ias de &#039;derivas&#039; e &#039;cole&amp;ccedil;&amp;otilde;es&#039; [1]&lt;br /&gt;4) testes com m&amp;oacute;dulos extras: node clone, annotate, bookmarks, etc&lt;br /&gt;5) cria&amp;ccedil;&amp;atilde;o de um nodetype chamado &#039;fonte&#039; para replicar documenta&amp;ccedil;&amp;atilde;o espalhada pela rede&lt;br /&gt;&lt;br /&gt;II. Conte&amp;uacute;do e conversas&lt;br /&gt;&lt;br /&gt;1) 47 pessoas cadastradas&lt;br /&gt;2) Primeira chamada por editorxs: 12 pessoas responderam e se cadastraram no site. Entretanto, n&amp;atilde;o est&amp;aacute; claro como participar&lt;br /&gt;3) 85 coment&amp;aacute;rios publicados&lt;br /&gt;4) Coleta e re-publica&amp;ccedil;&amp;atilde;o de quase uma centena de posts, com permalinks e datas originais [2]&lt;br /&gt;5) Sele&amp;ccedil;&amp;atilde;o de textos para uma primeira colet&amp;acirc;nea para a MetaReciclagem (cerca de uma d&amp;uacute;zia)&lt;br /&gt;6) Transcri&amp;ccedil;&amp;atilde;o das grava&amp;ccedil;&amp;otilde;es dos Di&amp;aacute;logos na Casinha (em processo)&lt;br /&gt;7) Re-instala&amp;ccedil;&amp;atilde;o de backups de 3 diferentes wikis da MetaReciclagem (em processo)&lt;br /&gt;&lt;br /&gt;[1] &lt;a href=&quot;http://mutirao.metareciclagem.org/blog/derivas&quot; title=&quot;http://mutirao.metareciclagem.org/blog/derivas&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/blog/derivas&lt;/a&gt;&lt;br /&gt;[2] &lt;a href=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; title=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/archive/fonte&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/meta/Status-do-Mutir%C3%A3o-Junho#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/187</wfw:commentRss>
+ <pubDate>Mon, 09 Jun 2008 14:51:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">187 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+name = Freelinking
+description = A filter that allows flexible linking of content
+package = Input filters
+core = 6.x
+dependencies[] = filter
+
+; Information added by Drupal.org packaging script on 2014-10-06
+version = "6.x-3.4"
+core = "6.x"
+project = "freelinking"
+datestamp = "1412584430"
+

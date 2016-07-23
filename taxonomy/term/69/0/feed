@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - software livre</title>
+ <link>http://mutgamb.org/taxonomy/term/69/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Máquinas: ter ou fazer?</title>
+ <link>http://mutgamb.org/blog/Maquinas-ter-ou-fazer</link>
+ <description>&lt;p&gt;Tati Prado levantou a quest&amp;atilde;o do uso do &lt;a href=&quot;http://www.asus.com/Eee/Eee_Pad/Eee_Pad_Transformer_TF101/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Asus Transformer (com a dock)&lt;/a&gt; na transfer&amp;ecirc;ncia de arquivos pesados via cabo para desktop, e surgiram intera&amp;ccedil;&amp;otilde;es que foram al&amp;eacute;m-resolu&amp;ccedil;&amp;atilde;o do problema...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Orlando:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As coisas s&amp;atilde;o assim porque o fluxo e comodidade dos mercados ainda est&amp;aacute; em sua maioria atrelada &amp;agrave;s estrat&amp;eacute;gias das ind&amp;uacute;strias, que procuram justamente desarticular alternativas, sempre, a todo momento, com a programa&amp;ccedil;&amp;atilde;o da obsolesc&amp;ecirc;ncia percebida e planejada e com a inviabiliza&amp;ccedil;&amp;atilde;o de desenvolvimento para uma s&amp;eacute;rie de coisas que n&amp;atilde;o seja dentro de suas regras. Triste mundo real.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tati Prado:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quanto &amp;agrave; l&amp;oacute;gica dos mercados, &amp;eacute; realmente uma coisa perversa. Outro dia uma amiga ia comprar um netbook simples, pra usar pra texto e email, nada mais, e tava sem grana. Sugeri que escolhesse uma m&amp;aacute;quina que n&amp;atilde;o viesse com windows e ela achou uma que vinha com o mandriva. Deu pau tr&amp;ecirc;s vezes nos primeiros dois meses de uso. Pergunta se algu&amp;eacute;m do suporte conseguia resolver? E aquela epop&amp;eacute;ia pra acionar a garantia e fazer valer a assist&amp;ecirc;ncia t&amp;eacute;cnica? A conclus&amp;atilde;o, pra quem nunca usou Software Livre &amp;eacute; a mais &amp;oacute;bvia: isso a&amp;iacute; nunca mais. Dif&amp;iacute;cil saber que esse &amp;eacute; o modus operandi e ainda se consegue fazer muito pouco contra...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Iuri:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eu j&amp;aacute; penso em fazer diferentes protocolos se comunicarem h&amp;aacute; muito tempo, principalmente protocolos de transmiss&amp;atilde;o de dados. Ent&amp;atilde;o o que eu tenho aqui s&amp;atilde;o algumas m&amp;aacute;quinas que servem para armazenar dados, ou servem como &amp;quot;tradutores&amp;quot; para fazer dados trafegarem de diferentes m&amp;aacute;quinas. A ind&amp;uacute;stria chama estes computadores de NAS (network attached storage) e vendem como solu&amp;ccedil;&amp;otilde;es prontas uns aparelhos que se ligam &amp;agrave; rede local e t&amp;ecirc;m barramentos para discos r&amp;iacute;gidos convencionais ou por USB. A ideia &amp;eacute; que qualquer m&amp;aacute;quina, independente de sistema operacional ou protocolo utilizado (contanto que n&amp;atilde;o seja um SPARC ou um comptuador com algum protocolo que nenhum outro computador usa) consegue transmitir informa&amp;ccedil;&amp;otilde;es, inclusive (e o mais interessante) dados de arquivos. Ou seja, a m&amp;aacute;quina serve para qualquer um com Linux, Windows, MacOS, etc. Conseguir usar qualquer protocolo de transfer&amp;ecirc;ncia de arquivos para se comunicarem como se utilizassem um protocolo &amp;uacute;nico. Eu uso estas maquininhas h&amp;aacute; muito tempo, porque j&amp;aacute; tive estes problemas que a Tatiana est&amp;aacute; apresentando aqui h&amp;aacute; anos atr&amp;aacute;s. Principalmente quando o pessoal come&amp;ccedil;ou a usar Ubuntu e tinham dificuldades para configurar o maldito SMB pra acessar redes Windows (parab&amp;eacute;ns ao pessoal que desenvolve o samba, a prop&amp;oacute;sito).&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Maquinas-ter-ou-fazer#comments</comments>
+ <category domain="http://mutgamb.org/tag/autonomias">autonômias</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/879</wfw:commentRss>
+ <pubDate>Wed, 26 Sep 2012 11:05:07 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">879 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Unesco chama mulheres livres</title>
+ <link>http://mutgamb.org/blog/Unesco-chama-mulheres-livres</link>
+ <description>&lt;p&gt;Uma &lt;a href=&quot;http://www.unesco.org/new/en/media-services/single-view/news/unesco_is_looking_for_initiatives_promoting_womens_role_in_free_and_open_source_software/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;iniciativa da UNESCO&lt;/a&gt; procura grupos e iniciativas para a&amp;nbsp; representa&amp;ccedil;&amp;atilde;o de mulheres em Software Livre e de C&amp;oacute;digo Aberto (Free and Open Source Software - FOSS). A ideia &amp;eacute; criar um reposit&amp;oacute;rio agregando tais iniciativas, uma vez que &amp;quot;&lt;em&gt;a maioria dos problemas relacionados com as desigualdades de g&amp;ecirc;nero na ind&amp;uacute;stria de software foram duplicados no campo do software livre&lt;/em&gt;&amp;quot;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Segundo o Relat&amp;oacute;rio da UNESCO sobre a Igualdade de G&amp;eacute;nero e de Software Livre e de C&amp;oacute;digo Aberto, menos de 20% dxs desenvolvedorxs e usu&amp;aacute;rixs de software livre TIC&amp;#39;s s&amp;atilde;o mulheres.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;As contribui&amp;ccedil;&amp;otilde;es podem ser enviadas por e-mail para: &lt;a href=&quot;mailto:foss@unesco.org&quot; rel=&quot;nofollow&quot;&gt;foss@unesco.org&lt;/a&gt;, ou &lt;a href=&quot;http://www.wsis-community.org/pg/pages/view/582094/foss-groups-for-women&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;na comunidade&lt;/a&gt;, fornecendo as seguintes informa&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;*para grupos: nome do grupo, de &amp;acirc;mbito nacional ou regional, uma breve introdu&amp;ccedil;&amp;atilde;o e no link.&lt;/p&gt;
+&lt;p&gt;* para iniciativas / atividades: t&amp;iacute;tulo e uma breve introdu&amp;ccedil;&amp;atilde;o incluindo metas, status e conquistas.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Unesco-chama-mulheres-livres#comments</comments>
+ <category domain="http://mutgamb.org/tag/mulheres">mulheres</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/unesco">unesco</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/861</wfw:commentRss>
+ <pubDate>Sun, 02 Sep 2012 11:44:12 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">861 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Desenhos livres</title>
+ <link>http://mutgamb.org/blog/Desenhos-livres</link>
+ <description>&lt;p&gt;Hudson trouxe uma dica sobre desenhos livres, o livro &lt;a href=&quot;http://softwarelivre.org/portal/comunidade/lancamento-do-livro-produzindo-animacoes-com-softwares-livres&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Produzindo Anima&amp;ccedil;&amp;otilde;es com Softwares Livres&lt;/a&gt;. A proposta, in&amp;eacute;dita, mostra conceitos t&amp;eacute;cnicos de composi&amp;ccedil;&amp;atilde;o de imagem ao uso (pr&amp;aacute;tico) dos softwares livres: Libre Office, Celtx, Inkscape, Gimp...&lt;/p&gt;
+&lt;p&gt;Para quem tiver interesse em conhecer melhor a proposta, Ricardo Gra&amp;ccedil;a, o autor do livro,&amp;nbsp; estar&amp;aacute; no dia 29 de agosto &amp;agrave;s 16 horas, &lt;a href=&quot;http://radio.ufscar.br:8000/radioufscar_64.ogg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;, no Frequ&amp;ecirc;ncia Aberta da R&amp;aacute;dio UFSCar.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://livraria.ricolandia.com/wp-content/themes/Ureeka/timthumb.php?src=http://livraria.ricolandia.com/wp-content/uploads/2012/08/capa.png&amp;amp;w=250&amp;amp;zc=1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Os interessados podem comprar seus exemplares impressos&lt;a href=&quot;http://livraria.ricolandia.com/book/produzindo-animacoes-com-softwares-livres/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; por aqui&lt;/a&gt;, no esquema &amp;ldquo;pague o quanto puder&amp;rdquo; (a partir de R$ 10,00 para custear a impress&amp;atilde;o gr&amp;aacute;fica+taxa de SEDEX), ou baixarem a vers&amp;atilde;o on-line...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Desenhos-livres#comments</comments>
+ <category domain="http://mutgamb.org/tag/animacao-livre">animação livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/livro">livro</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/853</wfw:commentRss>
+ <pubDate>Fri, 24 Aug 2012 11:01:16 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">853 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Iuri, no Bonobo: o que é livre?</title>
+ <link>http://mutgamb.org/blog/Iuri-no-Bonobo-o-que-e-livre</link>
+ <description>&lt;p&gt;O Caf&amp;eacute; Bonobo fica no Bom Fim. E l&amp;aacute;, os metarecicleiros deram bons come&amp;ccedil;os &amp;agrave;s discuss&amp;otilde;es e afetos, no dia 27 de julho, em Porto Alegre, enquanto rolava o &lt;a href=&quot;http://softwarelivre.org/fisl13/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;FISL13&lt;/a&gt;. &lt;a href=&quot;https://picasaweb.google.com/107462694667948864223/EncontroMetarecPortoAlegre&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Anne compartilhou imagens&lt;/a&gt; e Iuri trouxe relatos:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Conversando com a Fernanda Scur, o Diogo Leal e a Viviane aquela velha discuss&amp;atilde;o software propriet&amp;aacute;rio X software livre e no uso destas ferramentas, lembrei do e-mail da Fabiane do Peixe Morto e de outras oportunidades onde as pessoas discutem porque usam ou porque n&amp;atilde;o usam software livre ou software propriet&amp;aacute;rio. Tem essa coisa que todo mundo j&amp;aacute; sabe que acontece dos cursos de inform&amp;aacute;tica e mesmo os usu&amp;aacute;rios que ajudam outros usu&amp;aacute;rios ensinarem a usar softwares da Adobe por exemplo para desenvolver audiovisual, ou o pacote Microsoft Office para trabalho de escrit&amp;oacute;rio, e quando estes querem migrar para o software livre encontram dificuldade, levam muito tempo e normalmente s&amp;atilde;o escorra&amp;ccedil;ados, taxados de pregui&amp;ccedil;osos e sofrem com outras infantilidades. At&amp;eacute; a&amp;iacute; tudo bem, eu s&amp;oacute; ouvi essa conversa e fiz coment&amp;aacute;rios irrelevantes que n&amp;atilde;o tinham nada a ver com o caso. Agora o que me ocorreu que realmente me pareceu importante &amp;eacute; que hoje em dia neste processo de software livre for&amp;ccedil;ado pode come&amp;ccedil;ar a acontecer o contr&amp;aacute;rio em curt&amp;iacute;ssimo prazo e em alguns lugares em m&amp;eacute;dio e at&amp;eacute; longo prazo. Todos j&amp;aacute; devem saber que os governos federal e estaduais est&amp;atilde;o n&amp;atilde;o adotando mas OBRIGANDO a usar software livre. Ent&amp;atilde;o por exemplo quando eu dava aula de inform&amp;aacute;tica na prefeitura de Fortaleza eu tinha que ensinar com Libre Office, Linux, GIMP, Komposer, etc. Sendo que eu tinha CERTEZA que aqueles que fossem trabalhar com isso iam usar Windows, Microsoft Office, Photoshop, Dreamweaver, etc. Ent&amp;atilde;o me pareceu l&amp;oacute;gico que eu tinha que ao m&amp;aacute;ximo ensinar sempre conceitos e o m&amp;iacute;nimo poss&amp;iacute;vel dar aulas passo a passo sobre como utilizar os softwares apresentados, afinal eles tinham que ser capazes de usar qualquer software, propriet&amp;aacute;rio ou livre, para desempenhar a mesma fun&amp;ccedil;&amp;atilde;o. At&amp;eacute; fiquei meio com medo quando eu sa&amp;iacute; e o professor que ficou &amp;eacute; um destes bem intencionados que querem aprender, mas criam um preconceito e come&amp;ccedil;am a usar termos como &amp;quot;ruindows&amp;quot;, &amp;quot;programa do mal&amp;quot;, e n&amp;atilde;o conseguem entender o que leva uma pessoa a escolher usar software propriet&amp;aacute;rio no lugar de software livre. De que adiantaria as crian&amp;ccedil;as aprenderem a escrever html no gedit e leafpad, por exemplo, ou at&amp;eacute; mesmo usar IDEs como Komposer e fazer imagens no GIMP, se eu sei que l&amp;aacute; em Fortaleza eles v&amp;atilde;o encarar um mercado dominado pela Microsoft, Oracle e Adobe, para citar apenas algumas? Mas o pessoal do institucional ficava com um discursinho pronto que eles aprendem com os &amp;quot;linux die hards&amp;quot; por a&amp;iacute; e acham que est&amp;atilde;o salvando o mundo da opress&amp;atilde;o e do corporativismo porque est&amp;atilde;o trabalhando em um governo que &amp;quot;adota&amp;quot; o software livre (engra&amp;ccedil;ado que no computador que eles usam pra trabalhar s&amp;oacute; tem windows, e ainda &amp;eacute; xp porque eles n&amp;atilde;o querem aprender a usar as novas vers&amp;otilde;es, mas na hora de vir ensinar n&amp;oacute;s padres a rezar missa eles enchem a boca pra listar uma distor&amp;ccedil;&amp;atilde;o do que ta escrito no site da FSF, e que a maioria n&amp;atilde;o entende porra nenhuma, mas software livre ta dando votos e diminui custos).&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Iuri-no-Bonobo-o-que-e-livre#comments</comments>
+ <category domain="http://mutgamb.org/tag/fisl13">fisl13</category>
+ <category domain="http://mutgamb.org/tag/iuri">iuri</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/822</wfw:commentRss>
+ <pubDate>Sun, 29 Jul 2012 02:12:14 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">822 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Cines livres</title>
+ <link>http://mutgamb.org/blog/Cines-livres</link>
+ <description>&lt;div class=&quot;content&quot;&gt;
+	&lt;p&gt;O CCE_SP sediou dois encontros do &lt;a href=&quot;http://florestavermelha.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Floresta Vermelha&lt;/a&gt; sobre produ&amp;ccedil;&amp;atilde;o de cinema digital usando harware e software abertos. As atividades aconteceram em 28 de junho e 12 de julho, e Miguel documentou imagens&lt;a href=&quot;http://www.flickr.com/photos/ccesaopaulo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; por aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Nas discuss&amp;otilde;es que surgiram na thread de listas crosspostadas (metareciclagem, submidialogia, cultura digital e est&amp;uacute;dio livre)...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Felipe Sanches&lt;/strong&gt; ressaltou:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Projeto bem legal, mas tem uma nuance a&amp;iacute;... Apesar do design de hardware da c&amp;acirc;mera de v&amp;iacute;deo ser aberto e o software que roda no hardware ser livre, a ferramenta necess&amp;aacute;ria para compilar a descri&amp;ccedil;&amp;atilde;o de hardware em um bitstream de configura&amp;ccedil;&amp;atilde;o da FPGA utilizada &amp;eacute; propriet&amp;aacute;rio. &amp;Eacute; in&amp;uacute;til (do ponto de vista de liberdade) ter um c&amp;oacute;digo livre, sem ter uma ferramenta livre de compila&amp;ccedil;&amp;atilde;o. Baixei o c&amp;oacute;digo do projeto e vi que no meio de um dos scripts de compila&amp;ccedil;&amp;atilde;o temos a seguinte mensagem: echo &amp;quot;No Xilinx ISE/Webpack installation found. You need to download and install it from Xilinx web site to use unisims Verilog library&amp;quot;; Xilinx ISE/Webpack &amp;eacute; a tal ferramenta propriet&amp;aacute;ria necess&amp;aacute;ria pra botar pra funcionar esse projeto. N&amp;atilde;o estou fazendo isso pra meter dedo na ferida, n&amp;atilde;o! S&amp;oacute; estou alertando que por mais que a inten&amp;ccedil;&amp;atilde;o seja boa, ainda n&amp;atilde;o &amp;eacute; a solu&amp;ccedil;&amp;atilde;o definitiva, deixa a desejar. Mas &amp;eacute; &amp;oacute;bvio que j&amp;aacute; &amp;eacute; um grande passo na dire&amp;ccedil;&amp;atilde;o certa! O importante &amp;eacute; n&amp;atilde;o se esquecer desses detalhes; n&amp;atilde;o parar no meio do caminho s&amp;oacute; por que a primeira metade foi do caralho. Temos que ir at&amp;eacute; o fim... precisamos de um substituto livre para o Xilinx ISE/Webpack ou algo equivalente.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;e, Miguel replicou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A contradi&amp;ccedil;&amp;atilde;o &amp;eacute; clara mas de fato &amp;eacute; o caminho que se tem que seguir, pois uma pureza livre nesse campo &amp;eacute; bem remota: temos que passar pela lente, pela capa pl&amp;aacute;stica, pelo computador que processar&amp;aacute; as imagens. Tamb&amp;eacute;m n&amp;atilde;o vejo o seu mail como cr&amp;iacute;tica mas sim uma contribui&amp;ccedil;&amp;atilde;o espec&amp;iacute;fica e concreta. Tudo passa um pouco pela propaganda, o SL para se impor passou a anos atr&amp;aacute;s por isso para que deposi viessem pouco a pouco os avan&amp;ccedil;os e o corte do deslumbramento f&amp;aacute;cil!!! bora que a estrada &amp;eacute; bem, bem, bem longa. Inclusive em conversa com outros coletivos existe at&amp;eacute; mesmo a cr&amp;iacute;tica que se pergunta se &amp;eacute; mesmo desej&amp;aacute;vel buscar a super defini&amp;ccedil;&amp;atilde;o no campo do cinema.&lt;/p&gt;&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Cines-livres#comments</comments>
+ <category domain="http://mutgamb.org/tag/cinema">cinema</category>
+ <category domain="http://mutgamb.org/tag/florestaorg">floresta.org</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/806</wfw:commentRss>
+ <pubDate>Wed, 18 Jul 2012 10:50:39 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">806 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Flisol também em São Carlos</title>
+ <link>http://mutgamb.org/blog/Flisol-tambem-em-Sao-Carlos</link>
+ <description>&lt;p&gt;Desde 2008, o Festival Latinoamericano de Instala&amp;ccedil;&amp;atilde;o de Software Livre (Flisol) acontece, anualmente, no quartro s&amp;aacute;bado do m&amp;ecirc;s de abril. Comunidades dos pa&amp;iacute;ses Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Equador, Espanha, El Salvador, Guatemala, Honduras, M&amp;eacute;xico, Nicaragua, Panam&amp;aacute;, Paraguai, Peru, Rep&amp;uacute;blica Dominicana, Uruguai e Venezuela.&lt;/p&gt;
+&lt;p&gt;O MutGamb divulgou o &lt;a href=&quot;http://mutgamb.org/blog/Guarulhos-sediara-Festival-Latino-Americano-de-Instalacao-de-Software-Livre&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Flisol Guarulhos&lt;/a&gt; e agora compartilha a mesma iniciativa que acontecer&amp;aacute; em&lt;a href=&quot;http://www.installfest.info/FLISOL2012/Brasil/SaoCarlos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; S&amp;atilde;o Carlos&lt;/a&gt;, na mesma data, 28 de abril, das 09 horas &amp;agrave;s 18 horas, na Universidade Federal de S&amp;atilde;o Carlos (UFScar).&lt;/p&gt;
+&lt;p&gt;As inscri&amp;ccedil;&amp;otilde;es podem &lt;a href=&quot;http://goo.gl/Xw7cQ&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ser feitas aqui&lt;/a&gt; e a chamada de trabalho encontra-se&lt;a href=&quot;http://www.ifspsaocarlos.edu.br/flisol/chamada-de-trabalhos/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; dispon&amp;iacute;vel nesse link&lt;/a&gt;. Maiores informa&amp;ccedil;&amp;otilde;es podem ser&lt;a href=&quot;http://www.ifspsaocarlos.edu.br/flisol/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; encontradas no site oficial do evento&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;line867&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h1 id=&quot;SiteOficial&quot;&gt;
+	&amp;nbsp;&lt;/h1&gt;</description>
+ <comments>http://mutgamb.org/blog/Flisol-tambem-em-Sao-Carlos#comments</comments>
+ <category domain="http://mutgamb.org/tag/FLISOL">FLISOL</category>
+ <category domain="http://mutgamb.org/tag/sao-carlos">são carlos</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/673</wfw:commentRss>
+ <pubDate>Wed, 25 Apr 2012 11:53:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">673 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Guarulhos sediará Festival Latino Americano de Instalação de Software Livre</title>
+ <link>http://mutgamb.org/blog/Guarulhos-sediara-Festival-Latino-Americano-de-Instalacao-de-Software-Livre</link>
+ <description>&lt;p align=&quot;JUSTIFY&quot; class=&quot;western&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;O movimento de Software Livre, com o apoio da Prefeitura de Guarulhos, realizar&amp;aacute; no dia 28 de Abril de 2012 o &lt;a href=&quot;http://softwarelivre.org/flisol-guarulhos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Festival Latino Americano de Instala&amp;ccedil;&amp;atilde;o de Software Livre (Flisol) Guarulhos e Alto Tiet&amp;ecirc;&lt;/a&gt;. O Flisol contar&amp;aacute; com atividades como: oficinas, palestras, debates, al&amp;eacute;m do laborat&amp;oacute;rio de instala&amp;ccedil;&amp;atilde;o de linux.&lt;/p&gt;
+&lt;p class=&quot;western rtecenter&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;br /&gt;
+	&lt;img alt=&quot;&quot; src=&quot;http://softwarelivre.org/flisol-guarulhos/cartaz-flisol.png&quot; style=&quot;width: 420px; height: 595px;&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;JUSTIFY&quot; class=&quot;western&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&lt;br /&gt;
+	A programa&amp;ccedil;&amp;atilde;o do evento pode ser acessada nesse &lt;a href=&quot;http://softwarelivre.org/flisol-guarulhos/grade-atividades-flisol-2012.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;link&lt;/a&gt;. E outras informa&amp;ccedil;&amp;otilde;es podem ser esclarecidas por email: &lt;a href=&quot;mailto:flisolguarulhos@gmail.com&quot; rel=&quot;nofollow&quot;&gt;flisolguarulhos@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p align=&quot;JUSTIFY&quot; class=&quot;western&quot; style=&quot;margin-bottom: 0cm;&quot;&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Guarulhos-sediara-Festival-Latino-Americano-de-Instalacao-de-Software-Livre#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/eventos">eventos</category>
+ <category domain="http://mutgamb.org/tag/FLISOL">FLISOL</category>
+ <category domain="http://mutgamb.org/tag/guarulhos">guarulhos</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/670</wfw:commentRss>
+ <pubDate>Sun, 22 Apr 2012 12:39:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">670 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Fórum de Tecnologia e Software Livre em Curitiba</title>
+ <link>http://mutgamb.org/blog/Forum-de-Tecnologia-e-Software-Livre-em-Curitiba</link>
+ <description>&lt;p&gt;Patr&amp;iacute;cia Fisch compartilhou a chamada de trabalhos para o &lt;a href=&quot;http://ftsl.org.br&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;IV F&amp;oacute;rum de Tecnologia e Software Livre&lt;/a&gt; que acontecer&amp;aacute; entre os dias 23 e 24 de julho, em Curitiba. O prazo para submiss&amp;otilde;es se encerra em 01 de maio, e os resultados ser&amp;atilde;o comunicados em 01 de junho.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;O evento ser&amp;aacute; composto por minicursos, oficinas,&amp;nbsp; workshops, pain&amp;eacute;is e palestras proferidas por convidados de grande renome na &amp;aacute;rea tecnol&amp;oacute;gica. O Objetivo &amp;eacute;:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;
+			Demonstrar a qualidade e o crescimento regional na &amp;aacute;rea tecnol&amp;oacute;gica;&lt;/li&gt;
+		&lt;li&gt;
+			Incluir a cidade de Curitiba no calend&amp;aacute;rio nacional de eventos de Software Livre;&lt;/li&gt;
+		&lt;li&gt;
+			Promover e estimular o compartilhamento de experi&amp;ecirc;ncias entre comunidades de Software Livre e empresariado visando maior integra&amp;ccedil;&amp;atilde;o entre as partes;&lt;/li&gt;
+		&lt;li&gt;
+			Promover o uso e o desenvolvimento de software livre e de c&amp;oacute;digo aberto como alternativa econ&amp;ocirc;mica a pequenos, m&amp;eacute;dias e grandes empresas, sobre as tradicionais solu&amp;ccedil;&amp;otilde;es propriet&amp;aacute;rias de custos de licen&amp;ccedil;a elevados;&lt;/li&gt;
+		&lt;li&gt;
+			Estimular o desenvolvimento de tecnologia local com o uso do software livre, seja no campo empresarial, junto &amp;agrave;&amp;nbsp; administra&amp;ccedil;&amp;atilde;o p&amp;uacute;blica ou ainda no &amp;acirc;mbito acad&amp;ecirc;mico e comunit&amp;aacute;rio;&lt;/li&gt;
+		&lt;li&gt;
+			Oferecer aos participantes um momento de socializa&amp;ccedil;&amp;atilde;o envolvendo a tem&amp;aacute;tica do evento.&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;O FTSL abordar&amp;aacute; os seguintes enfoques dentro da tem&amp;aacute;tica do software livre: academia e tend&amp;ecirc;ncias, acessibilidade e mobilidade, banco de dados, computa&amp;ccedil;&amp;atilde;o em nuvem, desenvolvimento, linguagens e framework de programa&amp;ccedil;&amp;atilde;o, distribui&amp;ccedil;&amp;otilde;es Linux, computa&amp;ccedil;&amp;atilde;o gr&amp;aacute;fica e jogos, infraestrutura e redes, governo eletr&amp;ocirc;nico, inclus&amp;atilde;o digital, modelo de neg&amp;oacute;cios e&amp;nbsp; redes sociais.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Forum-de-Tecnologia-e-Software-Livre-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/eventos">eventos</category>
+ <category domain="http://mutgamb.org/tag/FTSL">FTSL</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/665</wfw:commentRss>
+ <pubDate>Tue, 17 Apr 2012 11:52:53 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">665 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Pontos de Cultura em HD</title>
+ <link>http://mutgamb.org/blog/Pontos-de-Cultura-em-HD</link>
+ <description>&lt;p&gt;O &lt;a href=&quot;http://labculturaviva.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;LabCulturaViva&lt;/a&gt; abriu quatro editais pensando em produ&amp;ccedil;&amp;otilde;es para serem exibidas em canais de TV aberta, sobretudo a TV Brasil, por isso exigem produtos em HD:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A exig&amp;ecirc;ncia do HDV &amp;eacute; apenas por conta desse aspecto t&amp;eacute;cnico da opera&amp;ccedil;&amp;atilde;o das TVs. O formato de capta&amp;ccedil;&amp;atilde;o &amp;eacute; livre, a exig&amp;ecirc;ncia &amp;eacute; apenas na finaliza&amp;ccedil;&amp;atilde;o do material. Agora que os filmes document&amp;aacute;rios do primeiro Edital est&amp;atilde;o ficando prontos, independente dessa discuss&amp;atilde;o, d&amp;aacute; para ter uma excelente ideia da pot&amp;ecirc;ncia de produ&amp;ccedil;&amp;atilde;o dos Pontos de Cultura, e a import&amp;acirc;ncia que essa produ&amp;ccedil;&amp;atilde;o tenha visibilidade massiva em todo o pa&amp;iacute;s.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PC, da Rede Mocambos, comentou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;div&gt;
+		&lt;p&gt;Definitivamente esse edital n&amp;atilde;o &amp;eacute; para Pontos de Cultura que utilizam softwares livres.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fabs replicou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Por que voc&amp;ecirc; diz que n&amp;atilde;o &amp;eacute; pra software livre? Vamos parar com esse estigma de que software livre n&amp;atilde;o&lt;br /&gt;
+		consegue trampar com HD, por favor! Consegue sim! Mesmo que tudo tenha sido capturado e trabalhado em baixa, o ffmpeg d&amp;aacute; conta de numa linha de comando, botar tudo pra HD e pronto. O saco &amp;eacute; ter de ficar fazendo testes com o arquivo at&amp;eacute; ficar a contento, ver se n&amp;atilde;o problema de frame rate e dessincroniza&amp;ccedil;&amp;atilde;o de som, etc. Mas isso faz parte do processo. A edi&amp;ccedil;&amp;atilde;o do HD &amp;eacute; que &amp;eacute; problem&amp;aacute;tica para m&amp;aacute;quinas de baixa performance, e isso independe do software. Mas no caso do edital isso pode ser feito em qualquer resolu&amp;ccedil;&amp;atilde;o. Minha cr&amp;iacute;tica &amp;eacute; no sentido da limita&amp;ccedil;&amp;atilde;o de experimenta&amp;ccedil;&amp;atilde;o de linguagens e est&amp;eacute;ticas que a imposi&amp;ccedil;&amp;atilde;o do HD causa, &amp;agrave; ditadura do HD em si, e n&amp;atilde;o ao formato, que pode ser convertido por qq conversor de m&amp;iacute;dia atual, at&amp;eacute; online.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Pontos-de-Cultura-em-HD#comments</comments>
+ <category domain="http://mutgamb.org/tag/editais">editais</category>
+ <category domain="http://mutgamb.org/tag/labculturaviva">labculturaviva</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/664</wfw:commentRss>
+ <pubDate>Sat, 14 Apr 2012 11:21:17 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">664 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Compartilhando tribos</title>
+ <link>http://mutgamb.org/blog/Compartilhando-tribos</link>
+ <description>&lt;p&gt;No dia 19 de abril &amp;eacute; celabrado o dia do &amp;iacute;ndio, e como forma de celebra&amp;ccedil;&amp;atilde;o a OƆA DIGITAL realizar&amp;aacute; fisicamente no munic&amp;iacute;pio de Ilh&amp;eacute;us/BA e na internet o evento &amp;quot;H&amp;aacute; Bra&amp;ccedil;os de PAZ&amp;quot;. O evento trar&amp;aacute; atividades colaborativas de arte e ativismo, muitas produ&amp;ccedil;&amp;otilde;es (em copyleft) j&amp;aacute; encontram-se dispon&amp;iacute;veis &lt;a href=&quot;http://www.ocadigital.art.br&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;no site&lt;/a&gt;. Os interessados em colaborar podem enviar &amp;aacute;udios, imagens, v&amp;iacute;deos e textos com a tem&amp;aacute;tica ind&amp;iacute;gena para o endere&amp;ccedil;o &lt;a href=&quot;mailto:remix@ocadigital.art.br&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;remix@ocadigital.art.br&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Regis Bailux leu o chamado de Pedro Jatob&amp;aacute; sobre o OƆA DIGITAL, compartilhou um conte&amp;uacute;do audiovisual diverso que &lt;a href=&quot;http://www.veengle.com/s/bailux.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;pode ser acessado aqui&lt;/a&gt; e documenta&amp;ccedil;&amp;otilde;es em v&amp;iacute;deo com os &amp;iacute;ndios patax&amp;oacute;s:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/1edhisUVDRc&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/188KQ4zfn7Q&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Marcelo Braz tamb&amp;eacute;m compartilhou uma experi&amp;ecirc;ncia interessante, a a&amp;ccedil;&amp;atilde;o de uma prefeitura na cria&amp;ccedil;&amp;atilde;o e disponibiliza&amp;ccedil;&amp;atilde;o de uma distribui&amp;ccedil;&amp;atilde;o de Linux em homenagem aos &lt;a href=&quot;http://telecidadania.blogspot.com.br/p/guarux.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&amp;iacute;ndios Guarus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Felipe Fonseca perguntou:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;ajy&quot;&gt;
+	&lt;img alt=&quot;&quot; class=&quot;ajz&quot; data-tooltip=&quot;Mostrar detalhes&quot; id=&quot;:16l&quot; role=&quot;button&quot; src=&quot;https://mail.google.com/mail/u/0/images/cleardot.gif&quot; tabindex=&quot;0&quot; /&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Os &amp;iacute;ndios guarux usam cocares coloridos assim?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Filho:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Sei que aqui em recife h&amp;aacute; uma lei de incentivo ao software livre que est&amp;aacute; cheia de poeira. Fiz uns dois (&lt;a href=&quot;http://www.pelivre.org/blog/?p=236&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;1&lt;/a&gt;,&lt;a href=&quot;http://www.pelivre.org/blog/?p=250&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;2&lt;/a&gt;) textos baseados nela, eu era meio verdinho na &amp;eacute;poca, mas acho que vale a pena cutucar essa ferida.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Marcelo Braz:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Guarus n&amp;atilde;o existem mais, na real &amp;eacute; uma palavra tupi que d&amp;aacute; origem ao nome da cidade. &amp;Eacute; muito comum alguns grupos mais antigos serem denominados de forma incorreta, porque geralmente era usada uma palavra pejorativa dada pelo n&amp;atilde;o &amp;iacute;ndios para design&amp;aacute;-los. Eles mesmo se autodenominavam de forma diferente em sua l&amp;iacute;ngua. Pela regi&amp;atilde;o ali devem ter passados os Guian&amp;atilde;s, ou Goianases (que d&amp;atilde;o nome a um bairro de S&amp;atilde;o Paulo), extintos tamb&amp;eacute;m. Hoje por l&amp;aacute; vivem Guarani, Patax&amp;oacute;, Pankarar&amp;eacute; e Pankararu e se n&amp;atilde;o me engano Fulni-&amp;ocirc;. Sei que quem foi para l&amp;aacute; tocar algumas coisas foi o Jesulino Alves, das antigas.&lt;br /&gt;
+		&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Compartilhando-tribos#comments</comments>
+ <category domain="http://mutgamb.org/tag/indios">índios</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/remix">remix</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/651</wfw:commentRss>
+ <pubDate>Sat, 07 Apr 2012 12:37:40 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">651 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

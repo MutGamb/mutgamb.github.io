@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - ocas</title>
+ <link>http://mutgamb.org/taxonomy/term/68/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Entrevista à Ocas</title>
+ <link>http://mutgamb.org/fonte/Entrevista-%C3%A0-Ocas</link>
+ <description>&lt;p&gt;Vamo lá, então…&lt;/p&gt;
+&lt;p&gt;&amp;gt; -O projeto Metáfora tem vários programas de Inclusão Digital envolvendo o&lt;br /&gt;
+&amp;gt; software livre GNU/Linux e a reciclagem de computadores para reutilizaçao.&lt;br /&gt;
+&amp;gt; Explique um pouco sobre o uso do software livre nas máquinas recicladas.&lt;/p&gt;
+&lt;p&gt;O projeto metáfora esvaziou-se há mais de um ano. O projeto MetaReciclagem surgiu dentro do projetometafora.org como uma solução para providenciar hardware para os outros projetos de tecnologia que foram gerados a partir da interação dos integrantes do projetometafora.&lt;/p&gt;
+&lt;p&gt;&amp;gt; -O projeto Metareciclagem é desenvolvido por quem?&lt;/p&gt;
+&lt;p&gt;O projeto MetaReciclagem começou como uma idéia desenvolvida coletivamente. Podes dar uma olhada aqui pra ver o histórico das mensagens:&lt;br /&gt;
+&lt;a href=&quot;http://wiki.projetometafora.org/index.php?MetaReciclagem%20%2F%20Hist%F3rico&quot; title=&quot;http://wiki.projetometafora.org/index.php?MetaReciclagem%20%2F%20Hist%F3rico&quot; rel=&quot;nofollow&quot;&gt;http://wiki.projetometafora.org/index.php?MetaReciclagem%20%2F%20Hist%F3...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;De uma idéia em uma lista de discussão, começou a andar a partir de uma parceria com o Agente Cidadão (agentecidadao.org.br) e da grande dedicação do Dalton (Dalton Martins, que hoje defendeu sua tese de mestrado na Unicamp).&lt;/p&gt;
+&lt;p&gt;&amp;gt; -Geralmente são jovens de baixa renda que participam dos trabalhos de&lt;br /&gt;
+&amp;gt; inclusão digital?&lt;/p&gt;
+&lt;p&gt;Olha, há controvérsias sobre “inclusão digital”. O Hernani Dimantas, um dos articuladores do MetaReciclagem, defende uma posição do projeto como expoente do que ele chama de terceira onda da inclusão digital. Mais sobre a posição dele aqui:&lt;br /&gt;
+&lt;a href=&quot;http://www.marketinghacker.com.br/epac/wakka.php?wakka=ParqueDigital&quot; title=&quot;http://www.marketinghacker.com.br/epac/wakka.php?wakka=ParqueDigital&quot; rel=&quot;nofollow&quot;&gt;http://www.marketinghacker.com.br/epac/wakka.php?wakka=ParqueDigital&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Eu já penso um pouco diferente. Escrevi sobre isso, vou procurar e te mando…&lt;/p&gt;
+&lt;p&gt;Sobre jovens de baixa renda, depende muito. A gente já fez diversas ações: na zona leste de são paulo, com trezentos jovens de baixa renda, na sacadura cabral, núcleo habitacional de Santo André, que se enquadram nessa descrição, mas também no Sesc pompéia e outros lugares, que atendem a diversos outros públicos.&lt;/p&gt;
+&lt;p&gt;&amp;gt; -A diferença é grande de um software para outro?&lt;/p&gt;
+&lt;p&gt;Como assim? De software proprietário para software livre? Para os aplicativos mais utilizados, como browser, editor de textos, planilha de cálculo, software de apresentação e edição de imagens, a diferença é mínima. A interface do sistema operacional para software livre, hoje, também é bastante intuitiva.&lt;/p&gt;
+&lt;p&gt;&amp;gt; -Como as pessoas lidam com isso, já que a predominância é do software&lt;br /&gt;
+&amp;gt; proprietário?&lt;/p&gt;
+&lt;p&gt;Olha, a maioria das reclamações não diz respeito ao software objetivamente, mas sim ao fato de os usuários terem que reaprender a posição ou o formato de um ou outro ícone ou a operação de alguma funcionalidade. Mas a imensa maioria de críticas ao software livre vem de pessoas que não sabem do que se trata ou de pessoas que precisam defender interesses ligados à indústria do software proprietário. Muita gente ficou rica criando, empacotando ou revendendo software proprietário, e essas pessoas reclamam bastante quando se propõe uma lógica libertária e coletiva de desenvolvimento de software. Eles trabalham forçando a escassez, e o modelo de produção do software livre estimula a abundância e a livre circulação de bens intelectuais. É aí que reside o cerne da “crise”.&lt;/p&gt;
+&lt;p&gt;&amp;gt; -Se há uma metodologia, fale um pouco esta, desenvolvida nas aulas que&lt;br /&gt;
+&amp;gt; tratam de inclusão digital.&lt;/p&gt;
+&lt;p&gt;As ações de metareciclagem propõem a desmistificação da comunicação, e a reapropriação de tecnologia para a transformação social. Nesse sentido, os espaços permanentes ou temporários criados pelo projeto usam computadores usados, que são montados preferencialmente pelas pessoas envolvidas com a operação do espaço, no que pode ser visto como uma espécie de artesanato tecnológico. Elas aprendem o papel de cada uma das partes que compõem um computador, montam os computadores e os interligam em rede. Procuramos levá-los a interagir com outras pessoas que estejam participando de projetos semelhantes, em espaços como o liganois.com.br . Outra característica dos espaços de metareciclagem é que procuramos sempre pintar os gabinetes dos computadores, buscando um diálogo constante sobre identidade local e apropriação. O resultado, que também nos surpreendeu em um primeiro momento, é que o computador pintado perde aquele ar de “máquina-velha-que-era-usada-em-banco-ou-repartição-pública”, e vira um brinquedo. &lt;/p&gt;
+&lt;p&gt;Um pouco mais sobre metareciclagem aqui:&lt;br /&gt;
+&lt;a href=&quot;http://ogum.metareciclagem.org/wiki/index.php/MetaReciclagem&quot; title=&quot;http://ogum.metareciclagem.org/wiki/index.php/MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;http://ogum.metareciclagem.org/wiki/index.php/MetaReciclagem&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;
+E fotos de um dos centros montados com computadores pintados:&lt;br /&gt;
+&lt;a href=&quot;http://ogum.metareciclagem.org/midia/imagens/cybersocial/&quot; title=&quot;http://ogum.metareciclagem.org/midia/imagens/cybersocial/&quot; rel=&quot;nofollow&quot;&gt;http://ogum.metareciclagem.org/midia/imagens/cybersocial/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mais alguma coisa?&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Entrevista-%C3%A0-Ocas#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/inclus%C3%A3o-digital">inclusão digital</category>
+ <category domain="http://mutgamb.org/assunto/Tags/ocas">ocas</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/76</wfw:commentRss>
+ <pubDate>Mon, 20 Dec 2004 22:08:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">76 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

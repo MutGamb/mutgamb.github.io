@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - editoração</title>
+ <link>http://mutgamb.org/taxonomy/term/743/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Falando em editoração...</title>
+ <link>http://mutgamb.org/blog/Falando-em-editoracao</link>
+ <description>&lt;p&gt;Cris Ribas, que ainda est&amp;aacute; se familiarizando com Linux &amp;quot;mas super a fim de aprender&amp;quot; pediu indica&amp;ccedil;&amp;otilde;es de softwares para design de impressos e editora&amp;ccedil;&amp;atilde;o. A lista respondeu apontando possibilidades:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Belis&amp;aacute;rio indicou o &lt;a href=&quot;http://www.scribus.net/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Scribus&lt;/a&gt;, Varga um &lt;a href=&quot;http://estudiolivre.org/tiki-index.php?page=Softwares%20de%20Gr%C3%A1fico&amp;amp;bl&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;copilado de links no Est&amp;uacute;dio Livre&lt;/a&gt;, e Felipe Fonseca sugeriu &lt;a href=&quot;http://inkscape.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Inkscape&lt;/a&gt;, pra ilustra&amp;ccedil;&amp;atilde;o vetorial simples:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Tinha tamb&amp;eacute;m um software da pr&amp;oacute;pria Corel, acho que era &lt;a href=&quot;http://www.xara.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;CorelXara&lt;/a&gt;. Mas faz tempo que n&amp;atilde;o tento usar. Gimp e plugins pra Bitmaps etc. Pra diagrama&amp;ccedil;&amp;atilde;o estilo DTP pesad&amp;atilde;o tem o Scribus e o &lt;a href=&quot;http://packages.ubuntu.com/search?keywords=scribus-ng&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Scribus-ng&lt;/a&gt;. Pra coisas mais leves eu uso bastante o&lt;a href=&quot;http://www.lyx.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Lyx&lt;/a&gt;. pra ebooks em epub, uso o &lt;a href=&quot;http://code.google.com/p/sigil/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sigil&lt;/a&gt;. E meus &lt;a href=&quot;http://links.metareciclagem.org/tags.php/grafilab&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;tradicionais caminh&amp;otilde;es de links&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Falando-em-editoracao#comments</comments>
+ <category domain="http://mutgamb.org/tag/editoracao">editoração</category>
+ <category domain="http://mutgamb.org/tag/livre">livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/813</wfw:commentRss>
+ <pubDate>Sun, 22 Jul 2012 11:32:46 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">813 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

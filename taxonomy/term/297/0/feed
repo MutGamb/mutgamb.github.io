@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - glerm</title>
+ <link>http://mutgamb.org/taxonomy/term/297/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Making brinquedos DIY</title>
+ <link>http://mutgamb.org/blog/Making-brinquedos-DIY</link>
+ <description>&lt;p&gt;Isaac perguntou na lista se algu&amp;eacute;m j&amp;aacute; havia testado ou se conhecia o &lt;a href=&quot;http://www.makeymakey.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;MakeyMakey&lt;/a&gt;, segundo os pr&amp;oacute;prios inventores (&lt;a href=&quot;http://www.kickstarter.com/projects/joylabs/makey-makey-an-invention-kit-for-everyone&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;que pediram $ aqui&lt;/a&gt;), trata-se de&lt;em&gt; &amp;quot;um meio para transformar objetos cotidianos em touchpads e, assim combin&amp;aacute;-los com a internet&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; src=&quot;http://www.youtube.com/embed/rfQqh7iCcOU&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm replicou: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Se eu entendi bem o projeto, acho que da pra algo bem parecido com isso da&amp;iacute; desmontando um joystick desses estilo playstation USB de 15 reais. Da&amp;iacute; usa o objeto [hid] no puredata pra empacotar os dados pra outros protocolos. Fiz algo parecido nas oficinas do Toscolino, na UFRJ, em 2010, a gente desmontava joysticks pra fazer guitarrinhas:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/22881021?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Making-brinquedos-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/tag/makeymakey">makeymakey</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/toscolino">toscolino</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/920</wfw:commentRss>
+ <pubDate>Tue, 06 Nov 2012 09:18:09 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">920 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Artesanato de Volts para iniciantes em Curitiba</title>
+ <link>http://mutgamb.org/blog/Artesanato-de-Volts-para-iniciantes-em-Curitiba</link>
+ <description>&lt;p&gt;A Orquestra Organismo&lt;a href=&quot;http://orquestra.devolts.org/orientapoeticas/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; inicia mais uma sequ&amp;ecirc;ncia de oficinas gratu&amp;iacute;tas&lt;/a&gt;, nos s&amp;aacute;bados 22 e 29 de setembro, das 15hs &amp;agrave;s 17hs, na Bicicletaria Cultural, em Curitiba. A proposta trar&amp;aacute; pr&amp;aacute;ticas em Puredata, Arduino e Python, para cria&amp;ccedil;&amp;atilde;o de softwares e hardwares customizados, artesanatos de c&amp;oacute;digo aberto:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;IMPORTANTE: N&amp;atilde;o precisa ter experi&amp;ecirc;ncia em programa&amp;ccedil;&amp;atilde;o, esta oficina vai ser preparada especialmente para iniciantes desmistificarem a ideia de que programar &amp;eacute; s&amp;oacute; para especialistas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://orquestra.devolts.org/orientapoeticas/index_arquivos/a.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Glerm tamb&amp;eacute;m compartilhou, na lista metarec, publica&amp;ccedil;&amp;otilde;es sobre experimenta&amp;ccedil;&amp;otilde;es e artes interativas: &lt;a href=&quot;http://www.scielo.br/scielo.php?pid=S1678-53202003000200002&amp;amp;script=sci_arttext&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;um paper&lt;/a&gt;, um &lt;a href=&quot;http://dada.compart-bremen.de/public/docUploads/Reichardt_1968_CS_catalogue.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;cat&amp;aacute;logo hist&amp;oacute;rico&lt;/a&gt; e uma p&amp;aacute;gina de&lt;a href=&quot;http://en.wikipedia.org/wiki/Cybernetic_Serendipity&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Artesanato-de-Volts-para-iniciantes-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/curitiba">curitiba</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/orquestra-organismo">orquestra organismo</category>
+ <category domain="http://mutgamb.org/tag/simone">simone</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/866</wfw:commentRss>
+ <pubDate>Tue, 11 Sep 2012 09:38:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">866 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Plaquinhas...</title>
+ <link>http://mutgamb.org/blog/Plaquinhas</link>
+ <description>&lt;p&gt;Fabs trouxe &amp;agrave; lista um link do &lt;a href=&quot;http://pt.wikipedia.org/wiki/Raspberry_Pi&quot; rel=&quot;nofollow&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Raspberry_Pi_Photo.jpg/800px-Raspberry_Pi_Photo.jpg&quot; style=&quot;width: 420px; height: 310px;&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.farnellnewark.com.br/placaparaprogramacaoraspberrypiraspbrrypcba,product,83T1943,0.aspx&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Mais infos sobre ele aqui&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E &lt;a href=&quot;http://mutgamb.org/blog/Arduinos&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;continuando a thread sobre arduino&lt;/a&gt;, surgiram as intera&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(...) um esquema para fazer o arduino mais simples poss&amp;iacute;vel, &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;numa protoboard&lt;/a&gt;. Nesse projeto eu &lt;a href=&quot;http://artesanato.devolts.org/?page_id=303&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;tamb&amp;eacute;m mostro como fazer a conex&amp;atilde;o serial&lt;/a&gt;, igualzinho o &amp;quot;Severino&amp;quot;. Lembre-se que se voc&amp;ecirc; comprar o Atmega virgem tera que carregar o bootloader (firmware b&amp;aacute;sico do arduino que interpreta o set de fun&amp;ccedil;&amp;otilde;es do projeto) &lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;na primeira vez e para isso fazer um cabo de porta paralela&lt;/a&gt; para gravar na protoboard. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tentei montar o &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC18F2550_Pinguino&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Pinguino&lt;/a&gt; ontem mas a documenta&amp;ccedil;&amp;atilde;o t&amp;aacute; meio confusa, e s&amp;oacute; na pr&amp;aacute;tica que, entendi que antes de usar voc&amp;ecirc; tem que gravar o bootloader dele, similar ao que acontece com Arduino, e pra isso vai ter que construir ou comprar um gravador de &lt;a href=&quot;http://wiki.pinguino.cc/index.php/PIC_programmer&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;PIC tamb&amp;eacute;m&lt;/a&gt;, mas n&amp;atilde;o achei nada t&amp;atilde;o simples como o gravador de porta paralela que&lt;a href=&quot;http://artesanato.devolts.org/?page_id=267&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; costum&amp;aacute;vamos usar com Arduino&lt;/a&gt;. Se algu&amp;eacute;m que mexe com PIC quer dar uma sugest&amp;atilde;o, digal&amp;aacute;. Pra quem ja mexe com Arduino daria pra fazer o gravador de PIC usando o Arduino mesmo &lt;a href=&quot;https://sites.google.com/site/thehighspark/arduino-pic18f&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com esse m&amp;eacute;todo&lt;/a&gt;,&lt;br /&gt;
+	A conclus&amp;atilde;o que eu chego depois de anos usando o Arduino e vendo varios tipos de oficina acontecer, &amp;eacute; que o barato as vezes pode sair caro, e no caso do Arduino o melhor mesmo pros iniciantes &amp;eacute; comprar uma placa usb ja montada, pra primeiro sacar o ambiente todo e depois pensar no que pra que de tudo isso. Uma op&amp;ccedil;&amp;atilde;o que promete desenrolar em algo interessante agora &amp;eacute; essa nova vers&amp;atilde;o do Arduino &lt;a href=&quot;http://txapuzas.blogspot.com.br/2009/12/paperduino-leonardo-clon-de-arduino.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;chamada Leonardo&lt;/a&gt;, que ja vem tb com USB embutida no chip, porem n&amp;atilde;o &amp;eacute; um chip de facil montagem na protoboard, falta ainda esse ultimo passo e a coisa vai explodir de vez. Enquanto isso vai chegando tambem algo similar em 32 bits, da&amp;iacute; vai dar pra ter sistema operacional nessas placas e a coisa muda de figura... &lt;a href=&quot;http://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Plaquinhas#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/raspberry-pi">raspberry pi</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/855</wfw:commentRss>
+ <pubDate>Sat, 25 Aug 2012 09:55:33 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">855 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Volts de agosto e setembro</title>
+ <link>http://mutgamb.org/blog/Volts-de-agosto-e-setembro</link>
+ <description>&lt;p&gt;Nesse final de semana (18/08), ter&amp;aacute; in&amp;iacute;cio mais uma atividade&lt;a href=&quot;http://orquestra.devolts.org/eletronica/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; do Jardin de Volts&lt;/a&gt;, em Curitiba, com a participa&amp;ccedil;&amp;atilde;o de &lt;a href=&quot;http://rasgo.info/?p=280&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;L&amp;uacute;cio de Ara&amp;uacute;jo&lt;/a&gt;. L&amp;uacute;cio ministrar&amp;aacute; uma sess&amp;atilde;o de 3 oficinas sobre eletr&amp;ocirc;nica para experimentos sonoros.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://orquestra.devolts.org/eletronica/index_arquivos/a.jpeg&quot; style=&quot;width: 420px; height: 112px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Servi&amp;ccedil;o &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;das 15hs &amp;agrave;s 17hs, dias 18 e 25/08 e 1/09&lt;/p&gt;
+&lt;p&gt;Rua Presidente Faria, 266. Centro.&lt;/p&gt;
+&lt;p&gt;+ 55 (41) 3153 0022&lt;/p&gt;
+&lt;p&gt;inscri&amp;ccedil;&amp;otilde;es - &lt;a href=&quot;mailto:organismo@gmail.com&quot; rel=&quot;nofollow&quot;&gt;organismo@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Entrada livre&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Volts-de-agosto-e-setembro#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/jardim-de-volts">jardim de volts</category>
+ <category domain="http://mutgamb.org/tag/lucio">lucio</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/organismo">organismo</category>
+ <category domain="http://mutgamb.org/tag/simone">simone</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/842</wfw:commentRss>
+ <pubDate>Wed, 15 Aug 2012 11:09:26 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">842 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Ficções, fim do mundo, cidades novas</title>
+ <link>http://mutgamb.org/blog/Ficcoes-fim-do-mundo-cidades-novas</link>
+ <description>&lt;div class=&quot;ajy&quot;&gt;
+	&lt;img alt=&quot;&quot; class=&quot;ajz&quot; data-tooltip=&quot;Mostrar detalhes&quot; id=&quot;:1rm&quot; role=&quot;button&quot; src=&quot;https://mail.google.com/mail/u/0/images/cleardot.gif&quot; tabindex=&quot;0&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Mbraz trouxe o relato do primeiro &lt;a href=&quot;http://va.mu/XXYH&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ciborgue a competir em ol&amp;iacute;mpiadas&lt;/a&gt; usando uma pr&amp;oacute;tese de carbono, e Felipe Fonseca&lt;a href=&quot;http://http://ubalab.org/blog/cidades-coisas-pessoas&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; a possibilidade de termos cidades&lt;/a&gt; diferentes do modo que vemos/vivemos hoje.&lt;/p&gt;
+&lt;p&gt;Glerm compartilhou um texto, &lt;a href=&quot;http://pt.scribd.com/doc/86661773/Isaac-Asimov-A-Ultima-Pergunta&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;de Isaac Asimov chamado &amp;quot;A &amp;Uacute;ltima Pergunta&amp;quot;&lt;/a&gt;, que poderia ser classificado como fic&amp;ccedil;&amp;atilde;o por muita gente, mas que talvez seja apenas a licen&amp;ccedil;a l&amp;uacute;dica do que presenciamos aos poucos e continuamente:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.divagacoes.org/wp-content/uploads/2009/11/ReachForTheStars.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;(...)Mesmo com 100% de efici&amp;ecirc;ncia, podemos apenas adiar o fim. Nossa demanda energ&amp;eacute;tica tem crescido em progress&amp;atilde;o geom&amp;eacute;trica, de maneira ainda mais acelerada do que a popula&amp;ccedil;&amp;atilde;o. Ficaremos sem energia antes mesmo que nos faltem gal&amp;aacute;xias. &amp;Eacute; uma boa quest&amp;atilde;o. De fato uma &amp;oacute;tima quest&amp;atilde;o.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Ficcoes-fim-do-mundo-cidades-novas#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/efeefe">efeefe</category>
+ <category domain="http://mutgamb.org/tag/fim-do-mundo">fim do mundo</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/mbraz">mbraz</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/831</wfw:commentRss>
+ <pubDate>Sun, 05 Aug 2012 09:36:34 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">831 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Organismo: mais um encontro em Curitiba</title>
+ <link>http://mutgamb.org/blog/Organismo-mais-um-encontro-em-Curitiba</link>
+ <description>&lt;p&gt;No pr&amp;oacute;ximo final de semana, acontecer&amp;aacute; mais um &lt;a href=&quot;http://orquestra.devolts.org/sabado2/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;encontro da Orquestra de Volts, em Curitiba&lt;/a&gt;. Informa&amp;ccedil;&amp;otilde;es sobre os encontros anteriores podem ser encotradas &lt;a href=&quot;http://mutgamb.org/blog/Organismo-chama&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;, &lt;a href=&quot;http://mutgamb.org/blog/Caverna-Auricular-em-Curitiba&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt; e &lt;a href=&quot;http://mutgamb.org/blog/Amanha-mais-organismos-sonoros-em-Curitiba&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Continuamos pensando desde a parte l&amp;oacute;gica-matem&amp;aacute;tica da m&amp;uacute;sica at&amp;eacute; possibilidades tat&amp;eacute;is de criar e reciclar hardware para criar novos instrumentos musicais.&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;375&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/20671175?color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Servi&amp;ccedil;o&lt;/strong&gt;&lt;br /&gt;
+	das 15hs &amp;agrave;s 18hs, dia 28/07&lt;br /&gt;
+	Rua Presidente Faria, 266. Centro.&lt;br /&gt;
+	+ 55 (41) 3153 0022&lt;br /&gt;
+	Entrada livre&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Organismo-mais-um-encontro-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/tag/lucida-sans">lucida sans</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/orquestra-organismo">orquestra organismo</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/817</wfw:commentRss>
+ <pubDate>Thu, 26 Jul 2012 11:35:22 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">817 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Amanhã mais organismos sonoros, em Curitiba</title>
+ <link>http://mutgamb.org/blog/Amanha-mais-organismos-sonoros-em-Curitiba</link>
+ <description>&lt;p&gt;Sincronizado com os &lt;a href=&quot;http://mutgamb.org/blog/Caverna-Auricular-em-Curitiba&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Encontros Caverna Auricular, que acontecem entre 10 a 17 de julho&lt;/a&gt;, no pr&amp;oacute;ximo dia 14 de Julho, &lt;a href=&quot;http://orquestra.devolts.org/sabado1/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;das 17hs &amp;agrave;s 19hs&lt;/a&gt;, acontecer&amp;atilde;o ensaios, estudos, pr&amp;aacute;ticas e repert&amp;oacute;rio para uma est&amp;eacute;tica, &amp;eacute;tica e pol&amp;iacute;tica da computa&amp;ccedil;&amp;atilde;o musical com softwares e hardwares livres. Trata-se de mais um projeto da Orquestra Organismo, dentro do Jardim de Volts ;)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;334&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/300730?color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Servi&amp;ccedil;o &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rua Presidente Faria, 266. Centro.&lt;/p&gt;
+&lt;p&gt;+ 55 (41) 3153 0022&lt;/p&gt;
+&lt;p&gt;Entrada livre&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Amanha-mais-organismos-sonoros-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/orquestra-organismo">orquestra organismo</category>
+ <category domain="http://mutgamb.org/tag/sonoridades">sonoridades</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/798</wfw:commentRss>
+ <pubDate>Sat, 14 Jul 2012 00:59:22 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">798 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Caverna Auricular em Curitiba</title>
+ <link>http://mutgamb.org/blog/Caverna-Auricular-em-Curitiba</link>
+ <description>&lt;p&gt;Entre os dias 10 a 17 de julho, acontecer&amp;aacute; em Curitiba, os ciclos de estudos e encontros Caverna Auricular, no &lt;a href=&quot;http://auricultura.devolts.org/caverna/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Hacklab Jardins de Volts, localizado na Bicicletaria Cultural&lt;/a&gt;. O objetivo do projeto &amp;eacute; proporcionar a troca de conhecimentos quanto &amp;agrave; produ&amp;ccedil;&amp;atilde;o sonora orientada a objetos: trilhas sonoras, ambienta&amp;ccedil;&amp;atilde;o, sonoplastia, instala&amp;ccedil;&amp;atilde;o, desenho de som para jogos, plastisonia. Assim como a abertura de di&amp;aacute;logo quanto &amp;agrave;s quest&amp;otilde;es da escuta.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://auricultura.devolts.org/caverna/index_arquivos/start.jpeg&quot; style=&quot;width: 420px; height: 420px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Servi&amp;ccedil;o &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;agrave;s 20hs, de 10 a 17/07&lt;/p&gt;
+&lt;p&gt;Rua Presidente Faria, 266. Centro.&lt;/p&gt;
+&lt;p&gt;+ 55 (41) 3153 0022&lt;/p&gt;
+&lt;p&gt;Entrada livre&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Caverna-Auricular-em-Curitiba#comments</comments>
+ <category domain="http://mutgamb.org/tag/curitiba">curitiba</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/jardim-de-volts">jardim de volts</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/790</wfw:commentRss>
+ <pubDate>Fri, 06 Jul 2012 19:57:59 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">790 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Organismo chama</title>
+ <link>http://mutgamb.org/blog/Organismo-chama</link>
+ <description>&lt;p&gt;Glerm est&amp;aacute; instalando o hacklab &amp;quot;Caverna de Volts&amp;quot;, no centro de Curitiba, e procura parceiros para ajudar a desenvolver uma metodologia de uso e documenta&amp;ccedil;&amp;atilde;o do Hacklab e sua continuidade.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Queria aproveitar que vai ter evento na Bicicletaria este S&amp;aacute;bado dia 30 de junho (show do Trombone Trio) para combinar com interessados em experimenta&amp;ccedil;&amp;otilde;es de po&amp;eacute;ticas computacionais alguma datas para fixarmos encontros durante o m&amp;ecirc;s de julho no Hacklab.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;br /&gt;
+	os interessados podem entrar em contato com Glerm, nesse email: &lt;a href=&quot;mailto:organismo@gmail.com&quot; rel=&quot;nofollow&quot;&gt;organismo@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Organismo-chama#comments</comments>
+ <category domain="http://mutgamb.org/tag/curitiba">curitiba</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/orquesta-organismo">orquesta organismo</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/777</wfw:commentRss>
+ <pubDate>Thu, 28 Jun 2012 18:24:55 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">777 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Nômades e Feitiços</title>
+ <link>http://mutgamb.org/blog/Nomades-e-Feiticos</link>
+ <description>&lt;p class=&quot;ha&quot;&gt;&lt;span class=&quot;hP&quot; id=&quot;:11x&quot;&gt;Regis documentou a passagem de Pablo Fritz no Bailux em v&amp;iacute;deo&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Vf308p96BQQ&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;ha&quot;&gt;&lt;span style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;hP&quot;&gt;&lt;span id=&quot;cke_bm_319S&quot; style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;Regis chama Pablo de MetaRecicl&lt;wbr /&gt;eiro N&amp;ocirc;made. Talvez todo metarecicleiro seja n&amp;ocirc;made e &lt;a href=&quot;http://rede.metareciclagem.org/blog/02-03-12/da-Babel-ao-Papel&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;feiticeiro&lt;/a&gt;:&lt;/wbr&gt;&lt;/span&gt;&lt;span style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span id=&quot;cke_bm_319E&quot; style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Os feiticeiros sempre tiveram a posi&amp;ccedil;&amp;atilde;o an&amp;ocirc;mala, na fronteira dos campos ou dos bosques. Eles assombram as fronteiras. &lt;a href=&quot;http://reacesso.webnos.org/?p=716&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;Eles se encontram na borda do vilarejo, ou entre dois vilarejos&lt;/a&gt;. O importante &amp;eacute; sua afinidade com a alian&amp;ccedil;a, com o pacto, que lhes d&amp;aacute; um estatuto oposto ao da filia&amp;ccedil;&amp;atilde;o. Com o an&amp;ocirc;malo, a rela&amp;ccedil;&amp;atilde;o &amp;eacute; de alian&amp;ccedil;a. O feiticeiro est&amp;aacute; numa rela&amp;ccedil;&amp;atilde;o de alian&amp;ccedil;a com Yupana como pot&amp;ecirc;ncia do an&amp;ocirc;malo. (mil plat&amp;ocirc;s v4 - deleuze &amp;amp;&amp;amp; guatarri)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Nomades-e-Feiticos#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bailux">bailux</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/pablo-fritz">pablo fritz</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/638</wfw:commentRss>
+ <pubDate>Tue, 27 Mar 2012 12:16:14 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">638 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

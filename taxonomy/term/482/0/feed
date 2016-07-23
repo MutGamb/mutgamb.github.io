@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - publicação</title>
+ <link>http://mutgamb.org/taxonomy/term/482/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>A primeira publicação do PoliGNU </title>
+ <link>http://mutgamb.org/blog/primeira-publicacao-do-PoliGNU</link>
+ <description>&lt;p&gt;O PoliGNU acaba de lan&amp;ccedil;ar sua primeira publica&amp;ccedil;&amp;atilde;o, o Caderno PoliGNU, uma publica&amp;ccedil;&amp;atilde;o sob licen&amp;ccedil;a livre. A primeira edi&amp;ccedil;&amp;atilde;o traz de forma introdut&amp;oacute;ria o conceito de Software e Cultura Livres, com exemplos de empresas que usam Software Livre e modelos de neg&amp;oacute;cios do Software Livre.&lt;/p&gt;
+&lt;p&gt;Diego Rabatone comentou sobre possibilidades para colaboradores:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;E quem tiver interesse em nos ajudar nos pr&amp;oacute;ximos volumes ser&amp;aacute; bem vind@!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://polignu.org/administrativo/caderno-polignu-volume-1-software-e-culturas-livres&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;O Cardeno PoliGNU pode ser acessado aqui.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/primeira-publicacao-do-PoliGNU#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/polignu">polignu</category>
+ <category domain="http://mutgamb.org/tag/publicacao">publicação</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/579</wfw:commentRss>
+ <pubDate>Sat, 25 Feb 2012 08:48:29 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">579 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - josé neto</title>
+ <link>http://mutgamb.org/taxonomy/term/667/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Tramissores, Rádios e DIY</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY</link>
+ <description>&lt;p&gt;Jos&amp;eacute; Neto compartilhou &lt;a href=&quot;http://mutgamb.org/sites/mutgamb.org/files/trans.pdf&quot; rel=&quot;nofollow&quot;&gt;um esquema de um transmissor de pequena pot&amp;ecirc;ncia&lt;/a&gt;, que ligado a uma antena pode transmitir alcan&amp;ccedil;ar v&amp;aacute;rios quilometros: &amp;quot;as comunica&amp;ccedil;&amp;otilde;es entre a terra e a lua foram efetuadas com menos de um watt. Com uma antena de 15 cm podera chegar a 100 metros&amp;quot;. Jos&amp;eacute; trouxe um relato sobre sua experi&amp;ecirc;ncia com r&amp;aacute;dio transmissores:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O modo de conectar um r&amp;aacute;dio transmissor e um oscilador em alta frequ&amp;ecirc;ncia a uma antena vem desde a &amp;eacute;poca do Marconi, quando com um faiscador de alta frequ&amp;ecirc;ncia conseguiu transmitir uma mensagem atrav&amp;eacute;s de uma dist&amp;acirc;ncia muito grande. Hoje se fizermos algo do tipo iremos ter a Anatel e a Policia Federal em nossa porta, uma vez que gerar interfer&amp;ecirc;ncia nas ondas eletromagn&amp;eacute;ticas &amp;eacute; crime federal. Para fazer isso, hoje, voc&amp;ecirc; tem que ser selado, carinbado e rotulado. Para transmitir a informa&amp;ccedil;&amp;atilde;o, m&amp;uacute;sica, ou voz, as ondas precisam ser moduladas em frequ&amp;ecirc;ncia (FM) ou amplitude (AM). Modular em frequ&amp;ecirc;ncia &amp;eacute; bem mais f&amp;aacute;cil e menos perigoso. Para modularmos em amplitude e termos alcance &amp;eacute; preciso bastante for&amp;ccedil;a, por isso pra se fazer um transmissor em AM prescisa-se utilizar v&amp;aacute;lvulas, que prescisam de alta tens&amp;atilde;o, ou seja &amp;eacute; bastante perigoso para leigos no assunto. Hoje tenho alguns transmissores menores e alguns bem potentes. Quanto ao &lt;em&gt;DIY&lt;/em&gt; podemos existem projetos bem simples que podem ser montados com cuidado e assim poder explorar com seguran&amp;ccedil;a o espectro eletromagn&amp;eacute;tico. Os transmissores &lt;em&gt;DIY&lt;/em&gt; podem gerar radia&amp;ccedil;&amp;atilde;o em frequ&amp;ecirc;ncias m&amp;uacute;ltiplas, inclusive fora da faixa recomendada. No Brasil e no mundo existem canais separados, alguns com uso exclusivo da pol&amp;iacute;cia, bombeiros, navega&amp;ccedil;&amp;atilde;o, por isso &amp;eacute; preciso ter crit&amp;eacute;rios para utilizar algo mais potente que tenha alcance de quil&amp;ocirc;metros, por que interferir nesse espectro &amp;eacute; crime, da processo e na insist&amp;ecirc;ncia at&amp;eacute; cadeia. Mas existem tamb&amp;eacute;m a possibilidade e brechas na lei para equipamentos em baixa pot&amp;ecirc;ncia, redes de r&amp;aacute;dio, em pequenas pot&amp;ecirc;ncias em uma frequ&amp;ecirc;ncia livre e liberada.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Tramissores-Radios-e-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/tag/frequencia">frequência</category>
+ <category domain="http://mutgamb.org/tag/jose-neto">josé neto</category>
+ <category domain="http://mutgamb.org/tag/radio">radio</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/753</wfw:commentRss>
+ <pubDate>Thu, 31 May 2012 09:38:42 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">753 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Arrá!&quot;</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1</link>
+ <description>Comments for &quot;Arrá!&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>pois</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-73</link>
+ <description>concordo. então como vamos chamar o nodetype? &quot;conteúdo&quot;? &lt;br /&gt;&lt;br /&gt;&quot;nó&quot;?&lt;br /&gt;&lt;br /&gt;;)&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Sat, 12 Apr 2008 13:28:48 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 73 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>remix</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-70</link>
+ <description>volto com a idéia de não tratar fonte como nodetype... conteúdo é conteúdo o &#039;status&#039; dele se é fonte, remix ou qualquer outra forma... isso pode ser estabelecido de outras maneiras.&lt;br /&gt;&lt;br /&gt;e ai sim o node clone faz sentido, já que você esta clonando o conteúdo e atribuindo a ele um novo &#039;status&#039;.&lt;br /&gt;</description>
+ <pubDate>Sat, 12 Apr 2008 00:15:03 +0000</pubDate>
+ <dc:creator>markun</dc:creator>
+ <guid isPermaLink="false">comment 70 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>quase uma deriva</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-68</link>
+ <description>instalei o node_clone e fiz uns testes. ele é interessante, mas ainda faltam algumas coisas pra operar as derivas. uma coisa que acho essencial é ele ter uma maneira de deixar registradas as derivas dentro dos nodes: tipo, esse node veio desse outro, ou esse node gerou essas derivas. também queria poder mexer no template do clone, pra já deixar o conteúdo novo em parágrafo de &quot;quote&quot;. também me pergunto sobre a estrutura, porque um clone dele é outro node do mesmo tipo. talvez fosse legal criar um node de outro tipo (já que a idéia de &#039;fonte&#039; é pra links de fora do site). ou não, sei lá.&lt;br /&gt;mas é um bom começo, de qualquer forma.&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Fri, 11 Apr 2008 13:56:25 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 68 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>views_bookmarks</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-67</link>
+ <description>O módulo tá aqui:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://drupal.org/project/views_bookmark&quot; title=&quot;http://drupal.org/project/views_bookmark&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/views_bookmark&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;instalei ele. aparece aí na esquerda um link pra &quot;minha coleção&quot;?&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Fri, 11 Apr 2008 13:50:19 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 67 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>cade o modulo?</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-66</link>
+ <description>felipe,,&lt;br /&gt;onde foi que vc achou este módulo chamado views bookmarks?&lt;br /&gt;</description>
+ <pubDate>Fri, 11 Apr 2008 13:42:54 +0000</pubDate>
+ <dc:creator>luarembepe</dc:creator>
+ <guid isPermaLink="false">comment 66 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>e mais um...</title>
+ <link>http://mutgamb.org/forum/Arr%C3%A1#comment-65</link>
+ <description>sem querer, encontrei um módulo chamado node clone:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://drupal.org/project/node_clone&quot; title=&quot;http://drupal.org/project/node_clone&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/node_clone&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;também tem a ver com a idéia de derivas... vou testar aqui e conto.&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Wed, 09 Apr 2008 19:09:26 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 65 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

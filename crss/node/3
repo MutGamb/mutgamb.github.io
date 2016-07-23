@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Tipos de conteúdo&quot;</title>
+ <link>http://mutgamb.org/forum/Tipos-de-conte%C3%BAdo</link>
+ <description>Comments for &quot;Tipos de conteúdo&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>post / texto</title>
+ <link>http://mutgamb.org/forum/Tipos-de-conte%C3%BAdo#comment-36</link>
+ <description>pensando aqui que vou deixar as listas pra depois, porque é trampo grande e um pouco confuso, e começar criando um nodetype pra puxar manualmente textos editados em diversas outras fontes, principalmente blogs. talvez criar um nodetype genérico, &quot;texto&quot; ou &quot;post&quot;, com título, texto e um permalink, já seja um começo.&amp;nbsp; &lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Fri, 07 Mar 2008 21:23:52 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 36 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

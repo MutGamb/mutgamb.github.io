@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - iuri martins</title>
+ <link>http://mutgamb.org/taxonomy/term/530/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Os CRC&#039;s de Recife por Iuri Martins</title>
+ <link>http://mutgamb.org/blog/Os-CRCs-de-Recife-por-Iuri-Martins</link>
+ <description>&lt;p&gt;Iuri Martins replicou &lt;a href=&quot;http://mutgamb.org/blog/Um-pouco-do-trabalho-de-Isaac-Filho&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Isaac Filho&lt;/a&gt; e trouxe outras perspectivas sobre os programas de inclus&amp;atilde;o digital no Cear&amp;aacute;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Vou falar sobre os computadores que foram enviados para a Casa Brasil Granja Portugal em Fortaleza-CE do&lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt;Centro de Recondicionamento de Computadores do Recife (CRC). Se o texto come&amp;ccedil;ar a incomodar, leia os &amp;uacute;ltimos par&amp;aacute;grafos primeiro. N&amp;atilde;o sei se enviaram uma documenta&amp;ccedil;&amp;atilde;o ou se a pessoa que recebeu ela n&amp;atilde;o apareceu l&amp;aacute; para mostrar isso na hora em que os computadores precisarem ser utilizados. De qualquer forma a pessoa que foi fazer isso teve que instalar um sistema de servidor novamente pois n&amp;atilde;o sabia as senhas do administrador.&lt;/p&gt;
+	&lt;p&gt;Al&amp;eacute;m de outros problemas provenientes da falta de documenta&amp;ccedil;&amp;atilde;o:&lt;/p&gt;
+	&lt;ul&gt;
+		&lt;li&gt;
+			O pessoal que foi montar os computadores n&amp;atilde;o sabiam usar disquetes de boot, na verdade nem entendiam como funcionava um sistema com boot por rede, o pessoal de &amp;quot;backup&amp;quot; resolveu isso instalando unidades de cd nos computadores com entrada IDE e usando um disco com um GPXE pr&amp;eacute;-configurado.&lt;/li&gt;
+		&lt;li&gt;
+			O projeto do Governo do Estado do Cear&amp;aacute; (Primeiro Passo) usava uma plataforma web em &lt;em&gt;flash&lt;/em&gt; para as aulas (ou seja, o cara que instalou o software infelizmente teve que instalar o Chromium e o plugin &lt;em&gt;flash&lt;/em&gt; da adobe propriet&amp;aacute;rio, o que fez cada terminal usar ~500MB de mem&amp;oacute;ria que o servidor n&amp;atilde;o tinha - os terminais vinham com 32-64MB, os que tinham suporte a gente aumentou a mem&amp;oacute;ria para 128 ou 256MB mas ainda assim n&amp;atilde;o era eficiente para usar &lt;em&gt;flash&lt;/em&gt;). O pr&amp;oacute;prio servidor ficou melhor quando conseguiram convencer o cara que tinha o dinheiro reservado para a manuten&amp;ccedil;&amp;atilde;o daqueles computadores (me disseram que eram R$ 11.000,00) a comprar mais mem&amp;oacute;ria. Ele mandou 1 (uma!) Markvision 1GB DDR2. Melhor que nada.&lt;/li&gt;
+		&lt;li&gt;
+			Agora que o projeto terminou os computadores est&amp;atilde;o juntando poeira em uma sala fechada, sem abertura nem ventila&amp;ccedil;&amp;atilde;o (desde dezembro). O pessoal que &amp;eacute; respons&amp;aacute;vel por eles est&amp;aacute; sempre dizendo que v&amp;atilde;o fazer alguma coisa, por isso os computadores n&amp;atilde;o s&amp;atilde;o aproveitados para outras atividades.&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;p&gt;&amp;Uacute;ltimos par&amp;aacute;grafos:&lt;br /&gt;
+		1 - Como deu pra notar, o CRC Recife fez um &amp;oacute;timo trabalho, que n&amp;atilde;o foi bem implementado por quest&amp;otilde;es de (falta de) organiza&amp;ccedil;&amp;atilde;o no local. &amp;Eacute; claro que teve outros problemas (veja minhas postagens sobre Casa Brasil, pergunte para a Teia, a Andr&amp;eacute;a Saraiva) mas PRA MIM nada disso justifica. Quando tudo isso aconteceu j&amp;aacute; tinha passado a mar&amp;eacute; do tempo da Teia e da Andr&amp;eacute;a, e o pessoal que eu descrevi aqui praticamente nem sabe dessas coisas. Quando eu estava l&amp;aacute; na Casa Brasil eu dava o sangue pela causa, trabalhava dia e noite, fim de semana, feriado e nenhum &amp;quot;problema&amp;quot; de falta de organiza&amp;ccedil;&amp;atilde;o ou estrutura atrapalhava meu trabalho (n&amp;atilde;o, eu n&amp;atilde;o quero uma medalha nem um trof&amp;eacute;u, estou dizendo isto para exemplificar que muitas reclama&amp;ccedil;&amp;otilde;es e justificativas s&amp;atilde;o insanas e/ou fruto da falta de voca&amp;ccedil;&amp;atilde;o - de novo ressalto que n&amp;atilde;o &amp;eacute; o caso do pessoal que trabalhava na Casa Brasil antigamente, estou falando de 2011).&lt;br /&gt;
+		2 - A falta de documenta&amp;ccedil;&amp;atilde;o (que acredito que n&amp;atilde;o foi falta do CRC e sim do processo organizado de desorganiza&amp;ccedil;&amp;atilde;o local) foi uma das principais causas de atrasos no projeto e a quase n&amp;atilde;o realiza&amp;ccedil;&amp;atilde;o do mesmo se n&amp;atilde;o fosse por um detalhe.&lt;br /&gt;
+		3 - Quem fez o projeto com &lt;em&gt;flash&lt;/em&gt; tamb&amp;eacute;m n&amp;atilde;o pensou nem um pouco na estrutura (e na quest&amp;atilde;o do software livre). Totalmente desnecess&amp;aacute;rio, parece que eu to vendo o pessoal da administra&amp;ccedil;&amp;atilde;o contratar programadores de &amp;uacute;ltima hora e n&amp;atilde;o explicarem para eles que o hardware era minimalista. Se algu&amp;eacute;m vai gerenciar esse tipo de coisa tem que ter experi&amp;ecirc;ncia na &amp;aacute;rea!&lt;br /&gt;
+		4 - Por falar em experi&amp;ecirc;ncia, o primeiro pessoal que foi avaliar os computadores provavelmente estava acostumado com notebooks com Intel i3 e Windows 7. [Sugest&amp;atilde;o]: Tinha que imprimir nas caixas que v&amp;ecirc;m&lt;a href=&quot;http://lmgtfy.com.br/?q=ltsp&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; com os servidores do CRC o seguinte link.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Os-CRCs-de-Recife-por-Iuri-Martins#comments</comments>
+ <category domain="http://mutgamb.org/tag/crc">crc</category>
+ <category domain="http://mutgamb.org/tag/iuri-martins">iuri martins</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/recife">recife</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/608</wfw:commentRss>
+ <pubDate>Sat, 10 Mar 2012 15:21:09 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">608 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

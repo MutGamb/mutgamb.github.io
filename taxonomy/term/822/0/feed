@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - laboratorios</title>
+ <link>http://mutgamb.org/taxonomy/term/822/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Labs e Library</title>
+ <link>http://mutgamb.org/blog/Labs-e-Library</link>
+ <description>&lt;p&gt;Orlando trouxe um &lt;a href=&quot;http://www.wired.com/beyond_the_beyond/2012/09/open-source-hardware-for-building-science-labs/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;link sobre fazer seus pr&amp;oacute;prios laborat&amp;oacute;rios&lt;/a&gt;, e Guima mostrou mais um que saiu na Science. &lt;a href=&quot;http://www.sciencemag.org/content/337/6100/1303.summary&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Segue um peda&amp;ccedil;o do resumo&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;However, the open-source paradigm is now enabling creation of open-source scientific hardware by combining three-dimensional (3D) printing with open-source microcontrollers running on FOSS. These developments are illustrated below by several examples of equipment fabrication that can better meet particular specifications at substantially lower overall costs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Falando em academias e centros de pesquisa, Felipe Cabral compartilhou a participa&amp;ccedil;&amp;atilde;o de Robert Darnton, no programa Roda Viva. Robert &amp;eacute; presidente da biblioteca de Harvard e falou sobre as perspectivas dos livros no mundo digitalizado.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/MKOxc6x3yeU&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Labs-e-Library#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/academia">academia</category>
+ <category domain="http://mutgamb.org/tag/bibliotecas">bibliotecas</category>
+ <category domain="http://mutgamb.org/tag/laboratorios">laboratorios</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/877</wfw:commentRss>
+ <pubDate>Tue, 25 Sep 2012 09:41:27 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">877 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

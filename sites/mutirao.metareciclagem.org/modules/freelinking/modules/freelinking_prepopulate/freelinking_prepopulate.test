@@ -1,0 +1,70 @@
+<?php
+
+/**
+ * @file
+ * Unit tests for the freelinking prepopulate module
+ */
+
+class FreelinkingPrepopulateTest extends DrupalWebTestCase {
+  /*
+   * The getInfo() method provides information about the test.
+   * In order for the test to be run, the getInfo() method needs
+   * to be implemented.
+   */
+  public static function getInfo() {
+    return array(
+      'name' => t('Feelinking Prepopulate tests'),
+      'description' => t('Tests main module functionality.'),
+      'group' => t('Freelinking'),
+    );
+  }
+
+  /**
+   * Prepares the testing environment enabling modules, creating a user and some test content.
+   */
+  function setUp() {
+    // Check that we have the right version of simpletest
+    if (!method_exists($this, 'assertLinkByHref')) {
+      $this->fail(t('You must install a newer version of Simpletest. ' .
+                    'Go to !link and download the latest development release.', array('!link' => 'http://drupal.org/project/simpletest')));
+    }
+
+    parent::setUp('freelinking', 'freelinking_prepopulate');
+
+    // Create user
+    $this->privileged_user = $this->drupalCreateUser(array(
+      'administer nodes',
+      'administer filters',
+    ));
+    $this->drupalLogin($this->privileged_user);
+
+    // Activate freelinking input filter
+    $edit = array(
+      'filters[freelinking/0]' => 1,
+    );
+    $this->drupalPost('admin/settings/filters/1', $edit, t('Save configuration'));
+    $this->assertText(t('The input format settings have been updated.'));
+    $this->drupalGet('admin/settings/filters/1');
+    $this->assertFieldChecked('edit-filters-freelinking/0',
+                              t('Freelinking input filter has been activated'));
+  }
+
+  /**
+   * Tests plugin features
+   */
+  public function testFreelinkingPrepopulate() {
+    // Create node that will contain a sample of each plugin
+    $edit = array();
+    $edit['title'] = t('Testing freelinking prepopulate plugin');
+    $edit['body'] = '<ul>' .
+                    '  <li>[[createnode:test page]]</li>' .
+                    '</ul>';
+    $this->drupalPost('node/add/page', $edit, t('Save'));
+    $this->assertText(t('Page @title has been created.', array('@title' => $edit['title'])));
+
+    // Verify link generation
+    $this->assertRaw('/node/add/page?edit%5Btitle%5D=test%20page',
+                     t('Createnode freelink was generated successfully.'));
+  }
+
+}

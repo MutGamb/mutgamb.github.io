@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - infralógica</title>
+ <link>http://mutgamb.org/taxonomy/term/101/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>EcologiaMetaReciclagem</title>
+ <link>http://mutgamb.org/wiki/EcologiaMetaReciclagem</link>
+ <description>&lt;p&gt;
+&lt;meta http-equiv=&quot;CONTENT-TYPE&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;Artigo original em anexo (PDF). Na vers&amp;atilde;o abaixo (e anexa em ODT), tirei a imagem e fiz poucas corre&amp;ccedil;&amp;otilde;es gramaticais.  
+&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;meta name=&quot;GENERATOR&quot; content=&quot;OpenOffice.org 2.4  (Unix)&quot; /&gt; 	&lt;style type=&quot;text/css&quot;&gt;
+	&lt;!--
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		H2 { margin-bottom: 0.21cm }
+		H2.western { font-family: &quot;Arial&quot;, sans-serif; font-size: 14pt; font-style: italic }
+		H2.cjk { font-size: 14pt; font-style: italic }
+		H2.ctl { font-size: 14pt; font-style: italic }
+		H3 { margin-bottom: 0.21cm }
+		H3.western { font-family: &quot;Arial&quot;, sans-serif }
+	--&gt;
+	&lt;/style&gt;   
+&lt;/p&gt;
+&lt;p&gt;
+&lt;meta http-equiv=&quot;CONTENT-TYPE&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;meta name=&quot;GENERATOR&quot; content=&quot;OpenOffice.org 2.4  (Unix)&quot; /&gt; 	&lt;style type=&quot;text/css&quot;&gt;
+	&lt;!--
+		@page { size: 21cm 29.7cm; margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		H2 { margin-bottom: 0.21cm }
+		H2.western { font-family: &quot;Arial&quot;, sans-serif; font-size: 14pt; font-style: italic }
+		H2.cjk { font-size: 14pt; font-style: italic }
+		H2.ctl { font-size: 14pt; font-style: italic }
+		H3 { margin-bottom: 0.21cm }
+		H3.western { font-family: &quot;Arial&quot;, sans-serif }
+		TD P { margin-bottom: 0cm }
+	--&gt;
+	&lt;/style&gt;
+
+&lt;/p&gt;
+&lt;h2 class=&quot;western&quot;&gt;Ecologia MetaReciclagem: uma proposta de um framework de sistemas para comunidades de pr&amp;aacute;tica&lt;/h2&gt;
+&lt;p&gt;Dalton L. Martins, Tanya Stergiou e Munir Younes&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;Resumo&lt;/h3&gt;
+&lt;p&gt;O artigo apresenta a ecologia de sistemas de informa&amp;ccedil;&amp;atilde;o de uma comunidade de pr&amp;aacute;tica de usu&amp;aacute;rios baseada na Internet. Atrav&amp;eacute;s da rela&amp;ccedil;&amp;atilde;o entre a comunidade de pr&amp;aacute;tica e seus sistemas, o artigo apresenta uma metodologia para replica&amp;ccedil;&amp;atilde;o de comunidades com o suporte de sistemas de informa&amp;ccedil;&amp;atilde;o em suas v&amp;aacute;rias etapas de desenvolvimento. &amp;Eacute; feito um estudo de caso da comunidade MetaReciclagem e a forma como seus grupos de usu&amp;aacute;rios se apropriam da ecologia de sistemas em seu cotidiano.&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;Introdu&amp;ccedil;&amp;atilde;o&lt;/h3&gt;
+&lt;p&gt;Comunidades, utilizando os recursos das tecnologias da informa&amp;ccedil;&amp;atilde;o, t&amp;ecirc;m-se constitu&amp;iacute;do em um foco importante de pesquisas tanto nos aspectos sociais do trabalho em grupo quanto nos aspectos tecnol&amp;oacute;gicos de suporte a esse trabalho. Usu&amp;aacute;rios na Internet, atrav&amp;eacute;s de sistemas de informa&amp;ccedil;&amp;atilde;o, t&amp;ecirc;m-se agrupado em comunidades virtuais como &amp;quot;uma estrat&amp;eacute;gia de integra&amp;ccedil;&amp;atilde;o que auxilia os membros a gerenciar a sobrecarga de informa&amp;ccedil;&amp;atilde;o, receber retorno a respeito de novas id&amp;eacute;ias e manter-se lado a lado com id&amp;eacute;ias de ponta, t&amp;eacute;cnicas e ferramentas&amp;quot; (Wenger et ali., 2002).&lt;/p&gt;
+&lt;p&gt;Wellman (2001) nos oferece uma defini&amp;ccedil;&amp;atilde;o operacional que auxilia a compreender a import&amp;acirc;ncia da comunidade como estrutura social de refer&amp;ecirc;ncia para a Internet: &amp;quot;Comunidades s&amp;atilde;o redes de la&amp;ccedil;os interpessoais que proporcionam sociabilidade, apoio, informa&amp;ccedil;&amp;atilde;o, um senso de integra&amp;ccedil;&amp;atilde;o e identidade social .&amp;quot;&lt;/p&gt;
+&lt;p&gt;Tornam-se, dessa forma, dom&amp;iacute;nios de apoio e de refer&amp;ecirc;ncia que ultrapassam, muitas vezes, os limites geogr&amp;aacute;ficos de outras formas de institui&amp;ccedil;&amp;otilde;es sociais e &amp;quot;de fato, numa economia de r&amp;aacute;pidas  movimenta&amp;ccedil;&amp;otilde;es  baseada  no  conhecimento,  esses dom&amp;iacute;nios s&amp;atilde;o frequentemente mais est&amp;aacute;veis e duradouros do que projetos espec&amp;iacute;ficos, postos de trabalho, produtos ou mesmo ramos  de  neg&amp;oacute;cios&amp;quot; (Wenger et ali., 2002).&lt;/p&gt;
+&lt;p&gt;S&amp;atilde;o esses dom&amp;iacute;nios, as comunidades, que passam portanto a estruturar e orientar os fluxos de informa&amp;ccedil;&amp;atilde;o oriundos da colabora&amp;ccedil;&amp;atilde;o entre os seus membros, atrav&amp;eacute;s de mecanismos de intera&amp;ccedil;&amp;atilde;o projetados a partir de sistemas de informa&amp;ccedil;&amp;atilde;o com suporte a Web. Considerando esses sistemas de informa&amp;ccedil;&amp;atilde;o como verdadeiros dispositivos t&amp;eacute;cnicos de apoio a forma&amp;ccedil;&amp;atilde;o e desenvolvimento da comunidade, podemos constatar que uma verdadeira ecologia cognitiva, relacionada &amp;agrave;s dimens&amp;otilde;es t&amp;eacute;cnicas e coletivas da cogni&amp;ccedil;&amp;atilde;o, come&amp;ccedil;a a se desenhar dado que &amp;quot;os dispositivos t&amp;eacute;cnicos s&amp;atilde;o portanto realmente atores por completo em uma coletividade que j&amp;aacute; n&amp;atilde;o podemos dizer puramente humana, mas cuja fronteira est&amp;aacute; em permanente redefini&amp;ccedil;&amp;atilde;o&amp;quot; (Levy, 1993). Portanto, ao caracterizarmos as comunidades n&amp;atilde;o podemos deixar de lado a forma como a mesma constitui a sua ecologia cognitiva e como essa ecologia atua em rela&amp;ccedil;&amp;atilde;o a estrutura&amp;ccedil;&amp;atilde;o  e  orienta&amp;ccedil;&amp;atilde;o  dos  fluxos  de informa&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;Um ponto de fundamental import&amp;acirc;ncia em se tratando de ecologias cognitivas constitu&amp;iacute;das por comunidades baseadas na Web e seus dispositivos t&amp;eacute;cnicos &amp;eacute; o seu ciclo de realimenta&amp;ccedil;&amp;atilde;o, caracterizado pela forma como a comunidade se apropria da tecnologia e interfere na mesma para ajust&amp;aacute;-la, adapt&amp;aacute;-la conforme a evolu&amp;ccedil;&amp;atilde;o de suas necessidades e dos dom&amp;iacute;nios da comunidade. Em termos das tecnologias da informa&amp;ccedil;&amp;atilde;o, temos que &amp;quot;a difus&amp;atilde;o da tecnologia amplifica seu poder de forma infinita, &amp;agrave; medida que os usu&amp;aacute;rios apropriam-se dela e a redefinem. As novas tecnologias da informa&amp;ccedil;&amp;atilde;o n&amp;atilde;o s&amp;atilde;o simplesmente ferramentas a serem aplicadas, mas processos a serem desenvolvidos. Usu&amp;aacute;rios e criadores podem tornar-se a mesma coisa&amp;quot; (Castells, 1999). As tecnologias da informa&amp;ccedil;&amp;atilde;o, sendo tecnologias essencialmente de manipula&amp;ccedil;&amp;atilde;o simb&amp;oacute;lica, facilitam o seu pr&amp;oacute;prio processo de reconfigura&amp;ccedil;&amp;atilde;o em torno de &amp;quot;comunidades de inova&amp;ccedil;&amp;atilde;o tecnol&amp;oacute;gicas que podem aumentar a velocidade e a efici&amp;ecirc;ncia na qual usu&amp;aacute;rios e empresas podem desenvolver, testar e difundir suas inova&amp;ccedil;&amp;otilde;es&amp;quot; (VonHippel 2005).&lt;/p&gt;
+&lt;p&gt;O objetivo deste artigo &amp;eacute; caracterizar uma comunidade baseada na Web, a comunidade MetaReciclagem, com a inten&amp;ccedil;&amp;atilde;o de oferecer uma proposta de um framework para ecologias cognitivas atrav&amp;eacute;s  dos sistemas de  informa&amp;ccedil;&amp;atilde;o e suas caracter&amp;iacute;sticas a partir dos processos desenvolvidos pela intera&amp;ccedil;&amp;atilde;o entre os membros da comunidade.&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;Comunidade MetaReciclagem&lt;/h3&gt;
+&lt;p&gt;Criada em dezembro de 2002, como uma comunidade independente e distribu&amp;iacute;da geograficamente atrav&amp;eacute;s de seus membros, a MetaReciclagem origina-se a partir de uma lista de emails na Web com o objetivo de ser uma comunidade interdisciplinar tendo &amp;ldquo;como foco o desenvolvimento de tecnologias para redes sociais, criando alternativas para interconectar e integrar comunidades geograficamente dispersas&amp;rdquo; (Dimantas, 2006). Dessa forma, podemos caracterizar MetaReciclagem como uma verdadeira comunidade de pr&amp;aacute;tica em seus tr&amp;ecirc;s n&amp;iacute;veis estruturais: o dom&amp;iacute;nio, a comunidade e a pr&amp;aacute;tica (Wenger, 2002).&lt;/p&gt;
+&lt;p&gt;O dom&amp;iacute;nio da comunidade &amp;eacute; aquilo que define a identidade da comunidade, seus pontos de interesse, seus focos de conversa&amp;ccedil;&amp;atilde;o. A comunidade MetaReciclagem volta-se para uma ampla interdisciplinaridade em torno do tema redes sociais, abordando desde quest&amp;otilde;es t&amp;eacute;cnicas relativas a reciclagem de computadores e software livre, at&amp;eacute; quest&amp;otilde;es de fundo filos&amp;oacute;fico relacionando pr&amp;aacute;ticas pedag&amp;oacute;gicas em projetos sociais e a livre circula&amp;ccedil;&amp;atilde;o da informa&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;A comunidade &amp;eacute; formada pelas rela&amp;ccedil;&amp;otilde;es e intera&amp;ccedil;&amp;otilde;es entre seus membros, sendo a estrutura social que permite o aprendizado. A comunidade MetaReciclagem &amp;eacute; formada por aproximadamente (o fluxo de usu&amp;aacute;rios que entram e saem da comunidade &amp;eacute; consider&amp;aacute;vel) 230 pessoas espalhadas em diversas cidades do Brasil e at&amp;eacute; mesmo do exterior, contando atualmente com alguns membros de Portugal. Os membros da comunidade s&amp;atilde;o a maioria do sexo masculino (81,8%) e possuem idade majorit&amp;aacute;ria entre 25-34 anos (72%), sendo que em torno de 54% dos membros reside na regi&amp;atilde;o de S&amp;atilde;o Paulo (Caetano, 2006). Os membros da comunidade possuem ampla forma&amp;ccedil;&amp;atilde;o acad&amp;ecirc;mica e &amp;aacute;rea de atua&amp;ccedil;&amp;atilde;o, indo desde artistas pl&amp;aacute;sticos, jornalistas, advogados a engenheiros, cientistas da computa&amp;ccedil;&amp;atilde;o, t&amp;eacute;cnologos e matem&amp;aacute;ticos.&lt;/p&gt;
+&lt;p&gt;A pr&amp;aacute;tica &amp;eacute; o conjunto de metodologias, id&amp;eacute;ias, ferramentas, informa&amp;ccedil;&amp;atilde;o, estilo, linguagem, hist&amp;oacute;rias e documentos que os membros das comunidade compartilham (Wenger, 2002). A pr&amp;aacute;tica &amp;eacute; aquilo que a comunidade gera, troca, compartilha em torno de seu dom&amp;iacute;nio de interesse, sendo registrado e compartilhado atrav&amp;eacute;s de diversas formas poss&amp;iacute;veis, desde encontros presenciais at&amp;eacute; sistemas de informa&amp;ccedil;&amp;atilde;o baseados na Web. A pr&amp;aacute;tica da comunidade MetaReciclagem est&amp;aacute; essencialmente focada em torno de tr&amp;ecirc;s n&amp;iacute;veis - infra-estrutura l&amp;oacute;gica, infra-estrutura f&amp;iacute;sica e intera&amp;ccedil;&amp;atilde;o e integra&amp;ccedil;&amp;atilde;o de capital humano (Dimantas, 2006), chamados de a Tr&amp;iacute;ade da Informa&amp;ccedil;&amp;atilde;o Livre, que s&amp;atilde;o os tr&amp;ecirc;s n&amp;iacute;veis necess&amp;aacute;rios para a cria&amp;ccedil;&amp;atilde;o de redes sociais como estrat&amp;eacute;gia de integra&amp;ccedil;&amp;atilde;o de comunidades. A infra&amp;shy; estrutura f&amp;iacute;sica tem rela&amp;ccedil;&amp;atilde;o com os computadores, redes de dados, cabos e materiais f&amp;iacute;sicos necess&amp;aacute;rios. A infra-estrutura l&amp;oacute;gica tem rela&amp;ccedil;&amp;atilde;o com os sistemas de informa&amp;ccedil;&amp;atilde;o utilizados, integradores e agregadores de informa&amp;ccedil;&amp;otilde;es. A intera&amp;ccedil;&amp;atilde;o e integra&amp;ccedil;&amp;atilde;o do capital humano tem rela&amp;ccedil;&amp;atilde;o com o processo da troca da informa&amp;ccedil;&amp;atilde;o entre os membros da comunidade. A comunidade MetaReciclagem atua, portanto, como uma comunidade de pr&amp;aacute;tica que tem por objetivo desenvolver tecnologias para redes sociais e o desenvolvimento das pr&amp;oacute;prias redes sociais, atuando nos tr&amp;ecirc;s n&amp;iacute;veis da tr&amp;iacute;ade da informa&amp;ccedil;&amp;atilde;o, formando, dessa forma, uma estrutura social baseada na Web para o desenvolvimento de projetos, trocas de experi&amp;ecirc;ncias, an&amp;aacute;lises de t&amp;eacute;cnicas e ferramentas, relatos de pr&amp;aacute;ticas sociais e tecnol&amp;oacute;gicas em torno do dom&amp;iacute;nio das redes sociais. Podemos entender MetaReciclagem como sendo uma comunidade de pr&amp;aacute;tica focada no desenvolvimento de outras comunidades de pr&amp;aacute;tica usando, dessa forma, a si mesma como um laborat&amp;oacute;rio de experimenta&amp;ccedil;&amp;atilde;o de tecnologias para redes sociais, metodologias de avalia&amp;ccedil;&amp;atilde;o e replica&amp;ccedil;&amp;atilde;o dos seus conceitos em projetos t&amp;eacute;cnicos e sociais.&lt;/p&gt;
+&lt;p&gt;Atrav&amp;eacute;s de parcerias com diversas inst&amp;acirc;ncias do terceiro setor e do poder p&amp;uacute;blico, a comunidade MetaReciclagem vem desenvolvendo projetos dentro do dom&amp;iacute;nio das redes sociais, atuando em &amp;aacute;reas como a inclus&amp;atilde;o digital, cultura digital, desenvolvimento de software livre e reciclagem de computadores, formando o corpo de pr&amp;aacute;tica da comunidade, atrav&amp;eacute;s de suas experi&amp;ecirc;ncias. As parcerias e os projetos estabelecidos pela comunidade s&amp;atilde;o geograficamente distribu&amp;iacute;dos em cidades como Santo Andr&amp;eacute;, Campinas, S&amp;atilde;o Paulo, Manaus, Belo Horizonte, Rio de Janeiro, Teresina, Arraial d&#039;Ajuda e Porto Alegre. S&amp;atilde;o os membros da comunidade atrav&amp;eacute;s de suas articula&amp;ccedil;&amp;otilde;es locais que constr&amp;otilde;em suas rela&amp;ccedil;&amp;otilde;es de parceria com Organiza&amp;ccedil;&amp;otilde;es N&amp;atilde;o- Governamentais locais e inst&amp;acirc;ncias do poder p&amp;uacute;blico municipal e estadual. Foi atrav&amp;eacute;s dessa din&amp;acirc;mica e capilaridade nacional de atua&amp;ccedil;&amp;atilde;o da comunidade em pr&amp;aacute;ticas relacionadas a redes sociais que levou o Minist&amp;eacute;rio da Cultura a identificar &amp;quot;o processo de MetaReciclagem como sendo um dos eixos tem&amp;aacute;ticos da a&amp;ccedil;&amp;atilde;o cultura digital&amp;quot; (Minist&amp;eacute;rio da Cultura, 2004) em seu projeto Pontos de Cultura, que &amp;quot;ser&amp;aacute; o meio de liga&amp;ccedil;&amp;atilde;o entre as a&amp;ccedil;&amp;otilde;es do poder p&amp;uacute;blico e as a&amp;ccedil;&amp;otilde;es da pr&amp;oacute;pria comunidade; e o meio de liga&amp;ccedil;&amp;atilde;o entre as a&amp;ccedil;&amp;otilde;es culturais das diversas comunidades articuladas&amp;quot; (Gil, 2004).&lt;/p&gt;
+&lt;p&gt;Dessa forma, a comunidade &amp;eacute; estruturada atrav&amp;eacute;s de suas a&amp;ccedil;&amp;otilde;es locais de pesquisa, desenvolvimento, inova&amp;ccedil;&amp;otilde;es, aplica&amp;ccedil;&amp;otilde;es e atrav&amp;eacute;s dos sistemas de informa&amp;ccedil;&amp;atilde;o Web, que permitem a articula&amp;ccedil;&amp;atilde;o, registro, avalia&amp;ccedil;&amp;atilde;o, compartilhamento e colabora&amp;ccedil;&amp;atilde;o entre as diversas inst&amp;acirc;ncias locais da comunidade e suas iniciativas. Somente atrav&amp;eacute;s da ecologia formada por esses sistemas torna-se  poss&amp;iacute;vel o desenvolvimento de a&amp;ccedil;&amp;otilde;es descentralizadas e o suporte e acompanhamento da comunidade dessas mesmas a&amp;ccedil;&amp;otilde;es, sendo que a ecologia &amp;eacute; alimentada por a&amp;ccedil;&amp;otilde;es pontuais locais e torna-se o ponto de refer&amp;ecirc;ncia e valida&amp;ccedil;&amp;atilde;o dessas a&amp;ccedil;&amp;otilde;es, como ponto de estabilidade e estrutura de organiza&amp;ccedil;&amp;atilde;o social.&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;Ecologia MetaReciclagem&lt;/h3&gt;
+&lt;p&gt;O termo ecologia deriva de dois vocabul&amp;aacute;rios gregos: oikos (casa) e logos (estudo). Logo, podemos dizer que ecologia est&amp;aacute; relacionada ao estudo do ambiente, ou seja, dos processos que definem o ambiente, delimitam suas fronteiras e permitem a rela&amp;ccedil;&amp;atilde;o entre seus elementos constitutivos. Em termos de comunidades baseadas em sistemas de informa&amp;ccedil;&amp;atilde;o Web &amp;quot;os processos que sustentam a rede social s&amp;atilde;o processos de comunica&amp;ccedil;&amp;atilde;o, que geram um corpo comum de significados e regras de comportamentos (a cultura da rede) e um corpo comum de conhecimentos&amp;quot; (Capra, 2002).&lt;/p&gt;
+&lt;p&gt;Esses processos de comunica&amp;ccedil;&amp;atilde;o ocorrem das mais variadas formas poss&amp;iacute;veis, seja em encontros presenciais entre os membros da comunidade, seja atrav&amp;eacute;s de suas intera&amp;ccedil;&amp;otilde;es pelos sistemas de informa&amp;ccedil;&amp;atilde;o de articula&amp;ccedil;&amp;atilde;o da comunidade. Atrav&amp;eacute;s dos registros gerados pelo uso comum desses sistemas, a comunidade vai tecendo a cultura da rede, estabelecendo suas rela&amp;ccedil;&amp;otilde;es e bases conceituais a partir das quais orienta seu trabalho e a produ&amp;ccedil;&amp;atilde;o de significados. Dessa forma, &amp;eacute; o fluxo de comunica&amp;ccedil;&amp;otilde;es, atrav&amp;eacute;s de seu registro, que define e redefine continuamente a ecologia de sistemas de suporte a comunidade, pois &amp;quot;cada comunica&amp;ccedil;&amp;atilde;o gera pensamentos e um significado, os quais d&amp;atilde;o origem a novas comunica&amp;ccedil;&amp;otilde;es&amp;quot; (Capra, 2002).&lt;/p&gt;
+&lt;p&gt;Criar, portanto, uma ecologia de sistemas de informa&amp;ccedil;&amp;atilde;o com base no suporte &amp;agrave; colabora&amp;ccedil;&amp;atilde;o da comunidade tem se mostrado uma tarefa de cont&amp;iacute;nua adapta&amp;ccedil;&amp;atilde;o conforme o processo evolutivo da pr&amp;oacute;pria comunidade.&lt;/p&gt;
+&lt;p&gt;Antes de iniciar uma an&amp;aacute;lise da ecologia MetaReciclagem como um todo, vale aqui registrar o processo hist&amp;oacute;rico de forma&amp;ccedil;&amp;atilde;o dessa ecologia conforme a pr&amp;oacute;pria evolu&amp;ccedil;&amp;atilde;o da comunidade. O in&amp;iacute;cio da comunidade se deu atrav&amp;eacute;s de sua lista de emails, sendo uma das mais cl&amp;aacute;ssicas e utilizadas ferramenta de comunica&amp;ccedil;&amp;atilde;o da sociedade de informa&amp;ccedil;&amp;atilde;o (Tyler et al., 2005). Utilizamos o sistema de gerenciamento de emails Mailman (&lt;a href=&quot;http://www.gnu.org/software/mailman/index.html&quot; title=&quot;http://www.gnu.org/software/mailman/index.html&quot; rel=&quot;nofollow&quot;&gt;http://www.gnu.org/software/mailman/index.html&lt;/a&gt;). A lista de email rapidamente se tornou insuficiente como forma de registro e de trabalho de id&amp;eacute;ias de projetos, prot&amp;oacute;tipos, experimenta&amp;ccedil;&amp;otilde;es, devido principalmente a dificuldade no processo de recupera&amp;ccedil;&amp;atilde;o da informa&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;Dessa forma, surge dentro da comunidade o sistema MediaWiki (&lt;a href=&quot;http://www.mediawiki.org&quot; title=&quot;www.mediawiki.org&quot; rel=&quot;nofollow&quot;&gt;www.mediawiki.org&lt;/a&gt;), o mesmo sistema utilizado na constru&amp;ccedil;&amp;atilde;o da WikiPedia&amp;eacute; basicamente um sistema de edica&amp;ccedil;&amp;atilde;o coletiva de p&amp;aacute;ginas web, que permite que os usu&amp;aacute;rios do sistema possam criar p&amp;aacute;ginas relatando id&amp;eacute;ias, projetos, coletando informa&amp;ccedil;&amp;otilde;es e registrando experi&amp;ecirc;ncias. O sistema tamb&amp;eacute;m que v&amp;aacute;rios usu&amp;aacute;rios possam editar a mesma p&amp;aacute;gina, dando possibilidade de colabora&amp;ccedil;&amp;atilde;o na constru&amp;ccedil;&amp;atilde;o coletiva de id&amp;eacute;ias.&lt;/p&gt;
+&lt;p&gt;Resolvido o problema do registro e recupera&amp;ccedil;&amp;atilde;o de id&amp;eacute;ias e projetos, surgiu dentro da comunidade a quest&amp;atilde;o de coletarmos e organizarmos de forma flex&amp;iacute;vel e evolutiva os links que os membros da comunidade desejam compartilhar com a rede. Ap&amp;oacute;s v&amp;aacute;rios testes, chegou-se ao sistema Scuttle (&lt;a href=&quot;http://scuttle.org/&quot; title=&quot;http://scuttle.org/&quot; rel=&quot;nofollow&quot;&gt;http://scuttle.org/&lt;/a&gt;), sistema que permite aos membros da comunidade cadastrarem seus links e classific&amp;aacute;-los por taxonomias. O sistema agrupa todos os links que foram classificados nas mesmas taxonomias do usu&amp;aacute;rio e de todos os outros membros, facilitando a busca tem&amp;aacute;tica na base de links e construindo um reposit&amp;oacute;rio de informa&amp;ccedil;&amp;otilde;es consistente com os seus objetivos, ou seja, com seu dom&amp;iacute;nio.&lt;/p&gt;
+&lt;p&gt;Ap&amp;oacute;s a implementa&amp;ccedil;&amp;atilde;o desses sistemas, surgiram tr&amp;ecirc;s novos problemas derivados do pr&amp;oacute;prio processo evolutivo da pr&amp;aacute;tica da comunidade. Ap&amp;oacute;s uma intensa fase de cria&amp;ccedil;&amp;atilde;o de projetos, alguns iniciaram seu processo de implementa&amp;ccedil;&amp;atilde;o, gerando como consequ&amp;ecirc;ncia um conhecimento pr&amp;aacute;tico de determinadas solu&amp;ccedil;&amp;otilde;es tecnol&amp;oacute;gicas e experi&amp;ecirc;ncias sociais no &amp;acirc;mbito do dom&amp;iacute;nio da comunidade. Essas experi&amp;ecirc;ncias precisam ser relatadas no cotidiano dos trabalhos e os sistemas de informa&amp;ccedil;&amp;atilde;o at&amp;eacute; ent&amp;atilde;o existentes mostravam&amp;shy;se insuficientes como possibilidade de registro e mapeamento dos trabalhos. Sentia-se falta de suporte a imagens, de um ambiente que permitisse a constru&amp;ccedil;&amp;atilde;o de um di&amp;aacute;rio de experi&amp;ecirc;ncias e de um ambiente que permitisse a comunidade criar cursos &amp;agrave; dist&amp;acirc;ncia para seus membros a respeito de suas pesquisas e experi&amp;ecirc;ncias. Surgiram dessa forma, o sistema de suporte &amp;agrave; educa&amp;ccedil;&amp;atilde;o &amp;agrave; dist&amp;acirc;ncia Moodle (&lt;a href=&quot;http://www.moodle.org&quot; title=&quot;www.moodle.org&quot; rel=&quot;nofollow&quot;&gt;www.moodle.org&lt;/a&gt;), o sistema de gerenciamento de imagens Gallery (&lt;a href=&quot;http://gallery.menalto.com/&quot; title=&quot;http://gallery.menalto.com/&quot; rel=&quot;nofollow&quot;&gt;http://gallery.menalto.com/&lt;/a&gt;) e o sistema de Blog Coletivo WordPress (&lt;a href=&quot;http://wordpress.org/&quot; title=&quot;http://wordpress.org/&quot; rel=&quot;nofollow&quot;&gt;http://wordpress.org/&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Por fim, foi criada na comunidade um sistema de agregador RSS (Really Simple Sindication) que agrega todas as informa&amp;ccedil;&amp;otilde;es que circulam em todos os ambientes que constituem a ecologia de sistemas, permitindo ter uma vis&amp;atilde;o geral de tudo o que ocorre dentro da comunidade. Esse sistema tem por objetivo apenas facilitar observar a partir de um &amp;uacute;nico todas as altera&amp;ccedil;&amp;otilde;es na ecologia da comunidade.&lt;/p&gt;
+&lt;table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; bordercolor=&quot;#000000&quot; border=&quot;1&quot;&gt;
+    &lt;col width=&quot;64&quot; /&gt; 	&lt;col width=&quot;64&quot; /&gt; 	&lt;col width=&quot;64&quot; /&gt; 	&lt;col width=&quot;64&quot; /&gt;
+    &lt;tbody&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Sistema&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Usu&amp;aacute;rios&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Tipo de colabora&amp;ccedil;&amp;atilde;o&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Quantidade&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Mailman (lista de e-mails)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;233&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Mensagens&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;M&amp;eacute;dia 45/dia&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Mediawiki (wiki)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;181&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;P&amp;aacute;ginas&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;381&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Scuttle (links)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;43&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Links&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;3500&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Wordpress (blog)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;25&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Publica&amp;ccedil;&amp;otilde;es&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;129&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Gallery (imagens)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;20&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Imagens&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;2128&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Moodle (cursos)&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;10&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;Cursos&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;25%&quot;&gt;
+            &lt;p&gt;7&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Segundo Wenger (2002), h&amp;aacute; 3 principais n&amp;iacute;veis de participa&amp;ccedil;&amp;atilde;o dos membros de uma comunidade. H&amp;aacute; o grupo nuclear, que &amp;eacute; composto em m&amp;eacute;dia de 10 a 15% da comunidade, que participa dos projetos da comunidade, identifica t&amp;oacute;picos de interesse para o grupo e vai criando uma agenda de reflex&amp;otilde;es, atrav&amp;eacute;s de suas mensagens, experi&amp;ecirc;ncias, imagens e links. O pr&amp;oacute;ximo n&amp;iacute;vel &amp;eacute; o grupo de membros ativos, em m&amp;eacute;dia 15 a 20% da comunidade, que participam dos eventos da comunidade, ocasionalmente participam das discuss&amp;otilde;es sem a mesma regularidade e intensidade do grupo nuclear. A maior parte da comunidade &amp;eacute; composta pelo grupo perif&amp;eacute;rico que s&amp;atilde;o os usu&amp;aacute;rios que raramente participam.&lt;/p&gt;
+&lt;p&gt;Observando os dados da tabela 1, podemos analisar como esses n&amp;uacute;meros revelam, atrav&amp;eacute;s do uso da ecologia de sistemas, esses tr&amp;ecirc;s n&amp;iacute;veis de usu&amp;aacute;rios. Primeiramente, a maioria absoluta dos membros participa da lista de emails, que &amp;eacute; um sistema que n&amp;atilde;o exige muito envolvimento por parte do usu&amp;aacute;rio, j&amp;aacute; que n&amp;atilde;o h&amp;aacute; necessidade da leitura da mensagem e t&amp;atilde;o pouco de participar da discuss&amp;atilde;o. H&amp;aacute; uma configura&amp;ccedil;&amp;atilde;o espec&amp;iacute;fica do sistema MailMan que permite aos membros da lista receber as mensagens uma-a-uma (188 membros) ou um &amp;uacute;nico email contendo o resumo das mensagens (45 membros). &amp;Eacute; curioso notar que o n&amp;uacute;mero dos membros que recebem as mensagens individualmente &amp;eacute; muito pr&amp;oacute;ximo com o n&amp;uacute;mero de membros registrados no sistema Wiki (181). Uma an&amp;aacute;lise dos dados de participa&amp;ccedil;&amp;atilde;o de membros no m&amp;ecirc;s de junho de 2006, mostrou que houve 96 membros que participaram de discuss&amp;otilde;es da lista. Observando que tivemos um n&amp;uacute;mero de 31 membros que publicaram menos que 3 mensagens durante o m&amp;ecirc;s, sendo os 65 (27,9%) membros restantes indicando um n&amp;uacute;mero dentro da faixa de usu&amp;aacute;rios ativos e participantes do grupo nuclear.&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; analisando a participa&amp;ccedil;&amp;atilde;o dos membros da comunidade nos outros sistemas de informa&amp;ccedil;&amp;atilde;o, podemos perceber uma queda grande de participa&amp;ccedil;&amp;atilde;o: Scuttle (18,5%), WordPress (10,7%), Gallery (8,6%) e Moodle (4,3%). Essa redu&amp;ccedil;&amp;atilde;o pode ser avaliada pelo fato de que esses sistemas indicam um maior necessidade de envolvimento por parte dos membros da comunidade na execu&amp;ccedil;&amp;atilde;o de projetos, na proposi&amp;ccedil;&amp;atilde;o de novas id&amp;eacute;ias, na pesquisa de temas de estudo e na montagem de cursos, mostrando que esses sistemas acabam se tornando o meio de trabalho e articula&amp;ccedil;&amp;atilde;o do grupo nuclear da comunidade. Outro elemento importante a ser analisado &amp;eacute; o fato de que esses sistemas possuem um maior grau de complexidade, dado que o usu&amp;aacute;rio filtra e estrutura os fluxos de informa&amp;ccedil;&amp;atilde;o de forma l&amp;oacute;gica e organizada segundo seus pr&amp;oacute;prios crit&amp;eacute;rios, envolvendo processamento de recursos audio-visuais e categoriza&amp;ccedil;&amp;atilde;o da informa&amp;ccedil;&amp;atilde;o. &amp;Eacute;, portanto, atrav&amp;eacute;s desses sistemas que o grupo nuclear articula suas a&amp;ccedil;&amp;otilde;es e vai pautando o restante da comunidade, formada pelo grupo de usu&amp;aacute;rios ativos e perif&amp;eacute;ricos.&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;Metodologia de replica&amp;ccedil;&amp;atilde;o&lt;/h3&gt;
+&lt;p&gt;Wenger (2002) descreve os cinco est&amp;aacute;gios de desenvolvimento de uma comunidade: potencial, uni&amp;atilde;o, matura&amp;ccedil;&amp;atilde;o, articula&amp;ccedil;&amp;atilde;o e transforma&amp;ccedil;&amp;atilde;o. O est&amp;aacute;gio potencial indica a fase em que percebemos o potencial de forma&amp;ccedil;&amp;atilde;o de uma comunidade em torno de um determinado dom&amp;iacute;nio. A uni&amp;atilde;o consiste do processo de agregar pessoas em torno da proposta. A fase de matura&amp;ccedil;&amp;atilde;o consiste na etapa de idenficar com maiores detalhes o dom&amp;iacute;nio da comunidade, quais s&amp;atilde;o seus interesses, suas especificidades e de atua&amp;ccedil;&amp;atilde;o na forma&amp;ccedil;&amp;atilde;o da cultura de base e dos consensos da comunidade. A fase de articula&amp;ccedil;&amp;atilde;o envolve o agrupamento dos membros em torna da execu&amp;ccedil;&amp;atilde;o dos projetos, implementa&amp;ccedil;&amp;atilde;o de id&amp;eacute;ias, constru&amp;ccedil;&amp;atilde;o de prot&amp;oacute;tipos e obten&amp;ccedil;&amp;atilde;o de recursos. Ap&amp;oacute;s essa fase, a comunidade passa por uma etapa de transforma&amp;ccedil;&amp;atilde;o, redefinindo objetivos, pr&amp;aacute;ticas e buscando novas possibilidades.&lt;/p&gt;
+&lt;p&gt;Como forma de atender de estruturar esses cinco est&amp;aacute;gios de desenvolvimento, propomos um framework como metodologia de replica&amp;ccedil;&amp;atilde;o do processo desenvolvido pela comunidade MetaReciclagem demonstrado na tabela 2.&lt;/p&gt;
+&lt;table width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; bordercolor=&quot;#000000&quot; border=&quot;1&quot;&gt;
+    &lt;col width=&quot;85&quot; /&gt; 	&lt;col width=&quot;85&quot; /&gt; 	&lt;col width=&quot;85&quot; /&gt;
+    &lt;tbody&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Fase&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Sistema&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Uso recomendado&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Potencial&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Lista de e-mails&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Cria&amp;ccedil;&amp;atilde;o da lista e convite para potenciais interessados com o 			objetivo de identificar o real poder da comunidade.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Uni&amp;atilde;o&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Lista de e-mails e Links&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Amplia&amp;ccedil;&amp;atilde;o dos membros da comunidade a partir do grupo 			inicial. Coleta de links de refer&amp;ecirc;ncia sobre o dom&amp;iacute;nio da 			comunidade.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Matura&amp;ccedil;&amp;atilde;o&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Wiki&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Cria&amp;ccedil;&amp;atilde;o dos primeiros projetos coletivos. Estrutura&amp;ccedil;&amp;atilde;o das 			id&amp;eacute;ias.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Articula&amp;ccedil;&amp;atilde;o&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Blog, imagens, Cursos&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Relato dos processos de trabalho. Documenta&amp;ccedil;&amp;atilde;o dos projetos e 			replica&amp;ccedil;&amp;atilde;o de iniciativas.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr valign=&quot;top&quot;&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Transforma&amp;ccedil;&amp;atilde;o&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Lista de e-mails&lt;/p&gt;
+            &lt;/td&gt;
+            &lt;td width=&quot;33%&quot;&gt;
+            &lt;p&gt;Abertura de novas discuss&amp;otilde;es, redefini&amp;ccedil;&amp;atilde;o de escopo e de 			novas tend&amp;ecirc;ncias.&lt;/p&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+&lt;h2 class=&quot;western&quot;&gt;Agradecimentos&lt;/h2&gt;
+&lt;p&gt;Gostar&amp;iacute;amos de agradecer aos membros da comunidade MetaReciclagem como um todo, em especial a Felipe Fonseca, Hernani Dimantas, Miguel Caetano, Marcelo Braz e Daniel P&amp;aacute;dua pelo apoio na realiza&amp;ccedil;&amp;atilde;o deste trabalho.&lt;/p&gt;
+&lt;h2 class=&quot;western&quot;&gt;Conclus&amp;atilde;o&lt;/h2&gt;
+&lt;p&gt;Este artigo teve por objetivo apresentar a experi&amp;ecirc;ncia da comunidade MetaReciclagem na cria&amp;ccedil;&amp;atilde;o de uma ecologia de sistemas de informa&amp;ccedil;&amp;atilde;o Web para atender as necessidades em evolu&amp;ccedil;&amp;atilde;o com o passar do tempo de sua comunidade de pr&amp;aacute;tica. O conceito de comunidade de pr&amp;aacute;tica e sua rela&amp;ccedil;&amp;atilde;o com a ecologia de sistemas permitiu tra&amp;ccedil;ar um paralelo direto entre as fases de desenvolvimento de comunidades e o uso de sistemas de informa&amp;ccedil;&amp;atilde;o para dar suporte a esse mesmo desenvolvimento.&lt;/p&gt;
+&lt;p&gt;Dessa rela&amp;ccedil;&amp;atilde;o tamb&amp;eacute;m pudemos observar, de forma geral, a participa&amp;ccedil;&amp;atilde;o de uso dos sistemas pelo grupo de usu&amp;aacute;rios perif&amp;eacute;ricos, ativos e nuclear, indicando uma possibilidade de tend&amp;ecirc;ncia de uso de sistemas  espec&amp;iacute;ficos n&amp;atilde;o s&amp;oacute; para necessidades espec&amp;iacute;ficas, mas tamb&amp;eacute;m para n&amp;iacute;veis diferentes de envolvimento e participa&amp;ccedil;&amp;atilde;o do trabalho da pr&amp;aacute;tica e das experi&amp;ecirc;ncias da comunidade.&lt;/p&gt;
+&lt;p&gt;&amp;Eacute; , portanto, atrav&amp;eacute;s dessa experi&amp;ecirc;ncia que propomos uma metodologia de replica&amp;ccedil;&amp;atilde;o e estrutura da ecologia de sistemas atrav&amp;eacute;s das etapas de desenvolvimento de uma comunidade, baseada em alguns sistemas de informa&amp;ccedil;&amp;atilde;o baseados em software livre e que podem ser utilizados e adaptados por qualquer comunidade em forma&amp;ccedil;&amp;atilde;o ou em diferentes est&amp;aacute;gios de desenvolvimento.&lt;/p&gt;
+&lt;h3 class=&quot;western&quot;&gt;REFER&amp;Ecirc;NCIAS&lt;/h3&gt;
+&lt;p&gt;[1] Caetano, Miguel Afonso. &amp;quot;Tecnologias de resist&amp;ecirc;ncia: transgress&amp;atilde;o e solidariedade nos media t&amp;aacute;cticos&amp;quot;. Disserta&amp;ccedil;&amp;atilde;o de Mestrado.2006. Insituto Superior de Ci&amp;ecirc;ncias do Trabalho e da Empresa. Portugal.&lt;/p&gt;
+&lt;p&gt;[2] Capra, Fritojf. As conex&amp;otilde;es ocultas ci&amp;ecirc;ncia para uma vida sustent&amp;aacute;vel. Ed. Cultrix - Amana-key. 2002&lt;/p&gt;
+&lt;p&gt;[3] Castells, Manuel.&amp;quot;A sociedade em rede&amp;quot;. Editora Paz e Terra. 1999&lt;/p&gt;
+&lt;p&gt;[4] Dimantas, Hernani. &amp;quot;Linkania: a sociedade da colabora&amp;ccedil;&amp;atilde;o&amp;quot;. Disserta&amp;ccedil;&amp;atilde;o de Mestrado. Pontif&amp;iacute;cia Universidade Cat&amp;oacute;lica. S&amp;atilde;o Paulo. 2006.&lt;/p&gt;
+&lt;p&gt;[5] Gil, Gilberto. Discurso do Ministro sobre o Programa Nacional Cultura, Educa&amp;ccedil;&amp;atilde;o e Cidadania Cultura Viva, durante encontro com artistas em Berlim. 2004. Link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cultura.gov.br/noticias/discursos/index.php?p=847&amp;amp;more=1&amp;amp;c=1&amp;amp;tb=1&amp;amp;pb=1&quot; title=&quot;http://www.cultura.gov.br/noticias/discursos/index.php?p=847&amp;amp;more=1&amp;amp;c=1&amp;amp;tb=1&amp;amp;pb=1&quot; rel=&quot;nofollow&quot;&gt;http://www.cultura.gov.br/noticias/discursos/index.php?p=847&amp;amp;more=1&amp;amp;c=1&amp;amp;...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] Levy, Pierre. &amp;quot;As tecnologias da intelig&amp;ecirc;ncia: o futuro do pensamento na era da inform&amp;aacute;tica&amp;quot;. Editora 34. 1993.&lt;/p&gt;
+&lt;p&gt;[7] Minist&amp;eacute;rio da Cultura. Cat&amp;aacute;logo do Programa Cultura Viva.2004 Link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cultura.gov.br/sys/skins/cultura_viva_capa/img/cartilha_cultura_viva_pt-br.pdf&quot; title=&quot;http://www.cultura.gov.br/sys/skins/cultura_viva_capa/img/cartilha_cultura_viva_pt-br.pdf&quot; rel=&quot;nofollow&quot;&gt;http://www.cultura.gov.br/sys/skins/cultura_viva_capa/img/cartilha_cultu...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[8] Tyler, Joshua R., Wilkinson, Dennis M., Huberman, Bernarndo A.,Email as spectroscopy: automated discovery of community structure within organizations. The Information Society 2005. Ed. Taylor &amp;amp; Francis Group. 2005.&lt;/p&gt;
+&lt;p&gt;[9] Von Hippel, Eric. &amp;quot;Democratizing innovation technologies&amp;quot;. MIT Press. 2005.&lt;/p&gt;
+&lt;p&gt;[10] Wellman, Barry. &amp;quot;Physical place and cyberplace: the rise of networked individualism&amp;quot;, International Journal of Urban and Regional Research, 1. 2001.&lt;/p&gt;
+&lt;p&gt;[11] Wenger, Etienne, McDermott, Richard, Snyder, William M. &amp;quot;Cultivating Communities of Practice&amp;quot;. Harvard Business School Press. 2002.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/wiki/EcologiaMetaReciclagem#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/artigos">artigos</category>
+ <category domain="http://mutgamb.org/assunto/Tags/infral%C3%B3gica">infralógica</category>
+ <category domain="http://mutgamb.org/assunto/Tags/lista">lista</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/300</wfw:commentRss>
+ <pubDate>Tue, 13 Jan 2009 21:44:23 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">300 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>MetaReciclagem explicada</title>
+ <link>http://mutgamb.org/fonte/MetaReciclagem-explicada</link>
+ <description>&lt;p&gt;Explicando por email:&lt;/p&gt;
+&lt;p&gt;A MetaReciclagem &amp;eacute; uma rede distribu&amp;iacute;da de pessoas que compartilham uma metodologia. Essa metodologia diz respeito a um tipo de rela&amp;ccedil;&amp;atilde;o com a tecnologia que se baseia na desconstru&amp;ccedil;&amp;atilde;o, reuso e ressignifica&amp;ccedil;&amp;atilde;o, com o uso de software livre e o compartilhamento dos aprendizados e descobertas.&lt;br /&gt;
+&lt;br /&gt;
+O que significa distribu&amp;iacute;da? Que a MetaReciclagem n&amp;atilde;o cresce a partir de um ponto central que vai se espalhando, mas de projetos e pessoas em diferentes lugares que decidem voluntariamente adotar essa metodologia.&lt;br /&gt;
+&lt;br /&gt;
+Para promover a integra&amp;ccedil;&amp;atilde;o entre esses diferentes projetos e pessoas, a gente desenvolveu uma nomenclatura que envolve tr&amp;ecirc;s escalas:&lt;br /&gt;
+&lt;br /&gt;
+* Esporos s&amp;atilde;o espa&amp;ccedil;os de refer&amp;ecirc;ncia em MetaReciclagem. Geralmente, s&amp;atilde;o espa&amp;ccedil;os abertos que recebem doa&amp;ccedil;&amp;otilde;es de computadores, reciclam-nos e organizam eventos, oficinas e cursos. Aqui tem uma lista dos esporos ativos atualmente: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org/listas/esporos&quot; href=&quot;http://rede.metareciclagem.org/listas/esporos&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/listas/esporos&lt;/a&gt;&lt;br /&gt;
+* ConecTAZes s&amp;atilde;o, de certa forma, os projetos de MetaReciclagem: qualquer a&amp;ccedil;&amp;atilde;o que requeira a mobiliza&amp;ccedil;&amp;atilde;o de pessoas em rela&amp;ccedil;&amp;atilde;o a um objetivo comum, que tamb&amp;eacute;m esteja ligado aos objetivos da MetaReciclagem. Uma lista de conectazes: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org/listas/conectazes&quot; href=&quot;http://rede.metareciclagem.org/listas/conectazes&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/listas/conectazes&lt;/a&gt;&lt;br /&gt;
+* A infral&amp;oacute;gica &amp;eacute; um conjunto de sistemas na internet que possibilitam que os diferentes esporos, conectazes e pessoas se mantenham informados sobre o que os outros est&amp;atilde;o fazendo, e possam usar os aprendizados coletivos como recursos para seus pr&amp;oacute;prios objetivos. A infral&amp;oacute;gica hoje em dia est&amp;aacute; centralizada aqui: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org&quot; href=&quot;http://rede.metareciclagem.org/&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/MetaReciclagem-explicada#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/conectazes">conectazes</category>
+ <category domain="http://mutgamb.org/assunto/Tags/esporos">esporos</category>
+ <category domain="http://mutgamb.org/assunto/Tags/infral%C3%B3gica">infralógica</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metodologia">metodologia</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/287</wfw:commentRss>
+ <pubDate>Fri, 10 Oct 2008 16:52:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">287 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Desenhando a interação MetaRecicleira</title>
+ <link>http://mutgamb.org/fonte/Desenhando-intera%C3%A7%C3%A3o-MetaRecicleira</link>
+ <description>Pois que o papo todo do &lt;a href=&quot;../../&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;Mutirão da Gambiarra&lt;/a&gt; me fez &lt;a href=&quot;../16&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;pensar de novo&lt;/a&gt; no site principal da &lt;a href=&quot;http://metareciclagem.org/&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt;.
+Nos últimos tempos tô mergulhando bastante no drupal, e me parece cada
+vez mais viável desenvolver algumas idéias que faz tempo que a gente
+queria fazer. A base é estender a nomenclatura que a gente usa na
+MetaReciclagem como base do site: pessoas, esporos, ConecTAZes, talvez
+projetos. Mandei ontem na &lt;a href=&quot;http://lista.metareciclagem.org/&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;lista metarec&lt;/a&gt; um diagrama (&lt;a href=&quot;http://efeefe.no-ip.org/midia/metareciclagem_novo.png&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;anexo&lt;/a&gt;, 46KB) e essa mensagem:&lt;br /&gt;divhá quase dois anos, o pádua mandou aqui nessa&lt;br /&gt;
+lista um começo de conversa sobre arquitetura&lt;br /&gt;
+de informação e idéias iniciais pro site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;.&lt;br /&gt;
+até seguimos isso pra colocar no ar o drupal que tá lá,&lt;br /&gt;
+mas no meio do caminho ele foi abandonado. ponto.&lt;br /&gt;
+nesses últimos tempos, desenvolvendo o mutirão,&lt;br /&gt;
+eu acabei tendo que repensar o papel do que precisa&lt;br /&gt;
+ser um site de metareciclagem. comentei aqui na lista,&lt;br /&gt;
+sobre ser um site mais voltado pra criação de subgrupos,&lt;br /&gt;
+e também pra agilizar doações (ó o assunto &quot;computador&quot;&lt;br /&gt;
+voltando à baila). aproveitei essa noite pra fazer um&lt;br /&gt;
+desenho inicial do que pode ser esse site. ainda precisa&lt;br /&gt;
+detalhar um monte de coisas, mas segue em anexo.&lt;br /&gt;
+opiniões, claro, são bem-vindas.&lt;br /&gt;
+&lt;br /&gt;
+efe&lt;br /&gt;
+&lt;br /&gt;
+2008/3/17 Daniel Pádua:&lt;br /&gt;&amp;gt; Ainda dá pra aproveitar alguma coisa&lt;br /&gt;
+&amp;gt; do email abaixo nas correrias da plataforma?&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; aloha&lt;br /&gt;
+&amp;gt; dp&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ---------- Forwarded message ----------&lt;br /&gt;
+&amp;gt; From: Daniel Pádua&lt;br /&gt;
+&amp;gt; &amp;nbsp;Date: 2006/5/25&lt;br /&gt;
+&amp;gt; Subject: [mobilizando] novo site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt; To: Lista do projeto MetaReciclagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Pessoal,&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Detalhei o trampo abaixo, na forma de briefing + arquitetura de informação,&lt;br /&gt;
+&amp;gt; que é o que estou seguindo nos meus estudos de layout pro novo site.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Mas é só que conseguirei fazer: telas.&lt;br /&gt;
+&amp;gt; (e com uma já conhecida lentidão)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Precisamos MUITO de programadores/codeiros para implementar e/ou&lt;br /&gt;
+&amp;gt; customizar sistemas que serão necessários.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;- Vamos montar um time pra meter a mão nisso?&lt;br /&gt;
+&amp;gt; - Quem chega junto?&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; um aloha cocrante,&lt;br /&gt;
+&amp;gt; dpadua.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; OBS1: A documentação abaixo está aberta a discussão e intervenções:&lt;br /&gt;
+&amp;gt; &lt;a href=&quot;http://www.metareciclagem.org/wiki/index.php/SiteMetarec&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;wbr&gt;/wiki/index.php/SiteMetarec&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; OBS2:E qualquer idéia para custear o trabalho dos envolvidos - seja grana de&lt;br /&gt;
+&amp;gt; mutirão&lt;br /&gt;
+&amp;gt; ou de apoios - é fuckin&#039; extremamente welcome on the table.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ------------------------------div class=&quot;Ih2E3d&quot;&lt;div style=&quot;margin-left: 40px;&quot;&gt;&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;br /&gt;
+&amp;gt; Site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;Metareciclagem.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; === BRIEFING&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;1) Sobre a idéia de metareciclagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Além obviamente todos os textos e manifestos já escritos e disponíveis na&lt;br /&gt;
+&amp;gt; web (&lt;a href=&quot;http://www.metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;/a&gt; ,&lt;br /&gt;
+&amp;gt; especialmente &lt;a href=&quot;http://www.metareciclagem.org/wiki/index.php/LivroVerde&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;wbr&gt;/wiki/index.php/LivroVerde&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt; tentei resumir as coisas&lt;br /&gt;
+&amp;gt; num infográfico - &lt;a href=&quot;http://entrementes.net/midiateca/dpadua/metarec_passos.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://entrementes.net/midiate&lt;wbr&gt;ca/dpadua/metarec_passos.png&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - e nesse texto-bagunça:&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &quot;UMA IDÉIA... QUASE UM JEITO de fazer&lt;br /&gt;
+&amp;gt; surgida na rede, a idéia da metareciclagem é apropriar-se das coisas (sejam&lt;br /&gt;
+&amp;gt; &quot;novas&quot; ou &quot;velhas&quot;), reestruturando e resignificando tudo (de computadores&lt;br /&gt;
+&amp;gt; a sentimentos), compartilhando a maneira de fazer isto e assim permitindo&lt;br /&gt;
+&amp;gt; que qualquer um possa replicar ações, produções e experiências (para&lt;br /&gt;
+&amp;gt; preservá-las ou transformá-las). a várias mãos ou não.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; VOCÊ É QUEM CRIA AS POSSIBILIDADES&lt;br /&gt;
+&amp;gt; imagine um mundo onde as fórmulas são compartilhadas e livres para serem&lt;br /&gt;
+&amp;gt; adaptadas. imagine que tudo seja matéria-prima para a criatividade humana. o&lt;br /&gt;
+&amp;gt; que você faria com isso? o que você mudaria com isso? venha contar pra&lt;br /&gt;
+&amp;gt; gente!&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; COLABORANDO A GENTE PIMBA&lt;br /&gt;
+&amp;gt; metareciclagem é uma idéia em aberto no coração de pessoas de grupos e ações&lt;br /&gt;
+&amp;gt; diversas, juntas num movimento descentralizado, que vai do Brasil a países&lt;br /&gt;
+&amp;gt; como Portugal e Índia.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Você pode já ser metarecicleiro e ainda não notou!&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; 2) Sobre identidade visual e linguagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Non-style design baseado nas metasetas&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/meta-logo.svg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/meta-logo.svg&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/3setas1.jpg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/3setas1.jpg&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/3setas1.eps&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/3setas1.eps&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; (outros materiais em &lt;a href=&quot;http://metareciclagem.org/material/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Explorando menos o tema &quot;computador&quot; na representação principal da&lt;br /&gt;
+&amp;gt; metareciclagem, e adicionando (incluindo o &quot;computador&quot;) outros temas que&lt;br /&gt;
+&amp;gt; representem a idéia de maneira ampla e diversa.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Nos textos de apresentação (resumos para curiosos, guias para novatos), usar&lt;br /&gt;
+&amp;gt; linguagem mais lúdica e narrativa (com cara de passo a passo), fugir do&lt;br /&gt;
+&amp;gt; clima de &quot;inclusão digital&quot;, &quot;ação política&quot; e &quot;corporação&quot;. Experimentar&lt;br /&gt;
+&amp;gt; menos seriedade, menos pretensões. Experimentar mais emoção,&lt;br /&gt;
+&amp;gt; brodagem e &quot;playground for the dissident&quot;.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; 3) Sobre o site&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Ele tem pelo menos três funções:&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; a) ser a base para comunicar as idéias e os movimentos, informando e&lt;br /&gt;
+&amp;gt; instigando debates e ações&lt;br /&gt;
+&amp;gt; (especialmente para curiosos e novatos, com muito material web-pra-papel e&lt;br /&gt;
+&amp;gt; guias)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; b) oferecer serviços para manter agregadas idéias/conceitos/conhecimentos&lt;br /&gt;
+&amp;gt; (blogs, textos colaborativos, compartilhamento de mídia, links, etc) - algo&lt;br /&gt;
+&amp;gt; meio&lt;br /&gt;
+&amp;gt; &quot;a escola aberta metarecicleira&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; c) oferecer serviços para manter agregados&lt;br /&gt;
+&amp;gt; movimentos/ações/demandas&lt;wbr&gt;/soluções&lt;br /&gt;
+&amp;gt; (lista, social networking, irc, mapas, suporte colaborativo, logística&lt;br /&gt;
+&amp;gt; distribuída, &quot;kits&quot; guerrilheiro, etc) - algo&lt;br /&gt;
+&amp;gt; meio &quot;a festa-sem-fim metarecicleira&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; O uso de sistemas de colaboração online e a descentralização da&lt;br /&gt;
+&amp;gt; infra-estrutura&lt;br /&gt;
+&amp;gt; por trás do site (especialmente armazenamento de dados) são fundamentais&lt;br /&gt;
+&amp;gt; para&lt;br /&gt;
+&amp;gt; criar um serviços de gestão horizontal e emergente.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ==== ARQUITETURA DE INFORMAÇÃO 1.0&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ***** Ambientes interativos em tempo-real (presente em todos os nós da&lt;br /&gt;
+&amp;gt; arquitetura)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- lista, jabber, irc (canal aberto 24hs de comunicação tempo-real)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- mutirões táticos (ambiente descentralizado de oferta-procura e&lt;br /&gt;
+&amp;gt; circulação de recursos, logística de mutirões táticos, micro-mercados, etc)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- outras comunidades online (ex.: orkut, myspace, etc)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Entrada&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- how-to relâmpago &quot;metareciclando&quot;: explicação infográfica sucinta&lt;br /&gt;
+&amp;gt; (ex.: &lt;a href=&quot;http://entrementes.net/midiateca/dpadua/metarec_passos.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://entrementes.net/midiate&lt;wbr&gt;ca/dpadua/metarec_passos.png&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- badge metarecicleiro: uma espécie de monitor/tracker/totem/trojan&lt;br /&gt;
+&amp;gt; do metarec pra apropriação na rede aliada&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (na forma de código dinâmico para inserção em qualquer blog - &quot;pega&lt;br /&gt;
+&amp;gt; o código e cola lá&quot; - e carrega dados que interessam ao aliado)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resumo instantâneo do movimento:&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- interatividades em andamento (organizado por ações e por agenda)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - conhecimentos em construção (organizando por temas/conteúdos e por&lt;br /&gt;
+&amp;gt; novidade)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;fluxos metarecicleiros:&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- novidades&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - feeds de todos @s aliad@s&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- feeds de todas as ações e papos metarecicleiros&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Interatividades (linka muito para os conhecimentos e pros ambientes&lt;br /&gt;
+&amp;gt; interativos)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Mapa dos metarecicleiros (onde achar metarecicleiros, perfis, )&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Encontros/eventos/conectazes&lt;wbr&gt;/festas metarecicleiras&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Lugares/picos/esporos (metacafes, esporos, bares, inferninhos,&lt;br /&gt;
+&amp;gt; etc.)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Ações e grupos que reconhecemos como metarecicleiros ou indicamos&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Experimentos e tentativas interessantes&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Apoios e Reconhecimentos (prêmios, etc)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ^&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; (( &quot;áreas&quot; que se completam o tempo todo &amp;nbsp;))&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Conhecimentos (linka muito para as interatividades e pros ambientes&lt;br /&gt;
+&amp;gt; interativos )&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Tutoriais, guias, passo-a-passo, rautus, FAQs&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Outros textos&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Audiovisuais&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Gráficos/Imagem&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Resenhas/Matérias/reportagens&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Entrevistas&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Feeds&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Links&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Sobre a metareciclagem&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(apresentando, mas também incitando e descobrir pela interação)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; --&lt;br /&gt;
+&amp;gt; daniel pádua ~ &lt;a href=&quot;http://imaginarios.net/dpadua&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;imaginarios.net/dpadua&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://seuestrelo.art.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;seuestrelo.art.br&lt;/a&gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://myspace.com/bandadacapo&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;myspace.com/bandadacapo&lt;/a&gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;* &lt;a href=&quot;http://estudiolivre.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;estudiolivre.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;&lt;strong&gt;Atualizando&lt;/strong&gt; - mandei agora na lista:&lt;br /&gt;&lt;div style=&quot;margin-left: 40px;&quot;&gt;
+Fiquei pensando aqui se faz sentido diferenciar &#039;projeto&#039; de&lt;br /&gt;
+conecTAZ e esporo, ou se o melhor é ficar só com &#039;esporo&#039;&lt;br /&gt;
+como espaço físico aberto, e &#039;conecTAZ&#039; ser qualquer idéia&lt;br /&gt;
+de ação, temporária ou permanente. também acho que&lt;br /&gt;
+precisa detalhar mais o tipo de informação das seguintes&lt;br /&gt;
+coisas:&lt;br /&gt;
+&lt;br /&gt;
+* perfil de usuárix&lt;br /&gt;
+* esporo&lt;br /&gt;
+* doação&lt;br /&gt;
+* inventário&lt;br /&gt;
+* conecTAZ&lt;br /&gt;
+* projeto (se for o caso)&lt;br /&gt;
+&lt;br /&gt;
+e pensar em outros tipos de interação. guestbooks? chat?&lt;br /&gt;
+acho que uma coisa interessante é a história de agenciar&lt;br /&gt;
+a circulação de doações e equipos entre espaços, e a&lt;br /&gt;
+possibilidade de galera criar seu projetinho ali, oferecendo&lt;br /&gt;
+pra quem se interessar a possiblidade de procurar esporos&lt;br /&gt;
+por localidade. também acho legal pensar em maneiras de&lt;br /&gt;
+&#039;validar&#039; coletivamente um projeto, pra evitar ainda mais&lt;br /&gt;
+apropriações indébitas. pensei em criar um user role&lt;br /&gt;
+&#039;metarecicleirx&#039;, de pessoas que teriam permissão pra&lt;br /&gt;
+&#039;certificar&#039; projetos de metareciclagem e trazer outras&lt;br /&gt;
+pessoas pra role &#039;metarecicleirx&#039;. tem aí no meio os problemas&lt;br /&gt;
+conceituais de sempre: como definir a primeira composição&lt;br /&gt;
+de um grupo auto-determinado? minha resposta é simples,&lt;br /&gt;
+na linha da tirania caótica: eu (e quem ajudar a montar a&lt;br /&gt;
+parada) decidimos. e se alguém discordar disso ou daquilo,&lt;br /&gt;
+que apresente aqui seus argumentos e ponto.&lt;br /&gt;
+&lt;br /&gt;
+enfim, um monte de questões na cabeça.&lt;br /&gt;
+&lt;br /&gt;
+mas como ninguém tá com tempo pra pensar a respeito,&lt;br /&gt;
+vou fazendo do meu jeito.&lt;br /&gt;
+&lt;br /&gt;
+huahuahua&lt;/div&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/div&gt;</description>
+ <comments>http://mutgamb.org/fonte/Desenhando-intera%C3%A7%C3%A3o-MetaRecicleira#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/infral%C3%B3gica">infralógica</category>
+ <category domain="http://mutgamb.org/assunto/Tags/site">site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/118</wfw:commentRss>
+ <pubDate>Tue, 01 Apr 2008 18:34:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">118 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

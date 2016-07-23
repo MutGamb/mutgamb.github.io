@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - namídia</title>
+ <link>http://mutgamb.org/taxonomy/term/152/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MaterialArede</title>
+ <link>http://mutgamb.org/wiki/MaterialArede</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://arede.inf.br/?searchword=metareciclagem&amp;amp;option=search&amp;amp;Itemid=5&quot; title=&quot;http://arede.inf.br/?searchword=metareciclagem&amp;amp;option=search&amp;amp;Itemid=5&quot; rel=&quot;nofollow&quot;&gt;http://arede.inf.br/?searchword=metareciclagem&amp;amp;option=search&amp;amp;Itemid=5&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/wiki/MaterialArede#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/nam%C3%ADdia">namídia</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/250</wfw:commentRss>
+ <pubDate>Fri, 01 Aug 2008 02:56:34 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">250 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

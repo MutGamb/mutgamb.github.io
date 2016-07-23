@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - pivas</title>
+ <link>http://mutgamb.org/taxonomy/term/808/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Presença e Interação Web: Orgânicos do PIVAS</title>
+ <link>http://mutgamb.org/blog/Presenca-e-Interacao-Web-Organicos-do-PIVAS</link>
+ <description>&lt;p&gt;Orlando compartilhou mais uma produ&amp;ccedil;&amp;atilde;o audiovisual, feita em software livre, que surge como deriva&amp;ccedil;&amp;atilde;o da&lt;a href=&quot;http://cigac.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; CIGAC&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;375&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/48851767?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Presenca-e-Interacao-Web-Organicos-do-PIVAS#comments</comments>
+ <category domain="http://mutgamb.org/tag/cigac">cigac</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/orlando">orlando</category>
+ <category domain="http://mutgamb.org/tag/pivas">pivas</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/864</wfw:commentRss>
+ <pubDate>Wed, 05 Sep 2012 16:35:51 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">864 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

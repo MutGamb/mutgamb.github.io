@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - vídeo livre</title>
+ <link>http://mutgamb.org/taxonomy/term/777/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Documentando Estúdios Livres</title>
+ <link>http://mutgamb.org/blog/Documentando-Estudios-Livres</link>
+ <description>&lt;p&gt;Felipe Cabral abriu uma thread na lista para compartilhar informa&amp;ccedil;&amp;otilde;es sobre &amp;quot;v&amp;iacute;deo no Linux&amp;quot;, envolvendo performance gr&amp;aacute;fica em sistemas e hardware, e edi&amp;ccedil;&amp;atilde;o (programas, configura&amp;ccedil;&amp;otilde;es, tutoriais e cases).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Aqui no Coletivo Digital a gente montou um Est&amp;uacute;dio Livre grande, para audio e v&amp;iacute;deo. Em audio a gente tem alcan&amp;ccedil;ado uma performance muito profissional, mas em v&amp;iacute;deo a gente ainda est&amp;aacute; enfrentando muitas quest&amp;otilde;es.&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Recentemente montamos a seguinte ilha de edi&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo:&lt;/p&gt;
+*Mother Board -&amp;gt; &lt;a href=&quot;http://www.asus.com/Motherboards/Intel_Socket_1155/P8H67M_PRO/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ASUS P8H67-M PRO&lt;/a&gt;
+*&lt;a href=&quot;http://ark.intel.com/products/53445/ProductCollection.aspx?brand=54041&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Processador i5-2310 2.90ghz x 4&lt;/a&gt;
+	&lt;div&gt;
+*Placa de v&amp;iacute;deo:&lt;a href=&quot;http://br.msi.com/product/vga/N570GTX-Twin-Frozr-III-Power-Edition-OC.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; uma placa da nvidia GTX 570 (a nova gera&amp;ccedil;&amp;atilde;o de placas da nvidia)&lt;/a&gt;, da msi (modelo twin frozen power)&lt;/div&gt;
+	&lt;div&gt;
+*Mem&amp;oacute;ria Ram: &lt;a href=&quot;http://www.corsair.com/memory-by-product-family/vengeance/vengeance-low-profile-4gb-dual-channel-ddr3-memory-kit-cml4gx3m2a1600c9.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;kit da corsair &lt;/a&gt;ddr3 de 2 pentes de 4gb, totalizando 8 gb&lt;/div&gt;
+	&lt;div&gt;
+* Hd:&lt;a href=&quot;http://www.ocztechnology.com/ocz-vertex-series-sata-ii-2-5-ssd.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; 1 hd ssd sata 2 de 120 gb &lt;/a&gt;da ocz para instalar o sistema. Ele est&amp;aacute; com ubuntu 12.04 64bits&lt;/div&gt;
+	&lt;div&gt;
+* Hd de dados e backup -&amp;gt; 2 hds de 2 tb da seagate 7200 rpm com 32 mb de cache&lt;/div&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Mas tivemos um problema hom&amp;eacute;rico pra fazer funcionar por conta do danado do uefi e de uma coisa meio bizarra do ubuntu &lt;a href=&quot;http://ubuntuforum-br.org/index.php/topic,91231.msg501975.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;n&amp;atilde;o instalar por particionamento manual&lt;/a&gt;. Bom, enfim, instalado o sistema, come&amp;ccedil;amos a fazer testes de edi&amp;ccedil;&amp;atilde;o e renderiza&amp;ccedil;&amp;atilde;o. E para nossa triste surpresa a performance n&amp;atilde;o ficou nem perto do esperado. Usando o kdenlive, com v&amp;iacute;deos AVCHD (.mts), a visualiza&amp;ccedil;&amp;atilde;o do monitor de edi&amp;ccedil;&amp;atilde;o em tempo real fica travando em full hd. Se eu configuro para usar o OpenGL n&amp;atilde;o funfa. =( Perguntei a parceiros sobre as quest&amp;otilde;es de performance envolvendo as vari&amp;aacute;veis de hardware, sistema operacional e software de edi&amp;ccedil;&amp;atilde;o e afirmaram que a rela&amp;ccedil;&amp;atilde;o de processamento entre a gpu (placa gr&amp;aacute;fica) e o sistema (linux) ainda &amp;eacute; muito precario, ficando a cabo do processador a maioria do trabalho. Nessa ilha de edi&amp;ccedil;&amp;atilde;o temos um senhor processador, mas ele n&amp;atilde;o da conta do que em tese precisamos. Ai fiquei me perguntando: isso &amp;eacute; verdade? por que ningu&amp;eacute;m nunca me disse isso? N&amp;atilde;o h&amp;aacute; nenhuma iniciativa, ainda que experimental, que vise a apropria&amp;ccedil;&amp;atilde;o completa de recursos da gpu? Como s&amp;atilde;o feitas as renderiza&amp;ccedil;&amp;otilde;es e as edi&amp;ccedil;&amp;otilde;es em Blender de anima&amp;ccedil;&amp;otilde;es de alta performance? Em sistema operacional propriet&amp;aacute;rio? N&amp;atilde;o &amp;eacute; poss&amp;iacute;vel que ningu&amp;eacute;m at&amp;eacute; hoje tenha trabalhado com solu&amp;ccedil;&amp;otilde;es de resposta r&amp;aacute;pida dentro de um ambiente gnu/linux para edi&amp;ccedil;&amp;atilde;o e renderiza&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo. Queria saber das experi&amp;ecirc;ncias da galera que est&amp;aacute; por aqui... e a&amp;iacute;, mito ou verdade? E sobre as gpus e suas marcas (o Paulo Moraes levantou essa quest&amp;atilde;o numa outra tread), tenho a dizer que sempre considerei a Nvidia uma boa op&amp;ccedil;&amp;atilde;o porque tem todos os drives para linux. J&amp;aacute; com a ATI a reciproca n&amp;atilde;o &amp;eacute; verdadeira. Essa placa que citei acima &amp;eacute; de um lan&amp;ccedil;amento super recente e existe o drive dispon&amp;iacute;vel pra linux no site da empresa. Tem at&amp;eacute; um gerenciador gr&amp;aacute;fico que mostra temperatura dela, configura&amp;ccedil;&amp;otilde;es, etc. Fica tb essa quest&amp;atilde;o pra quem tiver pitacos: ATI ou Nvidia?&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Documentando-Estudios-Livres#comments</comments>
+ <category domain="http://mutgamb.org/tag/estudio-livre">estúdio livre</category>
+ <category domain="http://mutgamb.org/tag/felipe-cabral">felipe cabral</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/video-livre">vídeo livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/839</wfw:commentRss>
+ <pubDate>Sun, 12 Aug 2012 01:39:20 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">839 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

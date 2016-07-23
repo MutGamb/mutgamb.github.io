@@ -1,0 +1,10 @@
+; $Id: flag.info,v 1.1.2.2 2009/02/20 22:43:22 quicksketch Exp $
+name = Flag
+description = Create customized flags that users can set on content.
+package = Flags
+
+; Information added by drupal.org packaging script on 2009-02-22
+version = "5.x-1.0-rc1"
+project = "flag"
+datestamp = "1235273721"
+

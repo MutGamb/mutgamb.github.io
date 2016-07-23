@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - percloreto de ferro</title>
+ <link>http://mutgamb.org/taxonomy/term/720/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Poder usar e Saber Usar</title>
+ <link>http://mutgamb.org/blog/Poder-usar-e-Saber-Usar</link>
+ <description>&lt;p&gt;Marcos Egito, do CRC Recife, compartilhou links sobre uso de softwares e hardwares.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Um deles aborda a quest&amp;atilde;o da Liberdade de Instalar Software Livre,&lt;a href=&quot;http://www.Dicas-L.com.br/dicas-l/20120706.php&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; dispon&amp;iacute;vel aqui&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Estamos preocupados de que a Microsoft e fabricantes de hardware implementem essas restri&amp;ccedil;&amp;otilde;es de inicializa&amp;ccedil;&amp;atilde;o (boot) de um modo que impe&amp;ccedil;a seus usu&amp;aacute;rios de iniciar (boot) qualquer coisa que n&amp;atilde;o seja Windows. Nesse caso, a melhor pedida &amp;eacute; chamar essa tecnologia Boot Restrito (ou Inicializa&amp;ccedil;&amp;atilde;o Restrita), j&amp;aacute; que tal requisito seria uma restri&amp;ccedil;&amp;atilde;o desastrosa para os usu&amp;aacute;rios de computadores e de modo algum um atributo de seguran&amp;ccedil;a.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A outra quest&amp;atilde;o &amp;eacute; sobre o descarte do Percloreto de Ferro, usado emalgumas oficinas de Rob&amp;oacute;tica Livre, para fazer as placas.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O que fazer depois, jogar o Percloreto ralo abaixo? Deixar que ele se junte ao esgoto e v&amp;aacute; para sei l&amp;aacute; onde?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Marcelo Braz linkou mais sobre o assunto (&lt;a href=&quot;http://http://www.handmades.com.br/forum/index.php?topic=1192.0&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://www.handmades.com.br/forum/index.php?topic=1192.msg17911#msg17911&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;2&lt;/a&gt;), e Jos&amp;eacute; Neto, mandou &lt;a href=&quot;http://mutgamb.org/sites/mutgamb.org/files/percloreto.pdf&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;possibilidades bem legais que podem ser baixadas nesse pdf. &lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Poder-usar-e-Saber-Usar#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/lixo-eletr%C3%B4nico">lixo eletrônico</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/percloreto-de-ferro">percloreto de ferro</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/788</wfw:commentRss>
+ <pubDate>Fri, 06 Jul 2012 11:14:26 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">788 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

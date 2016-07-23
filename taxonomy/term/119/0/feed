@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - meta</title>
+ <link>http://mutgamb.org/taxonomy/term/119/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>migrando o mutirão</title>
+ <link>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o</link>
+ <description>&lt;p&gt;(atualizando esse post)&lt;/p&gt;&lt;p&gt;acabei de completar a migra&amp;ccedil;&amp;atilde;o do mutir&amp;atilde;o para um vserver novo, que vai custar uns trocados mas deve dar mais disponibilidade do que nossa amiga aletta. aproveitei tamb&amp;eacute;m pra fazer atualiza&amp;ccedil;&amp;otilde;es de seguran&amp;ccedil;a do pr&amp;oacute;prio drupal e de alguns m&amp;oacute;dulos. amanh&amp;atilde; publico aqui um pouco de material novo ou recompilado que andei catando/armando.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/249</wfw:commentRss>
+ <pubDate>Tue, 22 Jul 2008 02:33:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">249 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>PT_BR</title>
+ <link>http://mutgamb.org/meta/PTBR</link>
+ <description>&lt;p&gt;Importei a tradu&amp;ccedil;&amp;atilde;o pra portugu&amp;ecirc;s do Brasil da interface b&amp;aacute;sica do sistema. Ainda preciso traduzir os m&amp;oacute;dulos adicionais. A maioria deles n&amp;atilde;o tem vers&amp;atilde;o em portugu&amp;ecirc;s, vou traduzir na m&amp;atilde;o e aproveitar para disponibilizar os .PO.&lt;/p&gt;&lt;a href=&quot;http://mutgamb.org/meta/PTBR&quot; title=&quot;PT_BR&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:meta;button:large&quot; class=&quot;FlattrButton&quot;&gt;Importei a tradu&amp;amp;ccedil;&amp;amp;atilde;o pra portugu&amp;amp;ecirc;s do Brasil da interface b&amp;amp;aacute;sica do sistema. Ainda preciso traduzir os m&amp;amp;oacute;dulos adicionais. A maioria deles n&amp;amp;atilde;o tem vers&amp;amp;atilde;o em portugu&amp;amp;ecirc;s, vou traduzir na m&amp;amp;atilde;o e aproveitar para disponibilizar os .PO.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/meta/PTBR#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/207</wfw:commentRss>
+ <pubDate>Fri, 13 Jun 2008 13:42:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">207 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Retomando</title>
+ <link>http://mutgamb.org/meta/Retomando</link>
+ <description>&lt;p&gt;Pois, depois de algumas semanas com outras prioridades, come&amp;ccedil;o a retomar a movimenta&amp;ccedil;&amp;atilde;o por aqui. Fiz um monte de modifica&amp;ccedil;&amp;otilde;es no sistema hoje &amp;agrave; tarde. A mais f&amp;aacute;cil de perceber &amp;eacute; a p&amp;aacute;gina inicial, que agora mostra um pouco mais da movimenta&amp;ccedil;&amp;atilde;o que rola por aqui. Tamb&amp;eacute;m ca&amp;iacute; na tenta&amp;ccedil;&amp;atilde;o e criei um tipo de conte&amp;uacute;do &amp;quot;wiki&amp;quot;, que no fim das contas &amp;eacute; uma maneira de se relacionar com as coisas que a gente j&amp;aacute; conhece bem. Vou come&amp;ccedil;ar a migrar tudo que eu publiquei como &amp;quot;p&amp;aacute;gina&amp;quot; para esse tipo de conte&amp;uacute;do, e ver o que rola.&lt;/p&gt;&lt;p&gt;Nos pr&amp;oacute;ximos dias, ainda vou mexer um pouco no layout do site e dar mais informa&amp;ccedil;&amp;otilde;es pra quem quiser ajudar. Tamb&amp;eacute;m vou tentar estruturar um pouco da documenta&amp;ccedil;&amp;atilde;o que consegui encontrar, e ver se dou um jeito de subir mais coisas dos wikis antigos (que s&amp;oacute; consegui acessar direto pelo banco de dados nos backups que tenho aqui).&lt;/p&gt;&lt;p&gt;No mais, vqv que ainda tem muita coisa pela frente!&lt;/p&gt;&lt;a href=&quot;http://mutgamb.org/meta/Retomando&quot; title=&quot;Retomando&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:meta;button:large&quot; class=&quot;FlattrButton&quot;&gt;Pois, depois de algumas semanas com outras prioridades, come&amp;amp;ccedil;o a retomar a movimenta&amp;amp;ccedil;&amp;amp;atilde;o por aqui. Fiz um monte de modifica&amp;amp;ccedil;&amp;amp;otilde;es no sistema hoje &amp;amp;agrave; tarde. A mais f&amp;amp;aacute;cil de perceber &amp;amp;eacute; a p&amp;amp;aacute;gina inicial, que agora mostra um pouco mais da movimenta&amp;amp;ccedil;&amp;amp;atilde;o que rola por aqui. Tamb&amp;amp;eacute;m ca&amp;amp;iacute; na tenta&amp;amp;ccedil;&amp;amp;atilde;o e criei um tipo de conte&amp;amp;uacute;do &amp;amp;quot;wiki&amp;amp;quot;, que no fim das contas &amp;amp;eacute; uma maneira de se relacionar com as coisas que a gente j&amp;amp;aacute; conhece bem.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/meta/Retomando#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/192</wfw:commentRss>
+ <pubDate>Mon, 09 Jun 2008 22:11:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">192 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Status do Mutirão - Junho</title>
+ <link>http://mutgamb.org/meta/Status-do-Mutir%C3%A3o-Junho</link>
+ <description>&lt;p&gt;Este site foi ao ar em fins de janeiro. Desde ent&amp;atilde;o, o que foi realizado nele:&lt;br /&gt;1) customiza&amp;ccedil;&amp;atilde;o geral do sistema&lt;br /&gt;2) customiza&amp;ccedil;&amp;atilde;o de um tema (tempor&amp;aacute;rio e ainda inadequado)&lt;br /&gt;3) elabora&amp;ccedil;&amp;atilde;o de conceitos relevantes &amp;agrave; produ&amp;ccedil;&amp;atilde;o editorial colaborativa, em especial as id&amp;eacute;ias de &#039;derivas&#039; e &#039;cole&amp;ccedil;&amp;otilde;es&#039; [1]&lt;br /&gt;4) testes com m&amp;oacute;dulos extras: node clone, annotate, bookmarks, etc&lt;br /&gt;5) cria&amp;ccedil;&amp;atilde;o de um nodetype chamado &#039;fonte&#039; para replicar documenta&amp;ccedil;&amp;atilde;o espalhada pela rede&lt;br /&gt;&lt;br /&gt;II. Conte&amp;uacute;do e conversas&lt;br /&gt;&lt;br /&gt;1) 47 pessoas cadastradas&lt;br /&gt;2) Primeira chamada por editorxs: 12 pessoas responderam e se cadastraram no site. Entretanto, n&amp;atilde;o est&amp;aacute; claro como participar&lt;br /&gt;3) 85 coment&amp;aacute;rios publicados&lt;br /&gt;4) Coleta e re-publica&amp;ccedil;&amp;atilde;o de quase uma centena de posts, com permalinks e datas originais [2]&lt;br /&gt;5) Sele&amp;ccedil;&amp;atilde;o de textos para uma primeira colet&amp;acirc;nea para a MetaReciclagem (cerca de uma d&amp;uacute;zia)&lt;br /&gt;6) Transcri&amp;ccedil;&amp;atilde;o das grava&amp;ccedil;&amp;otilde;es dos Di&amp;aacute;logos na Casinha (em processo)&lt;br /&gt;7) Re-instala&amp;ccedil;&amp;atilde;o de backups de 3 diferentes wikis da MetaReciclagem (em processo)&lt;br /&gt;&lt;br /&gt;[1] &lt;a href=&quot;http://mutirao.metareciclagem.org/blog/derivas&quot; title=&quot;http://mutirao.metareciclagem.org/blog/derivas&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/blog/derivas&lt;/a&gt;&lt;br /&gt;[2] &lt;a href=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; title=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/archive/fonte&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/meta/Status-do-Mutir%C3%A3o-Junho#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/187</wfw:commentRss>
+ <pubDate>Mon, 09 Jun 2008 14:51:23 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">187 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - revolução</title>
+ <link>http://mutgamb.org/taxonomy/term/863/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>A revolução será DIY?</title>
+ <link>http://mutgamb.org/blog/revolucao-sera-DIY</link>
+ <description>&lt;p&gt;Rafael Beznos trouxe links sobre&lt;a href=&quot;http://working.gli.tc/forums/topic/hardware-hacking-and-recycling-strategies/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; estrat&amp;eacute;gias para hacking/reciclagem de hardware&lt;/a&gt; e de &lt;a href=&quot;http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=quarta-revolucao-industrial-era-das-maquinas-livres&amp;amp;id=010170120922&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aplica&amp;ccedil;&amp;otilde;es DIY para pesquisas cient&amp;iacute;ficas&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Usando hardware livre economizamos milhares de d&amp;oacute;lares para o nosso grupo de pesquisa, e estamos apenas esquentando os motores. Isso vai mudar a maneira como as coisas s&amp;atilde;o feitas.&lt;a href=&quot;http://www.mse.mtu.edu/faculty/pearce.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Joshua Pearce&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;E, falando nisso, Fabbri compartilhou um v&amp;iacute;deo com Miller Puckette sobre possibilidades de uso para Raspberry-Pi:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;281&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/52259196?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/revolucao-sera-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metarecicagem">metarecicagem</category>
+ <category domain="http://mutgamb.org/tag/revolucao">revolução</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/917</wfw:commentRss>
+ <pubDate>Fri, 02 Nov 2012 09:13:11 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">917 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

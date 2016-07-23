@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - santo andré</title>
+ <link>http://mutgamb.org/taxonomy/term/60/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MetaReciclagem em Santo André - Parte I - Montando uma estrutura</title>
+ <link>http://mutgamb.org/fonte/MetaReciclagem-em-Santo-Andr%C3%A9-Parte-I-Montando-uma-estrutura</link>
+ <description>&lt;p&gt;Relatar experi&amp;ecirc;ncias nunca foi meu forte. Mas, ao ler os posts abaixo falando do modelo de log&amp;iacute;stica distribu&amp;iacute;da, algo que participei ativamente pensando, tentando, propondo, nos &amp;uacute;ltimos anos, despertou uma vontade de completar um pouco da hist&amp;oacute;ria e relatar os princ&amp;iacute;pios do que aconteceu em Santo Andr&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Chegada&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; v&amp;iacute;nhamos buscando experimentar algumas das id&amp;eacute;ias de MetaReciclagem em outros locais, como no galp&amp;atilde;o do &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.agentecidadao.com.br/&quot; rel=&quot;nofollow&quot;&gt;Agente Cidad&amp;atilde;o&lt;/a&gt;, na Casa Amarela (uma organiza&amp;ccedil;&amp;atilde;o que ficava pr&amp;oacute;ximo do Morumbi e onde montamos o primeiro laborat&amp;oacute;rio de m&amp;aacute;quinas metarecicladas) e nos 3 laborat&amp;oacute;rios pilotos dentro do &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.midiaindependente.org/eo/blue/2003/10/264747.shtml&quot; rel=&quot;nofollow&quot;&gt;projeto CAJUS&lt;/a&gt; (Centros de A&amp;ccedil;&amp;atilde;o Juvenis), que montamos em Ermelino Matarazzo, S&amp;atilde;o Miguel Paulista e Itaquera.&lt;/p&gt;
+&lt;p&gt;No entanto, todas essas a&amp;ccedil;&amp;otilde;es foram extremamente r&amp;aacute;pidas, desorganizadas e, basicamente, o que fizemos foi: recuperar algumas m&amp;aacute;quinas, montar um servidor Linux, montar uma rede local, instalar as m&amp;aacute;quinas e tentar capacitar algu&amp;eacute;m local para tocar a estrutura. Apesar disso, foram grandes escolas, onde pudemos avaliar algumas dificuldades que nos permitiram direcionar melhor a pesquisa:&amp;nbsp; que distribui&amp;ccedil;&amp;atilde;o utilizar, formas de suporte t&amp;eacute;cnico, capacita&amp;ccedil;&amp;atilde;o e a quest&amp;atilde;o da banda larga.&lt;/p&gt;
+&lt;p&gt;Primeiros passos dados. Alguns passos experimentais. Enfim, resolvemos ir a Bras&amp;iacute;lia,&lt;a rel=&quot;nofollow&quot; href=&quot;http://ecologiadigital.net/pblog/iioficina.htm&quot; rel=&quot;nofollow&quot;&gt; II Oficina de Inclus&amp;atilde;o Digital&lt;/a&gt;, in&amp;iacute;cio do governo Lula. Eu, Felipe Fonseca e Slave fomos em busca de encontrar quem estava pensando Inclus&amp;atilde;o Digital no Brasil e de que forma poder&amp;iacute;amos mostrar MetaReciclagem como uma possibilidade de sustentabilidade e forma&amp;ccedil;&amp;atilde;o de rede para os projetos existentes. Encontramos &lt;a rel=&quot;nofollow&quot; href=&quot;http://comunix.org/&quot; rel=&quot;nofollow&quot;&gt;Hernani Dimantas&lt;/a&gt; e &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.kobashi.com.br/frames/konosf.htm&quot; rel=&quot;nofollow&quot;&gt;Ricardo Kobashi&lt;/a&gt;, que foram a ponte de conex&amp;atilde;o direta com Santo Andr&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.parqueescolasa.com.br/&quot; rel=&quot;nofollow&quot;&gt;Parque Escola&lt;/a&gt; - Um local que tinha por objetivo ser constru&amp;iacute;do todo a partir de material reutilizado de obras, sobras de empresas, lixo e tudo o mais que pudesse ser adaptado na cabe&amp;ccedil;a do arquiteto &lt;a rel=&quot;nofollow&quot; href=&quot;http://zanettananigeria.blogspot.com/&quot; rel=&quot;nofollow&quot;&gt;Henrique Zanetta&lt;/a&gt;. O local perfeito e com a abertura necess&amp;aacute;ria para a experimenta&amp;ccedil;&amp;atilde;o. Fomos conhecer o local na volta de Bras&amp;iacute;lia. Sinergia imediata, uma semana depois come&amp;ccedil;amos a trabalhar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Propostas e princ&amp;iacute;pios&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A proposta inicial era:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;montar um laborat&amp;oacute;rio de reciclagem de computadores dentro do Parque;&lt;/li&gt;
+    &lt;li&gt;equipar o Parque com computadores de acesso ao p&amp;uacute;blico em diversos locais;&lt;/li&gt;
+    &lt;li&gt;disponibilizar uma conex&amp;atilde;o de Internet banda larga Wifi para o Parque e redondezas;&lt;/li&gt;
+    &lt;li&gt;articular com a &amp;aacute;rea de cooperativismo da prefeitura um projeto de informatiza&amp;ccedil;&amp;atilde;o das cooperativas com base na produ&amp;ccedil;&amp;atilde;o do laborat&amp;oacute;rio;&lt;/li&gt;
+    &lt;li&gt;capacitar jovens das 2 favelas pr&amp;oacute;ximas do parque, para criarem um empreendimento popular em duas &amp;aacute;reas de neg&amp;oacute;cios criadas para este fim pela prefeitura.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;Um bom escopo de trabalho. Tivemos total apoio da equipe de coordena&amp;ccedil;&amp;atilde;o do parque e da secretaria de educa&amp;ccedil;&amp;atilde;o. Enfim, era o momento ideal e com o n&amp;iacute;vel de sustentabilidade ideal (t&amp;iacute;nhamos um cen&amp;aacute;rio de quase 2 anos de projeto pela frente) para experimentar um processo com mais tempo e possibilidade de analisarmos o resultado.&lt;/p&gt;
+&lt;p&gt;Nos baseamos nos princ&amp;iacute;pios conceituais de MetaReciclagem que hav&amp;iacute;amos discutido por meses seguidos na lista de emails. A seguir:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;atuar na tr&amp;iacute;ade da informa&amp;ccedil;&amp;atilde;o livre, ou seja, trabalhar com hardware livre (doa&amp;ccedil;&amp;atilde;o), software livre (linux e aplicativos), oficinas de apropria&amp;ccedil;&amp;atilde;o dessa tecnologia para promover a forma&amp;ccedil;&amp;atilde;o de redes livres;&lt;/li&gt;
+    &lt;li&gt;conex&amp;atilde;o com os projetos de economia solid&amp;aacute;ria e microcr&amp;eacute;dito (sim, as id&amp;eacute;ias do &lt;a rel=&quot;nofollow&quot; href=&quot;http://pt.wikipedia.org/wiki/Muhammad_Yunus&quot; rel=&quot;nofollow&quot;&gt;Muhammad Yunus&lt;/a&gt; foram extremamente importantes na &amp;eacute;poca, quase todos t&amp;iacute;nhamos lido a experi&amp;ecirc;ncia do livro o Banqueiro dos Pobres);&lt;/li&gt;
+    &lt;li&gt;conex&amp;atilde;o com os projetos de coleta seletiva da prefeitura para auxiliar na tal organiza&amp;ccedil;&amp;atilde;o da log&amp;iacute;stica distribu&amp;iacute;da;&lt;/li&gt;
+    &lt;li&gt;ter o laborat&amp;oacute;rio constantemente aberto, para que os usu&amp;aacute;rios do parque pudessem atuar de forma efetiva na recupera&amp;ccedil;&amp;atilde;o das m&amp;aacute;quinas, seja nas oficinas de Hardware, seja usando as m&amp;aacute;quinas para acesso;&lt;/li&gt;
+    &lt;li&gt;criar processos de apropria&amp;ccedil;&amp;atilde;o da tecnologia: experimentar as diversas formas que as pessoas poderiam usar e experimentar aquelas pe&amp;ccedil;as, softwares e ferramentas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Primeiras doa&amp;ccedil;&amp;otilde;es&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Para minha surprese geral e de praticamente todos naquela &amp;eacute;poca, em quest&amp;atilde;o de duas semanas de trabalho, gra&amp;ccedil;as a um importante contato com uma pessoa do Semasa (obrigado, Meire!) conseguimos uma doa&amp;ccedil;&amp;atilde;o de 30 Pentium 100MHz, 20 impressoras matriciais, 30 monitores de v&amp;iacute;deo e mais uma por&amp;ccedil;&amp;atilde;o de pe&amp;ccedil;as e sobras de outros computadores.T&amp;iacute;nhamos o b&amp;aacute;sico de materiais para avan&amp;ccedil;ar. Muito mais veio depois, mas essa primeira doa&amp;ccedil;&amp;atilde;o foi fundamental, pois se esper&amp;aacute;ssemos meses para obter equipamentos perder&amp;iacute;amos o tempo adequado de mostrar&amp;nbsp; resultados.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enfim, um laborat&amp;oacute;rio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ao mesmo tempo, ganhamos uma doa&amp;ccedil;&amp;atilde;o de 25 mesas de escrit&amp;oacute;rio e 10 estantes da Prefeitura de S&amp;atilde;o Paulo. Era tudo o que precis&amp;aacute;vamos. T&amp;iacute;nhamos o necess&amp;aacute;rio para um bom desenvolvimento do projeto:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;espa&amp;ccedil;o e infra-estrutura;&lt;/li&gt;
+    &lt;li&gt;computadores;&lt;/li&gt;
+    &lt;li&gt;ferramentas;&lt;/li&gt;
+    &lt;li&gt;banda larga;&lt;/li&gt;
+    &lt;li&gt;vontade pol&amp;iacute;tica de fazer;&lt;/li&gt;
+    &lt;li&gt;apoio local.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;MetaReciclagem se tornava real a cada passo dado e perceb&amp;iacute;amos que o que mais nos importava, a capacidade de agenciamento das redes, era o elemento fundamental que permita o projeto construir sentido e avan&amp;ccedil;ar em suas propostas experimentais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mas, hein?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pois &amp;eacute;, todo esse processo, extremamente intenso, n&amp;atilde;o levou mais de 3 meses para estruturar e ter condi&amp;ccedil;&amp;otilde;es de come&amp;ccedil;armos a operar.&lt;/p&gt;
+&lt;p&gt;Era o momento adequado de conectar pessoas e experienciar a ocupa&amp;ccedil;&amp;atilde;o dos espa&amp;ccedil;os. Chegava o momento da emerg&amp;ecirc;ncia da Rede!&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/MetaReciclagem-em-Santo-Andr%C3%A9-Parte-I-Montando-uma-estrutura#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bras%C3%ADlia">brasília</category>
+ <category domain="http://mutgamb.org/assunto/Tags/oficina">oficina</category>
+ <category domain="http://mutgamb.org/assunto/Tags/santo-andr%C3%A9">santo andré</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/286</wfw:commentRss>
+ <pubDate>Tue, 14 Oct 2008 16:40:00 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">286 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>O ciclo do Lixo Eletrônico - 2. Descarte e reuso</title>
+ <link>http://mutgamb.org/fonte/O-ciclo-do-Lixo-Eletr%C3%B4nico-2-Descarte-e-reuso</link>
+ <description>&lt;p&gt;Uma vez encerrada a etapa inicial de consumo e uso de eletr&amp;ocirc;nicos, ou seja, depois que a pessoa ou organiza&amp;ccedil;&amp;atilde;o que comprou determinado equipamento j&amp;aacute; o usou ao m&amp;aacute;ximo, ainda existe uma s&amp;eacute;rie de alternativas antes do efetivo descarte para a reciclagem. Esta parte do texto tem uma grande influ&amp;ecirc;ncia de id&amp;eacute;ias gradualmente elaboradas dentro do &amp;acirc;mbito da Rede MetaReciclagem, mas at&amp;eacute; hoje n&amp;atilde;o implementadas por diversos motivos. Nesse sentido, &amp;eacute; muito mais uma hip&amp;oacute;tese a ser testada do que uma recomenda&amp;ccedil;&amp;atilde;o pr&amp;aacute;tica, e conta com a imprecis&amp;atilde;o de ser uma hist&amp;oacute;ria contada por um de seus participantes. Como nas outras partes, aguardo cr&amp;iacute;ticas e sugest&amp;otilde;es. O foco principal aqui &amp;eacute; estender a vida &amp;uacute;til principalmente de computadores junto com projetos sociais, mas &amp;eacute; poss&amp;iacute;vel pensar em adapta&amp;ccedil;&amp;otilde;es dessas propostas para celulares e outros equipamentos.&lt;/p&gt;
+&lt;h2&gt;A rede MetaReciclagem&lt;/h2&gt;
+&lt;p&gt;A sociedade do excesso &amp;eacute; tamb&amp;eacute;m a sociedade do desperd&amp;iacute;cio. A cada ano, entre os milh&amp;otilde;es de equipamentos eletr&amp;ocirc;nicos que v&amp;atilde;o para o lixo, literalmente se joga fora a oportunidade de ajudar muita gente. Essa foi uma das influ&amp;ecirc;ncias para a cria&amp;ccedil;&amp;atilde;o da rede &lt;a rel=&quot;nofollow&quot; href=&quot;http://metareciclagem.org/&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt;, e &amp;eacute; tamb&amp;eacute;m a motiva&amp;ccedil;&amp;atilde;o por tr&amp;aacute;s de diversos projetos cujo foco &amp;eacute; a reutiliza&amp;ccedil;&amp;atilde;o de eletr&amp;ocirc;nicos.&lt;/p&gt;
+&lt;p&gt;A id&amp;eacute;ia da MetaReciclagem surgiu na rede, como um dos projetos do Projeto Met&amp;aacute;:Fora, em 2002. Depois de debater por algum tempo a id&amp;eacute;ia de receber doa&amp;ccedil;&amp;otilde;es de computadores usados e remanufatur&amp;aacute;-los usando software livre, passamos a contar com o apoio do &lt;a rel=&quot;nofollow&quot; href=&quot;http://agentecidadao.org.br/&quot; rel=&quot;nofollow&quot;&gt;Agente Cidad&amp;atilde;o&lt;/a&gt;, uma ONG de S&amp;atilde;o Paulo que fazia a coleta, armazenamento e redistribui&amp;ccedil;&amp;atilde;o de qualquer tipo de doa&amp;ccedil;&amp;atilde;o material (roupas, livros, m&amp;oacute;veis, e tamb&amp;eacute;m eletr&amp;ocirc;nicos) para associa&amp;ccedil;&amp;otilde;es comunit&amp;aacute;rias e outros projetos. Em 2003, houve alguma repercuss&amp;atilde;o da MetaReciclagem na imprensa, e passamos a receber um fluxo quase constante de doa&amp;ccedil;&amp;otilde;es. O Agente Cidad&amp;atilde;o nos cedeu um espa&amp;ccedil;o - que cham&amp;aacute;vamos de Galp&amp;atilde;o - e conseguimos arregimentar um grupo de volunt&amp;aacute;rios que freq&amp;uuml;entava o espa&amp;ccedil;o a cada semana. A partir de l&amp;aacute;, come&amp;ccedil;amos a construir parcerias com diferentes projetos, e logo percebemos que o que est&amp;aacute;vamos propondo ia muito al&amp;eacute;m do aspecto operacional da coisa - log&amp;iacute;stica, tratamento e redistribui&amp;ccedil;&amp;atilde;o. No processo de mobilizar pessoas para colaborar, fazer a triagem e a remanufatura dos computadores e por fim direcion&amp;aacute;-los acabamos aprendendo muito sobre os diversos processos envolvidos.&lt;/p&gt;
+&lt;p&gt;Uma quest&amp;atilde;o fundamental que a MetaReciclagem j&amp;aacute; tocava naquela &amp;eacute;poca era a quest&amp;atilde;o do aprendizado relacionado &amp;agrave; apropria&amp;ccedil;&amp;atilde;o cr&amp;iacute;tica das tecnologias, incentivando a curiosidade sobre o funcionamento interno das m&amp;aacute;quinas, quebrando a verdadeiro medo que as pessoas t&amp;ecirc;m de manipular a tecnologia - tom&amp;aacute;-la nas m&amp;atilde;os, entender as elementaridades dela e propor novas combina&amp;ccedil;&amp;otilde;es. Uma met&amp;aacute;fora bastante significativa nesse sentido &amp;eacute; o monolito negro do filme 2001 - Uma odiss&amp;eacute;ia no espa&amp;ccedil;o. Enquanto as pessoas tratarem a tecnologia como uma coisa fechada, cujo funcionamento &amp;eacute; misterioso - quase m&amp;aacute;gico, no mau sentido -, estamos longe de conseguir criar um processo efetivo de apropria&amp;ccedil;&amp;atilde;o dela.&lt;/p&gt;
+&lt;p&gt;&lt;img align=&quot;right&quot; width=&quot;200&quot; height=&quot;150&quot; alt=&quot;computadores pintados na biblioteca do Parque Escola&quot; src=&quot;http://rede.metareciclagem.org/midia/images/P1010020.preview.jpg&quot; /&gt;Com o tempo, tivemos a oportunidade de experimentar diferentes arranjos relacionados ao ciclo do reaproveitamento de eletr&amp;ocirc;nicos: montamos outro laborat&amp;oacute;rio de MetaReciclagem no Parque Escola de Santo Andr&amp;eacute;, cuja proposta &amp;eacute; ser um espa&amp;ccedil;o em que tudo &amp;eacute; reciclado. Nessa &amp;eacute;poca, se aproximou da MetaReciclagem o artista pl&amp;aacute;stico &lt;a href=&quot;http://desvio.weblab.tk/desviantes/glaupaiva&quot; rel=&quot;nofollow&quot;&gt;Glauco Paiva&lt;/a&gt;, que prop&amp;ocirc;s um n&amp;iacute;vel ainda maior de apropria&amp;ccedil;&amp;atilde;o com a pintura dos gabinetes dos computadores, e com a montagem de instala&amp;ccedil;&amp;otilde;es em que ora as pe&amp;ccedil;as de um computador eram usadas para outros fins, ora o computador era montado com pe&amp;ccedil;as que n&amp;atilde;o faziam parte do universo da inform&amp;aacute;tica: cadeiras, lat&amp;otilde;es de lixo e outros. Foi tamb&amp;eacute;m em Santo Andr&amp;eacute; que o Dalton conseguiu fazer pela primeira vez um processo em que integrantes de diferentes cooperativas da cidade vinham ao Parque, aprendiam a montar e usar computadores com GNU/Linux, e ao fim do processo levavam os computadores que haviam montado.&lt;/p&gt;
+&lt;p&gt;O projeto de MetaReciclagem em Santo Andr&amp;eacute; foi encerrado por motivos alheios &amp;agrave; nossa vontade, justamente numa fase em que est&amp;aacute;vamos planejando um ciclo em que cooperativas de catadores de lixo separariam os eletr&amp;ocirc;nicos que encontrassem para direcionar para uma cooperativa de montagem de computadores, que trataria de direcionar as m&amp;aacute;quinas prontas para diferentes projetos sociais. As pe&amp;ccedil;as que n&amp;atilde;o pudessem ser mais recuperadas seriam vendidas para uma das (poucas) empresas que fazem o processo ambientalmente adequado de reciclagem. Tivemos reuni&amp;otilde;es com o pessoal do Agente Cidad&amp;atilde;o, que tomaria conta da log&amp;iacute;stica, e de diferentes ONGs e empresas. Podia ter dado certo naquele contexto, mas n&amp;atilde;o est&amp;aacute;vamos com uma estrutura sustent&amp;aacute;vel de desenvolvimento e ficamos ref&amp;eacute;ns do cen&amp;aacute;rio pol&amp;iacute;tico local.&lt;/p&gt;
+&lt;p&gt;Enquanto isso, a MetaReciclagem assumia duas caracter&amp;iacute;sticas que a transformariam profundamente. Assumia uma natureza s&amp;oacute;cio-cultural junto com a quest&amp;atilde;o t&amp;eacute;cnica - o que nos unia n&amp;atilde;o era a mera quest&amp;atilde;o de remanufaturar computadores, mas as diversas possibilidades criativas que acompanhavam o processo de desconstruir e reconstruir as m&amp;aacute;quinas, usando o software livre como desafio e aprendizado. E desenvolvia-se cada vez mais como rede distribu&amp;iacute;da e livremente replic&amp;aacute;vel - projetos auto-gestionados e integrados &amp;agrave; rede eram criados no Rio de Janeiro, em Arraial d&#039;Ajuda, em Manaus e outras partes. Desenvolvemos uma nomenclatura para definir tr&amp;ecirc;s n&amp;iacute;veis de intera&amp;ccedil;&amp;atilde;o: os esporos, laborat&amp;oacute;rios de refer&amp;ecirc;ncia; as conecTAZes, qualquer mobiliza&amp;ccedil;&amp;atilde;o de pessoas para utilizar tecnologia &amp;quot;metareciclada&amp;quot;; e a infral&amp;oacute;gica, uma camada de ambientes online que serviam para integrar as pessoas e projetos. De certa forma, passava tamb&amp;eacute;m a tratar da naturaliza&amp;ccedil;&amp;atilde;o do conhecimento t&amp;eacute;cnico n&amp;atilde;o como algo alheio ao cotidiano, mas buscando o di&amp;aacute;logo com caracter&amp;iacute;sticas tipicamente brasileiras como a criatividade e sociabilidade cotidianas, presentes em fen&amp;ocirc;menos populares como as gambiarras e os mutir&amp;otilde;es.&lt;/p&gt;
+&lt;p&gt;Na seq&amp;uuml;&amp;ecirc;ncia disso tudo, alguns de n&amp;oacute;s come&amp;ccedil;amos a auxiliar na elabora&amp;ccedil;&amp;atilde;o e implementa&amp;ccedil;&amp;atilde;o de pol&amp;iacute;ticas p&amp;uacute;blicas relacionadas &amp;agrave; inclus&amp;atilde;o digital, o que gerou resultados bastante interessantes mas teve como efeito colateral baixar a prioridade do desenvolvimento aut&amp;ocirc;nomo da MetaReciclagem. Ao longo dessa &amp;eacute;poca, a integra&amp;ccedil;&amp;atilde;o entre os diferentes projetos foi muitas vezes deixada de lado, face a demandas muito mais urgentes do dia a dia. De qualquer forma, hoje o universo da MetaReciclagem envolve algumas centenas (ou milhares?) de pessoas espalhadas por todo o Brasil. E uma coisa permanece: toda semana chegam mensagens de pessoas que t&amp;ecirc;m equipamentos parados e n&amp;atilde;o sabem o que fazer com eles. Um dos caminhos poss&amp;iacute;veis para a MetaReciclagem agora &amp;eacute; retomar o projeto do ciclo completo que tentamos implementar em Santo Andr&amp;eacute;, adicionado de uma estrat&amp;eacute;gia de log&amp;iacute;stica distribu&amp;iacute;da. Abaixo, eu tento esbo&amp;ccedil;ar algumas anota&amp;ccedil;&amp;otilde;es no sentido de construir uma proposta para fazer frente a essa demanda.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;infogr&amp;aacute;fico descarte e reuso&quot; src=&quot;http://lixoeletronico.org/system/files/infog_reuso.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Log&amp;iacute;stica Distribu&amp;iacute;da&lt;/h2&gt;
+&lt;p&gt;Mesmo com a relativamente pequena quantidade de a&amp;ccedil;&amp;otilde;es voltadas &amp;agrave; sensibiliza&amp;ccedil;&amp;atilde;o e conscientiza&amp;ccedil;&amp;atilde;o acerca dos benef&amp;iacute;cios de encaminhar eletr&amp;ocirc;nicos para doa&amp;ccedil;&amp;atilde;o, muitas pessoas j&amp;aacute; procuram orienta&amp;ccedil;&amp;atilde;o sobre como faz&amp;ecirc;-lo. Na outra ponta, existem diversas organiza&amp;ccedil;&amp;otilde;es e projetos que poderiam se beneficiar desse tipo de recurso. O que falta &amp;eacute; exatamente o meio do caminho: um intermedi&amp;aacute;rio que retire as doa&amp;ccedil;&amp;otilde;es, organize-as e entregue para quem precisa. Essa era uma das maiores preocupa&amp;ccedil;&amp;otilde;es do saudoso Adilson Tavares, do Agente Cidad&amp;atilde;o. Por algum tempo, chegamos a pensar que a MetaReciclagem poderia liderar esse tipo de a&amp;ccedil;&amp;atilde;o, mas levando em conta a escala em potencial desse tipo de a&amp;ccedil;&amp;atilde;o, &amp;eacute; poss&amp;iacute;vel tamb&amp;eacute;m imaginar um sistema de agenciamento online, independente e geo-referenciado, que permita o cadastro de doadores, intermedi&amp;aacute;rios e destina&amp;ccedil;&amp;otilde;es poss&amp;iacute;veis. Seria necess&amp;aacute;rio acrescentar um mecanismo de reputa&amp;ccedil;&amp;atilde;o e negocia&amp;ccedil;&amp;atilde;o, de maneira que pessoas e organiza&amp;ccedil;&amp;otilde;es que fizeram doa&amp;ccedil;&amp;otilde;es pudessem verificar o que foi feito com elas, e com isso servir de apoio para o agenciamento de novas doa&amp;ccedil;&amp;otilde;es. Poderia funcionar como uma esp&amp;eacute;cie de feira online, nas bases de sistemas de leil&amp;otilde;es como o mercado livre, mas sem o aspecto financeiro. Outra id&amp;eacute;ia presente no Mercado Livre &amp;eacute; que a log&amp;iacute;stica &amp;eacute; negociada a cada transa&amp;ccedil;&amp;atilde;o: o sistema pode oferecer diversas possibilidades, desde os correios at&amp;eacute; o eventual agenciamento de pessoas dispostas a dar &amp;quot;uma carona&amp;quot; para os equipamentos.&lt;/p&gt;
+&lt;p&gt;Idealmente, esse sistema adotaria &lt;a rel=&quot;nofollow&quot; href=&quot;http://pt.wikipedia.org/wiki/Microformatos&quot; rel=&quot;nofollow&quot;&gt;microformatos&lt;/a&gt;, para permitir a integra&amp;ccedil;&amp;atilde;o com diferentes portais e sistemas, e seria desenvolvido com software livre. O fundamental em um sistema desses &amp;eacute; ele ser aberto &amp;agrave; utiliza&amp;ccedil;&amp;atilde;o dos diferentes atores: desde os Centros de Recondicionamento de Computadores do Governo Federal at&amp;eacute; redes como a MetaReciclagem ou qualquer organiza&amp;ccedil;&amp;atilde;o interessada em doar ou receber eletr&amp;ocirc;nicos. O apoio de fabricantes de eletr&amp;ocirc;nicos interessados em a&amp;ccedil;&amp;otilde;es efetivas de responsabilidade social e ambiental, e talvez ainda mais importante, de empresas de transporte e log&amp;iacute;stica, poderia ser tamb&amp;eacute;m interessante.&lt;/p&gt;
+&lt;p&gt;A tetrapak desenvolveu um site chamado Rota de Reciclagem que explora alguns usos interessantes de ferramentas online nesse sentido. O portal voluntariado tamb&amp;eacute;m usa o CEP para encontrar organiza&amp;ccedil;&amp;otilde;es. E projetos experimentais como o Excambo e o Yscambau se prop&amp;otilde;em a criar sistemas de agenciamento de trocas:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; title=&quot;http://www.rotadereciclagem.com.br/&quot; href=&quot;http://www.rotadereciclagem.com.br/&quot; rel=&quot;nofollow&quot;&gt;http://www.rotadereciclagem.com.br/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; title=&quot;http://www.voluntariado.org.br/&quot; href=&quot;http://www.voluntariado.org.br/&quot; rel=&quot;nofollow&quot;&gt;http://www.voluntariado.org.br/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; title=&quot;http://excambo.ourproject.org/&quot; href=&quot;http://excambo.ourproject.org/&quot; rel=&quot;nofollow&quot;&gt;http://excambo.ourproject.org/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; title=&quot;http://estilingue.sarava.org/moin/Yscambau&quot; href=&quot;http://estilingue.sarava.org/moin/Yscambau&quot; rel=&quot;nofollow&quot;&gt;http://estilingue.sarava.org/moin/Yscambau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Empreendimentos sociais&lt;/h2&gt;
+&lt;p&gt;&lt;img align=&quot;right&quot; width=&quot;200&quot; height=&quot;150&quot; alt=&quot;MetaReciclagem em Sacadura Cabral&quot; src=&quot;http://rede.metareciclagem.org/midia/images/dsc00020.preview.jpg&quot; /&gt;Al&amp;eacute;m do agenciamento direto de transa&amp;ccedil;&amp;otilde;es entre doadores e destinat&amp;aacute;rios de doa&amp;ccedil;&amp;otilde;es, &amp;eacute; poss&amp;iacute;vel imaginar tamb&amp;eacute;m projetos que funcionam como entrepostos (n&amp;atilde;o-comerciais): organizam a log&amp;iacute;stica, recebem doa&amp;ccedil;&amp;otilde;es, realizam as diferentes etapas da triagem e da montagem, e agenciam a demanda de suas respectivas regi&amp;otilde;es e encaminham o descarte final para a reciclagem efetiva. Al&amp;eacute;m do aspecto operacional, esses espa&amp;ccedil;os tamb&amp;eacute;m podem funcionar como centros de aprendizado t&amp;eacute;cnico, realizando cursos e oficinas. Adotando um posicionamento de infra-estrutura livre, tamb&amp;eacute;m &amp;eacute; poss&amp;iacute;vel pensar em intera&amp;ccedil;&amp;otilde;es com artistas locais ou oferecer os computadores como apoio a projetos locais. Existem grandes empresas que consideram a intermedia&amp;ccedil;&amp;atilde;o de eletr&amp;ocirc;nicus usados uma oportunidade de mercado, mas eu quero acreditar que esse espa&amp;ccedil;o pode ser compartilhado com cooperativas autogeridas e pequenos empreendimentos, com reinvestimento do lucro em projetos sociais. Elas trabalhariam em rede com o sistema de log&amp;iacute;stica distribu&amp;iacute;da, e poderiam ajudar a dar sustentabilidade e retorno s&amp;oacute;cio-econ&amp;ocirc;mico para os pequenos atores do universo da reciclagem de eletr&amp;ocirc;nicos.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;O projeto de MetaReciclagem em Santo Andr&amp;eacute; apoiou a cria&amp;ccedil;&amp;atilde;o de um laborat&amp;oacute;rio na Sacadura Cabral e da Informeta, uma pequena empresa que foi citada em mat&amp;eacute;ria da revista A Rede sobre cooperativas: &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.arede.inf.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=409&amp;amp;Itemid=99&quot; rel=&quot;nofollow&quot;&gt;http://www.arede.inf.br&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Triagem e Remanufatura&lt;/h2&gt;
+&lt;p&gt;Existem diferentes configura&amp;ccedil;&amp;otilde;es poss&amp;iacute;veis para a triagem de eletr&amp;ocirc;nicos usados, dependendo dos objetivos espec&amp;iacute;ficos. Seguindo a l&amp;oacute;gica dos empreendimentos sociais, &amp;eacute; poss&amp;iacute;vel pensar em uma etapa inicial de triagem para testar os computadores que ainda est&amp;atilde;o funcionando (aqueles que &amp;eacute; s&amp;oacute; ligar e inicializam). Os que n&amp;atilde;o passarem nessa fase s&amp;atilde;o ent&amp;atilde;o desmontados, e seus componentes separados e testados um a um. Aqueles que n&amp;atilde;o funcionam e n&amp;atilde;o podem ser utilizados de maneira alternativa s&amp;atilde;o ent&amp;atilde;o encaminhados - tamb&amp;eacute;m pelo sistema de log&amp;iacute;stica distribu&amp;iacute;da - &amp;agrave; reciclagem efetiva, sobre a qual eu pretendo falar no pr&amp;oacute;ximo texto.&lt;/p&gt;
+&lt;p&gt;&lt;img align=&quot;right&quot; width=&quot;200&quot; height=&quot;150&quot; alt=&quot;oficina de pintura de gabinetes&quot; src=&quot;http://rede.metareciclagem.org/midia/images/mvc_005s.preview.jpg&quot; /&gt;Com um certo volume de doa&amp;ccedil;&amp;otilde;es, qualquer projeto pode criar um banco local de pe&amp;ccedil;as para a montagem ou a recupera&amp;ccedil;&amp;atilde;o de computadores. Tamb&amp;eacute;m &amp;eacute; poss&amp;iacute;vel realimentar o sistema de log&amp;iacute;stica distribu&amp;iacute;da com um invent&amp;aacute;rio de componentes que podem, assim como as doa&amp;ccedil;&amp;otilde;es, ser direcionados para os diferentes projetos que deles necessitem. Aqui mais uma vez se pode pensar no agenciamento atrav&amp;eacute;s de reputa&amp;ccedil;&amp;atilde;o dentro do sistema, ou tamb&amp;eacute;m pensar em um mercado de escambo de componentes: um projeto pode listar os componentes que n&amp;atilde;o est&amp;aacute; usando e em troca pedir as partes de que necessite. Eventualmente, as trocas podem envolver n&amp;atilde;o somente componentes, mas ofertas imateriais como horas de trabalho: design gr&amp;aacute;fico, fotografias, ilustra&amp;ccedil;&amp;otilde;es, m&amp;uacute;sica, etc. Outra etapa interessante do processo de triagem e remanufatura, quando associado a projetos sociais, &amp;eacute; a customiza&amp;ccedil;&amp;atilde;o dos computadores reciclados, com pintura dos gabinetes, para tirar o aspecto de equipamento velho e aproximar a tecnologia das pessoas.&lt;/p&gt;
+&lt;h2&gt;E como fazer?&lt;/h2&gt;
+&lt;p&gt;Em &amp;uacute;ltima inst&amp;acirc;ncia, todo este texto &amp;eacute; um exerc&amp;iacute;cio de cria&amp;ccedil;&amp;atilde;o. Tenho certeza de que deixei de lado um monte de outros aspectos do descarte e do reuso, mas aproveitei para tentar estruturar uma proposta tomando por base um pouco da experi&amp;ecirc;ncia da MetaReciclagem nesses &amp;uacute;ltimos seis anos. Estamos (o lixoeletronico.org) conversando sobre como tirar essas possibilidades do papel, e de alguma forma criar alternativas ao ciclo compulsivo do consumo e descarte. Aceitamos id&amp;eacute;ias de como ir adiante com isso tudo.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Leia tamb&amp;eacute;m nesta s&amp;eacute;rie:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://lixoeletronico.org/blog/o-ciclo-do-lixo-eletr%C3%B4nico-vis%C3%A3o-geral&quot; rel=&quot;nofollow&quot;&gt;O ciclo do Lixo Eletr&amp;ocirc;nico - Vis&amp;atilde;o Geral&lt;/a&gt;;&lt;/li&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://lixoeletronico.org/blog/o-ciclo-do-lixo-eletr%C3%B4nico-1-produ%C3%A7%C3%A3o-e-consumo&quot; rel=&quot;nofollow&quot;&gt;O ciclo do Lixo Eletr&amp;ocirc;nico - 1. Produ&amp;ccedil;&amp;atilde;o e Consumo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/O-ciclo-do-Lixo-Eletr%C3%B4nico-2-Descarte-e-reuso#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/lixo-eletr%C3%B4nico">lixo eletrônico</category>
+ <category domain="http://mutgamb.org/assunto/Tags/santo-andr%C3%A9">santo andré</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/285</wfw:commentRss>
+ <pubDate>Thu, 02 Oct 2008 16:25:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">285 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Another (long) opinion</title>
+ <link>http://mutgamb.org/fonte/Another-long-opinion</link>
+ <description>&lt;p&gt;Hi all&lt;/p&gt;
+&lt;p&gt;It’s been six months since I’ve been to India. Many things have
+changed since then. I’d like to put my perspective on the last few
+months.&lt;/p&gt;
+&lt;p&gt;First of all: you were right about space. In order to create a group
+identity, territory is fundamental. Two examples make me believe this
+is absolutely true.&lt;/p&gt;
+&lt;p&gt;The first example are Tati Wells and Ricardo Ruiz, in Rio. They
+created an open space called IP. I would use other names, but they call
+it a media center. I’ve been there last week, and it’s really great.
+People come over for a workshop and all of a sudden they come back on
+the next day. Things are being created there, people are gathering and
+doing things together.&lt;/p&gt;
+&lt;p&gt;The other example is MetaReciclagem in Santo André. Even though the
+major of Santo André has been re-elected, he changed all his closer
+team. As a consequence, the EPAC project, that hosted MetaReciclagem
+inside Parque Escola, has changed from the education management to the
+public affairs area. Then we have been forgotten. There’s no more room
+for MetaReciclagem on public projects in Santo André. We lost our lab,
+computer donations (okay, we did save some) and access to the
+infrastructure. Because of that, MetaReciclagem actions in Santo André
+disappeared.&lt;/p&gt;
+&lt;p&gt;I mean, right after we were getting through about the end of our
+relationship with Agente Cidadão, we lost the lab in Santo André as
+well. Fortunately, the new city administration in São Paulo still did
+not understand what we are doing down on Olido lab, but we can’t afford
+to do much there, as everyone who used to work on Agente Cidadão and
+Parque Escola had to start improvising to make a living. In a given
+moment, I guess two months ago, Interney, the guy who donated us the
+hosting for MetaReciclagem website and mailing list, had to put his
+server down and we don’t have a stable mailing list since then. I’m
+running the webserver in my home. MetaReciclagem is quiet.&lt;/p&gt;
+&lt;p&gt;So, it’s true. MetaReciclagem, as a group, failed to succeed without
+a space of its own. Everyone is running out of money. The ship is
+broken.&lt;/p&gt;
+&lt;p&gt;But, as I tried to explain, and I’m not quite sure I succeeded, we
+don’t want to be a group. We don’t want to become a NGO. We are talking
+about a methodology. And as such, I really think we were able to do
+some things:&lt;/p&gt;
+&lt;p&gt;1) Two years ago, if one talked about a “digital inclusion” project
+using old computers and FLOSS, no one would buy it. Actually, we did
+talk about it, and the bigshots on the subject didn’t take us
+seriously. Nowadays the biggest state bank in Brasil is actually
+delivering their used computers (maaaaaany computers) to social
+projects. The landless movement got a donation of over 4000 computers.
+I’m not saying that they are doing this because of us, but I can assure
+you that they are paying attention to us, and we were the first ones to
+prove that free software and old computers were a viable solution.&lt;/p&gt;
+&lt;p&gt;2) The cultural spots project from the Ministry of Culture has
+adopted metareciclagem (technology appropriation) as one of its four
+axis, together with estudiolivre (FLOSS for media production),
+radiolivre (free radios) and tactical media. They are extending the
+concept of MetaReciclagem. Me, Dalton, Glauco and Fernando are getting
+hired as consultants for the project (after two years of promises).&lt;/p&gt;
+&lt;p&gt;3) The independent metareciclagem spores are growing. There is one
+on the historical coast of Bahia, that might become a cultural spot.
+There is one in Salvador, in association with Rui Barbosa University.
+IP, the media center created by tati and ruiz in Rio, is a
+metareciclagem spore. There is even one close to Olido, our lab
+downtonw São Paulo. And there are at least 20 soon-to-be cultural spots
+that want to become independent metareciclagem labs.&lt;/p&gt;
+&lt;p&gt;4) We are planning the creation of other metareciclagem labs in the
+same format as that in Santo André. Of course, we have learned that we
+have to treat them as temporary labs. But I don’t see that as a
+problem. &lt;/p&gt;
+&lt;p&gt;I can’t say MetaReciclagem failed. We’ve been through some deep
+transformations, deep enough to get us scared about our personal
+budgets. But MetaReciclagem is independent from us, and is completely
+successful as: a) a methodology, b) a influence nucleus. We still can’t
+think of MetaReciclagem as a group, but I’m sure we are helping a lot
+of people to make better decisions about technology and the use of
+technology.
+&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Another-long-opinion#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/cultura-digital">cultura digital</category>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/pontos-de-cultura">pontos de cultura</category>
+ <category domain="http://mutgamb.org/assunto/Tags/sacadura-cabral">sacadura cabral</category>
+ <category domain="http://mutgamb.org/assunto/Tags/santo-andr%C3%A9">santo andré</category>
+ <category domain="http://mutgamb.org/assunto/Tags/waag-sarai">waag-sarai</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/66</wfw:commentRss>
+ <pubDate>Wed, 04 May 2005 15:28:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">66 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

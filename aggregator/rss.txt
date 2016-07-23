@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+ <title>Mutirão da Gambiarra aggregator</title>
+ <link>http://mutgamb.org/aggregator</link>
+ <description>Mutirão da Gambiarra - aggregated feeds</description>
+ <language>pt-br</language>
+<item>
+ <title>Twitter - Mutsaz: Happy holidays from Om Nom, the little monster!gls http://t.co/e97gFnU8Vu</title>
+ <link>http://twitter.com/mutsaz/statuses/339095634135101441</link>
+ <description>Happy holidays from Om Nom, the little monster!gls &lt;a href=&quot;http://t.co/e97gFnU8Vu&quot; class=&quot;&quot;&gt;http://t.co/e97gFnU8Vu&lt;/a&gt;</description>
+ <pubDate>Mon, 27 May 2013 16:07:54 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutgamb: e já estou aproveitando para subir meu acervo do mutgamb ao github: https://t.co/39NnZBFXhI</title>
+ <link>http://twitter.com/efeefe/statuses/327447827691212801</link>
+ <description>e já estou aproveitando para subir meu acervo do &lt;em&gt;mutgamb&lt;/em&gt; ao github: &lt;a href=&quot;https://t.co/39NnZBFXhI&quot;&gt;https://t.co/39NnZBFXhI&lt;/a&gt;</description>
+ <pubDate>Thu, 25 Apr 2013 12:43:40 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutgamb: Começando o &quot;Don&#039;t forget the archives&quot; em Lüneburg. http://t.co/DJt4jzD9La Amanhã eu falo sobre #metarec, #mutgamb e outras coisas.</title>
+ <link>http://twitter.com/efeefe/statuses/327407208260329472</link>
+ <description>Começando o &quot;Don&#039;t forget the archives&quot; em Lüneburg. &lt;a href=&quot;http://t.co/DJt4jzD9La&quot;&gt;http://t.co/DJt4jzD9La&lt;/a&gt; Amanhã eu falo sobre &lt;a href=&quot;http://search.twitter.com/search?q=%23metarec&quot; title=&quot;#metarec&quot; class=&quot; &quot;&gt;#metarec&lt;/a&gt;, #&lt;em&gt;mutgamb&lt;/em&gt; e outras coisas.</description>
+ <pubDate>Thu, 25 Apr 2013 10:02:16 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutsaz: I hope you choke on that shit you talk!!!</title>
+ <link>http://twitter.com/mutsaz/statuses/326316582546599936</link>
+ <description>I hope you choke on that shit you talk!!!</description>
+ <pubDate>Mon, 22 Apr 2013 09:48:30 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutsaz: @mutsaz is this Psy&#039;s  new song?</title>
+ <link>http://twitter.com/FrankViewZ/statuses/323505947609804800</link>
+ <description>@&lt;em&gt;mutsaz&lt;/em&gt; is this Psy&#039;s  new song?</description>
+ <pubDate>Sun, 14 Apr 2013 15:40:03 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutsaz: fuk-fukin mutsaz &quot;@rijal_mumtaz: jujur saya rindu ada di Batterbox. swing a bat. make some homeruns. jadi mvp....ternyata mimphey~ :p&quot;</title>
+ <link>http://twitter.com/SuwandiAlii/statuses/321162351363645440</link>
+ <description>fuk-fukin &lt;em&gt;mutsaz&lt;/em&gt; &quot;@&lt;a class=&quot; &quot; href=&quot;https://twitter.com/rijal_mumtaz&quot;&gt;rijal_mumtaz&lt;/a&gt;: jujur saya rindu ada di Batterbox. swing a bat. make some homeruns. jadi mvp....ternyata mimphey~ :p&quot;</description>
+ <pubDate>Mon, 08 Apr 2013 04:27:26 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutsaz: @mutsaz thanks for following me hope to enjoy your tweets</title>
+ <link>http://twitter.com/FrankViewZ/statuses/312138876858802176</link>
+ <description>@&lt;em&gt;mutsaz&lt;/em&gt; thanks for following me hope to enjoy your tweets</description>
+ <pubDate>Thu, 14 Mar 2013 06:51:22 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutgamb: chamando massa metarecicleira: qual é a tua #metareciclagem? http://t.co/qjwEu0N2tD</title>
+ <link>http://twitter.com/efeefe/statuses/311343375943081985</link>
+ <description>chamando massa metarecicleira: qual é a tua &lt;a href=&quot;http://search.twitter.com/search?q=%23metareciclagem&quot; title=&quot;#metareciclagem&quot; class=&quot; &quot;&gt;#metareciclagem&lt;/a&gt;? &lt;a href=&quot;http://t.co/qjwEu0N2tD&quot;&gt;http://t.co/qjwEu0N2tD&lt;/a&gt;</description>
+ <pubDate>Tue, 12 Mar 2013 02:10:19 -0300</pubDate>
+</item>
+<item>
+ <title>Twitter - Mutsaz: PSY - GANGNAM STYLE (강남스타일) M/V    
+
+via iMusic for YouTube. https://t.co/0H5UBxaFoQ</title>
+ <link>http://twitter.com/mutsaz/statuses/309026895578664960</link>
+ <description>PSY - GANGNAM STYLE (강남스타일) M/V    
+
+via iMusic for YouTube. &lt;a href=&quot;https://t.co/0H5UBxaFoQ&quot;&gt;https://t.co/0H5UBxaFoQ&lt;/a&gt;</description>
+ <pubDate>Tue, 05 Mar 2013 16:45:28 -0300</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - desvio</title>
+ <link>http://mutgamb.org/taxonomy/term/433/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Dicas para guardar coisas nas nuvens</title>
+ <link>http://mutgamb.org/blog/Dicas-para-guardar-coisas-nas-nuvens</link>
+ <description>&lt;p&gt;Marcelo Braz abriu um &lt;a href=&quot;http://lista.metareciclagem.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;thread na lista&lt;/a&gt; pensando &lt;a href=&quot;http://sul21.com.br/jornal/2012/01/megaupload-devera-apagar-arquivos-armazenados-a-partir-de-quinta-feira/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;no caso Megaupload&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Comecei a ver alternativas para guardar badulaques. Eu usava/uso ainda bastante o &lt;a href=&quot;http://www.dropbox.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Dropbox&lt;/a&gt;. O que voc&amp;ecirc;s usam?&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ele tamb&amp;eacute;m citou o &lt;a href=&quot;http://otixo.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Otixo&lt;/a&gt; como possibilidade, e assim a conversa evoluiu. Fabbri indicou o &lt;a href=&quot;https://one.ubuntu.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;UbuntuOne&lt;/a&gt;. A d&amp;uacute;vida de Mbraz era se aceitava &lt;a href=&quot;http://askubuntu.com/questions/50435/is-it-possible-to-use-ubuntu-one-with-webdav&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Webdav&lt;/a&gt;. At&amp;eacute; que Yaso &lt;a href=&quot;http://http://en.wikipedia.org/wiki/Dead_drop#Modern_dead_drop_techniques&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;indicou um caminho de desvio.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Marcelo devolveu uma resposta para Yaso com mais alguns caminhos (&lt;a href=&quot;http://va.mu/Tfs5&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://va.mu/Tfs9&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;http://widrop.bzhack.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;3&lt;/a&gt;) que podem ser &amp;uacute;teis para muita gente. E ainda comentou:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O UbuntuOne n&amp;atilde;o deixa voce agreg&amp;aacute;-lo ao Otixo e assim montar apenas um webdav junto como outros servi&amp;ccedil;os que voc&amp;ecirc; use. E j&amp;aacute; &amp;eacute; muito estranho ele n&amp;atilde;o aceitar webdav, sendo esta uma ferramenta disseminada. O Dropbox mudou seus termos de servi&amp;ccedil;o recentemente e n&amp;atilde;o h&amp;aacute; nenhuma&lt;br /&gt;
+		garantia de que algo parecido ao Megaupload n&amp;atilde;o aconte&amp;ccedil;a com ele em determinado momento. O&lt;a href=&quot;http://sparkleshare.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Sparkleshare&lt;/a&gt; est&amp;aacute; em pleno desenvolvimento, open source, permite usar seu pr&amp;oacute;prio servidor e me parece que &amp;eacute; peer.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Dicas-para-guardar-coisas-nas-nuvens#comments</comments>
+ <category domain="http://mutgamb.org/tag/compartilhamento">compartilhamento</category>
+ <category domain="http://mutgamb.org/tag/desvio">desvio</category>
+ <category domain="http://mutgamb.org/assunto/Tags/lista">lista</category>
+ <category domain="http://mutgamb.org/tag/megaupload">megaupload</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/542</wfw:commentRss>
+ <pubDate>Sun, 05 Feb 2012 10:23:46 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">542 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

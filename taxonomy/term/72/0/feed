@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - taxonomia</title>
+ <link>http://mutgamb.org/taxonomy/term/72/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Uma possível taxonomia de rede metarecicleira</title>
+ <link>http://mutgamb.org/fonte/Uma-poss%C3%ADvel-taxonomia-de-rede-metarecicleira</link>
+ <description>a infra metarecicleira pode ser dividida em:&lt;br /&gt;
+* servidores na web, dedicados a isso. aqui se enquadram a &lt;a href=&quot;http://metareciclagem.org/&quot; rel=&quot;nofollow&quot;&gt;máquina na minha casa&lt;/a&gt;, o servidor que existia no galpão, uma possível máquina no speedy biz do parque, o espaço gentilmente cedido pelo &lt;a href=&quot;http://interney.net/&quot; rel=&quot;nofollow&quot;&gt;Interney&lt;/a&gt;
+no host dele, umas tramóias do mota e mais umas coisas. rodando, entre
+eles, apache+php+mysql com acesso ftp mais wikis, blogs, cms, planet e
+e quetais; ircd; jabberd; email e listas de discussão; cvs ou
+subversion; talvez um icecast e outras coisas. essas máquinas precisam
+de uma conexão dedicada, com ip válido e uma máquina nonstop.&lt;br /&gt;
+* servidor + esporo metarecicleiro, com armazenamento local de distros
+e pacotes, rsync com o cvs da camada acima e documentação sobre como
+metareciclar, com um gateway na frente e tendo algumas máquinas
+conectadas numa rede local pra testes e desenvolvimento de tecnologia.
+exemplos disso seriam o morto galpão, o container do parque escola, o
+mezanino no olido, talvez as duas iniciativas na sacadura cabral,
+alguns pontos de cultura e todos esses candidatos a esporos. esses
+servidores precisam de banda larga, mas pode ser com ip dinâmico.&lt;br /&gt;
+* servidor + L4N (copyleft &lt;a href=&quot;http://dpadua.org/&quot; rel=&quot;nofollow&quot;&gt;dpádua&lt;/a&gt;).
+esses são os supostos projetos “beneficiados” pela metareciclagem, que
+podem ser permanentes ou temporários. aqui se enquadram as ações mais
+voltadas para o uso da tecnologia, não necessariamente a ação
+estrutural transformadora. nesse caso, os exemplos são os telecentros
+dos autolabs, o telecentro de jarinu, o andar de baixo do olido, a
+biblioteca do parque escola, o cybersocial, o mídia tática brasil, o
+digitofagia, o telecentro chico mendes, o sesc pompéia, a casa amarela,
+a participação do slave no projeto do mst no recife, e a grande maioria
+dos pontos de cultura.
+&lt;p&gt;agora, tem que desenhar isso. um infográfico pra apresentar pra gringo e gobierno.
+&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/Uma-poss%C3%ADvel-taxonomia-de-rede-metarecicleira#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <category domain="http://mutgamb.org/assunto/Tags/taxonomia">taxonomia</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/77</wfw:commentRss>
+ <pubDate>Sat, 20 Nov 2004 22:13:29 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">77 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

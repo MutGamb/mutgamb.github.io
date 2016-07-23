@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - infográfico</title>
+ <link>http://mutgamb.org/taxonomy/term/95/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Como MetaReciclar</title>
+ <link>http://mutgamb.org/fonte/Como-MetaReciclar</link>
+ <description>&lt;a href=&quot;http://www.metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.alfarrabio.org/media/1/20060417-howtorelampago_metarec.png&quot; alt=&quot;How to - MetaReciclagem&quot; title=&quot;How to - MetaReciclagem&quot; height=&quot;500&quot; width=&quot;437&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Arte: &lt;a href=&quot;http://entrementes.net/dpadua/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;DPádua, o Sapo&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/fonte/Como-MetaReciclar#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/infogr%C3%A1fico">infográfico</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/110</wfw:commentRss>
+ <pubDate>Mon, 17 Apr 2006 11:58:32 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">110 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

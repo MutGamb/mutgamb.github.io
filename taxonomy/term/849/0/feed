@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - semana ct</title>
+ <link>http://mutgamb.org/taxonomy/term/849/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Semana da Ciência e Tecnologia em BSB</title>
+ <link>http://mutgamb.org/blog/Semana-da-Ciencia-e-Tecnologia-em-BSB</link>
+ <description>&lt;p&gt;Webert participou de uma atividade da &lt;a href=&quot;http://semanact.mct.gov.br/index.php/content/view/5391.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Semana Nacional de Ci&amp;ecirc;ncia e Tecnologia, em Bras&amp;iacute;lia&lt;/a&gt;. A semana &amp;eacute; um projeto de abrang&amp;ecirc;ncia nacional, sendo que em Bras&amp;iacute;lia acontece o encontro das a&amp;ccedil;&amp;otilde;es de todos os estados.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/frnEahoXckw&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;N&amp;oacute;s fizemos uma proposta nova para esse ano em conjunto com a &lt;a href=&quot;http://www.doeseucomputador.org.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;esta&amp;ccedil;&amp;atilde;o de Metarreciclagem de Samambaia&lt;/a&gt;. Fazer oficinas de constru&amp;ccedil;&amp;atilde;o de hardware aberto com componentes reciclados, tipo reciclar o reciclado. E isso foi um sucesso, conseguimos reutilizar/reaproveitar 90% dos componentes para montar um Arduino Severino. A proposta era fazer uma Severinada durante a feira. E fizemos duas, uma na quarta e uma hoje, sexta.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Webert havia compartilhado&lt;a href=&quot;http://www.livestream.com/openhardwarebrasilia/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; o link do canal&lt;/a&gt; para acompanharmos o stream da atividade na lista #metarec:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;340&quot; scrolling=&quot;no&quot; src=&quot;http://cdn.livestream.com/embed/openhardwarebrasilia?layout=4&amp;amp;clip=pla_0a93de46-0aa5-42c6-a931-3dafb4dd205e&amp;amp;color=0x000000&amp;amp;autoPlay=false&amp;amp;mute=false&amp;amp;iconColorOver=0xe7e7e7&amp;amp;iconColor=0xcccccc&amp;amp;allowchat=true&amp;amp;height=340&amp;amp;width=420&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;N&amp;atilde;o consegui deixar o stream legal, dei uma olhada no que filmou e vi que o som estava ruim. O que mais aparece &amp;eacute; a bicicleta que fizemos que gera energia, nela usamos um alternador de carro. Ah, tamb&amp;eacute;m tinha uma palestra minha que n&amp;atilde;o tinha aparecido ningu&amp;eacute;m, sobre: Hardware aberto, MetaReciclagem e projetos criativos. Quando eu j&amp;aacute; estava para ir embora apareceu uma pessoa e palestrei para ela. Rsrsrsr Eu j&amp;aacute; sabia que isso aconteceria, j&amp;aacute; que aconteceu com um cientista que falaria sobre nanotecnologia e n&amp;atilde;o teve por n&amp;atilde;o ter pessoas. R&amp;aacute;&lt;/p&gt;
+	&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Semana-da-Ciencia-e-Tecnologia-em-BSB#comments</comments>
+ <category domain="http://mutgamb.org/tag/bsb">bsb</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/semana-ct">semana ct</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/903</wfw:commentRss>
+ <pubDate>Sat, 20 Oct 2012 09:46:24 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">903 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

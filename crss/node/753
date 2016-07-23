@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Tramissores, Rádios e DIY&quot;</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY</link>
+ <description>Comments for &quot;Tramissores, Rádios e DIY&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>Potência determina necessidade de licença</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY#comment-116</link>
+ <description>Potência determina necessidade de licença
+A rigor, o que determina se o uso do equipamento está dispensado de licença são a potência e frequência que o equipamento pretende operar. A resolução 506 da Anatel determina as condições de uso para os equipamentos de radiação restrita. Cabe lembrar que mesmo que os equipamentos estejam dispensados de autorização, sempre será exigida pela Anatel a Homologação do produto. Atente para o fato que o equipamento que se enquadra nas condições previstas na Resolução 506 não poderá ter suas características modificadas nem poderão ser adaptadas, como um acoplamento de antena externa, por exemplo. Ao se acoplar uma antena com ganho a ERP (Potência Efetivamente Irradiada) aumenta e se desenquadra da potência máxima de 400 MW prevista na norma. Outros problemas de sistemas desenvolvidos com essa concepção é a falta de segurança quanto à interferência prejudicial de terceiros, além do fato do congestionamento do espectro especialmente nas faixas de 900 mhz e 2,4 ghz.
+Dane Avanzi, Grupo Avanzi - Advogado Especializado em Telecom
+
+No caso citado acima e sobre um transmissor de rede sem fio , o transmissor FM opera em uma frequencia mais baixa e sua a potencia gira em torno de 50 miliwatts. Deve-se ter cuidado apenas com a interferencia em outras radios.</description>
+ <pubDate>Thu, 31 May 2012 19:26:58 +0000</pubDate>
+ <dc:creator>josenetomg</dc:creator>
+ <guid isPermaLink="false">comment 116 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

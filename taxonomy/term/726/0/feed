@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - diybio</title>
+ <link>http://mutgamb.org/taxonomy/term/726/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Às Janelas mais Verdes</title>
+ <link>http://mutgamb.org/blog/Janelas-mais-Verdes</link>
+ <description>&lt;p&gt;Na linha de DIYBio e Biopunk, Chico Sim&amp;otilde;es trouxe para lista metarec a experi&amp;ecirc;ncia de sua hortinha hidrop&amp;ocirc;nica:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://our.windowfarms.org/files/2012/07/horta1-130x300.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Montei uma &lt;a href=&quot;http://our.windowfarms.org/2012/07/08/comecando-minha-hortinha-hidroponica/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;windowfarm&lt;/a&gt; com garrafas de &amp;aacute;gua mineral reaproveitadas e vasinhos pl&amp;aacute;sticos. O sistema de irriga&amp;ccedil;&amp;atilde;o foi constriudo com uma bomba de &amp;aacute;gua de parabrisas de carro e mangueiras de aqu&amp;aacute;rio. Eu montei o &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;arduino na proto&lt;/a&gt; (gracias ao Devolts) alimentado com uma fonte de 5v de dvd usado. O &lt;em&gt;delay&lt;/em&gt; varia de acordo com a luminosidade.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Janelas-mais-Verdes#comments</comments>
+ <category domain="http://mutgamb.org/tag/artesanato-de-volts">artesanato de volts</category>
+ <category domain="http://mutgamb.org/tag/biopunk">biopunk</category>
+ <category domain="http://mutgamb.org/tag/diybio">diybio</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/795</wfw:commentRss>
+ <pubDate>Tue, 10 Jul 2012 10:04:26 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">795 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

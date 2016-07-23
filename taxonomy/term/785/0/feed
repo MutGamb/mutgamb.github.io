@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - laure</title>
+ <link>http://mutgamb.org/taxonomy/term/785/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Arduinos</title>
+ <link>http://mutgamb.org/blog/Arduinos</link>
+ <description>&lt;p&gt;Marcos Egito come&amp;ccedil;ou a trabalhar com Arduino, no CRC de Recife, pesquisou alguns tutoriais encontrou possibilidades (Serverino, Freeduino, e Xduino), e pediu dicas na lista #metarec:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Gostaria de saber um tutorial legal passo a passo que eu possa segui e fazer um Ardu&amp;iacute;no e depois possa us&amp;aacute;-lo sem traumas, uma coisa que depois eu possa replicar com xs meninxs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Para outrxs que tiverem interesse, vale conferir a documenta&amp;ccedil;&amp;atilde;o do Guima e da Laure, &lt;a href=&quot;http://http://gypsyware.org/category/arduino/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;no DIYPsyware&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://gypsyware.files.wordpress.com/2012/04/severino2.jpg&quot; style=&quot;width: 420px; height: 314px;&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Arduinos#comments</comments>
+ <category domain="http://mutgamb.org/tag/arduino">arduino</category>
+ <category domain="http://mutgamb.org/assunto/Tags/guima">guima</category>
+ <category domain="http://mutgamb.org/tag/laure">laure</category>
+ <category domain="http://mutgamb.org/tag/marcos-egito">marcos egito</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/847</wfw:commentRss>
+ <pubDate>Tue, 21 Aug 2012 09:45:16 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">847 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

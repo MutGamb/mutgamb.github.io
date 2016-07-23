@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - off</title>
+ <link>http://mutgamb.org/taxonomy/term/876/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Desligues</title>
+ <link>http://mutgamb.org/blog/Desligues</link>
+ <description>&lt;p&gt;Para quem usa listas do &lt;a href=&quot;http://lists.riseup.net&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;riseup.net&lt;/a&gt; ou acompanha a lista #metarec, eis um aviso de utilidade p&amp;uacute;blica:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;NOTICE! The lists.riseup.net mailing list service will be taken offline for an upgrade on Sunday, 25 November at 16:00 UTC. We expect service to resume after a few hours.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mas, por favor, n&amp;atilde;o entre em p&amp;acirc;nico. Bruno Freitas deu uma dica, &lt;a href=&quot;http://www.techtudo.com.br/noticias/noticia/2012/11/rede-4g-de-uma-cidade-pode-ser-desligada-com-equipamento-de-r-1300.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&amp;quot;terapia ocupacional&amp;quot;&lt;/a&gt;. Derrubar redes, enquanto a sua encontra-se ca&amp;iacute;da:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Pesquisadores da universidade americana Virginia Tech dizem ter encontrado uma grande falha na tecnologia LTE (da sigla em ingl&amp;ecirc;s Long Term Evolution). Segundo os estudos, um equipamento relativamente simples, de cerca de R$ 1.300, seria capaz de derrubar a rede 4G de uma cidade inteira, com poucas chances de revers&amp;atilde;o do dano.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Desligues#comments</comments>
+ <category domain="http://mutgamb.org/tag/desligues">desligues</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/off">off</category>
+ <category domain="http://mutgamb.org/tag/riseup">riseup</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/933</wfw:commentRss>
+ <pubDate>Fri, 23 Nov 2012 12:09:17 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">933 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

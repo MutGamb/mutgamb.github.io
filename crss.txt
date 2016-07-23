@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments</title>
+ <link>http://mutgamb.org</link>
+ <description>Comentários</description>
+ <language>pt-br</language>
+<item>
+ <title>Sobre a Carta</title>
+ <link>http://mutgamb.org/descarta/Epistola-Digital-Descentralizada#comment-196</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/descarta/Epistola-Digital-Descentralizada&quot;&gt;Epístola Digital Descentralizada &lt;/a&gt;:&lt;/p&gt;
+
+Penso que deveria ter como um dos primeiros ítens o Fortalecimento do Programa Cultura Viva com todas as suas ações e interfaces: Cultura Digital, Cultura dos Mestres, Cultura da Infância, Cultura de Povos Tradicionais, Cultura de Matriz Africana, Cultura de Matriz Indígena, Pontos, Pontinhos e Pontões de Cultura, editais de projetos e de premiações, iluminando a face do povo multicor dessá nação!</description>
+ <pubDate>Sun, 28 Oct 2012 13:50:14 +0000</pubDate>
+ <dc:creator>VitoriaMario</dc:creator>
+ <guid isPermaLink="false">comment 196 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>1</title>
+ <link>http://mutgamb.org/blog/Musa-da-Primavera-Entre-o-sim-e-o-nao-existe-um-vao#comment-163</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Musa-da-Primavera-Entre-o-sim-e-o-nao-existe-um-vao&quot;&gt;A Musa da Primavera: Entre o sim e o não existe um vão&lt;/a&gt;:&lt;/p&gt;
+
+ma
+achei muito bonito seu texto
+assim, de soslaio, escrevi um poemeto em cima
+bjs
+leobr
+
+
+
+entre o sim e o não um vão
+entre o sim e o não um são
+
+entre e a terra e o céu
+há dança nos cosmos
+há música nos corpos
+há palavras nos olhos
+
+tudo 
+existe</description>
+ <pubDate>Wed, 03 Oct 2012 13:25:35 +0000</pubDate>
+ <dc:creator>VitoriaMario</dc:creator>
+ <guid isPermaLink="false">comment 163 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Trash Player</title>
+ <link>http://mutgamb.org/blog/Trash-Player-por-Vitor-Souza#comment-125</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Trash-Player-por-Vitor-Souza&quot;&gt;Trash Player por Vitor Souza&lt;/a&gt;:&lt;/p&gt;
+
+A Natureza resiste...apesar de tudo...
+Belo..Vitor...</description>
+ <pubDate>Fri, 28 Sep 2012 19:10:25 +0000</pubDate>
+ <dc:creator>VitoriaMario</dc:creator>
+ <guid isPermaLink="false">comment 125 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Que massa!</title>
+ <link>http://mutgamb.org/blog/Metareciclagem-no-banco-do-Onibus-Hacker#comment-123</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Metareciclagem-no-banco-do-Onibus-Hacker&quot;&gt;Metareciclagem no banco do Ônibus Hacker&lt;/a&gt;:&lt;/p&gt;
+
+Que massa!</description>
+ <pubDate>Sun, 16 Sep 2012 23:18:51 +0000</pubDate>
+ <dc:creator>VitoriaMario</dc:creator>
+ <guid isPermaLink="false">comment 123 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>upgrade do macaco!</title>
+ <link>http://mutgamb.org/blog/Primatas#comment-120</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Primatas&quot;&gt;Primatas...&lt;/a&gt;:&lt;/p&gt;
+
+&lt;a href=&quot;http://organismo.art.br/matema/&quot; title=&quot;http://organismo.art.br/matema/&quot; rel=&quot;nofollow&quot;&gt;http://organismo.art.br/matema/&lt;/a&gt;</description>
+ <pubDate>Fri, 24 Aug 2012 18:39:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 120 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Uma ode à criatividade!</title>
+ <link>http://mutgamb.org/blog/Um-Ode-aos-discos-de-midias-magneticas-removiveis-com-Fernanda-de-Aragao#comment-119</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Um-Ode-aos-discos-de-midias-magneticas-removiveis-com-Fernanda-de-Aragao&quot;&gt;Um Ode aos discos de mídias magnéticas removíveis, com Fernanda de Aragão&lt;/a&gt;:&lt;/p&gt;
+
+Muito boa a entrevista com a Fernanda de Aragão. Ela explica muito bem sua arte-experimentação de maneira embasada e traz novos rumos criativos aproveitando as tecnologias ditas obsoletas, sem perder a poiesis, Isso é o que mais importa na vida. As questões também estão inteligentimente formuladas. Parabéns a quem as elaborou. Só um senão, que é uma dúvida: a palavra &quot;ode&quot; não é feminina?</description>
+ <pubDate>Sat, 28 Jul 2012 03:53:06 +0000</pubDate>
+ <dc:creator>Gazy Andraus</dc:creator>
+ <guid isPermaLink="false">comment 119 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Pegando a parte da palavra</title>
+ <link>http://mutgamb.org/blog/O-Lindos-relatos#comment-118</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/O-Lindos-relatos&quot;&gt;O-Lindos relatos&lt;/a&gt;:&lt;/p&gt;
+
+Pegando a parte da palavra internet, pegando o inter.
+
+as conexões foram feitas, os pulsos positivos emanaram, formamos uma malha uma rede (metarede, metarec), como se forma um tornado, os ventos sopraram e no miolo do centro de convenções em Olinda, convergimos, conferenciamos, e foi lindo, mesmo com a Greve de buzu que em alguns momentos tetou me atrapalhar ...
+
+sei que posso estar sendo confuso, mais estou sendo verdadeiro, pois ainda estou contaminado positivamente pelas energias que rolaram por la!
+
+tamojuntos</description>
+ <pubDate>Mon, 16 Jul 2012 16:18:38 +0000</pubDate>
+ <dc:creator>maregito</dc:creator>
+ <guid isPermaLink="false">comment 118 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>adjuntório</title>
+ <link>http://mutgamb.org/blog/Angel-no-Bailux#comment-117</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Angel-no-Bailux&quot;&gt;Angel no Bailux&lt;/a&gt;:&lt;/p&gt;
+
+Salves, Maira e nobilíssima gambiarragem!
+
+Parabéns pelo espaço, obrigado pelo espaço.
+
+Agradeço a edição carinhosa, mas explicamos mal: não estivemos em Arraial D&#039;ajuda. Estamos e ficaremos mais um mês, para uma troca mais lenta, calma e, esperamos, profunda. E daqui, seguiremos morando com outros amigos que, como o Régis e os pataxós, tem trabalhos interessantes onde nossos parcos conhecimentos, entre eles os audiovisuais livres, possam ajudar. Os principais caminhos dessas viagem se baseiam nas pessoas e ações das redes &lt;a href=&quot;http://www.mocambos.net&quot; title=&quot;www.mocambos.net&quot; rel=&quot;nofollow&quot;&gt;www.mocambos.net&lt;/a&gt; e &lt;a href=&quot;http://www.indiosonline.org&quot; title=&quot;www.indiosonline.org&quot; rel=&quot;nofollow&quot;&gt;www.indiosonline.org&lt;/a&gt;, então, daqui pra Olivença, Itacaré, Cachoeira... e muitos pings depois, Santarém, com o Puraqué. Sem prazo, sem pressa.
+Na escuta e na antena!
+Beijos
+Angel</description>
+ <pubDate>Sat, 09 Jun 2012 23:31:56 +0000</pubDate>
+ <dc:creator>angel</dc:creator>
+ <guid isPermaLink="false">comment 117 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Potência determina necessidade de licença</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY#comment-116</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Tramissores-Radios-e-DIY&quot;&gt;Tramissores, Rádios e DIY&lt;/a&gt;:&lt;/p&gt;
+
+Potência determina necessidade de licença
+A rigor, o que determina se o uso do equipamento está dispensado de licença são a potência e frequência que o equipamento pretende operar. A resolução 506 da Anatel determina as condições de uso para os equipamentos de radiação restrita. Cabe lembrar que mesmo que os equipamentos estejam dispensados de autorização, sempre será exigida pela Anatel a Homologação do produto. Atente para o fato que o equipamento que se enquadra nas condições previstas na Resolução 506 não poderá ter suas características modificadas nem poderão ser adaptadas, como um acoplamento de antena externa, por exemplo. Ao se acoplar uma antena com ganho a ERP (Potência Efetivamente Irradiada) aumenta e se desenquadra da potência máxima de 400 MW prevista na norma. Outros problemas de sistemas desenvolvidos com essa concepção é a falta de segurança quanto à interferência prejudicial de terceiros, além do fato do congestionamento do espectro especialmente nas faixas de 900 mhz e 2,4 ghz.
+Dane Avanzi, Grupo Avanzi - Advogado Especializado em Telecom
+
+No caso citado acima e sobre um transmissor de rede sem fio , o transmissor FM opera em uma frequencia mais baixa e sua a potencia gira em torno de 50 miliwatts. Deve-se ter cuidado apenas com a interferencia em outras radios.</description>
+ <pubDate>Thu, 31 May 2012 19:26:58 +0000</pubDate>
+ <dc:creator>josenetomg</dc:creator>
+ <guid isPermaLink="false">comment 116 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>so para constar</title>
+ <link>http://mutgamb.org/blog/Etiopia-e-Fabi-Borges#comment-115</link>
+ <description>&lt;p&gt;In reply to &lt;a href=&quot;http://mutgamb.org/blog/Etiopia-e-Fabi-Borges&quot;&gt;A Etiópia e Fabi Borges&lt;/a&gt;:&lt;/p&gt;
+
+viajei com hilan bensusan, ele &#039;e uma trip boa naquelas terras!</description>
+ <pubDate>Sat, 04 Feb 2012 12:40:39 +0000</pubDate>
+ <dc:creator>fabiborges</dc:creator>
+ <guid isPermaLink="false">comment 115 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

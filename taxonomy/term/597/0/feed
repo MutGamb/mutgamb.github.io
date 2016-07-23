@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - editais</title>
+ <link>http://mutgamb.org/taxonomy/term/597/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Pontos de Cultura em HD</title>
+ <link>http://mutgamb.org/blog/Pontos-de-Cultura-em-HD</link>
+ <description>&lt;p&gt;O &lt;a href=&quot;http://labculturaviva.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;LabCulturaViva&lt;/a&gt; abriu quatro editais pensando em produ&amp;ccedil;&amp;otilde;es para serem exibidas em canais de TV aberta, sobretudo a TV Brasil, por isso exigem produtos em HD:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A exig&amp;ecirc;ncia do HDV &amp;eacute; apenas por conta desse aspecto t&amp;eacute;cnico da opera&amp;ccedil;&amp;atilde;o das TVs. O formato de capta&amp;ccedil;&amp;atilde;o &amp;eacute; livre, a exig&amp;ecirc;ncia &amp;eacute; apenas na finaliza&amp;ccedil;&amp;atilde;o do material. Agora que os filmes document&amp;aacute;rios do primeiro Edital est&amp;atilde;o ficando prontos, independente dessa discuss&amp;atilde;o, d&amp;aacute; para ter uma excelente ideia da pot&amp;ecirc;ncia de produ&amp;ccedil;&amp;atilde;o dos Pontos de Cultura, e a import&amp;acirc;ncia que essa produ&amp;ccedil;&amp;atilde;o tenha visibilidade massiva em todo o pa&amp;iacute;s.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PC, da Rede Mocambos, comentou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;div&gt;
+		&lt;p&gt;Definitivamente esse edital n&amp;atilde;o &amp;eacute; para Pontos de Cultura que utilizam softwares livres.&lt;/p&gt;
+	&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fabs replicou:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Por que voc&amp;ecirc; diz que n&amp;atilde;o &amp;eacute; pra software livre? Vamos parar com esse estigma de que software livre n&amp;atilde;o&lt;br /&gt;
+		consegue trampar com HD, por favor! Consegue sim! Mesmo que tudo tenha sido capturado e trabalhado em baixa, o ffmpeg d&amp;aacute; conta de numa linha de comando, botar tudo pra HD e pronto. O saco &amp;eacute; ter de ficar fazendo testes com o arquivo at&amp;eacute; ficar a contento, ver se n&amp;atilde;o problema de frame rate e dessincroniza&amp;ccedil;&amp;atilde;o de som, etc. Mas isso faz parte do processo. A edi&amp;ccedil;&amp;atilde;o do HD &amp;eacute; que &amp;eacute; problem&amp;aacute;tica para m&amp;aacute;quinas de baixa performance, e isso independe do software. Mas no caso do edital isso pode ser feito em qualquer resolu&amp;ccedil;&amp;atilde;o. Minha cr&amp;iacute;tica &amp;eacute; no sentido da limita&amp;ccedil;&amp;atilde;o de experimenta&amp;ccedil;&amp;atilde;o de linguagens e est&amp;eacute;ticas que a imposi&amp;ccedil;&amp;atilde;o do HD causa, &amp;agrave; ditadura do HD em si, e n&amp;atilde;o ao formato, que pode ser convertido por qq conversor de m&amp;iacute;dia atual, at&amp;eacute; online.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Pontos-de-Cultura-em-HD#comments</comments>
+ <category domain="http://mutgamb.org/tag/editais">editais</category>
+ <category domain="http://mutgamb.org/tag/labculturaviva">labculturaviva</category>
+ <category domain="http://mutgamb.org/assunto/Tags/software-livre">software livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/664</wfw:commentRss>
+ <pubDate>Sat, 14 Apr 2012 11:21:17 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">664 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

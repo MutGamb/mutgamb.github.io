@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - Ferramentas do Site</title>
+ <link>http://mutgamb.org/taxonomy/term/2/0</link>
+ <description>Conversas sobre ferramentas a utilizar no Mutirão da Gambiarra</description>
+ <language>pt-br</language>
+<item>
+ <title>FCKeditor</title>
+ <link>http://mutgamb.org/forum/FCKeditor</link>
+ <description>&lt;p&gt;mudei o editor WYSIWYG aqui do mutir&amp;atilde;o pro FCKeditor. o nicedit &amp;eacute; bonitinho mas tava dando cada vez mais problemas, e ainda mais quando eu mudei pro Firefox3.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/forum/FCKeditor#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/173</wfw:commentRss>
+ <pubDate>Fri, 16 May 2008 14:10:23 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">173 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Docbook</title>
+ <link>http://mutgamb.org/forum/Docbook</link>
+ <description>Pesquisando aqui um pouco sobre o formato docbook e intercâmbio de collaborative books do drupal:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://docbook.sourceforge.net/&quot; title=&quot;http://docbook.sourceforge.net/&quot; rel=&quot;nofollow&quot;&gt;http://docbook.sourceforge.net/&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.docbook.org/&quot; title=&quot;http://www.docbook.org/&quot; rel=&quot;nofollow&quot;&gt;http://www.docbook.org/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://drupalmodules.com/module/book-import&quot; title=&quot;http://drupalmodules.com/module/book-import&quot; rel=&quot;nofollow&quot;&gt;http://drupalmodules.com/module/book-import&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://drupalmodules.com/module/export-docbook&quot; title=&quot;http://drupalmodules.com/module/export-docbook&quot; rel=&quot;nofollow&quot;&gt;http://drupalmodules.com/module/export-docbook&lt;/a&gt;&lt;br /&gt;</description>
+ <comments>http://mutgamb.org/forum/Docbook#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/123</wfw:commentRss>
+ <pubDate>Fri, 11 Apr 2008 11:21:25 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">123 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Permissões de usuárixs</title>
+ <link>http://mutgamb.org/forum/Permiss%C3%B5es-de-usu%C3%A1rixs</link>
+ <description>Por enquanto, criei duas user roles extras: editorxs e admin. Eu tinha configurado pra só editores postarem comentários sem moderação, mas isso acaba travando o fórum. Vou instalar o akismet e deixar aberto pra qualquer usuário cadastrado. Se começar a entrar muito usuário, ponho um captcha pro registro.&lt;br /&gt;</description>
+ <comments>http://mutgamb.org/forum/Permiss%C3%B5es-de-usu%C3%A1rixs#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/18</wfw:commentRss>
+ <pubDate>Sat, 01 Mar 2008 01:47:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">18 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Nodetype - lista</title>
+ <link>http://mutgamb.org/forum/Nodetype-lista</link>
+ <description>Uma das fontes mais importantes no esforço de documentação da MetaReciclagem são os arquivos da lista de discussão. Tô pensando em começar criando um nodetype pra coletar informações de lá. Só texto, talvez com um campo pro permalink no gmane e se possível com um bookmarklet pra quando estiver navegando nos arquivos possa publicar no mutirão só com um clique (vou abrir o bookmarklet do wordpress pra examinar). Será que eu uso o CCK-text pra esse nodetype, ou um nodetype com campos comuns do core já faz a onda?</description>
+ <comments>http://mutgamb.org/forum/Nodetype-lista#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/13</wfw:commentRss>
+ <pubDate>Wed, 27 Feb 2008 14:34:24 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">13 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Workflow</title>
+ <link>http://mutgamb.org/forum/Workflow</link>
+ <description>Pensando aqui em como estruturar as coisas. Eu imaginei um cenário em que as pessoas podem publicar o que que tiverem de documentação. De preferência atomizado, em pedaços com coerência de linguagem e dx mesmo autorx. Cada pedaço desses é um node. E aí bolar uma maneira de ter playlists de nodes, com peso e possibilidade de comentários, gerados por editorxs. Ou até por qualquer usuárix do site. Ficar um repositório de documentação relacionada à MetaReciclagem, e múltiplas possíveis organizações disso. Pra isso funcionar, talvez o livro colaborativo não faça sentido, e tenhamos que quebrar as coisas em tipo de mídia: texto, imagem, vídeo, áudio. Complica no caso de já existirem combinações, texto+imagem, por aí. Também complica ao usar, por exemplo, arquivos publicados em outros lugares (ou não, se tiver deeplinks pra download dos arquivos no EL e embed pra youtube e afins).</description>
+ <comments>http://mutgamb.org/forum/Workflow#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/11</wfw:commentRss>
+ <pubDate>Sun, 03 Feb 2008 02:11:23 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">11 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Tema</title>
+ <link>http://mutgamb.org/forum/Tema</link>
+ <description>Tá feio, tá não?
+
+Quem tiver sugestões de interface, mesmo rabiscadas em guardanapo, por favor envie-as.</description>
+ <comments>http://mutgamb.org/forum/Tema#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/10</wfw:commentRss>
+ <pubDate>Sun, 03 Feb 2008 02:06:27 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">10 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>bailux criando rizomas metarecs</title>
+ <link>http://mutgamb.org/forum/bailux-criando-rizomas-metarecs</link>
+ <description>metarecs,
+tem uma possibilidade de se fazer uma radio aqui no arraial dájuda,esta fala do felipe me faz pensar se metarecs já é esta imersão em todos os meios produzindo suportes e conteudos.
+estou na maior adrelanina para intervir-modificar-reconstruir.
+abs,
+Regis</description>
+ <comments>http://mutgamb.org/forum/bailux-criando-rizomas-metarecs#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/7</wfw:commentRss>
+ <pubDate>Fri, 01 Feb 2008 17:25:28 +0000</pubDate>
+ <dc:creator>bailux</dc:creator>
+ <guid isPermaLink="false">7 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Tipos de conteúdo</title>
+ <link>http://mutgamb.org/forum/Tipos-de-conte%C3%BAdo</link>
+ <description>Por enquanto, habilitei quase tudo. Deixei &quot;story&quot; de fora, porque não vejo muito uso pra isso ainda. Blogs, por enquanto, só pessoas na role &quot;editorxs&quot;, tentando não tergiversar. Fórum, que pra mim é novidade, e o livro colaborativo. Ainda quero também possibilitar a republicação de vídeo de sistemas online, e talvez o módulo de áudio (mas talvez seja melhor subir no estudiolivre e pôr só o link aqui, né?)</description>
+ <comments>http://mutgamb.org/forum/Tipos-de-conte%C3%BAdo#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/3</wfw:commentRss>
+ <pubDate>Thu, 31 Jan 2008 19:21:22 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">3 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Perfil de usuários</title>
+ <link>http://mutgamb.org/forum/Perfil-de-usu%C3%A1rios</link>
+ <description>Acho que muito do que pode rolar por aqui passa por ter um perfil de usuárix consistente (que depois também pode vir a ser reutilizado em outros sites que a gente venha a fazer). Pensei em começar com informações básicas e depois ir acrescentando. Nome de usuárix, e-mail e senha são o mínimo. Aí dá pra pensar em cidade também, acho que tem a ver. E que mais?</description>
+ <comments>http://mutgamb.org/forum/Perfil-de-usu%C3%A1rios#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/2">Ferramentas do Site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/2</wfw:commentRss>
+ <pubDate>Thu, 31 Jan 2008 19:07:35 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">2 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

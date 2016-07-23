@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - oficina</title>
+ <link>http://mutgamb.org/taxonomy/term/201/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Oficina de Gestão de Empreendimentos Solidários Criativos na Chapada Diamantina</title>
+ <link>http://mutgamb.org/blog/Oficina-de-Gestao-de-Empreendimentos-Solidarios-Criativos-na-Chapada-Diamantina</link>
+ <description>&lt;p&gt;Acontecer&amp;aacute; entre os dias 17 a 21 de outubro, a Oficina de Gest&amp;atilde;o de Empreendimentos Solid&amp;aacute;rios Criativos. Promovida pelo Ponto de Cultura Circo do Cap&amp;atilde;o em parceria com o Pont&amp;atilde;o de Cultura Digital iTEIA, objetiva fomentar a organiza&amp;ccedil;&amp;atilde;o de Produtoras Culturais Colaborativas para o fortalecimento de atividades na&lt;a href=&quot;http://www.iteia.org.br/chapadadiamantina&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Chapada Diamantina&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://www.iteia.org.br/exibir_imagem.php?img=imgtexto_27624.png&amp;amp;tipo=1&amp;amp;s=11&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.corais.org/chapadadiamantina/node/52820&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;A inscri&amp;ccedil;&amp;atilde;o &amp;eacute; gratuita, pode ser realizada at&amp;eacute; o dia 10&lt;/a&gt;. O Circo do Cap&amp;atilde;o oferecer&amp;aacute; &amp;aacute;rea para &lt;em&gt;camping&lt;/em&gt; e alimenta&amp;ccedil;&amp;atilde;o por R$15,00/dia.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Oficina-de-Gestao-de-Empreendimentos-Solidarios-Criativos-na-Chapada-Diamantina#comments</comments>
+ <category domain="http://mutgamb.org/tag/chapada-diamantina">chapada diamantina</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/assunto/Tags/oficina">oficina</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/891</wfw:commentRss>
+ <pubDate>Mon, 08 Oct 2012 10:46:09 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">891 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>MetaReciclagem em Santo André - Parte I - Montando uma estrutura</title>
+ <link>http://mutgamb.org/fonte/MetaReciclagem-em-Santo-Andr%C3%A9-Parte-I-Montando-uma-estrutura</link>
+ <description>&lt;p&gt;Relatar experi&amp;ecirc;ncias nunca foi meu forte. Mas, ao ler os posts abaixo falando do modelo de log&amp;iacute;stica distribu&amp;iacute;da, algo que participei ativamente pensando, tentando, propondo, nos &amp;uacute;ltimos anos, despertou uma vontade de completar um pouco da hist&amp;oacute;ria e relatar os princ&amp;iacute;pios do que aconteceu em Santo Andr&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A Chegada&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; v&amp;iacute;nhamos buscando experimentar algumas das id&amp;eacute;ias de MetaReciclagem em outros locais, como no galp&amp;atilde;o do &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.agentecidadao.com.br/&quot; rel=&quot;nofollow&quot;&gt;Agente Cidad&amp;atilde;o&lt;/a&gt;, na Casa Amarela (uma organiza&amp;ccedil;&amp;atilde;o que ficava pr&amp;oacute;ximo do Morumbi e onde montamos o primeiro laborat&amp;oacute;rio de m&amp;aacute;quinas metarecicladas) e nos 3 laborat&amp;oacute;rios pilotos dentro do &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.midiaindependente.org/eo/blue/2003/10/264747.shtml&quot; rel=&quot;nofollow&quot;&gt;projeto CAJUS&lt;/a&gt; (Centros de A&amp;ccedil;&amp;atilde;o Juvenis), que montamos em Ermelino Matarazzo, S&amp;atilde;o Miguel Paulista e Itaquera.&lt;/p&gt;
+&lt;p&gt;No entanto, todas essas a&amp;ccedil;&amp;otilde;es foram extremamente r&amp;aacute;pidas, desorganizadas e, basicamente, o que fizemos foi: recuperar algumas m&amp;aacute;quinas, montar um servidor Linux, montar uma rede local, instalar as m&amp;aacute;quinas e tentar capacitar algu&amp;eacute;m local para tocar a estrutura. Apesar disso, foram grandes escolas, onde pudemos avaliar algumas dificuldades que nos permitiram direcionar melhor a pesquisa:&amp;nbsp; que distribui&amp;ccedil;&amp;atilde;o utilizar, formas de suporte t&amp;eacute;cnico, capacita&amp;ccedil;&amp;atilde;o e a quest&amp;atilde;o da banda larga.&lt;/p&gt;
+&lt;p&gt;Primeiros passos dados. Alguns passos experimentais. Enfim, resolvemos ir a Bras&amp;iacute;lia,&lt;a rel=&quot;nofollow&quot; href=&quot;http://ecologiadigital.net/pblog/iioficina.htm&quot; rel=&quot;nofollow&quot;&gt; II Oficina de Inclus&amp;atilde;o Digital&lt;/a&gt;, in&amp;iacute;cio do governo Lula. Eu, Felipe Fonseca e Slave fomos em busca de encontrar quem estava pensando Inclus&amp;atilde;o Digital no Brasil e de que forma poder&amp;iacute;amos mostrar MetaReciclagem como uma possibilidade de sustentabilidade e forma&amp;ccedil;&amp;atilde;o de rede para os projetos existentes. Encontramos &lt;a rel=&quot;nofollow&quot; href=&quot;http://comunix.org/&quot; rel=&quot;nofollow&quot;&gt;Hernani Dimantas&lt;/a&gt; e &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.kobashi.com.br/frames/konosf.htm&quot; rel=&quot;nofollow&quot;&gt;Ricardo Kobashi&lt;/a&gt;, que foram a ponte de conex&amp;atilde;o direta com Santo Andr&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.parqueescolasa.com.br/&quot; rel=&quot;nofollow&quot;&gt;Parque Escola&lt;/a&gt; - Um local que tinha por objetivo ser constru&amp;iacute;do todo a partir de material reutilizado de obras, sobras de empresas, lixo e tudo o mais que pudesse ser adaptado na cabe&amp;ccedil;a do arquiteto &lt;a rel=&quot;nofollow&quot; href=&quot;http://zanettananigeria.blogspot.com/&quot; rel=&quot;nofollow&quot;&gt;Henrique Zanetta&lt;/a&gt;. O local perfeito e com a abertura necess&amp;aacute;ria para a experimenta&amp;ccedil;&amp;atilde;o. Fomos conhecer o local na volta de Bras&amp;iacute;lia. Sinergia imediata, uma semana depois come&amp;ccedil;amos a trabalhar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Propostas e princ&amp;iacute;pios&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A proposta inicial era:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;montar um laborat&amp;oacute;rio de reciclagem de computadores dentro do Parque;&lt;/li&gt;
+    &lt;li&gt;equipar o Parque com computadores de acesso ao p&amp;uacute;blico em diversos locais;&lt;/li&gt;
+    &lt;li&gt;disponibilizar uma conex&amp;atilde;o de Internet banda larga Wifi para o Parque e redondezas;&lt;/li&gt;
+    &lt;li&gt;articular com a &amp;aacute;rea de cooperativismo da prefeitura um projeto de informatiza&amp;ccedil;&amp;atilde;o das cooperativas com base na produ&amp;ccedil;&amp;atilde;o do laborat&amp;oacute;rio;&lt;/li&gt;
+    &lt;li&gt;capacitar jovens das 2 favelas pr&amp;oacute;ximas do parque, para criarem um empreendimento popular em duas &amp;aacute;reas de neg&amp;oacute;cios criadas para este fim pela prefeitura.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;Um bom escopo de trabalho. Tivemos total apoio da equipe de coordena&amp;ccedil;&amp;atilde;o do parque e da secretaria de educa&amp;ccedil;&amp;atilde;o. Enfim, era o momento ideal e com o n&amp;iacute;vel de sustentabilidade ideal (t&amp;iacute;nhamos um cen&amp;aacute;rio de quase 2 anos de projeto pela frente) para experimentar um processo com mais tempo e possibilidade de analisarmos o resultado.&lt;/p&gt;
+&lt;p&gt;Nos baseamos nos princ&amp;iacute;pios conceituais de MetaReciclagem que hav&amp;iacute;amos discutido por meses seguidos na lista de emails. A seguir:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;atuar na tr&amp;iacute;ade da informa&amp;ccedil;&amp;atilde;o livre, ou seja, trabalhar com hardware livre (doa&amp;ccedil;&amp;atilde;o), software livre (linux e aplicativos), oficinas de apropria&amp;ccedil;&amp;atilde;o dessa tecnologia para promover a forma&amp;ccedil;&amp;atilde;o de redes livres;&lt;/li&gt;
+    &lt;li&gt;conex&amp;atilde;o com os projetos de economia solid&amp;aacute;ria e microcr&amp;eacute;dito (sim, as id&amp;eacute;ias do &lt;a rel=&quot;nofollow&quot; href=&quot;http://pt.wikipedia.org/wiki/Muhammad_Yunus&quot; rel=&quot;nofollow&quot;&gt;Muhammad Yunus&lt;/a&gt; foram extremamente importantes na &amp;eacute;poca, quase todos t&amp;iacute;nhamos lido a experi&amp;ecirc;ncia do livro o Banqueiro dos Pobres);&lt;/li&gt;
+    &lt;li&gt;conex&amp;atilde;o com os projetos de coleta seletiva da prefeitura para auxiliar na tal organiza&amp;ccedil;&amp;atilde;o da log&amp;iacute;stica distribu&amp;iacute;da;&lt;/li&gt;
+    &lt;li&gt;ter o laborat&amp;oacute;rio constantemente aberto, para que os usu&amp;aacute;rios do parque pudessem atuar de forma efetiva na recupera&amp;ccedil;&amp;atilde;o das m&amp;aacute;quinas, seja nas oficinas de Hardware, seja usando as m&amp;aacute;quinas para acesso;&lt;/li&gt;
+    &lt;li&gt;criar processos de apropria&amp;ccedil;&amp;atilde;o da tecnologia: experimentar as diversas formas que as pessoas poderiam usar e experimentar aquelas pe&amp;ccedil;as, softwares e ferramentas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Primeiras doa&amp;ccedil;&amp;otilde;es&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Para minha surprese geral e de praticamente todos naquela &amp;eacute;poca, em quest&amp;atilde;o de duas semanas de trabalho, gra&amp;ccedil;as a um importante contato com uma pessoa do Semasa (obrigado, Meire!) conseguimos uma doa&amp;ccedil;&amp;atilde;o de 30 Pentium 100MHz, 20 impressoras matriciais, 30 monitores de v&amp;iacute;deo e mais uma por&amp;ccedil;&amp;atilde;o de pe&amp;ccedil;as e sobras de outros computadores.T&amp;iacute;nhamos o b&amp;aacute;sico de materiais para avan&amp;ccedil;ar. Muito mais veio depois, mas essa primeira doa&amp;ccedil;&amp;atilde;o foi fundamental, pois se esper&amp;aacute;ssemos meses para obter equipamentos perder&amp;iacute;amos o tempo adequado de mostrar&amp;nbsp; resultados.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enfim, um laborat&amp;oacute;rio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ao mesmo tempo, ganhamos uma doa&amp;ccedil;&amp;atilde;o de 25 mesas de escrit&amp;oacute;rio e 10 estantes da Prefeitura de S&amp;atilde;o Paulo. Era tudo o que precis&amp;aacute;vamos. T&amp;iacute;nhamos o necess&amp;aacute;rio para um bom desenvolvimento do projeto:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;espa&amp;ccedil;o e infra-estrutura;&lt;/li&gt;
+    &lt;li&gt;computadores;&lt;/li&gt;
+    &lt;li&gt;ferramentas;&lt;/li&gt;
+    &lt;li&gt;banda larga;&lt;/li&gt;
+    &lt;li&gt;vontade pol&amp;iacute;tica de fazer;&lt;/li&gt;
+    &lt;li&gt;apoio local.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;MetaReciclagem se tornava real a cada passo dado e perceb&amp;iacute;amos que o que mais nos importava, a capacidade de agenciamento das redes, era o elemento fundamental que permita o projeto construir sentido e avan&amp;ccedil;ar em suas propostas experimentais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mas, hein?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pois &amp;eacute;, todo esse processo, extremamente intenso, n&amp;atilde;o levou mais de 3 meses para estruturar e ter condi&amp;ccedil;&amp;otilde;es de come&amp;ccedil;armos a operar.&lt;/p&gt;
+&lt;p&gt;Era o momento adequado de conectar pessoas e experienciar a ocupa&amp;ccedil;&amp;atilde;o dos espa&amp;ccedil;os. Chegava o momento da emerg&amp;ecirc;ncia da Rede!&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/MetaReciclagem-em-Santo-Andr%C3%A9-Parte-I-Montando-uma-estrutura#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bras%C3%ADlia">brasília</category>
+ <category domain="http://mutgamb.org/assunto/Tags/oficina">oficina</category>
+ <category domain="http://mutgamb.org/assunto/Tags/santo-andr%C3%A9">santo andré</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/286</wfw:commentRss>
+ <pubDate>Tue, 14 Oct 2008 16:40:00 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">286 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

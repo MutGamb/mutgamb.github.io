@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - metaprojeto</title>
+ <link>http://mutgamb.org/taxonomy/term/445/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LabLivre no MetaProjeto em SãoPaulo</title>
+ <link>http://mutgamb.org/blog/LabLivre-no-MetaProjeto-em-SaoPaulo</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://guimasan.blogspot.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Guima&lt;/a&gt; publicou na lista um convite-ideia que teve, junto com Julio C&amp;eacute;sar e o Yoda, para experimenta&amp;ccedil;&amp;otilde;es. A inten&amp;ccedil;&amp;atilde;o &amp;eacute; se apropriar do LabLivre que acontece &amp;agrave;s sextas-feiras no MetaProjeto em S&amp;atilde;o Paulo.&lt;/p&gt;
+&lt;blockquote&gt;
+	Hoje separei dois motores de passo pequenos (nema 17) de uma impressora Epson antiga. Vou colar l&amp;aacute; de sexta-feira pra iniciar o projeto de uma router cnc metareciclada 2d e mais pra frente migrar pra 3d.&amp;nbsp; Sei que j&amp;aacute; existem alternativas de makerbot, mas nada na pegada que realmente me agrada. Sempre ficamos dependentes de comprar algo de fora, fabricar mais pe&amp;ccedil;as. N&amp;atilde;o d&amp;aacute; pra realmente hackear? Ao mesmo tempo, gostaria de convidar quem estivesse afim de participar desse estudo metarecicleiro &amp;agrave; colar no esporo.&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;LabLivre MetaProjeto&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sexta-feiras a tarde: aberto para todos que querem vivenciar e experimentar.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Av. Cruzeiro do Sul, 2630. &lt;/span&gt;&lt;/span&gt;Pr&amp;eacute;dio I, primeiro andar.&lt;/p&gt;
+&lt;p&gt;Dentro do programa Acessa SP.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/LabLivre-no-MetaProjeto-em-SaoPaulo#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/guima">guima</category>
+ <category domain="http://mutgamb.org/tag/labs">labs</category>
+ <category domain="http://mutgamb.org/tag/metaprojeto">metaprojeto</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/547</wfw:commentRss>
+ <pubDate>Tue, 07 Feb 2012 09:20:01 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">547 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

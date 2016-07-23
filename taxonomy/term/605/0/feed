@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - pug-pe</title>
+ <link>http://mutgamb.org/taxonomy/term/605/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>PUG-PE Summer of Code</title>
+ <link>http://mutgamb.org/blog/PUG-PE-Summer-Code</link>
+ <description>&lt;p&gt;Acontecer&amp;aacute; no pr&amp;oacute;ximo dia 28 de abril, o HackyDay do Summer-of-Code, em Recife. O HackDay &amp;eacute; terceiro evento promovido pelo Python User Group Pernambuco &lt;a href=&quot;http://pugpe.wordpress.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;(PUG-PE)&lt;/a&gt;, e conta com o apoio do&lt;a href=&quot;http://www.ifpe.edu.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Instituto Federal de Educa&amp;ccedil;&amp;atilde;o, Ci&amp;ecirc;ncia e Tecnologia de Pernambuco (IFPE). &lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A id&amp;eacute;ia &amp;eacute; juntar uma galera que queira aprender a programar, que queira desenvolver ou at&amp;eacute; trocar id&amp;eacute;ias com o pessoal no local em variados projetos open-source.&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://pugpe.files.wordpress.com/2012/04/screen-shot-2012-04-19-at-3-33-54-pm1.png&quot; style=&quot;height: 183px; width: 420px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Para participar basta comparecer no dia do evento, que ser&amp;aacute; realizado no IFPE, a partir das 08 horas. A programa&amp;ccedil;&amp;atilde;o e outras informa&amp;ccedil;&amp;otilde;es est&amp;atilde;o &lt;a href=&quot;http://soc.pug.pe/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;dispon&amp;iacute;veis no site.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/PUG-PE-Summer-Code#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/hackday">hackday</category>
+ <category domain="http://mutgamb.org/tag/pug-pe">pug-pe</category>
+ <category domain="http://mutgamb.org/tag/recife">recife</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/669</wfw:commentRss>
+ <pubDate>Sun, 22 Apr 2012 12:19:12 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">669 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

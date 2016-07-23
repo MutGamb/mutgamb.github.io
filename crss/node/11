@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Workflow&quot;</title>
+ <link>http://mutgamb.org/forum/Workflow</link>
+ <description>Comments for &quot;Workflow&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>clone</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-11</link>
+ <description>e tava aqui quebrando a cabeça sobre como desdobrar: de um texto inicial poder tirar vários pedaços pra usos diferentes. pensei em poder fracionar um node de texto em outros nodes de texto, mas na real isso complica o acompanhamento dos nodes. teria que manter o node inicial como placeholder e ter links pra todos os fragmentos que antes o compunham. acho que uma solução possível é pensar em várias fases: a partir de um texto inicial, eu posso clicar em &quot;citar&quot; ou algo assim, e se cria um node com o texto do inicial, que eu posso editar e mexer e excluir e tal. se pans com blockquote automático, parágrafo destacado, como tem por aí em fórum com phpbb: citação com menção ao &quot;original&quot;. e fica registrada a genealogia entre os nodes, sem prejuízo do inicial. um link aponta pra de onde veio o esquema.</description>
+ <pubDate>Sun, 10 Feb 2008 21:08:01 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 11 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Algumas idéias</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-10</link>
+ <description>Eu acho importantíssimo que as coisas sejam arquivadas usando os recursos de web semântica, para facilitar qualquer rearranjo e agrupamento da informação.
+
+Felipe, curto o base.google.com que é um repositório semântico. Não sei se lá seria o lugar, mas pode ser um módulo de repente do Drupal que faça algo parecido ou interaja com a API deles. O base.google ainda é meio tosco e não XMLeou a coisa ainda com RSS/ATOM.
+
+De repente se cria uma taxonomia padrão por exemplo:
+
+1. Introdução
+[conceitos introdutórios sobre o projeto]
+2. Atuação
+[áreas de atuação]
+  2.1 Cidades
+[locais aonde foram desenvolvidos]
+    2.2 Projetos
+[nome dos projetos e descrição]
+
+Cada um que publicar a parada, designaria em qual nó da taxonomia iria publicar. O editor revisaria essa alocação de texto &amp;lt;--&gt; taxonomia.
+
+Qualquer coisa poderia ser publicada: html, texto, pdf, video, rss, etc. 
+
+Meus 2 cents.</description>
+ <pubDate>Sun, 10 Feb 2008 15:07:29 +0000</pubDate>
+ <dc:creator>colacino</dc:creator>
+ <guid isPermaLink="false">comment 10 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>por email</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-9</link>
+ <description>Conversei um pouco com o André Avorio sobre:
+
+&lt;blockquote&gt;&lt;strong&gt;Avorio&lt;/strong&gt;
+
+node, node, node. boa.
+
+não ouvi vocês falarem de agregador. embed funciona, mas
+requer dois trabalhos - e.g. publicar o vídeo no YouTube, depois
+republicar no site. esquema melhor seria fechar o ciclo com
+um agregador automático baseado em tags, por exemplo.
+	
+&lt;strong&gt;Felipe Fonseca&lt;/strong&gt;
+sim, na real isso já tá rolando no site da metareciclagem:
+pego o rss da tag metareciclagem em um monte de lugares.
+mas como grande parte do mutirão é republicar coisas que
+já estão na rede com um foco editorial, não sei se automatizar
+é necessário, nem preocupar com o processo todo de publicar.
+pra novos vídeos e coisas assim, pensei em usar uns ccks,
+mas acho que na real não precisa, a onda é esse site ser
+um ponto de remixagem editorial, não necessariamente de
+armazenamento de conteúdo.
+
+(sim, também tem o risco de usuários saindo do youtube e
+como fica isso... talvez como plano b eu deixe um robozinho
+baixando os vídeos de youtube que aparecerem. a pensar...)
+
+&lt;strong&gt;Avorio&lt;/strong&gt;	
+IMHO, são dois processos - o de manter atualizado o balaio
+e o de remixar/editorar. se o balaio tá atualizado (e é nesse
+ponto que sugeri automação), a edição/remixagem é facilitada.
+
+CCK+Views resolve. estou usando pr&#039;uma aplicação parecida.&lt;/blockquote&gt;</description>
+ <pubDate>Wed, 06 Feb 2008 14:44:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 9 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>multimultimooltee</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-8</link>
+ <description>1 - não necessariamente &quot;autorx&quot;, mas múltiplxs remixadorxs de informação.
+
+2 - uma coisa a mema que a outra.
+
+3 - na estrutura que eu imaginei (que pode mudar), entraria como &quot;texto&quot;.
+
+4, 5, 6 - é. começa contando no teu blogue pra não perder o embalo. depois a gente retoma.</description>
+ <pubDate>Tue, 05 Feb 2008 02:57:17 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 8 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Múltiplas edições</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-5</link>
+ <description>1-caraca, multiplos autores wikipidando o tempo todo??
+
+2-nao ficou muito claro pra minha cabecinha os conceitos: &#039;pedacos minimos de informacao&#039; e &#039;nodes&#039;.
+
+3-pra ficar mais facil vamos direto ao osso: fiz uma oficina no carnaval_rev_2008 e duas coisas aconteceram: um roteiro escrito que usei pra caminhar na conversa e a conversa_oficina em si que nao foi registrada em outro meio que as mentes de quem participou - mas poderia ter sido gravada, por ex. Pra comecar: como posso colocar este texto_roteiro que usei? Ele ja&#039; possui em si, uma estrutura em topicos que foram tratados e depois articulados em uma proposta conclusiva.
+
+4-nestas oficinas, alem do metodo dialogico e de manipulacao de objetos tecnologicos - sejam quais forem, uso uma linha lacaniana de tempo logico cognitivo, em tres fases: instante de olhar, tempo para compreender, momento de concluir.
+
+5- ta&#039; ficando muito longa este &#039;reply&#039; ...ne&#039;?
+
+6- ;))</description>
+ <pubDate>Mon, 04 Feb 2008 22:20:03 +0000</pubDate>
+ <dc:creator>mbraz</dc:creator>
+ <guid isPermaLink="false">comment 5 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Múltiplas edições</title>
+ <link>http://mutgamb.org/forum/Workflow#comment-2</link>
+ <description>Tava pensando mais sobre o workflow do mutirão hoje aqui, e imaginei o processo assim:
+
+1) Em um primeiro momento (que continua depois, claro), a gente coleta informação. Pra isso, tem quatro nodetypes: texto, imagem, áudio, vídeo. Talvez mais um, genérico, pra outros tipos de arquivo. Nessa alimentação, a onda é tentar atomizar: chegar em pedaços mínimos de informação. A coerência interna do node mais importante que sua contextualização. Por exemplo, um texto existente ou mensagem pra lista pode ser quebrado em diversos nodes.
+
+2) Em cima disso xs aditorxs podem fazer mexer, mas mais no sentido de correção gramatical, retificar equívocos, por aí.
+
+3) Aí vem a parte divertida: eu pensei no trampo de edição como manipulação  desses tipos mínimos. Editorxs podem fazer seleções lineares de nodes publicados por si ou por outrxs. Fazem playlists de nodes, quero adicionar esse node, que fica antes desse outro. Quando for necessário, podem duplicar nodes pra criar versões modificadas (e fica registrada a ligação entre os noes), ou podem eventualmente fragmentar um texto maior pra colocar um comentário no meio. No fim, pode ser que a gente tenha diferentes editorxs mixando livros diferentes com basicamente o mesmo material. Os comentários de editorxs também viram novos nodes que podem ser remixados por outrxs editrxs. Manipulação de informação, no bom sentido ;)</description>
+ <pubDate>Sun, 03 Feb 2008 21:52:21 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 2 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

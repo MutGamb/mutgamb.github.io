@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - compilação</title>
+ <link>http://mutgamb.org/taxonomy/term/122/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mutirão 0.1 - Seleção de Textos</title>
+ <link>http://mutgamb.org/livro/Mutir%C3%A3o-01-Sele%C3%A7%C3%A3o-de-Textos</link>
+ <description>&lt;p&gt;Uma primeira sele&amp;ccedil;&amp;atilde;o de textos relacionados com a MetaReciclagem.&lt;a href=&quot;/book/tags&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/livro/Mutir%C3%A3o-01-Sele%C3%A7%C3%A3o-de-Textos#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/compila%C3%A7%C3%A3o">compilação</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/212</wfw:commentRss>
+ <pubDate>Thu, 26 Jun 2008 17:54:02 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">212 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

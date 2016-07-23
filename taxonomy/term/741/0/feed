@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - tutorial</title>
+ <link>http://mutgamb.org/taxonomy/term/741/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Caçando CSS&#039;s</title>
+ <link>http://mutgamb.org/blog/Cacando-CSSs</link>
+ <description>&lt;p&gt;Isaac pediu ajuda na lista para refer&amp;ecirc;ncias de tutorial &amp;quot;v&amp;iacute;deo-aula ou qualquer coisa&amp;quot; sobre CSS. Com isso, recebeu uma s&amp;eacute;rie de respostas que podem servir para ajudar outras pessoas:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://tableless.com.br/css-sprites/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Css Sprites&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cssdeck.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Css Deck &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://codeacademy.org/programs&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Code Academy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://hackasaurus.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;HackSaraus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.phpforkids.com/css/css-tutorial-table-of-contents.php&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Tutorial de Tabelas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.maujor.com/tutorial/joe/cssjoe1.php&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Tutorial em portugu&amp;ecirc;s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bookmarks da Fe Scur, &lt;a href=&quot;http://http://delicious.com/purnima76/css&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;com muita coisa de CSS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;E, segue a dica do Iuri:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;Eacute; claro que a melhor refer&amp;ecirc;ncia de css &amp;eacute; o site da&lt;a href=&quot;http://www.w3c.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; w3c&lt;/a&gt;. Normalmente, hoje, os desenvolvedores fazem um include na p&amp;aacute;gina e botam todos os c&amp;oacute;digos css em um arquivo separado, por exemplo:&lt;/p&gt;
+	&lt;p&gt;&amp;lt;link href=&amp;quot;./estilos.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot; type=&amp;quot;text/css&amp;quot; /&amp;gt;&lt;/p&gt;
+	&lt;p&gt;Ent&amp;atilde;o a forma mais f&amp;aacute;cil &amp;eacute; abrir uma p&amp;aacute;gina e ver o resultado final, enquanto abre o c&amp;oacute;digo fonte e procura os arquivos css pra estudar o c&amp;oacute;digo pra ir tentando entender como funciona e como os caras implementam. Mas a ideia dos outros &amp;eacute; sempre a pior. Tem muita coisa feia :D&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Cacando-CSSs#comments</comments>
+ <category domain="http://mutgamb.org/tag/css">css</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/tutorial">tutorial</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/812</wfw:commentRss>
+ <pubDate>Sun, 22 Jul 2012 11:26:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">812 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

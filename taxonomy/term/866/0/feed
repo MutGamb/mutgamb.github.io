@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - toscolino</title>
+ <link>http://mutgamb.org/taxonomy/term/866/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Making brinquedos DIY</title>
+ <link>http://mutgamb.org/blog/Making-brinquedos-DIY</link>
+ <description>&lt;p&gt;Isaac perguntou na lista se algu&amp;eacute;m j&amp;aacute; havia testado ou se conhecia o &lt;a href=&quot;http://www.makeymakey.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;MakeyMakey&lt;/a&gt;, segundo os pr&amp;oacute;prios inventores (&lt;a href=&quot;http://www.kickstarter.com/projects/joylabs/makey-makey-an-invention-kit-for-everyone&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;que pediram $ aqui&lt;/a&gt;), trata-se de&lt;em&gt; &amp;quot;um meio para transformar objetos cotidianos em touchpads e, assim combin&amp;aacute;-los com a internet&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; src=&quot;http://www.youtube.com/embed/rfQqh7iCcOU&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Glerm replicou: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Se eu entendi bem o projeto, acho que da pra algo bem parecido com isso da&amp;iacute; desmontando um joystick desses estilo playstation USB de 15 reais. Da&amp;iacute; usa o objeto [hid] no puredata pra empacotar os dados pra outros protocolos. Fiz algo parecido nas oficinas do Toscolino, na UFRJ, em 2010, a gente desmontava joysticks pra fazer guitarrinhas:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;317&quot; mozallowfullscreen=&quot;&quot; src=&quot;http://player.vimeo.com/video/22881021?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&amp;amp;color=ff9933&quot; webkitallowfullscreen=&quot;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Making-brinquedos-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/glerm">glerm</category>
+ <category domain="http://mutgamb.org/tag/makeymakey">makeymakey</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/toscolino">toscolino</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/920</wfw:commentRss>
+ <pubDate>Tue, 06 Nov 2012 09:18:09 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">920 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

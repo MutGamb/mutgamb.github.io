@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - JuntaDados</title>
+ <link>http://mutgamb.org/taxonomy/term/906/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>JuntaDados lança software livre focado em produção audiovisual </title>
+ <link>http://mutgamb.org/blog/JuntaDados-lanca-software-livre-focado-em-producao-audiovisual</link>
+ <description>&lt;p&gt;O &lt;a href=&quot;https://juntadados.org/&quot; rel=&quot;nofollow&quot;&gt;Projeto Cultura Digital JuntaDados&lt;/a&gt;, acaba de lan&amp;ccedil;ar uma vers&amp;atilde;o costumizada do &lt;a href=&quot;http://debian.org&quot; rel=&quot;nofollow&quot;&gt;Debian&lt;/a&gt; para produ&amp;ccedil;&amp;atilde;o audiovisual, o &amp;quot;JuntaDados 5.0.3&amp;quot;. O software usa como base Ardour 3.5.74, Blender 2.69, LibreOffice 4.1.2, Firefox 26, FFmpeg 1.0.8, Muan 12.0.5, GIMP 2.8.2, entre outros.&lt;/p&gt;
+&lt;p&gt;O JuntaDados 5.0.3 tem como objetivo:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;(...)simplificar e facilitar as atividades de produ&amp;ccedil;&amp;atilde;o audiovisual dos Pontos de Cultura, a&amp;ccedil;&amp;otilde;es de Inclus&amp;atilde;o Digital e Cultura Digital.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A distribui&amp;ccedil;&amp;atilde;o, que agrega ferramentas audiovisuais baseadas nas escolhas e necessidades dos Pontos de Cultura brasilieros e nas a&amp;ccedil;&amp;otilde;es de Inclus&amp;atilde;o Digital, pode ser baixada nos links abaixo:&lt;/p&gt;
+&lt;p&gt;* Espelho JuntaDados &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-amd64.iso&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt; e &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-i386.iso&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* Espelho Est&amp;uacute;dio Livre &lt;a href=&quot;http://estudiolivre.org/files/juntadados/5.0.3-amd64/juntaDados-5.0.3-amd64.iso&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt;&amp;nbsp; e &lt;a href=&quot;http://estudiolivre.org/files/juntadados/5.0.3-i386/juntaDados-5.0.3-i386.iso&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* Torrent &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-amd64.torrent&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt; e &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-i386.torrent&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mais informa&amp;ccedil;&amp;otilde;es em &lt;a href=&quot;mailto:juntadados@juntadados.org&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;il&quot;&gt;juntadados&lt;/span&gt;@&lt;span class=&quot;il&quot;&gt;juntadados&lt;/span&gt;.org&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/JuntaDados-lanca-software-livre-focado-em-producao-audiovisual#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/Debian">Debian</category>
+ <category domain="http://mutgamb.org/tag/JuntaDados">JuntaDados</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/964</wfw:commentRss>
+ <pubDate>Wed, 18 Dec 2013 09:48:20 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">964 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

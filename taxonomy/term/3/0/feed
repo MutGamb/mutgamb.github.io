@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - Eco-sistema metarecicleiro</title>
+ <link>http://mutgamb.org/taxonomy/term/3/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Integração com o metareciclagem.org</title>
+ <link>http://mutgamb.org/forum/Integra%C3%A7%C3%A3o-com-o-metareciclagemorg</link>
+ <description>Uma pergunta que eu já ouvi por aí é: por que criar mais um site pra
+metareciclagem? Já não tem o drupal configurado no metareciclagem.org?
+Tem. Mas a gente já tentou algumas dezenas de vezes fazer um site amplo de metareciclagem onde ficaria toda a informação disponível, e nunca
+deu certo. É um pouco vago ter um site com tudo de uma rede tão
+dispersa. A história aqui no mutirão é concentrar esforço editorial em
+cima de documentação gerada nesses cinco anos de projeto. Uma espécie
+de braço editorial da MetaReciclagem.&lt;br /&gt;&lt;br /&gt;Mas e o site principal?
+Bom, aí é que acho que pode ficar interessante. Talvez seja o caso de
+deixar a documentação de processos e idéias da MetaReciclagem aqui no
+Mutirão, e fazer o site principal da MetaReciclagem ser uma coisa mais
+voltada pra rede: talvez um sisteminha mais simples, preocupado mais
+com perfis de usuárixs, grupos (comunidades?) e projetos. Talvez uma
+rede social misturada com idéias de projetos. Talvez o tal do banco
+online de doações, auto-gerenciado.&lt;br /&gt;&lt;br /&gt;Aí, claro, os dois sites podem compartilhar identidades, bases de usuários em um e em outro
+(acabei de habilitar openid tanto aqui quanto lá). Mas poderiam ficar
+esses dois propósitos diferentes: metareciclagem.org como rede social
+de metarecicleirxs; mutirão da gambiarra como esforço editorial
+coletivo.&lt;br /&gt;&lt;br /&gt;Alguma idéia?&lt;br /&gt;</description>
+ <comments>http://mutgamb.org/forum/Integra%C3%A7%C3%A3o-com-o-metareciclagemorg#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/3">Eco-sistema metarecicleiro</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/16</wfw:commentRss>
+ <pubDate>Sat, 01 Mar 2008 01:31:13 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">16 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - open hardware bsb</title>
+ <link>http://mutgamb.org/taxonomy/term/761/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Todo mundo aqui sabe o que é Arduino?</title>
+ <link>http://mutgamb.org/blog/Todo-mundo-aqui-sabe-o-que-e-Arduino</link>
+ <description>&lt;p&gt;Aconteceu no &amp;uacute;ltimo dia 28 de julho o &lt;a href=&quot;http://mutgamb.org/blog/Segundo-Encontro-Open-Hardware-em-Brasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Segundo Encontro Open Hardware&lt;/a&gt;, em Bras&amp;iacute;lia, e Werbert compartilhou na lista #metareciclagem a &lt;a href=&quot;http://openhardwarebrasil.org/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;documenta&amp;ccedil;&amp;atilde;o&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Gostar&amp;iacute;amos que comentassem os v&amp;iacute;deos e dessem a sua opini&amp;atilde;o. Abracem esse movimento para que, no pr&amp;oacute;ximo ano, tenhamos um evento ainda melhor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Isaias Coelho: Como Comprar componentes mais baratos&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/QuNiXzDIXGY&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Jeronimo Avelar - Arduino SNMP&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZvTKGJJmBaQ&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Paulo Soares - Revela&amp;ccedil;&amp;atilde;o de circuito impresso com m&amp;eacute;todo fotogr&amp;aacute;fico.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/AzMAEbH3R8E&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As demais palestras ainda est&amp;atilde;o sendo carregadas e ser&amp;atilde;o disponibilzadas no canal &lt;a href=&quot;http://www.youtube.com/user/OpenHardwareBrasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;do YouTube&lt;/a&gt;. O evento na integra pode ser visto no canal do &lt;a href=&quot;http://www.livestream.com/openhardwarebrasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Livestream&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Todo-mundo-aqui-sabe-o-que-e-Arduino#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/open-hardware-bsb">open hardware bsb</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/827</wfw:commentRss>
+ <pubDate>Fri, 03 Aug 2012 11:00:43 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">827 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

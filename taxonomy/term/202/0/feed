@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - conectazes</title>
+ <link>http://mutgamb.org/taxonomy/term/202/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MetaReciclagem explicada</title>
+ <link>http://mutgamb.org/fonte/MetaReciclagem-explicada</link>
+ <description>&lt;p&gt;Explicando por email:&lt;/p&gt;
+&lt;p&gt;A MetaReciclagem &amp;eacute; uma rede distribu&amp;iacute;da de pessoas que compartilham uma metodologia. Essa metodologia diz respeito a um tipo de rela&amp;ccedil;&amp;atilde;o com a tecnologia que se baseia na desconstru&amp;ccedil;&amp;atilde;o, reuso e ressignifica&amp;ccedil;&amp;atilde;o, com o uso de software livre e o compartilhamento dos aprendizados e descobertas.&lt;br /&gt;
+&lt;br /&gt;
+O que significa distribu&amp;iacute;da? Que a MetaReciclagem n&amp;atilde;o cresce a partir de um ponto central que vai se espalhando, mas de projetos e pessoas em diferentes lugares que decidem voluntariamente adotar essa metodologia.&lt;br /&gt;
+&lt;br /&gt;
+Para promover a integra&amp;ccedil;&amp;atilde;o entre esses diferentes projetos e pessoas, a gente desenvolveu uma nomenclatura que envolve tr&amp;ecirc;s escalas:&lt;br /&gt;
+&lt;br /&gt;
+* Esporos s&amp;atilde;o espa&amp;ccedil;os de refer&amp;ecirc;ncia em MetaReciclagem. Geralmente, s&amp;atilde;o espa&amp;ccedil;os abertos que recebem doa&amp;ccedil;&amp;otilde;es de computadores, reciclam-nos e organizam eventos, oficinas e cursos. Aqui tem uma lista dos esporos ativos atualmente: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org/listas/esporos&quot; href=&quot;http://rede.metareciclagem.org/listas/esporos&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/listas/esporos&lt;/a&gt;&lt;br /&gt;
+* ConecTAZes s&amp;atilde;o, de certa forma, os projetos de MetaReciclagem: qualquer a&amp;ccedil;&amp;atilde;o que requeira a mobiliza&amp;ccedil;&amp;atilde;o de pessoas em rela&amp;ccedil;&amp;atilde;o a um objetivo comum, que tamb&amp;eacute;m esteja ligado aos objetivos da MetaReciclagem. Uma lista de conectazes: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org/listas/conectazes&quot; href=&quot;http://rede.metareciclagem.org/listas/conectazes&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/listas/conectazes&lt;/a&gt;&lt;br /&gt;
+* A infral&amp;oacute;gica &amp;eacute; um conjunto de sistemas na internet que possibilitam que os diferentes esporos, conectazes e pessoas se mantenham informados sobre o que os outros est&amp;atilde;o fazendo, e possam usar os aprendizados coletivos como recursos para seus pr&amp;oacute;prios objetivos. A infral&amp;oacute;gica hoje em dia est&amp;aacute; centralizada aqui: &lt;a rel=&quot;nofollow&quot; title=&quot;http://rede.metareciclagem.org&quot; href=&quot;http://rede.metareciclagem.org/&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/fonte/MetaReciclagem-explicada#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/conectazes">conectazes</category>
+ <category domain="http://mutgamb.org/assunto/Tags/esporos">esporos</category>
+ <category domain="http://mutgamb.org/assunto/Tags/infral%C3%B3gica">infralógica</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metodologia">metodologia</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/287</wfw:commentRss>
+ <pubDate>Fri, 10 Oct 2008 16:52:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">287 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

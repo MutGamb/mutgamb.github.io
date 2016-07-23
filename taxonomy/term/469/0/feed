@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - fluoxogramas</title>
+ <link>http://mutgamb.org/taxonomy/term/469/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>500g de como fazer diagramas, por Isaac</title>
+ <link>http://mutgamb.org/blog/500g-de-como-fazer-diagramas-por-Isaac</link>
+ <description>&lt;p&gt;Isaac Filho pediu sugest&amp;otilde;es de ferramentas para desenhar fluxogramas e ramifica&amp;ccedil;&amp;otilde;es. Citou at&amp;eacute; um &lt;a href=&quot;http://http://redesantoafonso.pbworks.com/f/1219859881/fluxo1.JPG&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;exemplo aqui&lt;/a&gt;. A pergunta dele era se existia um software que pudesse criar esse esquema. A lista #metareciclagem respondeu Isaac com algumas sugest&amp;otilde;es, que ele compartilha:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p style=&quot;margin-bottom: 0cm;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p style=&quot;margin-bottom:0cm&quot;&gt;&amp;Eacute; engra&amp;ccedil;ado o rumo que as coisas tomam. Principalmente quando s&amp;atilde;o feitas de forma colaborativa, no escambo de conhecimentos. As coisas saem do controle, do que foi pr&amp;eacute;-imaginado e se constroem, tomando outras formas. Fui designado a fazer uma esp&amp;eacute;cie de diagrama de uma rede de atua&amp;ccedil;&amp;atilde;o l&amp;aacute; de onde trabalho. Pensei que podia fazer tranquilamente em alguma ferramenta do libreoffice mas na hora da pr&amp;aacute;tica senti muita dificuldade. Pedi uma forcinha na lista #metarec para saber se algu&amp;eacute;m tinha alguma experi&amp;ecirc;ncia. Muitas dicas de ferramentas surgiram, tanto on quanto off-lines. O mais legal &amp;eacute; que surgiu a ideia de se usar o prezi para a apresenta&amp;ccedil;&amp;atilde;o do diagrama, que por coincid&amp;ecirc;ncia era justamente o que eu iria fazer, e tamb&amp;eacute;m surgiu a dica de uma alternativa ao prezi: sozi &amp;ndash; que &amp;eacute; uma extens&amp;atilde;o do inkscape.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;margin-bottom: 0cm;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 0cm;&quot;&gt;Segue a lista das ferramentas que Isaac testou:&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;&lt;strong&gt;On-line&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Gliffy - &lt;a href=&quot;http://www.gliffy.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://www.gliffy.com/&lt;/a&gt; (dica do Hudson)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Pelo que testei do gliffy achei um pouco lento.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Cacoo (dica do Hudson)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Fiz meu trabalho no cacoo (&lt;a href=&quot;http://dl.dropbox.com/u/21079560/fluxo.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;esse aqui&lt;/a&gt;), ele &amp;eacute; bem f&amp;aacute;cil de mexer e tem melhor performance comparado ao Gliffy. S&amp;oacute; n&amp;atilde;o gostei do modo como se tem que dar zoom, &amp;eacute; preciso usar o menu.&lt;a href=&quot;http://www.slideshare.net/hudsonaugusto/cacoon-tutorial-inova-day&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; O link de um tutorial disponibilizado pelo Hudson.&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;&lt;strong&gt;Off-line&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Dia (dica do Diogo Leal)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Achei o dia (tanto o soft como o dia de hoje) bem legal. A performance, comparada as ferramentas on-line &amp;eacute; gritante. E o fato de n&amp;atilde;o ter que usar flash, &amp;eacute; um al&amp;iacute;vio. A desvantagem fica quando se quiser fazer algo colaborativo, mas pelo menos funciona caso voc&amp;ecirc; esteja sem internet.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Kivio (dica do Diogo Leal)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: N&amp;atilde;o testei o kivio porque ele pertence &amp;agrave; su&amp;iacute;te Koffice. Uso o LibreOffice e tamb&amp;eacute;m Gnome. Achei que n&amp;atilde;o valeria a pena.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Pajek - (dica do Daniel Penalva)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Instalei o pajek, mas n&amp;atilde;o consegui us&amp;aacute;-lo. Pelo que li um pouco da documenta&amp;ccedil;&amp;atilde;o ele tamb&amp;eacute;m faz an&amp;aacute;lise dos diagramas. Isso parece ser bem legal. S&amp;oacute; preciso aprender a us&amp;aacute;-lo porque a interface dele &amp;eacute; totalmente diferente dos outros. Uma desvantagem para mim &amp;eacute; que ele tem que ser rodado via wine, pois foi feito para windows. Apesar de ter licen&amp;ccedil;a GPL.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;&lt;strong&gt;Extras&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Prezi &amp;ndash; &lt;a href=&quot;http://www.prezi.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;www.prezi.com&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Para fazer apresenta&amp;ccedil;&amp;otilde;es em flash.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;* Sozi - &lt;a href=&quot;http://sozi.baierouge.fr/wiki/en:welcome&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://sozi.baierouge.fr/wiki/&lt;wbr /&gt;en:welcome&lt;/wbr&gt;&lt;/a&gt; (dica do Wille)&lt;/p&gt;
+&lt;p style=&quot;margin-bottom:0cm&quot;&gt;Isaac: Alternativa ao prezi. Funciona como um extra do inkscape.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/500g-de-como-fazer-diagramas-por-Isaac#comments</comments>
+ <category domain="http://mutgamb.org/tag/fluoxogramas">fluoxogramas</category>
+ <category domain="http://mutgamb.org/tag/isaac">isaac</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/569</wfw:commentRss>
+ <pubDate>Thu, 16 Feb 2012 09:50:06 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">569 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - stream</title>
+ <link>http://mutgamb.org/taxonomy/term/779/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Um bricolado de stream livre</title>
+ <link>http://mutgamb.org/blog/Um-bricolado-de-stream-livre</link>
+ <description>&lt;p&gt;Ricardo Poppi, que &lt;a href=&quot;http://mutgamb.org/blog/LivreStream&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;havia perguntado na lista sobre padr&amp;otilde;es livres de stream&lt;/a&gt;, fez um post&amp;nbsp; com as constribui&amp;ccedil;&amp;otilde;es-respostas que recebeu - podem ser utilit&amp;aacute;rias para outrxs. &lt;a href=&quot;http://ricardopoppi.org/2012/08/streaming-software-livre-e-padroes-abertos-sao-inseparaveis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Ele dividiu o texto em tr&amp;ecirc;s &lt;/a&gt;partes: Gera&amp;ccedil;&amp;atilde;o, Distribui&amp;ccedil;&amp;atilde;o e Visualiza&amp;ccedil;&amp;atilde;o com intera&amp;ccedil;&amp;atilde;o:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;O presente texto busca fornecer subs&amp;iacute;dios para an&amp;aacute;lise de solu&amp;ccedil;&amp;atilde;o de transmiss&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio pela rede mundial, facultando livre acesso aos conte&amp;uacute;dos dos eventos de participa&amp;ccedil;&amp;atilde;o social pelo conjunto dos cidad&amp;atilde;os e cidad&amp;atilde;s Brasileiras. Grande parte das transforma&amp;ccedil;&amp;otilde;es sociais trazidas pelas TICs e a presen&amp;ccedil;a ub&amp;iacute;qua da Internet no planeta se deve ao fortalecimento de uma l&amp;oacute;gica baseada na colabora&amp;ccedil;&amp;atilde;o e na constru&amp;ccedil;&amp;atilde;o conjunta de conceitos, processos e produtos. Inspirados por esse movimento e na cren&amp;ccedil;a de que as tecnologias nas quais s&amp;atilde;o baseados os sistemas e ambientes de participa&amp;ccedil;&amp;atilde;o social e media&amp;ccedil;&amp;atilde;o governo/sociedade precisam seguir e fomentar essa l&amp;oacute;gica colaborativa, &amp;eacute; que proponho a especifica&amp;ccedil;&amp;atilde;o inicial para um sistema de transmiss&amp;atilde;o e media&amp;ccedil;&amp;atilde;o de eventos de participa&amp;ccedil;&amp;atilde;o social baseado em software livre e padr&amp;otilde;es abertos.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Um-bricolado-de-stream-livre#comments</comments>
+ <category domain="http://mutgamb.org/tag/livre">livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/poppi">poppi</category>
+ <category domain="http://mutgamb.org/tag/stream">stream</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/844</wfw:commentRss>
+ <pubDate>Sat, 18 Aug 2012 21:36:46 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">844 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Liv(r)eStream</title>
+ <link>http://mutgamb.org/blog/LivreStream</link>
+ <description>&lt;p&gt;Ricardo Poppi est&amp;aacute; buscando solu&amp;ccedil;&amp;otilde;es 100% livres para stream que &lt;em&gt;&amp;quot;possam ser lidas por 99% dos browsers modernos, incluindo mobiles&amp;quot;&lt;/em&gt;. Para isso, pediu ajuda em algumas listas (incluindo a #metarec) para o desenvolvimento da proposta:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;strong&gt;Gera&amp;ccedil;&amp;atilde;o &lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;PC Intel i5&lt;/p&gt;
+	&lt;p&gt;Placa de captura firewire - 2 portas&lt;/p&gt;
+	&lt;p&gt;C&amp;acirc;meras HD Firewire&lt;/p&gt;
+	&lt;p&gt;GNU/Linux&lt;/p&gt;
+	&lt;p&gt;GStreamer&lt;/p&gt;
+	&lt;p&gt;Landell (SLTV)&lt;/p&gt;
+	&lt;p&gt;Tem alguma solu&amp;ccedil;&amp;atilde;o de hardware embarcado com essas caracter&amp;iacute;sticas?&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Distribui&amp;ccedil;&amp;atilde;o&lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;Icecast2&lt;/p&gt;
+	&lt;p&gt;Suporte a WebM&lt;/p&gt;
+	&lt;p&gt;Quais codecs s&amp;atilde;o necess&amp;aacute;rios para garantir compatibilidade com os browsers modernos?&lt;/p&gt;
+	&lt;p&gt;Mais algum sistema al&amp;eacute;m do Icecast2?&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;&lt;strong&gt;Recep&amp;ccedil;&amp;atilde;o e intera&amp;ccedil;&amp;atilde;o &lt;/strong&gt;&lt;/p&gt;
+	&lt;p&gt;HTML5&lt;/p&gt;
+	&lt;p&gt;JavaScript&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&quot;http://debateaberto.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Debate Aberto&lt;/a&gt; &amp;eacute; um exemplo: &lt;a href=&quot;http://bsm.debateaberto.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Deploy&lt;/a&gt; e &lt;a href=&quot;https://github.com/marcosmlopes/debateaberto&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Code&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Felipe Cabral replicou Poppi, com &lt;a href=&quot;http://wiki.nosdigitais.teia.org.br/Streaming_de_V%C3%ADdeo&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;um link de p&amp;aacute;gina de wiki&lt;/a&gt; que havia criado (segundo ele, com solu&amp;ccedil;&amp;otilde;es um pouco desatualizadas), e comentou a mensagem de Poppi:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	Esses equipamentos que vc listou funcionam, mas n&amp;atilde;o s&amp;atilde;o tecnologias atuais (em partes s&amp;atilde;o, mas j&amp;aacute;j&amp;aacute; deixar&amp;atilde;o de ser), nem t&amp;atilde;o pouco d&amp;aacute; pra apostar em firewire para o presente-futuro pq essa tecnologia est&amp;aacute; desaparecendo das c&amp;acirc;meras. Mesmo para transmiss&amp;atilde;o no ambito do streaming server, acho que tem coisas mais atuais.
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Felipe, ainda, ressaltou que algumas pessoas est&amp;atilde;o usando &lt;a href=&quot;http://www.webmproject.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WebM&lt;/a&gt; (&lt;a href=&quot;http://pt.wikipedia.org/wiki/WebM&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;+ sobre WebM&lt;/a&gt;) e outras coisas pra replicar o fluxo. Em tempos de canais comerciais de stream, que oferecem interfaces bonitinhas e prontos-uso, &lt;a href=&quot;http://www.pelivre.org/blog/?p=317&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;vale citar um outro link antigo de Isaac&lt;/a&gt;:&lt;/p&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;blockquote&gt;
+	&lt;div&gt;
+		&amp;Eacute; importante tamb&amp;eacute;m dar autonomia ao novo usu&amp;aacute;rio, mostrando que ele mesmo pode ir atr&amp;aacute;s de suas d&amp;uacute;vidas, seja na comunidade, em guias e em tutoriais. Por falar em comunidade, acho importante integr&amp;aacute;-lo junto &amp;agrave; comunidade, tornando-o parte da mesma e mostrando que software livre pode ir al&amp;eacute;m do mero uso.&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;</description>
+ <comments>http://mutgamb.org/blog/LivreStream#comments</comments>
+ <category domain="http://mutgamb.org/tag/livre">livre</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/stream">stream</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/841</wfw:commentRss>
+ <pubDate>Tue, 14 Aug 2012 11:23:48 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">841 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

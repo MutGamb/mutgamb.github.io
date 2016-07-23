@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - aliadxs</title>
+ <link>http://mutgamb.org/taxonomy/term/226/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Aberta a chamada de residências de Verão na Nuvem</title>
+ <link>http://mutgamb.org/blog/Aberta-chamada-de-residencias-de-Verao-na-Nuvem</link>
+ <description>&lt;p&gt;At&amp;eacute; o dia 30 de dezembro est&amp;aacute; aberta a convocat&amp;oacute;ria das resid&amp;ecirc;ncias de ver&amp;atilde;o-2014 da &lt;a href=&quot;http://nuvem.tk/&quot; rel=&quot;nofollow&quot;&gt;Nuvem - Esta&amp;ccedil;&amp;atilde;o Rural de Arte e Tecnologia, localizada em Visconde de Mau&amp;aacute;, no Rio de Janeiro.&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://nuvem.tk/?start.head.132352655984&quot; style=&quot;width: 412px; height: 402px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Recebemos propostas de cria&amp;ccedil;&amp;atilde;o, experimenta&amp;ccedil;&amp;atilde;o e pesquisa. A dura&amp;ccedil;&amp;atilde;o das resid&amp;ecirc;ncias ser&amp;aacute; de 4 a 8 dias, a serem realizadas no per&amp;iacute;odo de 18 de janeiro a 15 de fevereiro de 2014.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A Nuvem oferecer&amp;aacute; axs residentes hospedagem e alimenta&amp;ccedil;&amp;atilde;o, conex&amp;atilde;o &amp;agrave; internet, um pequeno laborat&amp;oacute;rio e espa&amp;ccedil;os coletivos para a realiza&amp;ccedil;&amp;atilde;o das propostas. As pessoas selecionadas se responsabilizam em viabilizar seu transporte (ida, volta e deslocamentos).&lt;/p&gt;
+&lt;p&gt;As propostas ser&amp;atilde;o aceitas em ordem de inscri&amp;ccedil;&amp;atilde;o, e tamb&amp;eacute;m ser&amp;aacute; considerada a adequa&amp;ccedil;&amp;atilde;o da proposta ao contexto da Nuvem. Ficou interessado? Vale conferir as propostas da Resid&amp;ecirc;ncia dos ver&amp;otilde;es passados (&lt;a href=&quot;http://nuvem.tk/wiki/index.php/Resid%C3%AAncia_de_Ver%C3%A3o_2012&quot; rel=&quot;nofollow&quot;&gt;2012&lt;/a&gt; e &lt;a href=&quot;http://nuvem.tk/wiki/index.php/Resid%C3%AAncia_de_Ver%C3%A3o_2013&quot; rel=&quot;nofollow&quot;&gt;2013&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;O edital e o formul&amp;aacute;rio de inscri&amp;ccedil;&amp;atilde;o&lt;a href=&quot;http://nuvem.tk/?verao2013&quot; rel=&quot;nofollow&quot;&gt; est&amp;atilde;o dispon&amp;iacute;veis aqui.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Aberta-chamada-de-residencias-de-Verao-na-Nuvem#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/labs">labs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/nuvem">nuvem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/965</wfw:commentRss>
+ <pubDate>Wed, 18 Dec 2013 10:01:37 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">965 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>JuntaDados lança software livre focado em produção audiovisual </title>
+ <link>http://mutgamb.org/blog/JuntaDados-lanca-software-livre-focado-em-producao-audiovisual</link>
+ <description>&lt;p&gt;O &lt;a href=&quot;https://juntadados.org/&quot; rel=&quot;nofollow&quot;&gt;Projeto Cultura Digital JuntaDados&lt;/a&gt;, acaba de lan&amp;ccedil;ar uma vers&amp;atilde;o costumizada do &lt;a href=&quot;http://debian.org&quot; rel=&quot;nofollow&quot;&gt;Debian&lt;/a&gt; para produ&amp;ccedil;&amp;atilde;o audiovisual, o &amp;quot;JuntaDados 5.0.3&amp;quot;. O software usa como base Ardour 3.5.74, Blender 2.69, LibreOffice 4.1.2, Firefox 26, FFmpeg 1.0.8, Muan 12.0.5, GIMP 2.8.2, entre outros.&lt;/p&gt;
+&lt;p&gt;O JuntaDados 5.0.3 tem como objetivo:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;(...)simplificar e facilitar as atividades de produ&amp;ccedil;&amp;atilde;o audiovisual dos Pontos de Cultura, a&amp;ccedil;&amp;otilde;es de Inclus&amp;atilde;o Digital e Cultura Digital.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A distribui&amp;ccedil;&amp;atilde;o, que agrega ferramentas audiovisuais baseadas nas escolhas e necessidades dos Pontos de Cultura brasilieros e nas a&amp;ccedil;&amp;otilde;es de Inclus&amp;atilde;o Digital, pode ser baixada nos links abaixo:&lt;/p&gt;
+&lt;p&gt;* Espelho JuntaDados &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-amd64.iso&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt; e &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-i386.iso&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* Espelho Est&amp;uacute;dio Livre &lt;a href=&quot;http://estudiolivre.org/files/juntadados/5.0.3-amd64/juntaDados-5.0.3-amd64.iso&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt;&amp;nbsp; e &lt;a href=&quot;http://estudiolivre.org/files/juntadados/5.0.3-i386/juntaDados-5.0.3-i386.iso&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;* Torrent &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-amd64.torrent&quot; rel=&quot;nofollow&quot;&gt;64 bits&lt;/a&gt; e &lt;a href=&quot;http://juntadados.org/sites/default/files/juntadados/5.0.3/juntaDados-5.0.3-i386.torrent&quot; rel=&quot;nofollow&quot;&gt;32 bits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Mais informa&amp;ccedil;&amp;otilde;es em &lt;a href=&quot;mailto:juntadados@juntadados.org&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;il&quot;&gt;juntadados&lt;/span&gt;@&lt;span class=&quot;il&quot;&gt;juntadados&lt;/span&gt;.org&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/JuntaDados-lanca-software-livre-focado-em-producao-audiovisual#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/Debian">Debian</category>
+ <category domain="http://mutgamb.org/tag/JuntaDados">JuntaDados</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/964</wfw:commentRss>
+ <pubDate>Wed, 18 Dec 2013 09:48:20 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">964 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Nuvem de Inverno, acaba</title>
+ <link>http://mutgamb.org/blog/Nuvem-de-Inverno-acaba</link>
+ <description>&lt;p&gt;Encerrou no dia 17 de agosto &lt;a href=&quot;http://mutgamb.org/blog/Nuvem-de-Inverno&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;a Resid&amp;ecirc;ncia de Inverno da Nuvem&lt;/a&gt; que contou com o desenvolvimento de propostas individuais de experimenta&amp;ccedil;&amp;atilde;o, cria&amp;ccedil;&amp;atilde;o e pesquisa desde 19 de julho de 2012. As tem&amp;aacute;ticas abrangeram&lt;em&gt; circuit bending&lt;/em&gt;, cria&amp;ccedil;&amp;atilde;o sonora e mapping audiovisual, gera&amp;ccedil;&amp;atilde;o de energia aut&amp;oacute;noma, ci&amp;ecirc;ncia DIY, e a reflex&amp;atilde;o sobre pr&amp;aacute;ticas art&amp;iacute;sticas de c&amp;oacute;digo aberto.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8290/7807972124_fd0ccb5e6c_c.jpg&quot; style=&quot;width: 420px; height: 280px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Cinthia Mendon&amp;ccedil;a comentou sobre a experi&amp;ecirc;ncia:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Foram muitos dias juntos. os acontecimentos entraram em uma din&amp;acirc;mica de cotidiano, que para quem est&amp;aacute; de fora pode at&amp;eacute; parecer extraordin&amp;aacute;rio, mas para n&amp;oacute;s que est&amp;aacute;vamos ali, eram apenas acontecimentos. Posso te dizer que era um prazer acordar todos os dias de manh&amp;atilde; cedinho (espontaneamente entre 7 e 8 horas j&amp;aacute; est&amp;aacute;vamos todos de p&amp;eacute;) ao som de gargalhadas e com o cheiro do caf&amp;eacute; quentinho ou do p&amp;atilde;o saindo do forno... Foram lindos dias de conv&amp;iacute;vio onde o trabalho, o desfrute e a crise ocupavam exatamente o mesmo lugar que ocupam as coisas ordin&amp;aacute;rias da vida.&lt;/p&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O encerramento da Resid&amp;ecirc;ncia contou com uma festa, no Plano B, tomada por experimentos e apresenta&amp;ccedil;&amp;atilde;o de: Denise AlvesRodrigues, Fernando Viscokis, Filipe Borba, Paula Pin, Susana Serrano e Tiago Rubini.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://3.bp.blogspot.com/-6Q3cO9xOqlY/UCnbT-N2gRI/AAAAAAAAA_Q/VXzTfwIiyfs/s1600/blog-flyer2.jpg&quot; style=&quot;width: 420px; height: 280px;&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Nuvem-de-Inverno-acaba#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/inverno-2012">inverno 2012</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/nuvem">nuvem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/846</wfw:commentRss>
+ <pubDate>Mon, 20 Aug 2012 09:46:10 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">846 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Todo mundo aqui sabe o que é Arduino?</title>
+ <link>http://mutgamb.org/blog/Todo-mundo-aqui-sabe-o-que-e-Arduino</link>
+ <description>&lt;p&gt;Aconteceu no &amp;uacute;ltimo dia 28 de julho o &lt;a href=&quot;http://mutgamb.org/blog/Segundo-Encontro-Open-Hardware-em-Brasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Segundo Encontro Open Hardware&lt;/a&gt;, em Bras&amp;iacute;lia, e Werbert compartilhou na lista #metareciclagem a &lt;a href=&quot;http://openhardwarebrasil.org/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;documenta&amp;ccedil;&amp;atilde;o&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Gostar&amp;iacute;amos que comentassem os v&amp;iacute;deos e dessem a sua opini&amp;atilde;o. Abracem esse movimento para que, no pr&amp;oacute;ximo ano, tenhamos um evento ainda melhor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Isaias Coelho: Como Comprar componentes mais baratos&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/QuNiXzDIXGY&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Jeronimo Avelar - Arduino SNMP&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZvTKGJJmBaQ&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Palestra Paulo Soares - Revela&amp;ccedil;&amp;atilde;o de circuito impresso com m&amp;eacute;todo fotogr&amp;aacute;fico.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/AzMAEbH3R8E&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As demais palestras ainda est&amp;atilde;o sendo carregadas e ser&amp;atilde;o disponibilzadas no canal &lt;a href=&quot;http://www.youtube.com/user/OpenHardwareBrasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;do YouTube&lt;/a&gt;. O evento na integra pode ser visto no canal do &lt;a href=&quot;http://www.livestream.com/openhardwarebrasilia&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Livestream&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Todo-mundo-aqui-sabe-o-que-e-Arduino#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/open-hardware-bsb">open hardware bsb</category>
+ <category domain="http://mutgamb.org/assunto/Tags/rede">rede</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/827</wfw:commentRss>
+ <pubDate>Fri, 03 Aug 2012 11:00:43 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">827 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Bablrr, o aplicativo lúdico :)</title>
+ <link>http://mutgamb.org/blog/Bablrr-o-aplicativo-ludico</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://splaying.blogspot.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Thiago Hersan&lt;/a&gt;, nasceu em S&amp;atilde;o Paulo e morou durante 15 anos nos Estados Unidos: &amp;quot;&lt;em&gt;Fiz faculdade e trabalhei como engenheiro de computa&amp;ccedil;&amp;atilde;o na &amp;aacute;rea de desenvolvimento de circuitos integrados. Em 2010, voltei pro Brasil pra visitar minha fam&amp;iacute;lia e acabei ficando um ano aqui&lt;/em&gt;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;No final de 2011 retornou aos EUA, e em junho de 2012 voltou para o Brasil. Atualmente mora em Belo Horizonte, onde trabalha como coordenador t&amp;eacute;cnico do Marginalia+Lab. &amp;quot;&lt;em&gt;Ajudo os residentes a desenvolverem seus projetos art&amp;iacute;sticos e outras pesquisas&amp;quot;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Thiago est&amp;aacute; desenvolvendo alguns aplicativos para Android e terminou o primeiro recentemente. Batizado de Bablrr, usa a tecnologia CAPTCHA para que sites, como Google e Facebook, n&amp;atilde;o consigam analisar o conte&amp;uacute;do das mensagens, e assim n&amp;atilde;o consigam &amp;quot;ler&amp;quot; o que as pessoas postaram para relacionar propagandas correlatas.&lt;/p&gt;
+&lt;p&gt;Em mar&amp;ccedil;o de 2011, um amigo de Thiago comentava sobre a dificuldade de convencer as pessoas a criptografarem suas comunica&amp;ccedil;&amp;otilde;es, e &amp;quot;&lt;em&gt;que seria muito dif&amp;iacute;cil implementar algum tipo de criptografia dentro de redes sociais, como Facebook e Twitter. Da&amp;iacute; que veio a ideia. Estudamos na escola onde foi desenvolvido o CAPTCHA. O Bablrr &amp;eacute; um aplicativo um pouco l&amp;uacute;dico. Acho que serve pra mandar mensagens curtas e &amp;quot;enganar&amp;quot; o Facebook (s&amp;oacute; um pouco). N&amp;atilde;o &amp;eacute; um aplicativo s&amp;eacute;rio de seguran&amp;ccedil;a e criptografia. Vejo ele mais como uma forma divertida de criticar um pouco a quantidade e a qualidade da informa&amp;ccedil;&amp;atilde;o que produzimos e s&amp;atilde;o utilizadas pelas grandes empresas da internet&lt;/em&gt;&amp;quot;. O aplicativo para celular Android, pode ser&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.hersan.bablrr&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; baixado aqui&lt;/a&gt; e o c&amp;oacute;digo est&amp;aacute; &lt;a href=&quot;https://github.com/thiagohersan/BablrAndroid&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;disponibilizado aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Comecei ano passado, fazendo uns aplicativos para projetos de publicidade. Coisas simples. O primeiro aplicativo recebia mensagens de SMS e mandava as palavras para serem projetas em uma parede. Tamb&amp;eacute;m fiz esse projeto com Radam&amp;eacute;s Ajna, onde um celular&lt;a href=&quot;http://fofoque.me&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Android controla uma escultura cin&amp;eacute;tica&lt;/a&gt;. Mas eram coisas simples. Os aplicativos rodavam em celulares &amp;quot;escondidos&amp;quot; e n&amp;atilde;o tinham intera&amp;ccedil;&amp;atilde;o direta das pessoas, s&amp;oacute; atrav&amp;eacute;s de sms. A&amp;iacute; esse ano eu comecei a aprender um pouco mais sobre como criar interfaces gr&amp;aacute;ficas pra Android, como fazer o aplicativo se comunicar com Facebook e Twitter, e fiz uma vers&amp;atilde;o do Bablrr bem simples pra uso pr&amp;oacute;prio. Chamava Foil. Tenho uma amiga americana, chamada Ally Reeves, que mora na &amp;Iacute;ndia e trabalha como designer de interfaces para aplicativos. A gente se encontrou por acaso, em abril, e quando ela viu o aplicativo gostou da ideia e ofereceu a ajudar com a parte de design. Na verdade ela re-fez tudo. Criou o logo, o nome, etc. Foi uma colabora&amp;ccedil;&amp;atilde;o bem legal, apesar do fuso hor&amp;aacute;rio... E acho que agora vamos continuar a fazer aplicativos divertidos nas nossas horas vagas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Como vc enxega a leitura que rob&amp;ocirc;s fazem nas nossas mensagens? Voc&amp;ecirc; acha que &amp;eacute; um tipo de controle?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thiago: &lt;/strong&gt;Acho ruim. Nem tanto por ser uma forma de controle, n&amp;atilde;o acho que tem gente lendo nossas mensagens. Acho ruim porque estamos sendo vendidos de uma certa forma, e n&amp;atilde;o &amp;eacute; todo mundo que percebe. Facebook, Google, Twitter ganham muito dinheiro vendendo informa&amp;ccedil;&amp;atilde;o sobre nosso uso, nossos gostos, etc, pra outras companhias. &amp;Eacute; dif&amp;iacute;cil de evitar hoje em dia: n&amp;atilde;o tem como n&amp;atilde;o participar. Por isso que &amp;eacute; importante entender um pouco as tecnologias e como est&amp;atilde;o sendo usadas pelas companhias que nos fornecem esses servi&amp;ccedil;os de gra&amp;ccedil;a. Ai podemos escolher melhor do que queremos participar. Em 2010, criei 11 perfis no Facebook, todos com meu nome e fotos minha. Mas distribui as senhas e deixava meus amigos usarem os perfis como quisessem. Alguns eram mulher, alguns eram hetero, outros homo. Moravam aqui, nos EUA, na China, gostavam de rock, samba. Esse ano o Facebook percebeu, e desativou todas as contas. Menos uma! Parece que realmente querem saber quem eu sou!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;J&amp;aacute; recebeu retorno de muita gente, querendo desenvolver, replicar?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thiago:&lt;/strong&gt; Ainda n&amp;atilde;o. Lan&amp;ccedil;amos semana passada e acho que a maioria das pessoas que est&amp;atilde;o usando s&amp;atilde;o amigos. O c&amp;oacute;digo est&amp;aacute; dispon&amp;iacute;vel e pode ser baixado por qualquer pessoa. Acho que poderia ser usado em outros projetos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Algu&amp;eacute;m do Google ou Facebook j&amp;aacute; contatou voc&amp;ecirc;?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thiago:&lt;/strong&gt; N&amp;atilde;o. Tenho amigos que trabalham nessas empresas, e mandei o aplicativo pra eles, mas acho que eles sabem que n&amp;atilde;o &amp;eacute; uma provoca&amp;ccedil;&amp;atilde;o muito s&amp;eacute;ria.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Voc&amp;ecirc; tamb&amp;eacute;m vai atuar no &lt;a href=&quot;http://http://tec.marginalialab.com/2012/07/20/programacao-chata-para-pessoas-descoladas/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Marginalia+Lab&lt;/a&gt;...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thiago: &lt;/strong&gt;Visitei o espa&amp;ccedil;o, em 2010, durante um programa de resid&amp;ecirc;ncia chamado Interactivos? Foi uma experi&amp;ecirc;ncia muito interessante. Eram 8 projetos, e v&amp;aacute;rios colaboradores de &amp;aacute;reas distintas pra desenvolver tudo em 2 semanas. Eu fui colaborador em alguns dos projetos e acho que o pessoal aqui gostou de mim. Em mar&amp;ccedil;o me convidaram para ser o orientador t&amp;eacute;cnico desse ano. Tem sido uma experi&amp;ecirc;ncia muito legal. Al&amp;eacute;m de ajudar com o desenvolvimento dos projetos de resid&amp;ecirc;ncia, tamb&amp;eacute;m posso fazer algumas a&amp;ccedil;&amp;otilde;es pr&amp;oacute;prias e usar o espa&amp;ccedil;o para desenvolver projetos meus, ou colaborar com outros labs de arte e tecnologia. E posso dar aulas de programa&amp;ccedil;&amp;atilde;o. Sempre quis dar um curso de programa&amp;ccedil;&amp;atilde;o chata para pessoas de &amp;aacute;reas distintas. Estou tentando manter um blog com mais informa&amp;ccedil;&amp;otilde;es sobre as atividades do n&amp;uacute;cleo t&amp;eacute;cnico,&lt;a href=&quot;http://tec.marginalialab.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; aqui&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Bablrr-o-aplicativo-ludico#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/Bablrr">Bablrr</category>
+ <category domain="http://mutgamb.org/tag/marginalialab">marginalia+lab</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/825</wfw:commentRss>
+ <pubDate>Thu, 02 Aug 2012 00:58:15 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">825 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>WordCamp São Paulo 2012, por Cátia Kitahara</title>
+ <link>http://mutgamb.org/blog/WordCamp-Sao-Paulo-2012-por-Catia-Kitahara</link>
+ <description>&lt;p&gt;&amp;quot;&lt;em&gt;O WordPress &amp;eacute; uma importante ferramenta para a publica&amp;ccedil;&amp;atilde;o na web pois permite que os coletivos tenham voz e espalhem suas id&amp;eacute;ias, produ&amp;ccedil;&amp;otilde;es, etc&lt;/em&gt;&amp;quot;. Esse &amp;eacute; o coment&amp;aacute;rio de &lt;ce0064 com=&quot;&quot;&gt;&lt;a href=&quot;http://www.catiakitahara.com.br&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;C&amp;aacute;tia Kitahara&lt;/a&gt;, webdesigner h&amp;aacute; mais de 10 anos, s&amp;oacute;cia do &lt;a href=&quot;http://hacklab.com.br&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Hacklab&lt;/a&gt;, trabalha com &lt;a href=&quot;http://br.wordpress.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WordPress&lt;/a&gt; e participa ativamente na &lt;a href=&quot;http://wp-brasil.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Comunidade Brasileira de WordPress&lt;/a&gt;. &lt;/ce0064&gt;&amp;quot;&lt;em&gt;A comunidade come&amp;ccedil;ou com um grupo de pessoas que traduziram o WordPress (CMS). Hoje nossa atua&amp;ccedil;&amp;atilde;o &amp;eacute; difundida em v&amp;aacute;rios lugares do pa&amp;iacute;s, s&amp;atilde;o volunt&amp;aacute;rios que ajudam na tradu&amp;ccedil;&amp;atilde;o, moderam o f&amp;oacute;rum, publicam plugins ou temas&lt;/em&gt;&amp;quot;, comenta.&lt;/p&gt;
+&lt;p&gt;&lt;ce0064 com=&quot;&quot;&gt;Foi C&amp;aacute;tia quem organizou o primeiro WordCamp Brasil, em 2009, na Funarte. &lt;/ce0064&gt;&amp;quot;&lt;em&gt;Em 2009, aproveitamos a vinda do Matt Mullenweg, criador da ferramenta, para um outro evento. Depois tivemos dois WordCamp&amp;#39;s, em Curitiba, no ano de 2010&lt;/em&gt;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&amp;Agrave;s v&amp;eacute;speras do &lt;a href=&quot;http://2012.saopaulo.wordcamp.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WordCamp 2012&lt;/a&gt;, que acontecer&amp;aacute; em 25 de agosto, ela comentou sobre as novidades do evento:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Estamos chamando de WordCamp S&amp;atilde;o Paulo, e n&amp;atilde;o Brasil, para descentralizar e para que outras cidades tomem a iniciativa de organizar os seus pr&amp;oacute;prios WordCamps. E tamb&amp;eacute;m estamos cobrando um valor simb&amp;oacute;lico de R$30,00 que d&amp;aacute; direito &amp;agrave; entrada e &amp;agrave; uma camiseta.Esperamos que a gente consiga tornar essa parceria com a PUC-SP, que &amp;eacute; quem est&amp;aacute; nos proporcionando toda a infraestrutura do Campus Consola&amp;ccedil;&amp;atilde;o, em uma parceria duradoura e assim, tenhamos maior const&amp;acirc;ncia nas edi&amp;ccedil;&amp;otilde;es do evento. Al&amp;eacute;m disso, esperamos que com duas edi&amp;ccedil;&amp;otilde;es este ano, Curitiba e S&amp;atilde;o Paulo,a descentraliza&amp;ccedil;&amp;atilde;o do evento se torne um fato.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;ce0064 com=&quot;&quot;&gt;&lt;/ce0064&gt;&lt;/p&gt;
+&lt;p&gt;Inscri&amp;ccedil;&amp;otilde;es em: &lt;a href=&quot;http://saopaulo.wp-brasil.org/&quot; title=&quot;http://saopaulo.wp-brasil.org/&quot; rel=&quot;nofollow&quot;&gt;http://saopaulo.wp-brasil.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;ce0064 com=&quot;&quot;&gt;&lt;/ce0064&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/WordCamp-Sao-Paulo-2012-por-Catia-Kitahara#comments</comments>
+ <category domain="http://mutgamb.org/tag/2012">2012</category>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/s%C3%A3o-paulo">são paulo</category>
+ <category domain="http://mutgamb.org/tag/wordcamp">wordcamp</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/824</wfw:commentRss>
+ <pubDate>Wed, 01 Aug 2012 00:16:38 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">824 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Ciências da roça, na Nuvem</title>
+ <link>http://mutgamb.org/blog/Ciencias-da-roca-na-Nuvem</link>
+ <description>&lt;p&gt;A &lt;a href=&quot;http://nuvem.tk&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nuvem&lt;/a&gt; lan&amp;ccedil;ou mais uma chamada (super legal!) &lt;a href=&quot;http://nuvem.tk/?autonomias/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&amp;quot;Autonomias: ci&amp;ecirc;ncias da ro&amp;ccedil;a&amp;quot;&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;No momento em que as cidades chegam no limite de sua sustentabilidade, mais e mais pessoas se voltam para o campo como op&amp;ccedil;&amp;atilde;o de vida que garante algum grau de autonomia. O relativo isolamento das comunidades rurais faz com que muitas solu&amp;ccedil;&amp;otilde;es tenham que ser encontradas localmente - desde o conserto de m&amp;aacute;quinas e ve&amp;iacute;culos at&amp;eacute; o tratamento m&amp;eacute;dico. Por outro lado, a cultura do fa&amp;ccedil;a-voc&amp;ecirc;-mesmo (ou fa&amp;ccedil;amos-juntas), cada vez mais popular, tamb&amp;eacute;m se orienta pela busca da independ&amp;ecirc;ncia tecnol&amp;oacute;gica. Para essa convocat&amp;oacute;ria, estamos propondo a intersec&amp;ccedil;&amp;atilde;o das culturas hacker e rural para o desenvolvimento de projetos que permitam uma vida mais aut&amp;ocirc;noma.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dessa vez a Nuvem trabalha em parceria com o &lt;a href=&quot;http://medialab-prado.es/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;MediaLab Prado&lt;/a&gt;, para sele&amp;ccedil;&amp;atilde;o de cinco propostas nacionais e internacionais, entre 1 e 17 de novembro 2012. Os interessados poder&amp;atilde;o enviar seus projetos at&amp;eacute; 18 de agosto. A Nuvem est&amp;aacute; a procura de temas plurais, como: comunica&amp;ccedil;&amp;atilde;o, agricultura, alimenta&amp;ccedil;&amp;atilde;o, &amp;aacute;gua pot&amp;aacute;vel, sa&amp;uacute;de, energia, transporte, bio-constru&amp;ccedil;&amp;atilde;o, desde uma perspectiva rural.Mas a diferen&amp;ccedil;a fundamental dessa chamada &amp;eacute; a possibilidade da constru&amp;ccedil;&amp;atilde;o coletiva, j&amp;aacute; que cada proposta contar&amp;aacute; com o aux&amp;iacute;lio de at&amp;eacute; mais tr&amp;ecirc;s colaboradores, que ser&amp;atilde;o selecionados posteriormente em outro edital (&lt;a href=&quot;http://nuvem.tk/files/autonomias_pt.pdf&quot; rel=&quot;nofollow&quot;&gt;pdf&lt;/a&gt;, &lt;a href=&quot;http://nuvem.tk/files/autonomias_pt.odt&quot; rel=&quot;nofollow&quot;&gt;odt&lt;/a&gt;, &lt;a href=&quot;http://nuvem.tk/files/autonomias_pt.doc&quot; rel=&quot;nofollow&quot;&gt;doc&lt;/a&gt;).&lt;/p&gt;
+&lt;p align=&quot;LEFT&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Ciencias-da-roca-na-Nuvem#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/medialab-prado">medialab prado</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/nuvem">nuvem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/816</wfw:commentRss>
+ <pubDate>Tue, 24 Jul 2012 13:03:25 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">816 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Nuvem abre chamada para publicações colaborativas</title>
+ <link>http://mutgamb.org/blog/Nuvem-abre-chamada-para-publicacoes-colaborativas</link>
+ <description>&lt;p&gt;Depois dos encontros presenciais realizados recentemente na &lt;a href=&quot;http://nuvem.tk&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nuvem&lt;/a&gt;, est&amp;aacute; aberta a chamada para publica&amp;ccedil;&amp;otilde;es do Tecnomagias e da EncontrADA, at&amp;eacute; o dia 7 de agosto.&lt;/p&gt;
+&lt;p&gt;A chamada para Tecnomagias est&amp;aacute; dispon&amp;iacute;vel &lt;a href=&quot;http://nuvem.tk/?convocatoria-publicacao-tecnomagias/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;, e envolve: entrela&amp;ccedil;amentos poss&amp;iacute;veis entre tecnologias e magias, chamanismos e cibercultura, e conhecimentos tradicionais e novas m&amp;iacute;dias.&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; as&lt;a href=&quot;http://nuvem.tk/?convocatoria-publicacao-encontrada&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; colabora&amp;ccedil;&amp;otilde;es para a EncontrADA&lt;/a&gt; permeiam: feminismo e micropol&amp;iacute;ticas, ativismo feminista, apropria&amp;ccedil;&amp;atilde;o tecnol&amp;oacute;gica, uso do software e hardware livre pelas mulheres, feminismo e cultura livre, e conhecimento e reflex&amp;atilde;o sobre o pr&amp;oacute;prio corpo.&lt;/p&gt;
+&lt;p&gt;As convocat&amp;oacute;rias n&amp;atilde;o est&amp;atilde;o limitadas axs participantes dos encontros.&lt;/p&gt;
+&lt;p&gt;Mais informa&amp;ccedil;&amp;otilde;es: &lt;a href=&quot;mailto:nuvemhr@gmail.com&quot; rel=&quot;nofollow&quot;&gt;nuvemhr@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Nuvem-abre-chamada-para-publicacoes-colaborativas#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/encontADA">encontADA</category>
+ <category domain="http://mutgamb.org/tag/nuvemtk">nuvem.tk</category>
+ <category domain="http://mutgamb.org/tag/publicacoes">publicações</category>
+ <category domain="http://mutgamb.org/tag/tecnomagias">tecnomagias</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/776</wfw:commentRss>
+ <pubDate>Thu, 28 Jun 2012 09:57:38 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">776 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Sganzerla por Bruno Tarin</title>
+ <link>http://mutgamb.org/blog/Sganzerla-por-Bruno-Tarin</link>
+ <description>&lt;p&gt;Bruno Tarin fez um texto sobre o a obra de Sganzerla. Nele, Bruno comenta a atualidade das quest&amp;otilde;es abordadas enquantro homenageia&lt;a href=&quot;http://www.itaucultural.org.br/iconoclassicos/filme5.cfm&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; o filme lan&amp;ccedil;ado recentemente&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/RM6AD6jOmUY&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Assim como Orson Welles, Sganzerla era obcecado pela magia e pela figura do m&amp;aacute;gico. O m&amp;aacute;gico, pode-se dizer, &amp;eacute; um tipo de ator mas com caracter&amp;iacute;sticas bem espec&amp;iacute;ficas, enquanto a dramaturgia e a arte da atua&amp;ccedil;&amp;atilde;o se prop&amp;otilde;em a produzir mentiras que levadas aos seus limites se tornam cr&amp;iacute;veis, veross&amp;iacute;meis mas nunca uma realidade (um dos jogos da atua&amp;ccedil;&amp;atilde;o no teatro cl&amp;aacute;ssico &amp;eacute; o fato do p&amp;uacute;blico aceitar entrar num universo fict&amp;iacute;cio), o m&amp;aacute;gico se prop&amp;otilde;e a fazer o caminho inverso: partindo da realidade este produz uma mentira mas que de t&amp;atilde;o bem executada produz uma d&amp;uacute;vida, a d&amp;uacute;vida se aquilo aconteceu de verdade ou n&amp;atilde;o, s&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;em&gt;e o imposs&amp;iacute;vel &amp;eacute; poss&amp;iacute;vel e verdadeiro&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;. O m&amp;aacute;gico assim cria muitas verdades ao mesmo passo que questiona todas elas, sendo por excel&amp;ecirc;ncia, aquele que &amp;eacute; capaz de sem consentimento produzir uma nova realidade, uma nova verdade. Se ele n&amp;atilde;o realiza isso ent&amp;atilde;o n&amp;atilde;o conseguiu atuar. O m&amp;aacute;gico, pode-se dizer, &amp;eacute; capaz de como Deleuze prop&amp;otilde;e, afirmar a verdade da relatividade e n&amp;atilde;o a relatividade da verdade. Ou como dizia o pr&amp;oacute;prio Sganzerla se mais de duas pessoas acreditam numa mesma coisa ent&amp;atilde;o j&amp;aacute; &amp;eacute; mentira. A verdade assim &amp;eacute; colocada como a singularidade, a diferen&amp;ccedil;a, em suma a perspectiva. Perspectiva essa que s&amp;oacute; pode emergir de uma situa&amp;ccedil;&amp;atilde;o de liberdade, o m&amp;aacute;gico n&amp;atilde;o pode for&amp;ccedil;ar algu&amp;eacute;m a ver verdade em seus atos, assim como n&amp;atilde;o pode for&amp;ccedil;ar ningu&amp;eacute;m a produzir uma verdade. A liberdade de produzir seu pr&amp;oacute;prio ponto de vista (verdade) &amp;eacute; primordial para que toda m&amp;aacute;gica aconte&amp;ccedil;a. N&amp;atilde;o seria assim tamb&amp;eacute;m na democracia?&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://uninomade.net/tenda/mr-sganzerla-a-liberdade-e-a-verdade-sem-limites/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;O texto original pode ser acessado aqui.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Sganzerla-por-Bruno-Tarin#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/tag/bruno-tarin">bruno tarin</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/Sganzerla">Sganzerla</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/760</wfw:commentRss>
+ <pubDate>Wed, 06 Jun 2012 10:10:06 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">760 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Chamadas pra segunda-feira</title>
+ <link>http://mutgamb.org/blog/Chamadas-pra-segunda-feira</link>
+ <description>&lt;p&gt;Durante esse &amp;uacute;ltima final de semana, aconteceu o &lt;a href=&quot;http://mutgamb.org/blog/Colabore-com-o-Encontro-Metarec-em-Ubatuba&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Encontr&amp;atilde;o Metarec&lt;/a&gt; em Ubatuba-SP (vamos trazer relatos aqui no blog logo mais). Durante o encontro aconteceram v&amp;aacute;rias inquieta&amp;ccedil;&amp;otilde;es e compartilhamentos. Alguns deles, trazidos &amp;agrave; lista, outros compartilhados remotamente:&lt;/p&gt;
+&lt;p&gt;Diogo Leal compartilhou na o &lt;a href=&quot;http://opencompute.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Open Compute Project&lt;/a&gt;, um projeto que possui como objetivo promover dial&amp;oacute;gos&lt;span id=&quot;result_box&quot; lang=&quot;pt&quot;&gt; &lt;span class=&quot;hps&quot;&gt;colaborativos e encontrar pessoas interessadas&lt;/span&gt;&lt;span class=&quot;hps&quot;&gt; em&lt;/span&gt; &lt;span class=&quot;hps&quot;&gt;desenvolver&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;hps&quot;&gt;hardware de forma colaborativa.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lucas trouxe a chamada para as oficinas do Kinoforum (em S&amp;atilde;o Paulo) nas &amp;aacute;reas de roteiro, dire&amp;ccedil;&amp;atilde;o, produ&amp;ccedil;&amp;atilde;o, fotografia, som e edi&amp;ccedil;&amp;atilde;o. Mais informa&amp;ccedil;&amp;otilde;es &lt;a href=&quot;http://www.kinoforum.org/oficinas/index.php/oficina/mduloiinetcomunidade.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;podem ser acessadas no site&lt;/a&gt;, sendo que as oficinas de roteiro ficam abertas de 10 de maio a 03 de junho, e das outras &amp;aacute;reas de 10 de maio at&amp;eacute; 10 de junho.&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;Helvetica, Arial, sans-serif&quot;&gt;Luciana &lt;/font&gt;&lt;span class=&quot;gD&quot;&gt;Fleischman&lt;/span&gt;&lt;font face=&quot;Helvetica, Arial, sans-serif&quot;&gt;, a Lula da&lt;a href=&quot;http://nuvem.tk&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Nuvem&lt;/a&gt;, trouxe a proposta da Ljubljana, um laborat&amp;oacute;rio de m&amp;iacute;dia digital em Ljubljana na Eslov&amp;eacute;nia, que em colabora&amp;ccedil;&amp;atilde;o com a Su&amp;iacute;&amp;ccedil;a Mecatr&amp;ocirc;nica Art Society e com o Medialab-Prado, est&amp;aacute; promovendo uma chamada &lt;/font&gt;&lt;font face=&quot;Helvetica, Arial, sans-serif&quot;&gt;de Projetos Colaborativos Internacionais&lt;/font&gt;&lt;font face=&quot;Helvetica, Arial, sans-serif&quot;&gt; para &amp;quot;tecnologias obsoletas do futuro&amp;quot; at&amp;eacute; o dia 8 de junho&lt;/font&gt;&lt;font face=&quot;Helvetica, Arial, sans-serif&quot;&gt;.Mais informa&amp;ccedil;&amp;otilde;es e o regulamento &lt;a href=&quot;http://medialab-prado.es/article/interactivos12_ljubljana_future_obsolete_technologies&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;est&amp;atilde;o dispon&amp;iacute;veis nesse link&lt;/a&gt;.&lt;/font&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Chamadas-pra-segunda-feira#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/chamadas">chamadas</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/747</wfw:commentRss>
+ <pubDate>Mon, 28 May 2012 12:35:58 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">747 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

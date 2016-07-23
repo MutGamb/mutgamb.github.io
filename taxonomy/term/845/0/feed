@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - tecnoxamanismo</title>
+ <link>http://mutgamb.org/taxonomy/term/845/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Vem novembro, vem.</title>
+ <link>http://mutgamb.org/blog/Vem-novembro-vem</link>
+ <description>&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;	 http://mutgamb.org/sites/mutgamb.org/files/644148_10151188386134470_2050915426_n.jpg&quot; style=&quot;width: 420px; height: 854px;&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Vem-novembro-vem#comments</comments>
+ <category domain="http://mutgamb.org/tag/tecnomagias">tecnomagias</category>
+ <category domain="http://mutgamb.org/tag/tecnoxamanismo">tecnoxamanismo</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/898</wfw:commentRss>
+ <pubDate>Sun, 14 Oct 2012 13:05:45 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">898 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

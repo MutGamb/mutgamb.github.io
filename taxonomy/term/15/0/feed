@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - drupal</title>
+ <link>http://mutgamb.org/taxonomy/term/15/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mutirão de alma e cara novas</title>
+ <link>http://mutgamb.org/Blog/Mutir%C3%A3o-de-alma-e-cara-novas</link>
+ <description>&lt;p&gt;Trabalho coletivo rolando:&amp;nbsp;com a ajuda e est&amp;iacute;mulo de um bando de gente, o &lt;a href=&quot;http://mutirao.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;Mutir&amp;atilde;o da Gambiarra&lt;/a&gt; vai se transformando. O site vai se concentrar em publicar, e tudo que &amp;eacute; registro de processo (a princ&amp;iacute;pio, wiki e f&amp;oacute;rum) est&amp;aacute; sendo migrado a muitas m&amp;atilde;os para a &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/Mutir&amp;atilde;o-da-Gambiarra&quot; rel=&quot;nofollow&quot;&gt;ConecTAZ&lt;/a&gt; do Mutir&amp;atilde;o no site da MetaReciclagem. As pr&amp;oacute;ximas publica&amp;ccedil;&amp;otilde;es j&amp;aacute; est&amp;atilde;o sendo planejadas, e para a segunda-feira 07/09 est&amp;aacute; agendada a blogagem coletiva do &lt;a href=&quot;http://mutirao.metareciclagem.org/blog/Blogagem-Coletiva-de-Setembro-Dia-da-interdepend%C3%AAncia&quot; rel=&quot;nofollow&quot;&gt;Dia da In(ter)depend&amp;ecirc;ncia&lt;/a&gt;, articulada pela Maira, pelo Orlando e pela Teia. O blog do Mutir&amp;atilde;o vai come&amp;ccedil;ar a engordar nos pr&amp;oacute;ximos tempos. Pra acompanhar, hoje o site foi atualizado para o drupal 6.x e ganhou cara nova (que ainda vai ser mais trabalhada, calma...).&lt;/p&gt;&lt;a href=&quot;http://mutgamb.org/Blog/Mutir%C3%A3o-de-alma-e-cara-novas&quot; title=&quot;Mutirão de alma e cara novas&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:Blog,drupal,mutirão;button:large&quot; class=&quot;FlattrButton&quot;&gt;Trabalho coletivo rolando:&amp;amp;nbsp;com a ajuda e est&amp;amp;iacute;mulo de um bando de gente, o Mutir&amp;amp;atilde;o da Gambiarra vai se transformando.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/Blog/Mutir%C3%A3o-de-alma-e-cara-novas#comments</comments>
+ <category domain="http://mutgamb.org/taxonomy/term/231">Blog</category>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/mutir%C3%A3o">mutirão</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/321</wfw:commentRss>
+ <pubDate>Fri, 04 Sep 2009 21:54:09 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">321 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Print</title>
+ <link>http://mutgamb.org/drupal/Print</link>
+ <description>&lt;p&gt;Instalei no mutir&amp;atilde;o o m&amp;oacute;dulo print, que cria links &amp;quot;printer-friendly&amp;quot; para as p&amp;aacute;ginas, e permite exportar PDF.&lt;/p&gt;&lt;a href=&quot;http://mutgamb.org/drupal/Print&quot; title=&quot;Print&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:drupal;button:large&quot; class=&quot;FlattrButton&quot;&gt;Instalei no mutir&amp;amp;atilde;o o m&amp;amp;oacute;dulo print, que cria links &amp;amp;quot;printer-friendly&amp;amp;quot; para as p&amp;amp;aacute;ginas, e permite exportar PDF.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/drupal/Print#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/299</wfw:commentRss>
+ <pubDate>Mon, 01 Dec 2008 20:25:31 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">299 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>migrando o mutirão</title>
+ <link>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o</link>
+ <description>&lt;p&gt;(atualizando esse post)&lt;/p&gt;&lt;p&gt;acabei de completar a migra&amp;ccedil;&amp;atilde;o do mutir&amp;atilde;o para um vserver novo, que vai custar uns trocados mas deve dar mais disponibilidade do que nossa amiga aletta. aproveitei tamb&amp;eacute;m pra fazer atualiza&amp;ccedil;&amp;otilde;es de seguran&amp;ccedil;a do pr&amp;oacute;prio drupal e de alguns m&amp;oacute;dulos. amanh&amp;atilde; publico aqui um pouco de material novo ou recompilado que andei catando/armando.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/drupal/migrando-o-mutir%C3%A3o#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/meta">meta</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/249</wfw:commentRss>
+ <pubDate>Tue, 22 Jul 2008 02:33:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">249 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Desenhando a interação MetaRecicleira</title>
+ <link>http://mutgamb.org/fonte/Desenhando-intera%C3%A7%C3%A3o-MetaRecicleira</link>
+ <description>Pois que o papo todo do &lt;a href=&quot;../../&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;Mutirão da Gambiarra&lt;/a&gt; me fez &lt;a href=&quot;../16&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;pensar de novo&lt;/a&gt; no site principal da &lt;a href=&quot;http://metareciclagem.org/&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt;.
+Nos últimos tempos tô mergulhando bastante no drupal, e me parece cada
+vez mais viável desenvolver algumas idéias que faz tempo que a gente
+queria fazer. A base é estender a nomenclatura que a gente usa na
+MetaReciclagem como base do site: pessoas, esporos, ConecTAZes, talvez
+projetos. Mandei ontem na &lt;a href=&quot;http://lista.metareciclagem.org/&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;lista metarec&lt;/a&gt; um diagrama (&lt;a href=&quot;http://efeefe.no-ip.org/midia/metareciclagem_novo.png&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;anexo&lt;/a&gt;, 46KB) e essa mensagem:&lt;br /&gt;divhá quase dois anos, o pádua mandou aqui nessa&lt;br /&gt;
+lista um começo de conversa sobre arquitetura&lt;br /&gt;
+de informação e idéias iniciais pro site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;.&lt;br /&gt;
+até seguimos isso pra colocar no ar o drupal que tá lá,&lt;br /&gt;
+mas no meio do caminho ele foi abandonado. ponto.&lt;br /&gt;
+nesses últimos tempos, desenvolvendo o mutirão,&lt;br /&gt;
+eu acabei tendo que repensar o papel do que precisa&lt;br /&gt;
+ser um site de metareciclagem. comentei aqui na lista,&lt;br /&gt;
+sobre ser um site mais voltado pra criação de subgrupos,&lt;br /&gt;
+e também pra agilizar doações (ó o assunto &quot;computador&quot;&lt;br /&gt;
+voltando à baila). aproveitei essa noite pra fazer um&lt;br /&gt;
+desenho inicial do que pode ser esse site. ainda precisa&lt;br /&gt;
+detalhar um monte de coisas, mas segue em anexo.&lt;br /&gt;
+opiniões, claro, são bem-vindas.&lt;br /&gt;
+&lt;br /&gt;
+efe&lt;br /&gt;
+&lt;br /&gt;
+2008/3/17 Daniel Pádua:&lt;br /&gt;&amp;gt; Ainda dá pra aproveitar alguma coisa&lt;br /&gt;
+&amp;gt; do email abaixo nas correrias da plataforma?&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; aloha&lt;br /&gt;
+&amp;gt; dp&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ---------- Forwarded message ----------&lt;br /&gt;
+&amp;gt; From: Daniel Pádua&lt;br /&gt;
+&amp;gt; &amp;nbsp;Date: 2006/5/25&lt;br /&gt;
+&amp;gt; Subject: [mobilizando] novo site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt; To: Lista do projeto MetaReciclagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Pessoal,&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Detalhei o trampo abaixo, na forma de briefing + arquitetura de informação,&lt;br /&gt;
+&amp;gt; que é o que estou seguindo nos meus estudos de layout pro novo site.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Mas é só que conseguirei fazer: telas.&lt;br /&gt;
+&amp;gt; (e com uma já conhecida lentidão)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Precisamos MUITO de programadores/codeiros para implementar e/ou&lt;br /&gt;
+&amp;gt; customizar sistemas que serão necessários.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;- Vamos montar um time pra meter a mão nisso?&lt;br /&gt;
+&amp;gt; - Quem chega junto?&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; um aloha cocrante,&lt;br /&gt;
+&amp;gt; dpadua.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; OBS1: A documentação abaixo está aberta a discussão e intervenções:&lt;br /&gt;
+&amp;gt; &lt;a href=&quot;http://www.metareciclagem.org/wiki/index.php/SiteMetarec&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;wbr&gt;/wiki/index.php/SiteMetarec&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; OBS2:E qualquer idéia para custear o trabalho dos envolvidos - seja grana de&lt;br /&gt;
+&amp;gt; mutirão&lt;br /&gt;
+&amp;gt; ou de apoios - é fuckin&#039; extremamente welcome on the table.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ------------------------------div class=&quot;Ih2E3d&quot;&lt;div style=&quot;margin-left: 40px;&quot;&gt;&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;br /&gt;
+&amp;gt; Site &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;Metareciclagem.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; === BRIEFING&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;1) Sobre a idéia de metareciclagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Além obviamente todos os textos e manifestos já escritos e disponíveis na&lt;br /&gt;
+&amp;gt; web (&lt;a href=&quot;http://www.metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;/a&gt; ,&lt;br /&gt;
+&amp;gt; especialmente &lt;a href=&quot;http://www.metareciclagem.org/wiki/index.php/LivroVerde&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://www.metareciclagem.org&lt;wbr&gt;/wiki/index.php/LivroVerde&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt; tentei resumir as coisas&lt;br /&gt;
+&amp;gt; num infográfico - &lt;a href=&quot;http://entrementes.net/midiateca/dpadua/metarec_passos.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://entrementes.net/midiate&lt;wbr&gt;ca/dpadua/metarec_passos.png&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - e nesse texto-bagunça:&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &quot;UMA IDÉIA... QUASE UM JEITO de fazer&lt;br /&gt;
+&amp;gt; surgida na rede, a idéia da metareciclagem é apropriar-se das coisas (sejam&lt;br /&gt;
+&amp;gt; &quot;novas&quot; ou &quot;velhas&quot;), reestruturando e resignificando tudo (de computadores&lt;br /&gt;
+&amp;gt; a sentimentos), compartilhando a maneira de fazer isto e assim permitindo&lt;br /&gt;
+&amp;gt; que qualquer um possa replicar ações, produções e experiências (para&lt;br /&gt;
+&amp;gt; preservá-las ou transformá-las). a várias mãos ou não.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; VOCÊ É QUEM CRIA AS POSSIBILIDADES&lt;br /&gt;
+&amp;gt; imagine um mundo onde as fórmulas são compartilhadas e livres para serem&lt;br /&gt;
+&amp;gt; adaptadas. imagine que tudo seja matéria-prima para a criatividade humana. o&lt;br /&gt;
+&amp;gt; que você faria com isso? o que você mudaria com isso? venha contar pra&lt;br /&gt;
+&amp;gt; gente!&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; COLABORANDO A GENTE PIMBA&lt;br /&gt;
+&amp;gt; metareciclagem é uma idéia em aberto no coração de pessoas de grupos e ações&lt;br /&gt;
+&amp;gt; diversas, juntas num movimento descentralizado, que vai do Brasil a países&lt;br /&gt;
+&amp;gt; como Portugal e Índia.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Você pode já ser metarecicleiro e ainda não notou!&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; 2) Sobre identidade visual e linguagem&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Non-style design baseado nas metasetas&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/meta-logo.svg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/meta-logo.svg&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/3setas1.jpg&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/3setas1.jpg&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; - &lt;a href=&quot;http://metareciclagem.org/material/3setas1.eps&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/3setas1.eps&lt;/wbr&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;gt; (outros materiais em &lt;a href=&quot;http://metareciclagem.org/material/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.org&lt;wbr&gt;/material/&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Explorando menos o tema &quot;computador&quot; na representação principal da&lt;br /&gt;
+&amp;gt; metareciclagem, e adicionando (incluindo o &quot;computador&quot;) outros temas que&lt;br /&gt;
+&amp;gt; representem a idéia de maneira ampla e diversa.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Nos textos de apresentação (resumos para curiosos, guias para novatos), usar&lt;br /&gt;
+&amp;gt; linguagem mais lúdica e narrativa (com cara de passo a passo), fugir do&lt;br /&gt;
+&amp;gt; clima de &quot;inclusão digital&quot;, &quot;ação política&quot; e &quot;corporação&quot;. Experimentar&lt;br /&gt;
+&amp;gt; menos seriedade, menos pretensões. Experimentar mais emoção,&lt;br /&gt;
+&amp;gt; brodagem e &quot;playground for the dissident&quot;.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; 3) Sobre o site&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Ele tem pelo menos três funções:&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; a) ser a base para comunicar as idéias e os movimentos, informando e&lt;br /&gt;
+&amp;gt; instigando debates e ações&lt;br /&gt;
+&amp;gt; (especialmente para curiosos e novatos, com muito material web-pra-papel e&lt;br /&gt;
+&amp;gt; guias)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; b) oferecer serviços para manter agregadas idéias/conceitos/conhecimentos&lt;br /&gt;
+&amp;gt; (blogs, textos colaborativos, compartilhamento de mídia, links, etc) - algo&lt;br /&gt;
+&amp;gt; meio&lt;br /&gt;
+&amp;gt; &quot;a escola aberta metarecicleira&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; c) oferecer serviços para manter agregados&lt;br /&gt;
+&amp;gt; movimentos/ações/demandas&lt;wbr&gt;/soluções&lt;br /&gt;
+&amp;gt; (lista, social networking, irc, mapas, suporte colaborativo, logística&lt;br /&gt;
+&amp;gt; distribuída, &quot;kits&quot; guerrilheiro, etc) - algo&lt;br /&gt;
+&amp;gt; meio &quot;a festa-sem-fim metarecicleira&quot;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; O uso de sistemas de colaboração online e a descentralização da&lt;br /&gt;
+&amp;gt; infra-estrutura&lt;br /&gt;
+&amp;gt; por trás do site (especialmente armazenamento de dados) são fundamentais&lt;br /&gt;
+&amp;gt; para&lt;br /&gt;
+&amp;gt; criar um serviços de gestão horizontal e emergente.&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ==== ARQUITETURA DE INFORMAÇÃO 1.0&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ***** Ambientes interativos em tempo-real (presente em todos os nós da&lt;br /&gt;
+&amp;gt; arquitetura)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- lista, jabber, irc (canal aberto 24hs de comunicação tempo-real)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- mutirões táticos (ambiente descentralizado de oferta-procura e&lt;br /&gt;
+&amp;gt; circulação de recursos, logística de mutirões táticos, micro-mercados, etc)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- outras comunidades online (ex.: orkut, myspace, etc)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Entrada&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- how-to relâmpago &quot;metareciclando&quot;: explicação infográfica sucinta&lt;br /&gt;
+&amp;gt; (ex.: &lt;a href=&quot;http://entrementes.net/midiateca/dpadua/metarec_passos.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://entrementes.net/midiate&lt;wbr&gt;ca/dpadua/metarec_passos.png&lt;/wbr&gt;&lt;/a&gt;)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- badge metarecicleiro: uma espécie de monitor/tracker/totem/trojan&lt;br /&gt;
+&amp;gt; do metarec pra apropriação na rede aliada&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (na forma de código dinâmico para inserção em qualquer blog - &quot;pega&lt;br /&gt;
+&amp;gt; o código e cola lá&quot; - e carrega dados que interessam ao aliado)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;resumo instantâneo do movimento:&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- interatividades em andamento (organizado por ações e por agenda)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - conhecimentos em construção (organizando por temas/conteúdos e por&lt;br /&gt;
+&amp;gt; novidade)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;fluxos metarecicleiros:&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- novidades&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - feeds de todos @s aliad@s&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- feeds de todas as ações e papos metarecicleiros&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Interatividades (linka muito para os conhecimentos e pros ambientes&lt;br /&gt;
+&amp;gt; interativos)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Mapa dos metarecicleiros (onde achar metarecicleiros, perfis, )&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Encontros/eventos/conectazes&lt;wbr&gt;/festas metarecicleiras&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Lugares/picos/esporos (metacafes, esporos, bares, inferninhos,&lt;br /&gt;
+&amp;gt; etc.)&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Ações e grupos que reconhecemos como metarecicleiros ou indicamos&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Experimentos e tentativas interessantes&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Apoios e Reconhecimentos (prêmios, etc)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ^&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; (( &quot;áreas&quot; que se completam o tempo todo &amp;nbsp;))&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; v&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Conhecimentos (linka muito para as interatividades e pros ambientes&lt;br /&gt;
+&amp;gt; interativos )&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Tutoriais, guias, passo-a-passo, rautus, FAQs&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - Outros textos&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Audiovisuais&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Gráficos/Imagem&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Resenhas/Matérias/reportagens&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Entrevistas&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Feeds&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- Links&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; Sobre a metareciclagem&lt;br /&gt;
+&amp;gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(apresentando, mas também incitando e descobrir pela interação)&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; ------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;wbr&gt;------------------------------&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; --&lt;br /&gt;
+&amp;gt; daniel pádua ~ &lt;a href=&quot;http://imaginarios.net/dpadua&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;imaginarios.net/dpadua&lt;/a&gt;&lt;br /&gt;
+&amp;gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://seuestrelo.art.br/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;seuestrelo.art.br&lt;/a&gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://myspace.com/bandadacapo&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;myspace.com/bandadacapo&lt;/a&gt;&lt;br /&gt;
+&amp;gt; &amp;nbsp;* &lt;a href=&quot;http://estudiolivre.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;estudiolivre.org&lt;/a&gt;&lt;br /&gt;
+&amp;gt; * &lt;a href=&quot;http://metareciclagem.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;metareciclagem.org&lt;/a&gt;&lt;strong&gt;Atualizando&lt;/strong&gt; - mandei agora na lista:&lt;br /&gt;&lt;div style=&quot;margin-left: 40px;&quot;&gt;
+Fiquei pensando aqui se faz sentido diferenciar &#039;projeto&#039; de&lt;br /&gt;
+conecTAZ e esporo, ou se o melhor é ficar só com &#039;esporo&#039;&lt;br /&gt;
+como espaço físico aberto, e &#039;conecTAZ&#039; ser qualquer idéia&lt;br /&gt;
+de ação, temporária ou permanente. também acho que&lt;br /&gt;
+precisa detalhar mais o tipo de informação das seguintes&lt;br /&gt;
+coisas:&lt;br /&gt;
+&lt;br /&gt;
+* perfil de usuárix&lt;br /&gt;
+* esporo&lt;br /&gt;
+* doação&lt;br /&gt;
+* inventário&lt;br /&gt;
+* conecTAZ&lt;br /&gt;
+* projeto (se for o caso)&lt;br /&gt;
+&lt;br /&gt;
+e pensar em outros tipos de interação. guestbooks? chat?&lt;br /&gt;
+acho que uma coisa interessante é a história de agenciar&lt;br /&gt;
+a circulação de doações e equipos entre espaços, e a&lt;br /&gt;
+possibilidade de galera criar seu projetinho ali, oferecendo&lt;br /&gt;
+pra quem se interessar a possiblidade de procurar esporos&lt;br /&gt;
+por localidade. também acho legal pensar em maneiras de&lt;br /&gt;
+&#039;validar&#039; coletivamente um projeto, pra evitar ainda mais&lt;br /&gt;
+apropriações indébitas. pensei em criar um user role&lt;br /&gt;
+&#039;metarecicleirx&#039;, de pessoas que teriam permissão pra&lt;br /&gt;
+&#039;certificar&#039; projetos de metareciclagem e trazer outras&lt;br /&gt;
+pessoas pra role &#039;metarecicleirx&#039;. tem aí no meio os problemas&lt;br /&gt;
+conceituais de sempre: como definir a primeira composição&lt;br /&gt;
+de um grupo auto-determinado? minha resposta é simples,&lt;br /&gt;
+na linha da tirania caótica: eu (e quem ajudar a montar a&lt;br /&gt;
+parada) decidimos. e se alguém discordar disso ou daquilo,&lt;br /&gt;
+que apresente aqui seus argumentos e ponto.&lt;br /&gt;
+&lt;br /&gt;
+enfim, um monte de questões na cabeça.&lt;br /&gt;
+&lt;br /&gt;
+mas como ninguém tá com tempo pra pensar a respeito,&lt;br /&gt;
+vou fazendo do meu jeito.&lt;br /&gt;
+&lt;br /&gt;
+huahuahua&lt;/div&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;&lt;/div&gt;</description>
+ <comments>http://mutgamb.org/fonte/Desenhando-intera%C3%A7%C3%A3o-MetaRecicleira#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <category domain="http://mutgamb.org/assunto/Tags/infral%C3%B3gica">infralógica</category>
+ <category domain="http://mutgamb.org/assunto/Tags/site">site</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/118</wfw:commentRss>
+ <pubDate>Tue, 01 Apr 2008 18:34:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">118 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Andando</title>
+ <link>http://mutgamb.org/drupal/Andando</link>
+ <description>Pois, rolou a primeira chamada pra editorxs, e uma dezena de pessoas se voluntariou. Ainda não vi muita mão na massa, mas isso também vem com o tempo, talvez depois de dar um tapa nas funcionalidades por aqui. Nas últimas duas semanas, instalei mais alguns módulos, e adotei mesmo o nodetype &quot;fonte&quot; (que ainda pode mudar de nome se alguém tiver sugestão melhor) pra coletar posts espalhados pela rede. Tava conversando com o &lt;a href=&quot;/user/40&quot; rel=&quot;nofollow&quot;&gt;glerm&lt;/a&gt; sobre isso ser na real um &quot;agregador manual&quot;, um pouco mais lento do que configurar um agregador de feeds automático. Pra agregar tudo, já tem o aggregator do metareciclagem.org. Ontem percebi que tava dando algum erro em algumas páginas, que apareciam como não autorizadas pra usuárixs anônimxs. &lt;a href=&quot;/user/28&quot; rel=&quot;nofollow&quot;&gt;Wundo&lt;/a&gt; me deu o toque do módulo &lt;a href=&quot;http://drupal.org/project/devel&quot; rel=&quot;nofollow&quot;&gt;devel&lt;/a&gt;, e depois de pastar bastante descobri que o problema era com o módulo date/date API. Desabilitei, porque não tava usando eles na real, e mandei reconstruir as permissões no admin/content/node-settings. Alimentei o site com algumas dezenas de posts do tipo fonte, e também habilitei o &lt;a href=&quot;http://drupal.org/project/archive&quot; rel=&quot;nofollow&quot;&gt;archive,&lt;/a&gt; que deixa ver tudo com filtro por ano/mês/dia:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; title=&quot;http://mutirao.metareciclagem.org/archive/fonte&quot; rel=&quot;nofollow&quot;&gt;http://mutirao.metareciclagem.org/archive/fonte&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Também avancei um pouco na conversa sobre o site da MetaReciclagem (depois publico no meu blog e insiro aqui como fonte também).&lt;br /&gt;&lt;br /&gt;Quero ver se nas próximas semanas já lanço uma primeira chamada por colaborações.&lt;br /&gt;&lt;a href=&quot;http://mutgamb.org/drupal/Andando&quot; title=&quot;Andando&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:chamadas,drupal;button:large&quot; class=&quot;FlattrButton&quot;&gt;Pois, rolou a primeira chamada pra editorxs, e uma dezena de pessoas se voluntariou. Ainda não vi muita mão na massa, mas isso também vem com o tempo, talvez depois de dar um tapa nas funcionalidades por aqui. Nas últimas duas semanas, instalei mais alguns módulos, e adotei mesmo o nodetype &amp;quot;fonte&amp;quot; (que ainda pode mudar de nome se alguém tiver sugestão melhor) pra coletar posts espalhados pela rede. Tava conversando com o glerm sobre isso ser na real um &amp;quot;agregador manual&amp;quot;, um pouco mais lento do que configurar um agregador de feeds automático.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/drupal/Andando#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/chamadas">chamadas</category>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/117</wfw:commentRss>
+ <pubDate>Tue, 01 Apr 2008 13:39:51 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">117 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Testando</title>
+ <link>http://mutgamb.org/drupal/Testando</link>
+ <description>Mutirando... Criei o nodetype &quot;fonte&quot;, com permalink e o jscalendar na data. Criei um &lt;a href=&quot;http://mutirao.metareciclagem.org/node/39&quot; rel=&quot;nofollow&quot;&gt;post pra testar&lt;/a&gt;. Já aparece no &lt;a href=&quot;http://mutirao.metareciclagem.org/archive&quot; rel=&quot;nofollow&quot;&gt;archive&lt;/a&gt; em 2004. Habilitei também community tags no nodetype, por enquanto só pra quem é site_admin. Ainda aguardo sugestões de algum nome mais inspirado do que &quot;fonte&quot;.&lt;br /&gt;&lt;a href=&quot;http://mutgamb.org/drupal/Testando&quot; title=&quot;Testando&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:drupal;button:large&quot; class=&quot;FlattrButton&quot;&gt;Mutirando... Criei o nodetype &amp;quot;fonte&amp;quot;, com permalink e o jscalendar na data. Criei um post pra testar. Já aparece no archive em 2004. Habilitei também community tags no nodetype, por enquanto só pra quem é site_admin. Ainda aguardo sugestões de algum nome mais inspirado do que &amp;quot;fonte&amp;quot;.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/drupal/Testando#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/40</wfw:commentRss>
+ <pubDate>Sat, 22 Mar 2008 18:14:50 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">40 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>cronologias</title>
+ <link>http://mutgamb.org/drupal/cronologias</link>
+ <description>Alguns módulos pra dar mais flexibilidade ao tratar de datas:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://drupal.org/project/archive&quot; title=&quot;http://drupal.org/project/archive&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/archive&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://drupal.org/project/date&quot; title=&quot;http://drupal.org/project/date&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/date&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://drupal.org/project/calendar&quot; title=&quot;http://drupal.org/project/calendar&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/calendar&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;O date e o calendar eu peguei o -rc, não o estável. Ainda não temos muito a perder...&lt;br /&gt;&lt;a href=&quot;http://mutgamb.org/drupal/cronologias&quot; title=&quot;cronologias&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:drupal;button:large&quot; class=&quot;FlattrButton&quot;&gt;Alguns módulos pra dar mais flexibilidade ao tratar de datas:http://drupal.org/project/archivehttp://drupal.org/project/datehttp://drupal.org/project/calendarO date e o calendar eu peguei o -rc, não o estável. Ainda não temos muito a perder...&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/drupal/cronologias#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/38</wfw:commentRss>
+ <pubDate>Sat, 22 Mar 2008 17:22:22 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">38 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Novos módulos de hoje</title>
+ <link>http://mutgamb.org/drupal/Novos-m%C3%B3dulos-de-hoje</link>
+ <description>Mais mutirão... Fiz uma primeira rodada de busca em blogues, meus e de mais algumas pessoas, e acabei pensando em criar um nodetype genérico pra posts de outros sistemas, sejam blogues, entradas em arquivos de listas ou coisas parecidas. Vai ser um nodetype de texto, com data extensível e permalink. A princípio, acho que é uma boa publicar os posts inteiros, e só depois pensar em &lt;a href=&quot;/node/19/&quot; rel=&quot;nofollow&quot;&gt;derivar&lt;/a&gt; a partir deles. Também acho legal quem quiser se envolver com o barato poder taguear os posts (como os sistemas do flickr e tal, que permitem que não só quem publica mas também outros usuários adicionarem tags). Pra isso, vou dar uma conferida nesse módulo community tags. De lambuja, também baixei o tagadelic e o tagadelic_views.&lt;br /&gt;O módulo annotate também me parece bastante interessante pelas referências e funcionalidades que quer ter. Instalei o beta aqui. Ainda não está pronto pra uso, mas promete.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/community_tags&quot; title=&quot;http://drupal.org/project/community_tags&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/community_tags&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/tagadelic&quot; title=&quot;http://drupal.org/project/tagadelic&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/tagadelic&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/tagadelic_views&quot; title=&quot;http://drupal.org/project/tagadelic_views&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/tagadelic_views&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://drupal.org/project/annotate&quot; title=&quot;http://drupal.org/project/annotate&quot; rel=&quot;nofollow&quot;&gt;http://drupal.org/project/annotate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;a href=&quot;http://mutgamb.org/drupal/Novos-m%C3%B3dulos-de-hoje&quot; title=&quot;Novos módulos de hoje&quot; lang=&quot;en_GB&quot; rev=&quot;flattr;uid:efeefe;category:text;tags:drupal;button:large&quot; class=&quot;FlattrButton&quot;&gt;Mais mutirão... Fiz uma primeira rodada de busca em blogues, meus e de mais algumas pessoas, e acabei pensando em criar um nodetype genérico pra posts de outros sistemas, sejam blogues, entradas em arquivos de listas ou coisas parecidas. Vai ser um nodetype de texto, com data extensível e permalink. A princípio, acho que é uma boa publicar os posts inteiros, e só depois pensar em derivar a partir deles.&lt;/a&gt;</description>
+ <comments>http://mutgamb.org/drupal/Novos-m%C3%B3dulos-de-hoje#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/drupal">drupal</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/37</wfw:commentRss>
+ <pubDate>Sat, 22 Mar 2008 00:39:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">37 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

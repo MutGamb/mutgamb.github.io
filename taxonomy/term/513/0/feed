@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - radio livre</title>
+ <link>http://mutgamb.org/taxonomy/term/513/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Frequências </title>
+ <link>http://mutgamb.org/blog/Frequencias</link>
+ <description>&lt;p&gt;Bandos metarecs est&amp;atilde;o no &lt;a href=&quot;http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/56815&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ONID em Porto Alegre&lt;/a&gt;. Ontem, Regis e Fabiana falaram via&lt;em&gt; stream&lt;/em&gt; &lt;a href=&quot;http://pib.socioambiental.org/es/noticias?id=102233&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;sobre destempos&lt;/a&gt;, imperm&amp;acirc;nencias, TAZ&amp;#39;s, trocas ecossist&amp;ecirc;micas e liberdades:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe frameborder=&quot;0&quot; height=&quot;268&quot; scrolling=&quot;no&quot; src=&quot;http://www.ustream.tv/embed/recorded/27330896?v=3&amp;amp;wmode=direct&quot; style=&quot;border: 0px none transparent;&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Liberdades...&lt;/p&gt;
+&lt;p&gt;Tai trouxe o link da&lt;a href=&quot;http://radiokiriri.wordpress.com/2012/11/27/medida-corta-onda-da-anatel-e-pode-beneficiar-povos-indigenas/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; Medida Provis&amp;oacute;ria n. 575/12 &lt;/a&gt;e a proposta de uma nova defini&amp;ccedil;&amp;atilde;o para as comunidades ind&amp;iacute;genas e quilombolas sobre o acesso &amp;agrave; radiodifus&amp;atilde;o comunit&amp;aacute;ria. Assim r&amp;aacute;dios com pot&amp;ecirc;ncia menor que 100 kW poderiam transmitirem sem pedir licen&amp;ccedil;a, e n&amp;atilde;o sofreriam mais a persegui&amp;ccedil;&amp;atilde;o da Anatel:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;A pr&amp;aacute;tica da Anatel &amp;eacute; cortar a onda da maioria dos comunicadores comuns que transmitem em baixa-pot&amp;ecirc;ncia. Mas, no caso dos territ&amp;oacute;rios ind&amp;iacute;genas,a Anatel nem &amp;eacute; autorizada a entrar para fazer medi&amp;ccedil;&amp;atilde;o.Rafael Diniz, da R&amp;aacute;dio Muda na Unicamp.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Frequencias#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bailux">bailux</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/ONID">ONID</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/938</wfw:commentRss>
+ <pubDate>Wed, 28 Nov 2012 09:13:16 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">938 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Tramissores, Rádios e DIY</title>
+ <link>http://mutgamb.org/blog/Tramissores-Radios-e-DIY</link>
+ <description>&lt;p&gt;Jos&amp;eacute; Neto compartilhou &lt;a href=&quot;http://mutgamb.org/sites/mutgamb.org/files/trans.pdf&quot; rel=&quot;nofollow&quot;&gt;um esquema de um transmissor de pequena pot&amp;ecirc;ncia&lt;/a&gt;, que ligado a uma antena pode transmitir alcan&amp;ccedil;ar v&amp;aacute;rios quilometros: &amp;quot;as comunica&amp;ccedil;&amp;otilde;es entre a terra e a lua foram efetuadas com menos de um watt. Com uma antena de 15 cm podera chegar a 100 metros&amp;quot;. Jos&amp;eacute; trouxe um relato sobre sua experi&amp;ecirc;ncia com r&amp;aacute;dio transmissores:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O modo de conectar um r&amp;aacute;dio transmissor e um oscilador em alta frequ&amp;ecirc;ncia a uma antena vem desde a &amp;eacute;poca do Marconi, quando com um faiscador de alta frequ&amp;ecirc;ncia conseguiu transmitir uma mensagem atrav&amp;eacute;s de uma dist&amp;acirc;ncia muito grande. Hoje se fizermos algo do tipo iremos ter a Anatel e a Policia Federal em nossa porta, uma vez que gerar interfer&amp;ecirc;ncia nas ondas eletromagn&amp;eacute;ticas &amp;eacute; crime federal. Para fazer isso, hoje, voc&amp;ecirc; tem que ser selado, carinbado e rotulado. Para transmitir a informa&amp;ccedil;&amp;atilde;o, m&amp;uacute;sica, ou voz, as ondas precisam ser moduladas em frequ&amp;ecirc;ncia (FM) ou amplitude (AM). Modular em frequ&amp;ecirc;ncia &amp;eacute; bem mais f&amp;aacute;cil e menos perigoso. Para modularmos em amplitude e termos alcance &amp;eacute; preciso bastante for&amp;ccedil;a, por isso pra se fazer um transmissor em AM prescisa-se utilizar v&amp;aacute;lvulas, que prescisam de alta tens&amp;atilde;o, ou seja &amp;eacute; bastante perigoso para leigos no assunto. Hoje tenho alguns transmissores menores e alguns bem potentes. Quanto ao &lt;em&gt;DIY&lt;/em&gt; podemos existem projetos bem simples que podem ser montados com cuidado e assim poder explorar com seguran&amp;ccedil;a o espectro eletromagn&amp;eacute;tico. Os transmissores &lt;em&gt;DIY&lt;/em&gt; podem gerar radia&amp;ccedil;&amp;atilde;o em frequ&amp;ecirc;ncias m&amp;uacute;ltiplas, inclusive fora da faixa recomendada. No Brasil e no mundo existem canais separados, alguns com uso exclusivo da pol&amp;iacute;cia, bombeiros, navega&amp;ccedil;&amp;atilde;o, por isso &amp;eacute; preciso ter crit&amp;eacute;rios para utilizar algo mais potente que tenha alcance de quil&amp;ocirc;metros, por que interferir nesse espectro &amp;eacute; crime, da processo e na insist&amp;ecirc;ncia at&amp;eacute; cadeia. Mas existem tamb&amp;eacute;m a possibilidade e brechas na lei para equipamentos em baixa pot&amp;ecirc;ncia, redes de r&amp;aacute;dio, em pequenas pot&amp;ecirc;ncias em uma frequ&amp;ecirc;ncia livre e liberada.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Tramissores-Radios-e-DIY#comments</comments>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/tag/frequencia">frequência</category>
+ <category domain="http://mutgamb.org/tag/jose-neto">josé neto</category>
+ <category domain="http://mutgamb.org/tag/radio">radio</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/753</wfw:commentRss>
+ <pubDate>Thu, 31 May 2012 09:38:42 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">753 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Usos e Interesses, quais são os seus?</title>
+ <link>http://mutgamb.org/blog/Usos-e-Interesses-quais-sao-os-seus</link>
+ <description>&lt;p&gt;Notifica&amp;ccedil;&amp;otilde;es de&lt;a href=&quot;http://www.arede.inf.br/inclusao/edicoes-anteriores/190-edicao-no-80-maio2012/5471-capa-e-ele-nao-vai-desistir&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; solicita&amp;ccedil;&amp;otilde;es de informa&amp;ccedil;&amp;atilde;o p&amp;uacute;blica&lt;/a&gt; (do Hudson) e as &lt;a href=&quot;http://www.rdm-brasil.org/pt-br/content/contribui%C3%A7%C3%A3o-da-plataforma-rdmdrm-brasil-%C3%A0-consulta-p%C3%BAblica-do-inpi-sobre-exame-de-patente-i&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;informa&amp;ccedil;&amp;otilde;es sobre a consulta p&amp;uacute;blica sobre exame de patente por software&lt;/a&gt; (compartilhadas por Paj&amp;eacute;) foram encaminhadas &amp;agrave; lista e tem muita coisa em comum:&amp;nbsp; direito a democracia, a pr&amp;aacute;ticas livres, tanto de uso como de empoderamento das informa&amp;ccedil;&amp;otilde;es.&lt;/p&gt;
+&lt;p&gt;Tem&amp;aacute;ticas, tamb&amp;eacute;m, difundidas como eixo centro do&lt;a href=&quot;http://forumdainternet.cgi.br/2012/05/11/inscricoes-2/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt; F&amp;oacute;rum da Internet&lt;/a&gt;, que ter&amp;aacute; sua segunda edi&amp;ccedil;&amp;atilde;o, em julho, no Recife.&lt;/p&gt;
+&lt;p&gt;Regis, l&amp;aacute; de Porto Seguro, &lt;a href=&quot;http://bailux.wordpress.com/2012/05/17/quintal-pedagogico-da-paje-jacana-de-aldeia-velha/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;publicou sua documenta&amp;ccedil;&amp;atilde;o sobre o remix&lt;/a&gt; de Aldeia Velha e Bailux.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A internet &amp;eacute; plural, diversa, assim como suas conex&amp;otilde;es, assim como as pessoas, o imagin&amp;aacute;rio das redes.&lt;/p&gt;
+&lt;p&gt;Numa semana de muitas movimenta&amp;ccedil;&amp;otilde;es nas redes, fica a pergunta: O que voc&amp;ecirc; quer da internet?&lt;/p&gt;
+&lt;h1 class=&quot;title&quot;&gt;
+	&amp;nbsp;&lt;/h1&gt;</description>
+ <comments>http://mutgamb.org/blog/Usos-e-Interesses-quais-sao-os-seus#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/bailux">bailux</category>
+ <category domain="http://mutgamb.org/tag/forum-da-internet">fórum da internet</category>
+ <category domain="http://mutgamb.org/assunto/Tags/hudson">hudson</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <category domain="http://mutgamb.org/tag/paje">pajé</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/701</wfw:commentRss>
+ <pubDate>Sat, 19 May 2012 00:21:10 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">701 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Notas sobre meios livres de informação e controles</title>
+ <link>http://mutgamb.org/blog/Notas-sobre-meios-livres-de-informacao-e-controles</link>
+ <description>&lt;p&gt;Durante essa semana Thiago Novaes &lt;a href=&quot;http://www.drm-brasil.org/pt-br/content/o-que-%C3%A9-r%C3%A1dio-digital&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;circulou um texto esclarecendo a import&amp;acirc;ncia sobre o padr&amp;atilde;o aberto do r&amp;aacute;dio digital&lt;/a&gt;. Ainda dentro do mesmo contexto de liberdade nas redes, Cleber Gouv&amp;ecirc;a publicou &lt;a href=&quot;http://www.avaaz.org/po/stop_cispa_corporate_global/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;um fragmento de uma das peti&amp;ccedil;&amp;otilde;es onlines da Avaaz&lt;/a&gt;, contra o cerco ao fim da privacidade na internet:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Empresas a quem confiamos nossas informa&amp;ccedil;&amp;otilde;es pessoais, como a Microsoft e Facebook, s&amp;atilde;o os defensores principais desse projeto de lei que permite &amp;agrave;s corpora&amp;ccedil;&amp;otilde;es compartilharem todas as atividades e conte&amp;uacute;do de usu&amp;aacute;rios com as ag&amp;ecirc;ncias do governo dos EUA -- anulando as garantias de privacidade para quase todas as pessoas ao redor do mundo, n&amp;atilde;o importando onde essas pessoas vivem ou navegam online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Iuri &lt;/strong&gt;comentou sobre a necessidade que muitos aplicativos apresentam de revelarmos nossos passos:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Outro dia meu irm&amp;atilde;o me mandou um convite para um aplicativo feito com google maps que permitia que eu botasse l&amp;aacute; todas as cidades onde eu j&amp;aacute; morei. &amp;Eacute; o efeito avalanche da burrice!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Daniel Penalva&lt;/strong&gt; trouxe a cr&amp;iacute;tica dos tagueamentos vazios:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O problema &amp;eacute; que frequentemente a revela&amp;ccedil;&amp;atilde;o sai borrada, sem gestura, afago e forma real, diz-se do nada para o vazio.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Diogo Leal &lt;/strong&gt;complementou:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;No celular da Apple, voc&amp;ecirc; consegue ver exatamente onde uma pessoa esta e compartilhar com os amigos. A minha d&amp;uacute;vida &amp;eacute;: ser&amp;aacute; que &amp;eacute; somente com os amigos? Fico impressionado como pessoas que trabalham na &amp;aacute;rea de seguran&amp;ccedil;a da informa&amp;ccedil;&amp;atilde;o utiliza aplicativos assim.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Iuri &lt;/strong&gt;replicou:&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;O pessoal que trabalha na &amp;aacute;rea da seguran&amp;ccedil;a da informa&amp;ccedil;&amp;atilde;o j&amp;aacute; est&amp;aacute; convencido que n&amp;atilde;o h&amp;aacute; sa&amp;iacute;da. Coisas como Linkedin e outras redes sociais para profissionais s&amp;atilde;o t&amp;atilde;o nocivas quanto Facebook ou Orkut para a privacidade. Ainda tem aqueles hackers diehards que se escondem no por&amp;atilde;o da casa da m&amp;atilde;e roteando a conex&amp;atilde;o a cada 10 segundos. Mas nem eles se levam mais a s&amp;eacute;rio.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Notas-sobre-meios-livres-de-informacao-e-controles#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/internet">internet</category>
+ <category domain="http://mutgamb.org/tag/privacidade">privacidade</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/671</wfw:commentRss>
+ <pubDate>Sun, 22 Apr 2012 12:49:23 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">671 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Vitória das rádios livres: juiz decide a favor da Filha da Muda</title>
+ <link>http://mutgamb.org/blog/Vitoria-das-radios-livres-juiz-decide-favor-da-Filha-da-Muda</link>
+ <description>&lt;p&gt;A seten&amp;ccedil;a aqui postada foi &lt;a href=&quot;http://www.radiolivre.org/node/3869&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;compartilhada originalmente &lt;/a&gt;na lista #metarec por Thiago Novaes:&lt;br /&gt;
+&lt;blockquote&gt;
+		No dia 26 de janeiro de 2007 a Pol&amp;iacute;cia Federal apreendeu os equipamentos da r&amp;aacute;dio Filha da Muda e, em seguida, um processo criminal foi aberto. A defesa ficou por conta do advogado Ariel Foina, que foi provavelmente o primeiro defensor de uma r&amp;aacute;dio livre a colocar-se o desafio de traduzir para a estrat&amp;eacute;gia jur&amp;iacute;dica a luta das r&amp;aacute;dios livres por autonomia na comunica&amp;ccedil;&amp;atilde;o.&lt;br /&gt;
+		Foina elaborou um &lt;em&gt;habeas corpus&lt;/em&gt; afirmando que a r&amp;aacute;dio Filha da Muda n&amp;atilde;o precisava de concess&amp;atilde;o para funcionar, pois n&amp;atilde;o &amp;eacute; uma r&amp;aacute;dio &amp;quot;prestadora de servi&amp;ccedil;o&amp;quot;. Uma vez que as r&amp;aacute;dios livres n&amp;atilde;o se separam&lt;br /&gt;
+		de um p&amp;uacute;blico para servir a ele, mas s&amp;atilde;o meios para a comunica&amp;ccedil;&amp;atilde;o direta entre as pessoas, como os telefones p&amp;uacute;blicos, elas n&amp;atilde;o est&amp;atilde;o previstas na legisla&amp;ccedil;&amp;atilde;o atual, a n&amp;atilde;o ser no artigo V da Constitui&amp;ccedil;&amp;atilde;o&lt;br /&gt;
+		que versa sobre a liberdade de express&amp;atilde;o que, conforme a Conven&amp;ccedil;&amp;atilde;o Interamericana de Direitos Humanos (Pacto de S&amp;atilde;o Jos&amp;eacute; da Costa Rica), independe de permiss&amp;atilde;o, autoriza&amp;ccedil;&amp;atilde;o ou licen&amp;ccedil;a.&lt;br /&gt;
+		Em 06 de Abril de 2009 o Ju&amp;iacute;z Federal da 3a Vara Federal do Acre rejeitou a den&amp;uacute;ncia apresentada pelo Minist&amp;eacute;rio P&amp;uacute;blico Federal em que os membros da R&amp;aacute;dio estavam sendo acusados do crime do art. 183 da Lei 9.472/97 e determinou o arquivamento do processo.&lt;br /&gt;
+		Ao rejeitar a den&amp;uacute;ncia o Ju&amp;iacute;z considerou o fato de que a r&amp;aacute;dio n&amp;atilde;o era an&amp;ocirc;nima e nem de funcionamento oculto ou sede secreta, e que n&amp;atilde;o havia fim comercial, religioso ou pol&amp;iacute;tico-partidario, para aplicar o inciso IV do art. 5 o. da Constitui&amp;ccedil;&amp;atilde;o Federal - sobre a liberdade de express&amp;atilde;o - e afastar a alega&amp;ccedil;&amp;atilde;o de pr&amp;aacute;tica de suposto crime de R&amp;aacute;dio Clandestina.&lt;br /&gt;
+		Tamb&amp;eacute;m fundou-se o Ju&amp;iacute;z em reportagens de jornal que d&amp;atilde;o noticia da concentra&amp;ccedil;&amp;atilde;o dos meios de comunica&amp;ccedil;&amp;atilde;o no Brasil nas m&amp;atilde;os de nove fam&amp;iacute;lias e que a ANATEL nada faz contra as centenas de r&amp;aacute;dios e TVs da grade imprensa que est&amp;atilde;o com suas concess&amp;otilde;es vencidas.&lt;br /&gt;
+		Afirma o Ju&amp;iacute;z Jair Ara&amp;uacute;jo Facundes em sua Senten&amp;ccedil;a: &amp;quot;A conduta de quem, desafiando um &lt;em&gt;status quo&lt;/em&gt; que a pr&amp;oacute;pria Constitui&amp;ccedil;&amp;atilde;o brasileira quer mudar, democratiza a radiodifus&amp;atilde;o, retirando est&amp;aacute; dos dom&amp;iacute;nios exclusivos dos grupos pol&amp;iacute;ticos e religiosos, n&amp;atilde;o se mostra pun&amp;iacute;vel penalmente. Porque n&amp;atilde;o &amp;eacute; algo que a moral comum compreenda como criminoso.&amp;quot;&lt;br /&gt;
+		O Juiz por&amp;eacute;m entendeu que sua decis&amp;atilde;o se limita &amp;agrave; quest&amp;atilde;o penal, afirmando que cabe &amp;agrave; ANATEL apurar se o caso n&amp;atilde;o se constitui em irregularidade administrativa pass&amp;iacute;vel de multa.&lt;br /&gt;
+&lt;/blockquote&gt;
+		&lt;strong&gt;Mais not&amp;iacute;cias sobre a apreens&amp;atilde;o e a resist&amp;ecirc;ncia:&lt;/strong&gt;&lt;br /&gt;
+		* &lt;a href=&quot;http://prod.midiaindependente.org/pt/blue/2007/01/371794.shtml&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Apreens&amp;atilde;o ilegal dos equipamentos da r&amp;aacute;dio Filha da Muda&lt;/a&gt;&lt;br /&gt;
+		* &lt;a href=&quot;http://www.midiaindependente.org/pt/blue/2007/02/372432.shtml&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;R&amp;aacute;dios livres do norte se mobilizam&lt;/a&gt;&lt;br /&gt;
+		* &lt;a href=&quot;http://www.midiaindependente.org/pt/blue/2007/02/372612.shtml&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Filha da Muda anuncia show manifesto e recebe mais apoios&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Vitoria-das-radios-livres-juiz-decide-favor-da-Filha-da-Muda#comments</comments>
+ <category domain="http://mutgamb.org/tag/democracia">democracia</category>
+ <category domain="http://mutgamb.org/tag/filha-da-muda">filha da muda</category>
+ <category domain="http://mutgamb.org/tag/radio-livre">radio livre</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/599</wfw:commentRss>
+ <pubDate>Tue, 06 Mar 2012 11:01:44 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">599 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

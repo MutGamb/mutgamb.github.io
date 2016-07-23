@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - transmediale</title>
+ <link>http://mutgamb.org/taxonomy/term/77/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Web 3 - Conspirando pra manter a rede pública</title>
+ <link>http://mutgamb.org/fonte/Web-3-Conspirando-pra-manter-rede-p%C3%BAblica</link>
+ <description>&lt;p&gt;
+Sunday morning I woke up in Berlin with my mind telling me I should
+change some things in my presentation at transmediale. I started to
+play with the text and eventually got rid of almost everything I have
+written before, because I thought there was something way more
+important than repeating the common web 2.0 criticism: it is a stock
+market hype; it weakens p2p while centralizes traffic in order to earn
+profit out of users&#039; ability to create and maintain relationships; and
+so on. Not that I disagree with that kind of criticism, but I don&#039;t
+think I have much to add to that. There&#039;s a great &lt;a href=&quot;http://www.metamute.org/en/InfoEnclosure-2.0&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;article by Dmytri Kleiner &amp;amp; Brian Wyrick&lt;/a&gt;
+in Mute about that. Now, my impression is that sometimes the criticism
+is totally focused in the business model and in the fact that somebody
+is making money out of it, and it is not the users. I personally don&#039;t
+care as much about amateur video producers making money as I care about
+trying to create communication technologies that feel more human. And
+that should be the starting point to what I have tried to speak at the
+panel. Below is the script I wrote in the couple of hours before the
+panel (and during a part of my colleagues&#039; talk, I must admit). It is
+far from objective or polished, and I have the feeling I might have
+slipped away from the topic, but it is a beginning. In the following
+days I might add some new thoughts to it...
+&lt;/p&gt;
+&lt;p&gt;---&amp;nbsp;
+&lt;/p&gt;
+
+	METARECICLAGEM E EU&lt;br /&gt;
+	&lt;br /&gt; In the last five years or
+so, me and a growing group of people have been exploring possibilities
+for technology-driven social change in Brasil. We have started as a
+mailing list, and came up with the idea of collecting computer
+donations, remanufacture them using free and open source software, and
+deliver them to social projects. We partnered with an NGO in São Paulo
+and started to receive equipment and gather volunteers interested in
+helping. Then we have had a Lab in Santo André, a city close to São
+Paulo, inside a public park where practically everything was recycled.
+We would experiment there with information technology: free software
+for multimedia production, online streaming, wireless connectivity and
+so on. That more experimental approach has moved us away from the
+traditional “digital inclusion” initiatives: we were not as much
+interested in numbers or teaching things as in trying new ideas.&lt;br /&gt;
+	&lt;br /&gt;
+Since then, things have spread. Some of us have been invited to help
+ellaborating and implementing a huge government project, the Pontos de
+Cultura, who have been supporting the creation of hundreds of
+grassroots cultural centres throughout the country, equipped with free
+and open source technology for multimedia production.&lt;br /&gt;
+	&lt;br /&gt;
+These years in direct contact with the appropriation of technology in
+Brasil has helped me understanding a few issues that are related to the
+theme of this panel. I&#039;ll try to bring some of these issues into the
+discussion. &lt;br /&gt;
+	&lt;br /&gt;
+	WEB 2&lt;br /&gt;
+	&lt;br /&gt;
+I will avoid repeating arguments here, but want to make clear I don&#039;t
+care much about the name web 2. There is an excelent article by Dmytri
+Kleiner &amp;amp; Brian Wyrick in Mute magazine titled Infoenclosure 2.0
+that describes web 2.0 as a business model, and quotes Tim Bernes-Lee
+saying that everything in web 2.0 was already possible with web 1.0.
+Web 2.0 websites has also a lot of mean effects for the net ecology:
+they centralize traffic, threat privacy and autonomy. They hardly allow
+anonymous posting. Perhaps worst of it all, they collect information
+about patterns of use, and profit from the users&#039; ability to maintain
+relationships or their will to create their own media by serving
+contextual ads.&lt;br /&gt;
+	&lt;br /&gt;
+Despite all that, I believe the last few years have seen some
+fundamental changes in the understanding of what the web is, and how it
+should be developed and used. I will try to explore something that came
+together with the web 2.0 wave, but is not always regarded as a web 2
+tool: online social networks.&lt;br /&gt;
+	&lt;br /&gt;
+Outside the web, Brasil is a networked society. Whatever you need to
+do, there is always somebody who knowes somebody who can help. Despite
+that, five years ago, whenever we tried to talk about online
+collaboration with school principals or NGO directors, it would go the
+same way:&lt;br /&gt;
+	&lt;br /&gt;
+	“That&#039;s cute, but our teachers won&#039;t have time to control that”.&lt;br /&gt;
+	“That&#039;s the point, there won&#039;t be control”.&lt;br /&gt;
+	“Are you crazy? If we let them do whatever they want, it will be only porn and games!”&lt;br /&gt;
+	&lt;br /&gt;
+	Well, I see no problem with porn and games, a lot of people I know have got their internet skills by browsing similar subjects.&lt;br /&gt;
+	&lt;br /&gt;
+When we first started to plan the workshops for the Pontos de Cultura
+project, there seemed to be an opportunity. We needed to be quick and
+effective, as the budget for implementation was limited: only 5 days of
+immersion to show the possibilities of free information technologies.
+We have got the Ministry supporting us to show collaborative uses of
+the internet because it would save us resources in support: once the
+people in the centers knew how to find support online, they could help
+themselves – or else, use the web to ask us how to do things.&lt;br /&gt;
+	&lt;br /&gt;
+For that, we came up with a workshop called “Se Joga na Rede”,
+something like “throw yourself in the web”. It was a brief introduction
+to the “social” web: weblogs, mailing lists, forums, wikis, eventually
+RSS and... social networks.&lt;br /&gt;
+	&lt;br /&gt;
+First thing we have learned: everybody was already jumping in the web.
+Via Orkut. I don&#039;t know if you have heard about the use of Orkut in
+Brasil. Brasilians have adopted Orkut as the ultimate online
+communication tool. Current Alexa rating shows Orkut as the most
+visited website in Brasil. You can blame John Perry Barlow. I have
+watched yesterday a video of Barlow claiming he was among the first
+users of Orkut and sent all his invitations to brasilians. &lt;br /&gt;
+	&lt;br /&gt;
+I must have been in the second or third generation of these. Some time
+after subscribing, I&#039;ve seen the brasilian Orkut fever: everybody was
+there. Even people who have never used e-mail. At some point, I gave up
+the social voyeurism and quit. What happened next is interesting: still
+working in the Pontos de Cultura project, whenever I met someone new –
+what happened a lot – I had to explain why I wasn&#039;t registered to
+Orkut. On the other hand, whenever I asked someone&#039;s e-mail address, I
+would probably hear something like “I have e-mail but don&#039;t check it
+that often”.&lt;br /&gt;
+	&lt;br /&gt;
+For me, that sounded weird. I receive more than a hundred e-mails a
+day, and a lot of what I have done in Brasil is related to mailing
+lists that got organised somehow. But in present time all around
+Brasil... e-mail is for old people. Mailing lists are an addiction to
+an outdated tool.&lt;br /&gt;
+	&lt;br /&gt;
+	E-MAIL AND MAILING LISTS&lt;br /&gt;
+	&lt;br /&gt;
+Mailing lists are all about statements. I have to say something
+worthwhile, to be held in consideration by my peers. That might make
+sense in other countries, but this is not a common kind of conversation
+in Brasil. Actually, the metaphor in which the e-mail is based does not
+make much sense in Brasil. I remember writing 2 or 3 letters in my life.&lt;br /&gt;
+	&lt;br /&gt;
+	I have seen “digital inclusion” projects “teaching” people to create e-mail accounts and then... what? &lt;br /&gt;
+	&lt;br /&gt;
+	“now you all can type a letter to your friends”&lt;br /&gt;
+	“but saying what”?&lt;br /&gt;
+	“whatever you want to tell them”&lt;br /&gt;
+	“but I have nothing to say”&lt;br /&gt;
+	&lt;br /&gt;
+The upper middle class in Brasil says Orkut users are people who are
+yet to learn how to use the internet. Even some coordinators of Pontos
+de Cultura would come to us and ask:&lt;br /&gt;
+	&lt;br /&gt;
+	“can we block Orkut”?&lt;br /&gt;
+	“there&#039;s no way to do that”.  (we were lying, sure)&lt;br /&gt;
+	“but they should make a proper use of the computers”. &lt;br /&gt;
+	“and how&#039;s that”?&lt;br /&gt;
+	“filling a resumé, posting it to employment agencies”&lt;br /&gt;
+	&lt;br /&gt;
+There&#039;s one thing in social projects in Brasil called “citizenship
+classes”. In essence, most of these classes teach people how the
+political system should work, and how one should trust the democratic
+government will listen to people who organise themselves in the
+possible formal ways. Everyone knows it&#039;s not like that, that things
+only happen if you know somebody who can connect the dots, but the
+citizenship classes are enforced in social projects.&lt;br /&gt;
+	&lt;br /&gt;
+Well, I think the “proper use of computers” is something like that: how
+to drive a mouse, type in some text editor and use the internet to read
+news and post one&#039;s resumé to find a job. No one says that there are no
+jobs anymore, that more than half the working people are unregistered.
+The important is look like if you&#039;re doing the average use of the
+internet.&lt;br /&gt;
+	&lt;br /&gt;
+This kind of initiative allows no creativity, only conformation. And
+creativity is something you do see in the streets of Brasil. People are
+in eternal negotiation, creating their realities, making connections,
+networking. I don&#039;t mean fancy meetings every first tuesday (even
+though those also exist), but really networking at street level,
+finding opportunities, making a living everyday.&lt;br /&gt;
+	&lt;br /&gt;
+The use of Instant Messaging is even more strange to me: they barely
+say anything, keep exchanging emoticons, animated GIFs and the like.
+Yet, whenever they need to articulate anything , things happen really
+fast.&lt;br /&gt;
+	&lt;br /&gt;
+	UPDATE OUR METAPHORS&lt;br /&gt;
+	&lt;br /&gt;
+All that to say one thing: all the “web 2” craze has brought at least
+one interesting element: people no longer the see the web as a mere
+collection of pages. I mean, it should be nothing new for this audience
+that digital information does not need to fit into “pages” or even
+“files”, right? Going beyond our metaphors is a task hard to
+accomplish. Let&#039;s leave the library! I was involved with some projects
+that intended to propose different interfaces to online communications:
+Ductiles, Livenodes, Xemelê. None of them succeeded. The web 2.0 hype
+has at least made our life easier by helping people to acknowledge how
+important self-publishing and collective environments are.&lt;br /&gt;
+	&lt;br /&gt;
+	The same NGO coordinators or school principals who called us crazy five years ago now come to us and say&lt;br /&gt;
+	&lt;br /&gt;
+	“do you know this web 2 thing”?&lt;br /&gt;
+	“yeah, we&#039;ve kind of heard about it”&lt;br /&gt;
+	“so, we want that for our projects”&lt;br /&gt;
+	&lt;br /&gt;
+	When I was a consultant for the Minister of Culture, a friend who works there asked me:&lt;br /&gt;
+	&lt;br /&gt;
+	“what if the kids publish a video complaining about the Minister”?&lt;br /&gt;
+	“there&#039;s nothing you can do to avoid it”.&lt;br /&gt;
+	&lt;br /&gt;
+This time I wasn&#039;t lying. A more collaborative web used in large scale
+can bring interesting elements into the social tissue. I know, the web
+has always been collaborative. Sharing is the core of its
+infrastructure. But what is a recent development are tools that allow
+people to share without any specific knowledge of HTML or web servers.&lt;br /&gt;
+	&lt;br /&gt;
+But for those who do know a little more about servers and code, there
+are possibilities that, despite already being around for some years,
+now can be more easily understood and accepted. For instance, we have
+built a social environment for the members of Pontos de Cultura using
+only free software. When the ministry was still supporting it, we had
+over 4,000 registered users talking to each other, blogging, joining
+communities.&lt;br /&gt;
+	&lt;br /&gt;
+What is needed now it getting that awareness of the benefits of online
+collaboration and show people that they don&#039;t need corporations to keep
+their own self-published, collective infrastructures. To be clear: web
+2.0 as a business model is bad. Earning profit out of home-edited
+videos or from the ability people have of building relationships is
+malandragem da brava. That&#039;s something we&#039;ve got to find a way to
+change. But all that fuzz may have brought a deeper understanding of
+the internets as made out of people, not documents.&lt;br /&gt;
+	&lt;br /&gt;
+	WEB 3.0?&lt;br /&gt;
+	&lt;br /&gt;
+Sure, I back all those who want the web to be more de-centralized, upon
+P2P infrastructures, and even with the aid of darknets and local
+networks. But I disagree with those who claim “there&#039;s no need for
+these social, instant messaging, folksonomy thingies, my e-mail client
+is enough direct communication”.&lt;br /&gt;
+	&lt;br /&gt;
+Some people foresee a possible “web 3.0” as being the semantic web.
+That may make sense in terms of sequential evolution: if the web is a
+giant indexed library, let&#039;s build better libraries. Well, I do like
+the idea in some specific cases, but I don&#039;t think the semantic web
+will be the whole web. Parallel to that, I would like to see some more
+experimentation about structures and microformats – RSS, ATOM, RDF,
+FOAF, the recent dataportability effort. I&#039;d like to see many,
+multiple, virtually infinite, private online environments, sometimes
+p2p systems, sometimes darknets, sometimes local networks, that allow
+people to decide how their information should flow.&lt;br /&gt;
+	&lt;br /&gt;
+But I would also like so see experimentation in different kinds of
+symbolic abstractions for computer-mediated communication. If the web
+is made out of people, why not trying to make it look like that? But
+sadly, in this specific point the stock market hype has been a lot more
+effective. Will we let them do it their way?</description>
+ <comments>http://mutgamb.org/fonte/Web-3-Conspirando-pra-manter-rede-p%C3%BAblica#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/brasil">brasil</category>
+ <category domain="http://mutgamb.org/assunto/Tags/efeefe">efeefe</category>
+ <category domain="http://mutgamb.org/assunto/Tags/english">english</category>
+ <category domain="http://mutgamb.org/assunto/Tags/social-networks">social networks</category>
+ <category domain="http://mutgamb.org/assunto/Tags/transmediale">transmediale</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/82</wfw:commentRss>
+ <pubDate>Mon, 04 Feb 2008 22:40:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">82 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

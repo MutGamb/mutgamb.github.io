@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - artesanato de volts</title>
+ <link>http://mutgamb.org/taxonomy/term/727/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>A cultura artesanal da computação</title>
+ <link>http://mutgamb.org/blog/cultura-artesanal-da-computacao</link>
+ <description>&lt;p&gt;Glerm compartilhou links que mostram a constru&amp;ccedil;&amp;atilde;o de um computador completo, usando chips b&amp;aacute;sicos. Em um dos v&amp;iacute;deos, o fazedor da proposta diz que aprendeu tudo na internet:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/qYvr0b8jqbg&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/pkldak4jWys&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Glerm trouxe, tamb&amp;eacute;m, o link de um framework desenvolvido pela &lt;a href=&quot;http://nanode.eu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Nanode &lt;/a&gt;, chamado &lt;a href=&quot;http://sketchgarden.co/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Sketch Garden&lt;/a&gt; que sobe sketchs de Arduino por cabo de ethernet, permitindo a cria&amp;ccedil;&amp;atilde;o de redes sociais de trocas de sketchs.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+	&lt;p&gt;Esse parece ser o verdadeiro caminho de redescoberta did&amp;aacute;tica e pr&amp;aacute;tica do computador artesanal como era conhecido nos anos 80 (...) &amp;eacute; importante pensar a &amp;quot;cultura&amp;quot; de como acessar este conhecimento sem ter que ter forma&amp;ccedil;&amp;atilde;o muito s&amp;oacute;lida de engenharia, de maneira mais curiosa.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/cultura-artesanal-da-computacao#comments</comments>
+ <category domain="http://mutgamb.org/tag/artesanato-de-volts">artesanato de volts</category>
+ <category domain="http://mutgamb.org/tag/diy">diy</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/901</wfw:commentRss>
+ <pubDate>Wed, 17 Oct 2012 10:32:08 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">901 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Às Janelas mais Verdes</title>
+ <link>http://mutgamb.org/blog/Janelas-mais-Verdes</link>
+ <description>&lt;p&gt;Na linha de DIYBio e Biopunk, Chico Sim&amp;otilde;es trouxe para lista metarec a experi&amp;ecirc;ncia de sua hortinha hidrop&amp;ocirc;nica:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://our.windowfarms.org/files/2012/07/horta1-130x300.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Montei uma &lt;a href=&quot;http://our.windowfarms.org/2012/07/08/comecando-minha-hortinha-hidroponica/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;windowfarm&lt;/a&gt; com garrafas de &amp;aacute;gua mineral reaproveitadas e vasinhos pl&amp;aacute;sticos. O sistema de irriga&amp;ccedil;&amp;atilde;o foi constriudo com uma bomba de &amp;aacute;gua de parabrisas de carro e mangueiras de aqu&amp;aacute;rio. Eu montei o &lt;a href=&quot;http://artesanato.devolts.org/?page_id=93&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;arduino na proto&lt;/a&gt; (gracias ao Devolts) alimentado com uma fonte de 5v de dvd usado. O &lt;em&gt;delay&lt;/em&gt; varia de acordo com a luminosidade.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/blog/Janelas-mais-Verdes#comments</comments>
+ <category domain="http://mutgamb.org/tag/artesanato-de-volts">artesanato de volts</category>
+ <category domain="http://mutgamb.org/tag/biopunk">biopunk</category>
+ <category domain="http://mutgamb.org/tag/diybio">diybio</category>
+ <category domain="http://mutgamb.org/assunto/Tags/metareciclagem">metareciclagem</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/795</wfw:commentRss>
+ <pubDate>Tue, 10 Jul 2012 10:04:26 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">795 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

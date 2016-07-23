@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Mutirão da Gambiarra - Comments for &quot;Nodetype - lista&quot;</title>
+ <link>http://mutgamb.org/forum/Nodetype-lista</link>
+ <description>Comments for &quot;Nodetype - lista&quot;</description>
+ <language>pt-br</language>
+<item>
+ <title>ainda não</title>
+ <link>http://mutgamb.org/forum/Nodetype-lista#comment-40</link>
+ <description>deletei o nodetype lista, e vou trabalhar em um nodetype genérico pra posts com permalink, que vai poder ser de listas, blogs, fóruns ou qualquer coisa parecida. mais sobre isso &lt;a href=&quot;/node/37/&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. ainda falta o nome pro nodetype, acho que &#039;fonte&#039; faz sentido, mas é meio sem graça ;) no fim das contas, me parece que não vale a pena puxar TODOS os arquivos de lista pra cá... é coisa demais, e a intenção aqui é ter um corte qualitativo.&lt;br /&gt;&lt;br /&gt;---&lt;br /&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; title=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;http://efeefe.no-ip.org&lt;/a&gt;&lt;br /&gt;</description>
+ <pubDate>Sat, 22 Mar 2008 17:26:16 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 40 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>post de lista</title>
+ <link>http://mutgamb.org/forum/Nodetype-lista#comment-19</link>
+ <description>comecei criando um nodetype com título, texto e permalink, pra talvez puxar direto com um bookmarklet quando estivesse navegando nos arquivos da lista. mas ainda não me deixou feliz. pensando aqui que no mínimo precisava puxar o subject/thread e talvez até os headers da mensagem (e esconder e-mails, claro). mas ainda acho que falta algo. talvez mais inteligente fosse importar TODOS os arquivos da lista, devo ter como transformar em mbox ou algo assim; e indexar todos com esse tipo de conteúdo, pra depois construir derivas em cima deles.&lt;br /&gt;acho que vou ter que escrever sobre &#039;derivas&#039;.&lt;br /&gt;</description>
+ <pubDate>Sun, 02 Mar 2008 16:01:23 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">comment 19 at http://mutgamb.org</guid>
+</item>
+<item>
+ <title>Talvez valha a pena</title>
+ <link>http://mutgamb.org/forum/Nodetype-lista#comment-12</link>
+ <description>Talvez valha a pena especificar um tipo de nó usado especialmente para os arquivos da lista de discussão. Isso vai te dar flexibilidade para lidar com ele de maneira diferente do restante do conteúdo do site. CCK resolve mega bem.</description>
+ <pubDate>Wed, 27 Feb 2008 17:31:13 +0000</pubDate>
+ <dc:creator>avorio@drupal.org</dc:creator>
+ <guid isPermaLink="false">comment 12 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

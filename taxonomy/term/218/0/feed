@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - edições</title>
+ <link>http://mutgamb.org/taxonomy/term/218/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Edições Esporádicas</title>
+ <link>http://mutgamb.org/livro/Edi%C3%A7%C3%B5es-Espor%C3%A1dicas</link>
+ <description>&lt;p&gt;Publica&amp;ccedil;&amp;otilde;es individuais do Mutir&amp;atilde;o da Gambiarra.&lt;/p&gt;</description>
+ <comments>http://mutgamb.org/livro/Edi%C3%A7%C3%B5es-Espor%C3%A1dicas#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/edi%C3%A7%C3%B5es">edições</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/320</wfw:commentRss>
+ <pubDate>Fri, 04 Sep 2009 21:00:38 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">320 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>

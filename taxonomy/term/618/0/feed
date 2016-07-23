@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://mutgamb.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+<channel>
+ <title>Mutirão da Gambiarra - flisol guarulhos</title>
+ <link>http://mutgamb.org/taxonomy/term/618/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Jesus, livre</title>
+ <link>http://mutgamb.org/blog/Jesus-livre</link>
+ <description>&lt;p&gt;O MutGamb j&amp;aacute; tinha publicado &lt;a href=&quot;http://mutgamb.org/blog/Guarulhos-sediara-Festival-Latino-Americano-de-Instalacao-de-Software-Livre&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;aqui sobre o Flisol&lt;/a&gt; que aconteceria em Guarulhos. Felipe Cabral enviou na lista Metareciclagem um v&amp;iacute;deo de Jesus Linux, gravado durante o evento:&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/A0_ICDd8gf8&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;Neste v&amp;iacute;deo Jesulino Alves fala sobre os desafios da democratiza&amp;ccedil;&amp;atilde;o do debate em torno do Software Livre e sobre a distribui&amp;ccedil;&amp;atilde;o Guarux, uma distro GNU/Linux desenhada para atender as demandas de inclus&amp;atilde;o digital da cidade de Guarulhos e regi&amp;atilde;o.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+ <comments>http://mutgamb.org/blog/Jesus-livre#comments</comments>
+ <category domain="http://mutgamb.org/assunto/Tags/aliadxs">aliadxs</category>
+ <category domain="http://mutgamb.org/assunto/Tags/eventos">eventos</category>
+ <category domain="http://mutgamb.org/tag/flisol-guarulhos">flisol guarulhos</category>
+ <wfw:commentRss>http://mutgamb.org/crss/node/683</wfw:commentRss>
+ <pubDate>Wed, 02 May 2012 23:24:02 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">683 at http://mutgamb.org</guid>
+</item>
+</channel>
+</rss>
